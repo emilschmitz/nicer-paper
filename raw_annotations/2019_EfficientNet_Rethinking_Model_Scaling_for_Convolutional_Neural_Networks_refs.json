@@ -1,0 +1,161 @@
+{
+    "paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
+    "total_references": 25,
+    "references": [
+        {
+            "raw": "1. Alam Noor, Bilel Benjdira, Adel Anmar, Anis Koubaa, DriftNet: Aggressive  DrivingBehavior Classification using 3D EfficientNet Architecture",
+            "author": "1",
+            "title": "Alam Noor, Bilel Benjdira, Adel Anmar, Anis Koubaa, DriftNet: Aggressive  DrivingBehavior Classification using 3D EfficientNet Architecture"
+        },
+        {
+            "raw": "2. Havaei M, \u201cBrain tumor segmentation with deep neural networks\u201d, Medical  ImageAnalysis, vol.35, pp.18\u201331, 2016.",
+            "year": "2016",
+            "author": "Havaei M, \u201cBrain tumor segmentation with deep neural networks\u201d, Medical  ImageAnalysis, vol.35, pp.18\u201331"
+        },
+        {
+            "raw": "3. T. Ruba1, R. Tamilselvi, M. Parisa Beham, N. Aparna, Accurate Classification and  Detection of Brain Cancer Cells in MRI and CT Images using Nano Contrast Agents",
+            "author": "3",
+            "title": "T"
+        },
+        {
+            "raw": "4. U.Baid, et al., \u201cThe RSNA-ASNR-MICCAI BraTS 2021 Benchmark on Brain Tumor  Segmentation and Radiogenomic Classification\u201d, arXiv:2107.02314, 2021.",
+            "year": "2021",
+            "venue": "arXiv",
+            "author": "U.Baid, et al., \u201cThe RSNA-ASNR-MICCAI BraTS",
+            "title": "Benchmark on Brain Tumor  Segmentation and Radiogenomic Classification\u201d, arXiv:2107",
+            "arxiv_id": "2107.02314"
+        },
+        {
+            "raw": "5. H. Sultan, Nancy M. Salem, Walid Al-Atabancy,\u201d Multi-Classification of Brain Tumor  Images Using Deep Neural Network\u201d, IEEE Access, Volume No: 7, 2019.",
+            "year": "2019",
+            "venue": "IEEE",
+            "author": "H. Sultan, Nancy M. Salem, Walid Al-Atabancy,\u201d Multi-Classification of Brain Tumor  Images Using Deep Neural Network\u201d, IEEE Access, Volume No: 7"
+        },
+        {
+            "raw": "6. Pereira S, Pinto A, Alves V, Silva CA, \u201cBrain Tumor Segmentation using Convolutional  Neural Networks in MRI Images\u201d, IEEE Transaction in Medical Imaging, 2016.",
+            "year": "2016",
+            "venue": "IEEE",
+            "author": "Pereira S, Pinto A, Alves V, Silva CA, \u201cBrain Tumor Segmentation using Convolutional  Neural Networks in MRI Images\u201d, IEEE Transaction in Medical Imaging"
+        },
+        {
+            "raw": "7. Andrew P.Bradley, The use of the area under the ROC curve in the evaluation ofmachine  learning algorithms. Pattern Recognition, Volume 30, Issue 7.",
+            "author": "7",
+            "title": "Andrew P.Bradley, The use of the area under the ROC curve in the evaluation ofmachine  learning algorithms"
+        },
+        {
+            "raw": "8. AliI\u00b8s\u0131n, CemDirekog\u02d8lu, MelikeS\u00b8ah,Review of MRI-based Brain Tumor Image  Segmentation Using Deep Learning Methods, Procedia Computer Science, 2016.",
+            "year": "2016",
+            "venue": "Science",
+            "author": "AliI\u00b8s\u0131n, CemDirekog\u02d8lu, MelikeS\u00b8ah,Review of MRI-based Brain Tumor Image  Segmentation Using Deep Learning Methods, Procedia Computer Science"
+        },
+        {
+            "raw": "9. Z. Zhang, \u201dImproved Adam Optimizer for Deep Neural Networks,\u201d 2018 IEEE/ACM26th  International Symposium on Quality of Service (IWQoS), 2018, pp. 1-2, doi:  10.1109/IWQoS.2018.8624183.",
+            "year": "2018",
+            "venue": "IEEE",
+            "author": "Z. Zhang, \u201dImproved Adam Optimizer for Deep Neural Networks,\u201d",
+            "title": "IEEE/ACM26th  International Symposium on Quality of Service (IWQoS"
+        },
+        {
+            "raw": "10. M. A. Labbaf Khaniki, M. Behzad Hadi and M. Manthouri, \u201dFeedback ErrorLearning  Controller based on RMSprop and Salp Swarm Algorithm for Automatic Voltage  Regulator System,\u201d 2020 10th International Conference on Computer and Knowledge  Engineering (ICCKE), 2020, pp. 425-430, doi: 10.1109/ICCKE50421.2020.9303718.",
+            "year": "2020",
+            "author": "M. A. Labbaf Khaniki, M. Behzad Hadi and M. Manthouri, \u201dFeedback ErrorLearning  Controller based on RMSprop and Salp Swarm Algorithm for Automatic Voltage  Regulator System,\u201d",
+            "title": "10th International Conference on Computer and Knowledge  Engineering (ICCKE"
+        },
+        {
+            "raw": "11. S.  Vani  and  T.  V.  M.  Rao,  \u201dAn  Experimental  Approach  towards  the  PerformanceAssessment of Various Optimizers on Convolutional Neural Network,\u201d  2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI),  2019, pp. 331-336, doi: 10.1109/ICOEI.2019.8862686.",
+            "year": "2019",
+            "author": "S.  Vani  and  T.  V.  M.  Rao,  \u201dAn  Experimental  Approach  towards  the  PerformanceAssessment of Various Optimizers on Convolutional Neural Network,\u201d",
+            "title": "3rd International Conference on Trends in Electronics and Informatics (ICOEI"
+        },
+        {
+            "raw": "12. J. Wang, H. Liang and G. Joshi, \u201dOverlap Local-SGD: An Algorithmic Approachto Hide  Communication Delays in Distributed SGD,\u201d ICASSP 2020 - 2020 IEEE International  Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 8871-8875,  doi: 10.1109/ICASSP40776.2020.9053834.    EfficientNet for Brain-Lesion classification",
+            "year": "2020",
+            "venue": "IEEE",
+            "author": "J. Wang, H. Liang and G. Joshi, \u201dOverlap Local-SGD: An Algorithmic Approachto Hide  Communication Delays in Distributed SGD,\u201d ICASSP",
+            "title": "-"
+        },
+        {
+            "raw": "13. H. Chockler, E. Farchi, B. Godlin and S. Novikov, \u201dCross-Entropy Based Testing,\u201dFormal  Methods in Computer Aided Design (FMCAD\u201907), 2007, pp. 101-108, doi:  10.1109/FAMCAD.2007.19.",
+            "year": "2007",
+            "author": "H. Chockler, E. Farchi, B. Godlin and S. Novikov, \u201dCross-Entropy Based Testing,\u201dFormal  Methods in Computer Aided Design (FMCAD\u201907",
+            "title": "pp"
+        },
+        {
+            "raw": "14. D. Park et al., \u201dAutomated artefact elimination in computed tomography: A preliminary  report for traumatic brain injury and stroke,\u201d The 3rd International Winter Conference  on Brain-Computer Interface, 2015, pp. 1-3, doi: 10.1109/IWWBCI.2015.7073038.",
+            "year": "2015",
+            "author": "D. Park et al., \u201dAutomated artefact elimination in computed tomography: A preliminary  report for traumatic brain injury and stroke,\u201d The 3rd International Winter Conference  on Brain-Computer Interface",
+            "title": "pp"
+        },
+        {
+            "raw": "15. A. Wulandari, R. Sigit and M. M. Bachtiar, \u201dBrain Tumor Segmentation to Calculate  Percentage Tumor Using MRI,\u201d 2018 International Electronics Symposium on  Knowledge Creation and Intelligent Computing (IES-KCIC), 2018, pp. 292-296, doi:  10.1109/KCIC.2018.8628591.",
+            "year": "2018",
+            "author": "A. Wulandari, R. Sigit and M. M. Bachtiar, \u201dBrain Tumor Segmentation to Calculate  Percentage Tumor Using MRI,\u201d",
+            "title": "International Electronics Symposium on  Knowledge Creation and Intelligent Computing (IES-KCIC"
+        },
+        {
+            "raw": "16. B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J.Kirby, et al. \u201dThe  Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)\u201d, IEEE Transactions  on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694",
+            "year": "1993",
+            "venue": "IEEE",
+            "author": "B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J.Kirby, et al. \u201dThe  Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)\u201d, IEEE Transactions  on Medical Imaging 34(10",
+            "title": "-2024 (2015) DOI: 10"
+        },
+        {
+            "raw": "17. S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., \u201dAdvancing The  Cancer Genome Atlas glioma MRI collections with expert segmentation labels and  radiomic  features\u201d,  Nature  Scientific  Data,  4:170117  (2017)  DOI:  10.1038/sdata.2017.117",
+            "year": "2017",
+            "venue": "Nature",
+            "author": "S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., \u201dAdvancing The  Cancer Genome Atlas glioma MRI collections with expert segmentation labels and  radiomic  features\u201d,  Nature  Scientific  Data,  4:170117",
+            "title": "DOI:  10"
+        },
+        {
+            "raw": "18. S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, etal., \u201dSegmentation Labels  and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection\u201d, The  Cancer Imaging Archive, 2017. DOI: 10.7937/K9/TCIA.2017.KLXWJJ1Q",
+            "year": "2017",
+            "author": "S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, etal., \u201dSegmentation Labels  and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection\u201d, The  Cancer Imaging Archive",
+            "title": "DOI: 10"
+        },
+        {
+            "raw": "19. S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, etal., \u201dSegmentation Labels  and Radiomic Features for the Pre-operative Scans of the TCGA-LGG collection\u201d, The  Cancer Imaging Archive, 2017. DOI: 10.7937/K9/TCIA.2017.GJQ7R0EF",
+            "year": "2017",
+            "author": "S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, etal., \u201dSegmentation Labels  and Radiomic Features for the Pre-operative Scans of the TCGA-LGG collection\u201d, The  Cancer Imaging Archive",
+            "title": "DOI: 10"
+        },
+        {
+            "raw": "20. Milica M. Bad\u02c7za and Marko C. Barjaktarovi\u00b4c, Classification of Brain Tumors from MRI  Images Using a Convolutional Neural Network, MDPI, 14 January 2020; Accepted: 12  March 2020; Published: 15 March 2020.",
+            "year": "2020",
+            "author": "Milica M. Bad\u02c7za and Marko C. Barjaktarovi\u00b4c, Classification of Brain Tumors from MRI  Images Using a Convolutional Neural Network, MDPI, 14 January",
+            "title": "; Accepted: 12  March"
+        },
+        {
+            "raw": "21. T. M. Shahriar Sazzad, K. M. Tanzibul Ahmmed, M. U. Hoque and M.  Rahman,\u201dDevelopment of Automated Brain Tumor Identification Using MRI Images,\u201d  2019 International Conference on Electrical, Computer and Communication  Engineering (ECCE), 2019, pp. 1-4, doi: 10.1109/ECACE.2019.8679240.",
+            "year": "2019",
+            "author": "T. M. Shahriar Sazzad, K. M. Tanzibul Ahmmed, M. U. Hoque and M.  Rahman,\u201dDevelopment of Automated Brain Tumor Identification Using MRI Images,\u201d",
+            "title": "International Conference on Electrical, Computer and Communication  Engineering (ECCE"
+        },
+        {
+            "raw": "22. S. Somasundaram and R. Gobinath, \u201dCurrent Trends on Deep Learning Models forBrain  Tumor Segmentation and Detection \u2013 A Review,\u201d 2019 International Conference on  Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon), 2019, pp. 217- 221, doi: 10.1109/COMITCon.2019.8862209.",
+            "year": "2019",
+            "author": "S. Somasundaram and R. Gobinath, \u201dCurrent Trends on Deep Learning Models forBrain  Tumor Segmentation and Detection \u2013 A Review,\u201d",
+            "title": "International Conference on  Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon"
+        },
+        {
+            "raw": "23. S. Bauer, C. May, D. Dionysiou, G. Stamatakos, P. Buchler and M. Reyes, \u201dMultiscale  Modeling for Image Analysis of Brain Tumor Studies,\u201d in IEEE Transactions on  Biomedical Engineering, vol. 59, no. 1, pp. 25-29, Jan. 2012, doi:  10.1109/TBME.2011.2163406.",
+            "year": "2012",
+            "venue": "IEEE",
+            "author": "S. Bauer, C. May, D. Dionysiou, G. Stamatakos, P. Buchler and M. Reyes, \u201dMultiscale  Modeling for Image Analysis of Brain Tumor Studies,\u201d in IEEE Transactions on  Biomedical Engineering, vol. 59, no. 1, pp. 25-29, Jan",
+            "title": "doi:  10"
+        },
+        {
+            "raw": "24. C. Yao et al., \u201drPPG-Based Spoofing Detection for Face Mask Attack using Efficientnet on  Weighted Spatial-Temporal Representation,\u201d 2021 IEEE International Conference on  Image Processing (ICIP), 2021, pp. 3872-3876, doi: 10.1109/ICIP42928.2021.9506276.",
+            "year": "2021",
+            "venue": "IEEE",
+            "author": "C. Yao et al., \u201drPPG-Based Spoofing Detection for Face Mask Attack using Efficientnet on  Weighted Spatial-Temporal Representation,\u201d",
+            "title": "IEEE International Conference on  Image Processing (ICIP"
+        },
+        {
+            "raw": "25. T. W. Cenggoro, \u201dIncorporating the Knowledge Distillation to Improve the EfficientNet  Transfer Learning Capability,\u201d 2020 International Conference on Data Science and Its  Applications (ICoDSA), 2020, pp. 1-5, doi:  10.1109/ICoDSA50139.2020.9212994.",
+            "year": "2020",
+            "venue": "Science",
+            "author": "T. W. Cenggoro, \u201dIncorporating the Knowledge Distillation to Improve the EfficientNet  Transfer Learning Capability,\u201d",
+            "title": "International Conference on Data Science and Its  Applications (ICoDSA"
+        }
+    ]
+}

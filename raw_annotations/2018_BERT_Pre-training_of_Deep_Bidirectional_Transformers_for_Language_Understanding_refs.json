@@ -1,0 +1,196 @@
+{
+    "paper": "2018_BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.pdf",
+    "total_references": 30,
+    "references": [
+        {
+            "raw": "Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani B. Srivastava, and Kai-Wei Chang. 2018. Generating natural language adversar- ial examples. CoRR, abs/1804.07998.",
+            "year": "2018",
+            "venue": "CoRR",
+            "author": "Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani B. Srivastava, and Kai-Wei Chang",
+            "title": "Generating natural language adversar- ial examples"
+        },
+        {
+            "raw": "Samuel R Bowman, Gabor Angeli, Christopher Potts, and Christopher D Manning. 2015. A large anno- tated corpus for learning natural language inference. arXiv preprint arXiv:1508.05326.",
+            "year": "2015",
+            "venue": "arXiv",
+            "author": "Samuel R Bowman, Gabor Angeli, Christopher Potts, and Christopher D Manning",
+            "title": "A large anno- tated corpus for learning natural language inference",
+            "arxiv_id": "1508.05326"
+        },
+        {
+            "raw": "Daniel Cer, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St John, Noah Constant, Mario Guajardo-Cespedes, Steve Yuan, Chris Tar, et al. 2018.",
+            "year": "2018",
+            "author": "Daniel Cer, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St John, Noah Constant, Mario Guajardo-Cespedes, Steve Yuan, Chris Tar, et al"
+        },
+        {
+            "raw": "Universal sentence encoder. arXiv preprint arXiv:1803.11175. Anirban Chakraborty, Manaar Alam, Vishal Dey, Anu- pam Chattopadhyay, and Debdeep Mukhopadhyay. 2018. Adversarial attacks and defences: A survey. arXiv preprint arXiv:1810.00069.",
+            "year": "2018",
+            "venue": "arXiv",
+            "author": "Universal sentence encoder. arXiv preprint arXiv:1803.11175. Anirban Chakraborty, Manaar Alam, Vishal Dey, Anu- pam Chattopadhyay, and Debdeep Mukhopadhyay",
+            "title": "Adversarial attacks and defences: A survey",
+            "arxiv_id": "1803.11175"
+        },
+        {
+            "raw": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2018.",
+            "year": "2018",
+            "author": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova"
+        },
+        {
+            "raw": "BERT: pre-training of deep bidirectional transformers for language under- standing. CoRR, abs/1810.04805. Ji Gao, Jack Lanchantin, Mary Lou Soffa, and Yan- jun Qi. 2018. Black-box generation of adversarial text sequences to evade deep learning classi\ufb01ers. In 2018 IEEE Security and Privacy Workshops (SPW), pages 50\u201356.",
+            "year": "2018",
+            "venue": "CoRR",
+            "author": "BERT: pre-training of deep bidirectional transformers for language under- standing. CoRR, abs/1810.04805. Ji Gao, Jack Lanchantin, Mary Lou Soffa, and Yan- jun Qi",
+            "title": "Black-box generation of adversarial text sequences to evade deep learning classi\ufb01ers"
+        },
+        {
+            "raw": "Max Glockner, Vered Shwartz, and Yoav Goldberg. 2018.",
+            "year": "2018",
+            "author": "Max Glockner, Vered Shwartz, and Yoav Goldberg"
+        },
+        {
+            "raw": "Breaking nli systems with sentences that require simple lexical inferences. arXiv preprint arXiv:1805.02266. Ian J Goodfellow, Jonathon Shlens, and Christian Szegedy. 2014. Explaining and harnessing adversar- ial examples. arXiv preprint arXiv:1412.6572.",
+            "year": "2014",
+            "venue": "arXiv",
+            "author": "Breaking nli systems with sentences that require simple lexical inferences. arXiv preprint arXiv:1805.02266. Ian J Goodfellow, Jonathon Shlens, and Christian Szegedy",
+            "title": "Explaining and harnessing adversar- ial examples",
+            "arxiv_id": "1805.02266"
+        },
+        {
+            "raw": "Robin Jia and Percy Liang. 2017. Adversarial exam- ples for evaluating reading comprehension systems. arXiv preprint arXiv:1707.07328.",
+            "year": "2017",
+            "venue": "arXiv",
+            "author": "Robin Jia and Percy Liang",
+            "title": "Adversarial exam- ples for evaluating reading comprehension systems",
+            "arxiv_id": "1707.07328"
+        },
+        {
+            "raw": "Di Jin, Zhijing Jin, Joey Tianyi Zhou, and Peter Szolovits. 2019.",
+            "year": "2019",
+            "author": "Di Jin, Zhijing Jin, Joey Tianyi Zhou, and Peter Szolovits"
+        },
+        {
+            "raw": "Is BERT really robust? natural language attack on text classi\ufb01cation and entailment. CoRR, abs/1907.11932.",
+            "year": "1907",
+            "venue": "CoRR",
+            "author": "Is BERT really robust? natural language attack on text classi\ufb01cation and entailment. CoRR, abs/",
+            "title": "11932"
+        },
+        {
+            "raw": "Alexey Kurakin, Ian Goodfellow, and Samy Bengio. 2016. Adversarial examples in the physical world. arXiv preprint arXiv:1607.02533.",
+            "year": "2016",
+            "venue": "arXiv",
+            "author": "Alexey Kurakin, Ian Goodfellow, and Samy Bengio",
+            "title": "Adversarial examples in the physical world",
+            "arxiv_id": "1607.02533"
+        },
+        {
+            "raw": "Qi Lei, Lingfei Wu, Pin-Yu Chen, Alexandros G Di- makis, Inderjit S Dhillon, and Michael Witbrock. 2019. Discrete adversarial attacks and submodular optimization with applications to text classi\ufb01cation.",
+            "year": "2019",
+            "author": "Qi Lei, Lingfei Wu, Pin-Yu Chen, Alexandros G Di- makis, Inderjit S Dhillon, and Michael Witbrock",
+            "title": "Discrete adversarial attacks and submodular optimization with applications to text classi\ufb01cation"
+        },
+        {
+            "raw": "Systems and Machine Learning (SysML). Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, and Ting Wang. 2018.",
+            "year": "2018",
+            "author": "Systems and Machine Learning (SysML). Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, and Ting Wang"
+        },
+        {
+            "raw": "Textbugger: Generating adversarial text against real-world applications. arXiv preprint arXiv:1812.05271. Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, and Wenchang Shi. 2017.",
+            "year": "2017",
+            "venue": "arXiv",
+            "author": "Textbugger: Generating adversarial text against real-world applications. arXiv preprint arXiv:1812.05271. Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, and Wenchang Shi",
+            "arxiv_id": "1812.05271"
+        },
+        {
+            "raw": "Deep text classi\ufb01cation can be fooled. arXiv preprint arXiv:1704.08006. Takeru Miyato, Shin ichi Maeda, Masanori Koyama, and Shin Ishii. 2017.",
+            "year": "2017",
+            "venue": "arXiv",
+            "author": "Deep text classi\ufb01cation can be fooled. arXiv preprint arXiv:1704.08006. Takeru Miyato, Shin ichi Maeda, Masanori Koyama, and Shin Ishii",
+            "arxiv_id": "1704.08006"
+        },
+        {
+            "raw": "Virtual adversarial training: A regularization method for supervised and semi- supervised learning. volume 41, pages 1979\u20131993.",
+            "year": "1979",
+            "author": "Virtual adversarial training: A regularization method for supervised and semi- supervised learning. volume 41, pages",
+            "title": "\u20131993"
+        },
+        {
+            "raw": "Nikola Mrk\u02c7si\u00b4c, Diarmuid O S\u00b4eaghdha, Blaise Thom- son, Milica Ga\u02c7si\u00b4c, Lina Rojas-Barahona, Pei- Hao Su, David Vandyke, Tsung-Hsien Wen, and Steve Young. 2016.",
+            "year": "2016",
+            "author": "Nikola Mrk\u02c7si\u00b4c, Diarmuid O S\u00b4eaghdha, Blaise Thom- son, Milica Ga\u02c7si\u00b4c, Lina Rojas-Barahona, Pei- Hao Su, David Vandyke, Tsung-Hsien Wen, and Steve Young"
+        },
+        {
+            "raw": "Counter-\ufb01tting word vec- tors to linguistic constraints. arXiv preprint arXiv:1603.00892. Anh Nguyen, Jason Yosinski, and Jeff Clune. 2015.",
+            "year": "2015",
+            "venue": "arXiv",
+            "author": "Counter-\ufb01tting word vec- tors to linguistic constraints. arXiv preprint arXiv:1603.00892. Anh Nguyen, Jason Yosinski, and Jeff Clune",
+            "arxiv_id": "1603.00892"
+        },
+        {
+            "raw": "Deep neural networks are easily fooled: High con- \ufb01dence predictions for unrecognizable images. In Proceedings of the IEEE conference on computer vi- sion and pattern recognition, pages 427\u2013436. Jeffrey Pennington, Richard Socher, and Christopher Manning. 2014.",
+            "year": "2014",
+            "venue": "IEEE",
+            "author": "Deep neural networks are easily fooled: High con- \ufb01dence predictions for unrecognizable images. In Proceedings of the IEEE conference on computer vi- sion and pattern recognition, pages 427\u2013436. Jeffrey Pennington, Richard Socher, and Christopher Manning"
+        },
+        {
+            "raw": "Glove: Global vectors for word representation. In Proceedings of the conference on empirical methods in natural language processing, pages 1532\u20131543. Danish Pruthi, Bhuwan Dhingra, and Zachary C Lip- ton. 2019.",
+            "year": "2019",
+            "author": "Glove: Global vectors for word representation. In Proceedings of the conference on empirical methods in natural language processing, pages 1532\u20131543. Danish Pruthi, Bhuwan Dhingra, and Zachary C Lip- ton"
+        },
+        {
+            "raw": "Combating adversarial misspellings with robust word recognition. arXiv preprint arXiv:1905.11268.",
+            "year": "1905",
+            "venue": "arXiv",
+            "author": "Combating adversarial misspellings with robust word recognition. arXiv preprint arXiv:",
+            "title": "11268",
+            "arxiv_id": "1905.11268"
+        },
+        {
+            "raw": "Shuhuai Ren, Yihe Deng, Kun He, and Wanxiang Che. 2019. Generating natural language adversarial ex- amples through probability weighted word saliency.",
+            "year": "2019",
+            "author": "Shuhuai Ren, Yihe Deng, Kun He, and Wanxiang Che",
+            "title": "Generating natural language adversarial ex- amples through probability weighted word saliency"
+        },
+        {
+            "raw": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1085\u20131097. Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, and Sameer Singh. 2019. Universal adversarial trig- gers for attacking and analyzing NLP.",
+            "year": "2019",
+            "author": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1085\u20131097. Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, and Sameer Singh",
+            "title": "Universal adversarial trig- gers for attacking and analyzing NLP"
+        },
+        {
+            "raw": "Empirical Methods in Natural Language Processing. Adina Williams, Nikita Nangia, and Samuel Bowman. 2018. A broad-coverage challenge corpus for sen- tence understanding through inference. In Proceed- ings of the Conference of the North American Chap- ter of the Association for Computational Linguistics: Human Language Technologies, pages 1112\u20131122.",
+            "year": "2018",
+            "author": "Empirical Methods in Natural Language Processing. Adina Williams, Nikita Nangia, and Samuel Bowman",
+            "title": "A broad-coverage challenge corpus for sen- tence understanding through inference"
+        },
+        {
+            "raw": "Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-Ling Wang, and Michael I Jordan. 2018. Greedy attack and gumbel attack: Generating adversarial examples for discrete data. arXiv preprint arXiv:1805.12316.",
+            "year": "2018",
+            "venue": "arXiv",
+            "author": "Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-Ling Wang, and Michael I Jordan",
+            "title": "Greedy attack and gumbel attack: Generating adversarial examples for discrete data",
+            "arxiv_id": "1805.12316"
+        },
+        {
+            "raw": "Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, and Maosong Sun. 2020.",
+            "year": "2020",
+            "author": "Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, and Maosong Sun"
+        },
+        {
+            "raw": "Word-level textual adversarial attacking as combina- torial optimization. In Proceedings of the 58th An- nual Meeting of the Association for Computational Linguistics, pages 6066\u20136080. Xiang Zhang, Junbo Zhao, and Yann LeCun. 2015.",
+            "year": "2015",
+            "author": "Word-level textual adversarial attacking as combina- torial optimization. In Proceedings of the 58th An- nual Meeting of the Association for Computational Linguistics, pages 6066\u20136080. Xiang Zhang, Junbo Zhao, and Yann LeCun"
+        },
+        {
+            "raw": "Character-level convolutional networks for text clas- si\ufb01cation. In Advances in neural information pro- cessing systems, pages 649\u2013657. Wangchunshu Zhou, Tao Ge, Ke Xu, Furu Wei, and Ming Zhou. 2019. BERT-based lexical substitution.",
+            "year": "2019",
+            "author": "Character-level convolutional networks for text clas- si\ufb01cation. In Advances in neural information pro- cessing systems, pages 649\u2013657. Wangchunshu Zhou, Tao Ge, Ke Xu, Furu Wei, and Ming Zhou",
+            "title": "BERT-based lexical substitution"
+        },
+        {
+            "raw": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 3368\u20133373, Florence, Italy. Association for Compu- tational Linguistics.",
+            "author": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 3368\u20133373, Florence, Italy",
+            "title": "Association for Compu- tational Linguistics."
+        }
+    ]
+}

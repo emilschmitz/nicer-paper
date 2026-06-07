@@ -1,0 +1,476 @@
+{
+    "paper": "2023_LLaMA_Open_and_Efficient_Foundation_Language_Models.pdf",
+    "total_references": 69,
+    "references": [
+        {
+            "raw": "Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, et al. 2021.",
+            "year": "2021",
+            "author": "Jacob Austin, Augustus Odena, Maxwell Nye, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, et al"
+        },
+        {
+            "raw": "Program synthesis with large language models. arXiv preprint arXiv:2108.07732. Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen McAleer, Albert Q Jiang, Jia Deng, Stella Biderman, and Sean Welleck. 2023.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Program synthesis with large language models. arXiv preprint arXiv:2108.07732. Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen McAleer, Albert Q Jiang, Jia Deng, Stella Biderman, and Sean Welleck",
+            "arxiv_id": "2108.07732"
+        },
+        {
+            "raw": "Llemma: An open language model for mathematics. arXiv preprint arXiv:2310.10631. Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, and Jingren Zhou. 2023. Qwen-vl: A frontier large vision-language model with versatile abilities. arXiv preprint arXiv:2308.12966.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Llemma: An open language model for mathematics. arXiv preprint arXiv:2310.10631. Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, and Jingren Zhou",
+            "title": "Qwen-vl: A frontier large vision-language model with versatile abilities",
+            "arxiv_id": "2310.10631"
+        },
+        {
+            "raw": "Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan, et al. 2022. Training a helpful and harmless assistant with reinforcement learning from human feedback. arXiv preprint arXiv:2204.05862.",
+            "year": "2022",
+            "venue": "arXiv",
+            "author": "Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan, et al",
+            "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback",
+            "arxiv_id": "2204.05862"
+        },
+        {
+            "raw": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. 2020. Language models are few-shot learners. Advances in neural information processing systems, 33:1877\u20131901.",
+            "year": "2020",
+            "author": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al",
+            "title": "Language models are few-shot learners"
+        },
+        {
+            "raw": "Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Martin Katz, and Nikolaos Aletras. 2021. Lexglue: A bench- mark dataset for legal language understanding in en- glish. arXiv preprint arXiv:2110.00976.",
+            "year": "2021",
+            "venue": "arXiv",
+            "author": "Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Martin Katz, and Nikolaos Aletras",
+            "title": "Lexglue: A bench- mark dataset for legal language understanding in en- glish",
+            "arxiv_id": "2110.00976"
+        },
+        {
+            "raw": "Cheng Chen, Yichun Yin, Lifeng Shang, Xin Jiang, Yujia Qin, Fengyu Wang, Zhi Wang, Xiao Chen, Zhiyuan Liu, and Qun Liu. 2021a. bert2bert: To- wards reusable pretrained language models. arXiv preprint arXiv:2110.07143. Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, et al. 2021b. Evaluating large lan- guage models trained on code. arXiv preprint arXiv:2107.03374. Wenhu Chen, Xueguang Ma, Xinyi Wang, and William W. Cohen. 2023a. Program of thoughts prompting: Disentangling computation from reason- ing for numerical reasoning tasks. Transactions on Machine Learning Research. Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, Xinyi Wang, and Tony Xia. 2023b. Theoremqa: A theorem-driven question an- swering dataset. arXiv preprint arXiv:2305.12524. Daixuan Cheng, Shaohan Huang, and Furu Wei. 2023.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Cheng Chen, Yichun Yin, Lifeng Shang, Xin Jiang, Yujia Qin, Fengyu Wang, Zhi Wang, Xiao Chen, Zhiyuan Liu, and Qun Liu. 2021a. bert2bert: To- wards reusable pretrained language models. arXiv preprint arXiv:2110.07143. Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde de Oliveira Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph, Greg Brockman, et al. 2021b. Evaluating large lan- guage models trained on code. arXiv preprint arXiv:2107.03374. Wenhu Chen, Xueguang Ma, Xinyi Wang, and William W. Cohen",
+            "title": "a",
+            "arxiv_id": "2110.07143"
+        },
+        {
+            "raw": "Adapting large language models via reading compre- hension. arXiv preprint arXiv:2309.09530. Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Se- bastian Gehrmann, et al. 2023. Palm: Scaling lan- guage modeling with pathways. Journal of Machine Learning Research, 24(240):1\u2013113.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Adapting large language models via reading compre- hension. arXiv preprint arXiv:2309.09530. Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Se- bastian Gehrmann, et al",
+            "title": "Palm: Scaling lan- guage modeling with pathways",
+            "arxiv_id": "2309.09530"
+        },
+        {
+            "raw": "Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. 2018. Think you have solved question an- swering? try arc, the ai2 reasoning challenge. arXiv preprint arXiv:1803.05457.",
+            "year": "2018",
+            "venue": "arXiv",
+            "author": "Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord",
+            "title": "Think you have solved question an- swering? try arc, the ai2 reasoning challenge",
+            "arxiv_id": "1803.05457"
+        },
+        {
+            "raw": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et al. 2021. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168.",
+            "year": "2021",
+            "venue": "arXiv",
+            "author": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, et al",
+            "title": "Training verifiers to solve math word problems",
+            "arxiv_id": "2110.14168"
+        },
+        {
+            "raw": "Matthias De Lange, Rahaf Aljundi, Marc Masana, Sarah Parisot, Xu Jia, Ale\u0161 Leonardis, Gregory Slabaugh, and Tinne Tuytelaars. 2021. A continual learning survey: Defying forgetting in classification tasks.",
+            "year": "2021",
+            "author": "Matthias De Lange, Rahaf Aljundi, Marc Masana, Sarah Parisot, Xu Jia, Ale\u0161 Leonardis, Gregory Slabaugh, and Tinne Tuytelaars",
+            "title": "A continual learning survey: Defying forgetting in classification tasks"
+        },
+        {
+            "raw": "IEEE transactions on pattern analysis and machine intelligence, 44(7):3366\u20133385. Guanting Dong, Hongyi Yuan, Keming Lu, Cheng- peng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, and Jingren Zhou. 2023.",
+            "year": "2023",
+            "venue": "IEEE",
+            "author": "IEEE transactions on pattern analysis and machine intelligence, 44(7):3366\u20133385. Guanting Dong, Hongyi Yuan, Keming Lu, Cheng- peng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, and Jingren Zhou"
+        },
+        {
+            "raw": "How abilities in large language models are affected by supervised fine-tuning data composition. arXiv preprint arXiv:2310.05492. William Fedus, Barret Zoph, and Noam Shazeer. 2022.",
+            "year": "2022",
+            "venue": "arXiv",
+            "author": "How abilities in large language models are affected by supervised fine-tuning data composition. arXiv preprint arXiv:2310.05492. William Fedus, Barret Zoph, and Noam Shazeer",
+            "arxiv_id": "2310.05492"
+        },
+        {
+            "raw": "Switch transformers: Scaling to trillion parame- ter models with simple and efficient sparsity. The Journal of Machine Learning Research, 23(1):5232\u2013 5270. Leo Gao, Stella Biderman, Sid Black, Laurence Gold- ing, Travis Hoppe, Charles Foster, Jason Phang, Ho- race He, Anish Thite, Noa Nabeshima, et al. 2020.",
+            "year": "2020",
+            "author": "Switch transformers: Scaling to trillion parame- ter models with simple and efficient sparsity. The Journal of Machine Learning Research, 23(1):5232\u2013 5270. Leo Gao, Stella Biderman, Sid Black, Laurence Gold- ing, Travis Hoppe, Charles Foster, Jason Phang, Ho- race He, Anish Thite, Noa Nabeshima, et al"
+        },
+        {
+            "raw": "The pile: An 800gb dataset of diverse text for lan- guage modeling. arXiv preprint arXiv:2101.00027. Yuying Ge, Sijie Zhao, Ziyun Zeng, Yixiao Ge, Chen Li, Xintao Wang, and Ying Shan. 2023. Making llama see and draw with seed tokenizer. arXiv preprint arXiv:2310.01218.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "The pile: An 800gb dataset of diverse text for lan- guage modeling. arXiv preprint arXiv:2101.00027. Yuying Ge, Sijie Zhao, Ziyun Zeng, Yixiao Ge, Chen Li, Xintao Wang, and Ying Shan",
+            "title": "Making llama see and draw with seed tokenizer",
+            "arxiv_id": "2101.00027"
+        },
+        {
+            "raw": "Linyuan Gong, Di He, Zhuohan Li, Tao Qin, Liwei Wang, and Tieyan Liu. 2019.",
+            "year": "2019",
+            "author": "Linyuan Gong, Di He, Zhuohan Li, Tao Qin, Liwei Wang, and Tieyan Liu"
+        },
+        {
+            "raw": "Efficient training of bert by progressively stacking. In International conference on machine learning, pages 2337\u20132346. PMLR. Xiaotao Gu, Liyuan Liu, Hongkun Yu, Jing Li, Chen Chen, and Jiawei Han. 2020. On the transformer growth for progressive bert training. arXiv preprint arXiv:2010.12562.",
+            "year": "2020",
+            "venue": "arXiv",
+            "author": "Efficient training of bert by progressively stacking. In International conference on machine learning, pages 2337\u20132346. PMLR. Xiaotao Gu, Liyuan Liu, Hongkun Yu, Jing Li, Chen Chen, and Jiawei Han",
+            "title": "On the transformer growth for progressive bert training",
+            "arxiv_id": "2010.12562"
+        },
+        {
+            "raw": "Kshitij Gupta, Benjamin Th\u00e9rien, Adam Ibrahim, Mats L Richter, Quentin Anthony, Eugene Belilovsky, Irina Rish, and Timoth\u00e9e Lesort. 2023. Continual pre- training of large language models: How to (re) warm your model? arXiv preprint arXiv:2308.04014.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Kshitij Gupta, Benjamin Th\u00e9rien, Adam Ibrahim, Mats L Richter, Quentin Anthony, Eugene Belilovsky, Irina Rish, and Timoth\u00e9e Lesort",
+            "title": "Continual pre- training of large language models: How to (re) warm your model? arXiv preprint arXiv:2308",
+            "arxiv_id": "2308.04014"
+        },
+        {
+            "raw": "Suchin Gururangan, Ana Marasovi\u00b4c, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A Smith. 2020. Don\u2019t stop pretraining: Adapt language models to domains and tasks. arXiv preprint arXiv:2004.10964.",
+            "year": "2020",
+            "venue": "arXiv",
+            "author": "Suchin Gururangan, Ana Marasovi\u00b4c, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A Smith",
+            "title": "Don\u2019t stop pretraining: Adapt language models to domains and tasks",
+            "arxiv_id": "2004.10964"
+        },
+        {
+            "raw": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. 2020. Measuring massive multitask language under- standing. arXiv preprint arXiv:2009.03300.",
+            "year": "2020",
+            "venue": "arXiv",
+            "author": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt",
+            "title": "Measuring massive multitask language under- standing",
+            "arxiv_id": "2009.03300"
+        },
+        {
+            "raw": "Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt. 2021. Measuring mathematical problem solving with the math dataset. NeurIPS.",
+            "year": "2021",
+            "venue": "NeurIPS",
+            "author": "Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt",
+            "title": "Measuring mathematical problem solving with the math dataset"
+        },
+        {
+            "raw": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Men- sch, Elena Buchatskaya, Trevor Cai, Eliza Ruther- ford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, et al. 2022. Train- ing compute-optimal large language models. arXiv preprint arXiv:2203.15556.",
+            "year": "2022",
+            "venue": "arXiv",
+            "author": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Men- sch, Elena Buchatskaya, Trevor Cai, Eliza Ruther- ford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, et al",
+            "title": "Train- ing compute-optimal large language models",
+            "arxiv_id": "2203.15556"
+        },
+        {
+            "raw": "Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin De Laroussilhe, Andrea Gesmundo, Mona Attariyan, and Sylvain Gelly. 2019. Parameter-efficient transfer learning for nlp.",
+            "year": "2019",
+            "author": "Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin De Laroussilhe, Andrea Gesmundo, Mona Attariyan, and Sylvain Gelly",
+            "title": "Parameter-efficient transfer learning for nlp"
+        },
+        {
+            "raw": "In International Conference on Machine Learning, pages 2790\u20132799. PMLR. Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen. 2021.",
+            "year": "2021",
+            "author": "In International Conference on Machine Learning, pages 2790\u20132799. PMLR. Edward J Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen"
+        },
+        {
+            "raw": "Lora: Low-rank adap- tation of large language models. arXiv preprint arXiv:2106.09685. Albert Q Jiang, Alexandre Sablayrolles, Arthur Men- sch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guil- laume Lample, Lucile Saulnier, et al. 2023. Mistral 7b. arXiv preprint arXiv:2310.06825.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Lora: Low-rank adap- tation of large language models. arXiv preprint arXiv:2106.09685. Albert Q Jiang, Alexandre Sablayrolles, Arthur Men- sch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guil- laume Lample, Lucile Saulnier, et al",
+            "title": "Mistral 7b",
+            "arxiv_id": "2106.09685"
+        },
+        {
+            "raw": "Albert Q Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, et al. 2024.",
+            "year": "2024",
+            "author": "Albert Q Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, et al"
+        },
+        {
+            "raw": "Mixtral of experts. arXiv preprint arXiv:2401.04088. Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020.",
+            "year": "2020",
+            "venue": "arXiv",
+            "author": "Mixtral of experts. arXiv preprint arXiv:2401.04088. Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei",
+            "arxiv_id": "2401.04088"
+        },
+        {
+            "raw": "Scaling laws for neural language models. arXiv preprint arXiv:2001.08361.",
+            "year": "2001",
+            "venue": "arXiv",
+            "author": "Scaling laws for neural language models. arXiv preprint arXiv:",
+            "title": "08361",
+            "arxiv_id": "2001.08361"
+        },
+        {
+            "raw": "Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, et al. 2023a. Starcoder: may the source be with you! arXiv preprint arXiv:2305.06161. Xiang Li, Yiqun Yao, Xin Jiang, Xuezhi Fang, Xuying Meng, Siqi Fan, Peng Han, Jing Li, Li Du, Bowen Qin, et al. 2023b. Flm-101b: An open llm and how to train it with $100 k budget. arXiv preprint arXiv:2309.03852. Wing Lian, Guan Wang, Bleys Goodson, Eugene Pent- land, Austin Cook, Chanvichet Vong, and \"Teknium\". 2023. Slimorca: An open dataset of gpt-4 augmented flan reasoning traces, with verification.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Raymond Li, Loubna Ben Allal, Yangtian Zi, Niklas Muennighoff, Denis Kocetkov, Chenghao Mou, Marc Marone, Christopher Akiki, Jia Li, Jenny Chim, et al",
+            "title": "a",
+            "arxiv_id": "2305.06161"
+        },
+        {
+            "raw": "Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chan- dra Bhagavatula, and Yejin Choi. 2023. The unlock- ing spell on base llms: Rethinking alignment via in- context learning. arXiv preprint arXiv:2312.01552.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chan- dra Bhagavatula, and Yejin Choi",
+            "title": "The unlock- ing spell on base llms: Rethinking alignment via in- context learning",
+            "arxiv_id": "2312.01552"
+        },
+        {
+            "raw": "Stephanie Lin, Jacob Hilton, and Owain Evans. 2021.",
+            "year": "2021",
+            "author": "Stephanie Lin, Jacob Hilton, and Owain Evans"
+        },
+        {
+            "raw": "Truthfulqa: Measuring how models mimic human falsehoods. arXiv preprint arXiv:2109.07958. Marco Lippi, Przemys\u0142aw Pa\u0142ka, Giuseppe Contissa, Francesca Lagioia, Hans-Wolfgang Micklitz, Gio- vanni Sartor, and Paolo Torroni. 2019. Claudette: an automated detector of potentially unfair clauses in online terms of service. Artificial Intelligence and Law, 27:117\u2013139.",
+            "year": "2019",
+            "venue": "arXiv",
+            "author": "Truthfulqa: Measuring how models mimic human falsehoods. arXiv preprint arXiv:2109.07958. Marco Lippi, Przemys\u0142aw Pa\u0142ka, Giuseppe Contissa, Francesca Lagioia, Hans-Wolfgang Micklitz, Gio- vanni Sartor, and Paolo Torroni",
+            "title": "Claudette: an automated detector of potentially unfair clauses in online terms of service",
+            "arxiv_id": "2109.07958"
+        },
+        {
+            "raw": "Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, et al. 2023.",
+            "year": "2023",
+            "author": "Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, et al"
+        },
+        {
+            "raw": "Llm360: Towards fully transparent open-source llms. arXiv preprint arXiv:2312.06550. Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xi- ubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, and Daxin Jiang. 2023. Wizardcoder: Empowering code large language models with evol- instruct.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Llm360: Towards fully transparent open-source llms. arXiv preprint arXiv:2312.06550. Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xi- ubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, and Daxin Jiang",
+            "title": "Wizardcoder: Empowering code large language models with evol- instruct",
+            "arxiv_id": "2312.06550"
+        },
+        {
+            "raw": "OpenAI. 2023. Gpt-4 technical report. arXiv preprint arXiv:2303.08774.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "OpenAI",
+            "title": "Gpt-4 technical report",
+            "arxiv_id": "2303.08774"
+        },
+        {
+            "raw": "Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al. 2022. Training language models to follow instruc- tions with human feedback.",
+            "year": "2022",
+            "author": "Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al",
+            "title": "Training language models to follow instruc- tions with human feedback"
+        },
+        {
+            "raw": "Advances in Neural Information Processing Systems, 35:27730\u201327744. Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever, et al. 2019. Language models are unsupervised multitask learners. OpenAI blog, 1(8):9.",
+            "year": "2019",
+            "author": "Advances in Neural Information Processing Systems, 35:27730\u201327744. Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever, et al",
+            "title": "Language models are unsupervised multitask learners"
+        },
+        {
+            "raw": "Baptiste Roziere, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Tal Remez, J\u00e9r\u00e9my Rapin, et al. 2023.",
+            "year": "2023",
+            "author": "Baptiste Roziere, Jonas Gehring, Fabian Gloeckle, Sten Sootla, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Tal Remez, J\u00e9r\u00e9my Rapin, et al"
+        },
+        {
+            "raw": "Code llama: Open foundation models for code. arXiv preprint arXiv:2308.12950. Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhaga- vatula, and Yejin Choi. 2021.",
+            "year": "2021",
+            "venue": "arXiv",
+            "author": "Code llama: Open foundation models for code. arXiv preprint arXiv:2308.12950. Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhaga- vatula, and Yejin Choi",
+            "arxiv_id": "2308.12950"
+        },
+        {
+            "raw": "Winogrande: An adversarial winograd schema challenge at scale. Communications of the ACM, 64(9):99\u2013106. Victor Sanh, Albert Webson, Colin Raffel, Stephen H Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, et al. 2021. Multitask prompted training en- ables zero-shot task generalization. arXiv preprint arXiv:2110.08207.",
+            "year": "2021",
+            "venue": "arXiv",
+            "author": "Winogrande: An adversarial winograd schema challenge at scale. Communications of the ACM, 64(9):99\u2013106. Victor Sanh, Albert Webson, Colin Raffel, Stephen H Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, et al",
+            "title": "Multitask prompted training en- ables zero-shot task generalization",
+            "arxiv_id": "2110.08207"
+        },
+        {
+            "raw": "Thomas Scialom, Tuhin Chakrabarty, and Smaranda Muresan. 2022.",
+            "year": "2022",
+            "author": "Thomas Scialom, Tuhin Chakrabarty, and Smaranda Muresan"
+        },
+        {
+            "raw": "Fine-tuned language models are continual learners. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 6107\u20136122.",
+            "year": "2022",
+            "author": "Fine-tuned language models are continual learners. In Proceedings of the",
+            "title": "Conference on Empirical Methods in Natural Language Processing, pages 6107\u20136122"
+        },
+        {
+            "raw": "Sheng Shen, Pete Walsh, Kurt Keutzer, Jesse Dodge, Matthew Peters, and Iz Beltagy. 2022.",
+            "year": "2022",
+            "author": "Sheng Shen, Pete Walsh, Kurt Keutzer, Jesse Dodge, Matthew Peters, and Iz Beltagy"
+        },
+        {
+            "raw": "Staged training for transformer language models. In International Conference on Machine Learning, pages 19893\u201319908. PMLR. Mohit Shridhar, Xingdi Yuan, Marc-Alexandre C\u00f4t\u00e9, Yonatan Bisk, Adam Trischler, and Matthew Hausknecht. 2020. Alfworld: Aligning text and em- bodied environments for interactive learning. arXiv preprint arXiv:2010.03768.",
+            "year": "2020",
+            "venue": "arXiv",
+            "author": "Staged training for transformer language models. In International Conference on Machine Learning, pages 19893\u201319908. PMLR. Mohit Shridhar, Xingdi Yuan, Marc-Alexandre C\u00f4t\u00e9, Yonatan Bisk, Adam Trischler, and Matthew Hausknecht",
+            "title": "Alfworld: Aligning text and em- bodied environments for interactive learning",
+            "arxiv_id": "2010.03768"
+        },
+        {
+            "raw": "Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. 2023. Stanford alpaca: An instruction-following llama model. https:// github.com/tatsu-lab/stanford_alpaca.",
+            "year": "2023",
+            "author": "Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto",
+            "title": "Stanford alpaca: An instruction-following llama model"
+        },
+        {
+            "raw": "Gemma Team, Thomas Mesnard, Cassidy Hardin, Robert Dadashi, Surya Bhupatiraju, Shreya Pathak, Laurent Sifre, Morgane Rivi\u00e8re, Mihir Sanjay Kale, Juliette Love, et al. 2024. Gemma: Open models based on gemini research and technology. arXiv preprint arXiv:2403.08295.",
+            "year": "2024",
+            "venue": "arXiv",
+            "author": "Gemma Team, Thomas Mesnard, Cassidy Hardin, Robert Dadashi, Surya Bhupatiraju, Shreya Pathak, Laurent Sifre, Morgane Rivi\u00e8re, Mihir Sanjay Kale, Juliette Love, et al",
+            "title": "Gemma: Open models based on gemini research and technology",
+            "arxiv_id": "2403.08295"
+        },
+        {
+            "raw": "Ian Tenney, Dipanjan Das, and Ellie Pavlick. 2019. Bert rediscovers the classical nlp pipeline. arXiv preprint arXiv:1905.05950.",
+            "year": "2019",
+            "venue": "arXiv",
+            "author": "Ian Tenney, Dipanjan Das, and Ellie Pavlick",
+            "title": "Bert rediscovers the classical nlp pipeline",
+            "arxiv_id": "1905.05950"
+        },
+        {
+            "raw": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Al- bert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al. 2023.",
+            "year": "2023",
+            "author": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Al- bert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, et al"
+        },
+        {
+            "raw": "Llama 2: Open founda- tion and fine-tuned chat models. arXiv preprint arXiv:2307.09288. Betty Van Aken, Benjamin Winter, Alexander L\u00f6ser, and Felix A Gers. 2019.",
+            "year": "2019",
+            "venue": "arXiv",
+            "author": "Llama 2: Open founda- tion and fine-tuned chat models. arXiv preprint arXiv:2307.09288. Betty Van Aken, Benjamin Winter, Alexander L\u00f6ser, and Felix A Gers",
+            "arxiv_id": "2307.09288"
+        },
+        {
+            "raw": "How does bert an- swer questions? a layer-wise analysis of trans- former representations. In Proceedings of the 28th ACM international conference on information and knowledge management, pages 1823\u20131832. Peihao Wang, Rameswar Panda, Lucas Torroba Hen- nigen, Philip Greengard, Leonid Karlinsky, Roge- rio Feris, David Daniel Cox, Zhangyang Wang, and Yoon Kim. 2023a. Learning to grow pretrained mod- els for efficient transformer training. arXiv preprint arXiv:2303.00980. Xiao Wang, Yuansen Zhang, Tianze Chen, Songyang Gao, Senjie Jin, Xianjun Yang, Zhiheng Xi, Rui Zheng, Yicheng Zou, Tao Gui, et al. 2023b. Trace: A comprehensive benchmark for continual learn- ing in large language models. arXiv preprint arXiv:2310.06762. Xingyao Wang, Zihan Wang, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng, and Heng Ji. 2023c. Mint: Evaluating llms in multi-turn interaction with tools and language feedback. Yizhong Wang, Hamish Ivison, Pradeep Dasigi, Jack Hessel, Tushar Khot, Khyathi Raghavi Chandu, David Wadden, Kelsey MacMillan, Noah A. Smith, Iz Beltagy, and Hannaneh Hajishirzi. 2023d. How far can camels go? exploring the state of instruction tuning on open resources. Jason Wei, Maarten Bosma, Vincent Y Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, An- drew M Dai, and Quoc V Le. 2021. Finetuned lan- guage models are zero-shot learners. arXiv preprint arXiv:2109.01652.",
+            "year": "2021",
+            "venue": "arXiv",
+            "author": "How does bert an- swer questions? a layer-wise analysis of trans- former representations. In Proceedings of the 28th ACM international conference on information and knowledge management, pages 1823\u20131832. Peihao Wang, Rameswar Panda, Lucas Torroba Hen- nigen, Philip Greengard, Leonid Karlinsky, Roge- rio Feris, David Daniel Cox, Zhangyang Wang, and Yoon Kim. 2023a. Learning to grow pretrained mod- els for efficient transformer training. arXiv preprint arXiv:2303.00980. Xiao Wang, Yuansen Zhang, Tianze Chen, Songyang Gao, Senjie Jin, Xianjun Yang, Zhiheng Xi, Rui Zheng, Yicheng Zou, Tao Gui, et al. 2023b. Trace: A comprehensive benchmark for continual learn- ing in large language models. arXiv preprint arXiv:2310.06762. Xingyao Wang, Zihan Wang, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng, and Heng Ji. 2023c. Mint: Evaluating llms in multi-turn interaction with tools and language feedback. Yizhong Wang, Hamish Ivison, Pradeep Dasigi, Jack Hessel, Tushar Khot, Khyathi Raghavi Chandu, David Wadden, Kelsey MacMillan, Noah A. Smith, Iz Beltagy, and Hannaneh Hajishirzi. 2023d. How far can camels go? exploring the state of instruction tuning on open resources. Jason Wei, Maarten Bosma, Vincent Y Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, An- drew M Dai, and Quoc V Le",
+            "title": "Finetuned lan- guage models are zero-shot learners",
+            "arxiv_id": "2303.00980"
+        },
+        {
+            "raw": "Chengyue Wu, Teng Wang, Yixiao Ge, Zeyu Lu, Ruisong Zhou, Ying Shan, and Ping Luo. 2023a. \u03c0- tuning: Transferring multimodal foundation models with optimal multi-task interpolation. In Proceedings of the 40th International Conference on Machine Learning, volume 202 of Proceedings of Machine Learning Research, pages 37713\u201337727. PMLR. Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, Sebastian Gehrmann, Prabhanjan Kam- badur, David Rosenberg, and Gideon Mann. 2023b. Bloomberggpt: A large language model for finance. arXiv preprint arXiv:2303.17564. Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, and Daxin Jiang. 2023a. Wizardlm: Empowering large lan- guage models to follow complex instructions. arXiv preprint arXiv:2304.12244. Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, et al. 2023b. Lemur: Harmonizing natural language and code for language agents. arXiv preprint arXiv:2310.06830. Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Ben- gio, William W Cohen, Ruslan Salakhutdinov, and Christopher D Manning. 2018. Hotpotqa: A dataset for diverse, explainable multi-hop question answer- ing. arXiv preprint arXiv:1809.09600.",
+            "year": "2018",
+            "venue": "arXiv",
+            "author": "Chengyue Wu, Teng Wang, Yixiao Ge, Zeyu Lu, Ruisong Zhou, Ying Shan, and Ping Luo. 2023a. \u03c0- tuning: Transferring multimodal foundation models with optimal multi-task interpolation. In Proceedings of the 40th International Conference on Machine Learning, volume 202 of Proceedings of Machine Learning Research, pages 37713\u201337727. PMLR. Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, Sebastian Gehrmann, Prabhanjan Kam- badur, David Rosenberg, and Gideon Mann. 2023b. Bloomberggpt: A large language model for finance. arXiv preprint arXiv:2303.17564. Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, and Daxin Jiang. 2023a. Wizardlm: Empowering large lan- guage models to follow complex instructions. arXiv preprint arXiv:2304.12244. Yiheng Xu, Hongjin Su, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, et al. 2023b. Lemur: Harmonizing natural language and code for language agents. arXiv preprint arXiv:2310.06830. Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Ben- gio, William W Cohen, Ruslan Salakhutdinov, and Christopher D Manning",
+            "title": "Hotpotqa: A dataset for diverse, explainable multi-hop question answer- ing",
+            "arxiv_id": "2303.17564"
+        },
+        {
+            "raw": "Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao. 2022.",
+            "year": "2022",
+            "author": "Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao"
+        },
+        {
+            "raw": "React: Synergizing reasoning and acting in language models. arXiv preprint arXiv:2210.03629. Yiqun Yao, Zheng Zhang, Jing Li, and Yequan Wang. 2023. 2x faster language model pre-training via masked structural growth. arXiv preprint arXiv:2305.02869.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "React: Synergizing reasoning and acting in language models. arXiv preprint arXiv:2210.03629. Yiqun Yao, Zheng Zhang, Jing Li, and Yequan Wang",
+            "title": "2x faster language model pre-training via masked structural growth",
+            "arxiv_id": "2210.03629"
+        },
+        {
+            "raw": "Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T Kwok, Zhen- guo Li, Adrian Weller, and Weiyang Liu. 2023.",
+            "year": "2023",
+            "author": "Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T Kwok, Zhen- guo Li, Adrian Weller, and Weiyang Liu"
+        },
+        {
+            "raw": "Metamath: Bootstrap your own mathematical ques- tions for large language models. arXiv preprint arXiv:2309.12284. Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, and Yejin Choi. 2019. Hellaswag: Can a machine really finish your sentence? arXiv preprint arXiv:1905.07830.",
+            "year": "2019",
+            "venue": "arXiv",
+            "author": "Metamath: Bootstrap your own mathematical ques- tions for large language models. arXiv preprint arXiv:2309.12284. Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, and Yejin Choi",
+            "title": "Hellaswag: Can a machine really finish your sentence? arXiv preprint arXiv:1905",
+            "arxiv_id": "2309.12284"
+        },
+        {
+            "raw": "Lvmin Zhang, Anyi Rao, and Maneesh Agrawala. 2023.",
+            "year": "2023",
+            "author": "Lvmin Zhang, Anyi Rao, and Maneesh Agrawala"
+        },
+        {
+            "raw": "Adding conditional control to text-to-image diffu- sion models. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pages 3836\u20133847. Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, et al. 2023.",
+            "year": "2023",
+            "venue": "IEEE",
+            "author": "Adding conditional control to text-to-image diffu- sion models. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pages 3836\u20133847. Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric Xing, et al"
+        },
+        {
+            "raw": "Judging llm-as-a-judge with mt-bench and chatbot arena. arXiv preprint arXiv:2306.05685. Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, et al. 2023. Lima: Less is more for alignment. arXiv preprint arXiv:2305.11206.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "Judging llm-as-a-judge with mt-bench and chatbot arena. arXiv preprint arXiv:2306.05685. Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, et al",
+            "title": "Lima: Less is more for alignment",
+            "arxiv_id": "2306.05685"
+        },
+        {
+            "raw": "Daniel M Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B Brown, Alec Radford, Dario Amodei, Paul Chris- tiano, and Geoffrey Irving. 2019. Fine-tuning lan- guage models from human preferences. arXiv preprint arXiv:1909.08593.",
+            "year": "2019",
+            "venue": "arXiv",
+            "author": "Daniel M Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B Brown, Alec Radford, Dario Amodei, Paul Chris- tiano, and Geoffrey Irving",
+            "title": "Fine-tuning lan- guage models from human preferences",
+            "arxiv_id": "1909.08593"
+        },
+        {
+            "raw": "A Gradient Derivation To calculate the gradient of the RMSNorm weight during backpropagation, we first need to consider the forward pass equation for the Llama RMSNorm: RMSNorm(x) = w \u2299x p Var(x) + \u03f5 (6) where x is the input tensor, w is the weight parameter, Var(x) is the variance of x across the last dimension, and \u03f5 is a small constant for numerical stability. Now, let\u2019s consider the chain rule for the gradient of the loss function with respect to the RMSNorm weight during backpropagation. Denote the loss function as L, and the output of the FFN as y. We have: \u2202L \u2202w = \u2202L \u2202y \u2202y \u2202w (7) To compute the gradient, we need to find the partial derivative \u2202y \u2202w. From the FFN equation, we have: y = x\u2032 + FFN(RMSNorm(x\u2032)) (8) Taking the derivative with respect to w, we get: \u2202y \u2202w = \u2202FFN(RMSNorm(x\u2032)) \u2202w (9) Now, let\u2019s differentiate the RMSNorm function with respect to w: \u2202RMSNorm(x) \u2202w = x p Var(x) + \u03f5 (10) Using the chain rule, we can compute the gradient of the loss function with respect to the RMSNorm weight: \u2202L \u2202w = \u2202L \u2202y \u2202FFN(RMSNorm(x\u2032)) \u2202RMSNorm(x\u2032) \u2202RMSNorm(x\u2032) \u2202w (11) Given that RMSNorm(x\u2032) = t, we need to find the derivative of the FFN with respect to t. Recall the FFN equation: FFN(t) = SwiGLU(t, W1, W2)W3 (12) Now we want to find the partial derivative of the FFN with respect to t. Recall the SwiGLU activation function: SwiGLU(t, W1, W2) = SiLU(tW1) \u2297(tW2) (13) Taking the derivative of the SwiGLU function with respect to t, we get: \u2202SwiGLU(t, W1, W2) \u2202t = \u0012\u2202SiLU(tW1) \u2202t \u0013 \u2297(tW2) + SiLU(tW1) \u2297 \u0012\u2202(tW2) \u2202t \u0013 (14) Now, recall the SiLU activation function: SiLU(x) = x \u2297\u03c3(x) (15) Thus, the gradient of the FFN with respect to t when t = 0 is also zero: \u2202FFN(t) \u2202t = 0 (16) In conclusion, when t = 0, the gradient of the FFN with respect to t is zero, which demonstrates that the gradient is zero when the input to the FFN is zero. Data source Tokens Weight Proof-Pile-2 55B 1.00 AlgebraicStack 11B OpenWebMath 15B ArXiv 29B The-Stack-Dedup Python 22B 1.50 Table 6: Pretrain data sources, tokens, and the mixture weights of each component during training. Datasets Query Source Response Source # Instances \u00afNrounds \u00afLprompt \u00afLcompletion ShareGPT User prompts GPT-3.5/GPT-4 63,817 2.9 293.2 1157.1 WizardLM_evol_instruct_V2 GPT-4 GPT-4 143,000 1.0 602.6 1704.9 SlimOrca Human-written GPT-4 517,982 1.0 574.3 599.3 MetaMath Human-written/GPT-4 GPT-4 395,000 1.0 209.4 498.2 Evol-CodeAlpaca GPT-4 GPT-4 111,272 1.0 652.5 1552.0 Table 7: Instruction datasets investigated in this work. We report the average number of rounds ( \u00afNrounds), average length of prompts (\u00afLprompt), average length of completion (\u00afLcompletion). B Dataset Details In this section, we provide detailed information about the dataset used for both pretraining and Supervised Fine-Tuning (SFT). Table 6 outlines the composition of our pretraining dataset, which comprises approxi- mately 80 billion tokens from both math and code corpora. The specifics of the SFT data are delineated in Table 7. For our proposed LLAMA PRO - INSTRUCT, we employ a blend of multiple instruction datasets spanning general instruction, math, and code for the SFT process. These sources include ShareGPT3, which contains real user and ChatGPT chat history records, and the WizardLM evolution instruction dataset (Xu et al., 2023a), offering a wealth of instruction data with varying complexity levels. We also incorporate the evolution CodeAlpaca dataset (Luo et al., 2023), which includes complex coding tasks generated by ChatGPT and their corresponding solutions. Additionally, we use MetaMath (Yu et al., 2023), which reframes questions from multiple perspectives, and SlimOrca (Lian et al., 2023), a curated subset of our OpenOrca data. SlimOrca provides an efficient route to achieve performance comparable to using larger data slices, while only incorporating approximately 500,000 GPT-4 completions.",
+            "year": "2023",
+            "venue": "arXiv",
+            "author": "A Gradient Derivation To calculate the gradient of the RMSNorm weight during backpropagation, we first need to consider the forward pass equation for the Llama RMSNorm: RMSNorm(x) = w \u2299x p Var(x) + \u03f5 (6) where x is the input tensor, w is the weight parameter, Var(x) is the variance of x across the last dimension, and \u03f5 is a small constant for numerical stability. Now, let\u2019s consider the chain rule for the gradient of the loss function with respect to the RMSNorm weight during backpropagation. Denote the loss function as L, and the output of the FFN as y. We have: \u2202L \u2202w = \u2202L \u2202y \u2202y \u2202w (7) To compute the gradient, we need to find the partial derivative \u2202y \u2202w. From the FFN equation, we have: y = x\u2032 + FFN(RMSNorm(x\u2032)) (8) Taking the derivative with respect to w, we get: \u2202y \u2202w = \u2202FFN(RMSNorm(x\u2032)) \u2202w (9) Now, let\u2019s differentiate the RMSNorm function with respect to w: \u2202RMSNorm(x) \u2202w = x p Var(x) + \u03f5 (10) Using the chain rule, we can compute the gradient of the loss function with respect to the RMSNorm weight: \u2202L \u2202w = \u2202L \u2202y \u2202FFN(RMSNorm(x\u2032)) \u2202RMSNorm(x\u2032) \u2202RMSNorm(x\u2032) \u2202w (11) Given that RMSNorm(x\u2032) = t, we need to find the derivative of the FFN with respect to t. Recall the FFN equation: FFN(t) = SwiGLU(t, W1, W2)W3 (12) Now we want to find the partial derivative of the FFN with respect to t. Recall the SwiGLU activation function: SwiGLU(t, W1, W2) = SiLU(tW1) \u2297(tW2) (13) Taking the derivative of the SwiGLU function with respect to t, we get: \u2202SwiGLU(t, W1, W2) \u2202t = \u0012\u2202SiLU(tW1) \u2202t \u0013 \u2297(tW2) + SiLU(tW1) \u2297 \u0012\u2202(tW2) \u2202t \u0013 (14) Now, recall the SiLU activation function: SiLU(x) = x \u2297\u03c3(x) (15) Thus, the gradient of the FFN with respect to t when t = 0 is also zero: \u2202FFN(t) \u2202t = 0 (16) In conclusion, when t = 0, the gradient of the FFN with respect to t is zero, which demonstrates that the gradient is zero when the input to the FFN is zero. Data source Tokens Weight Proof-Pile-2 55B 1.00 AlgebraicStack 11B OpenWebMath 15B ArXiv 29B The-Stack-Dedup Python 22B 1.50 Table 6: Pretrain data sources, tokens, and the mixture weights of each component during training. Datasets Query Source Response Source # Instances \u00afNrounds \u00afLprompt \u00afLcompletion ShareGPT User prompts GPT-3.5/GPT-4 63,817 2.9 293.2 1157.1 WizardLM_evol_instruct_V2 GPT-4 GPT-4 143,000 1.0 602.6 1704.9 SlimOrca Human-written GPT-4 517,982 1.0 574.3 599.3 MetaMath Human-written/GPT-4 GPT-4 395,000 1.0 209.4 498.2 Evol-CodeAlpaca GPT-4 GPT-4 111,272 1.0 652.5 1552.0 Table 7: Instruction datasets investigated in this work. We report the average number of rounds ( \u00afNrounds), average length of prompts (\u00afLprompt), average length of completion (\u00afLcompletion). B Dataset Details In this section, we provide detailed information about the dataset used for both pretraining and Supervised Fine-Tuning (SFT). Table 6 outlines the composition of our pretraining dataset, which comprises approxi- mately 80 billion tokens from both math and code corpora. The specifics of the SFT data are delineated in Table 7. For our proposed LLAMA PRO - INSTRUCT, we employ a blend of multiple instruction datasets spanning general instruction, math, and code for the SFT process. These sources include ShareGPT3, which contains real user and ChatGPT chat history records, and the WizardLM evolution instruction dataset (Xu et al",
+            "title": "a), offering a wealth of instruction data with varying complexity levels"
+        },
+        {
+            "raw": "C Mistal-Pro Details Mistral-Pro is an advanced version of the original Mistral model (Jiang et al., 2023), enhanced through the addition of Transformer blocks. This version excels in combining general language understanding with domain-specific knowledge, particularly in programming and mathematics. It employs the same methodology for creating additional blocks as LLaMA-Pro but utilizes only 1 10 of LLaMA Pro\u2019s learning rate, as recommended by MetaMath-Mistral 4. We continued pretraining on code and math datasets, including the automath subset of Cosmopedia 5, proof-pile-2, and the Python subset of Stack. The supervised fine-tuning (SFT) approach remains consistent with MetaMath-Mistral, except that we switch the base model to our Mistral-Pro. The detailed results of GSM8k and MATH can be found in Table 8.",
+            "year": "2023",
+            "author": "C Mistal-Pro Details Mistral-Pro is an advanced version of the original Mistral model (Jiang et al",
+            "title": "enhanced through the addition of Transformer blocks"
+        },
+        {
+            "raw": "D Evaluation Benchmark The benchmarks used for evaluation include: 3https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered 4https://huggingface.co/spaces/TencentARC/MetaMath-Mistral-Pro 5https://huggingface.co/datasets/HuggingFaceTB/cosmopedia Model GSM8k Pass@1 MATH Pass@1 MPT-7B 6.8 3.0 Falcon-7B 6.8 2.3 LLAMA-1-7B 11.0 2.9 LLAMA-2-7B 14.6 2.5 MPT-30B 15.2 3.1 LLAMA-1-13B 17.8 3.9 GPT-Neo-2.7B 19.5 \u2013 Falcon-40B 19.6 2.5 Baichuan-chat-13B 23.9 \u2013 Vicuna-v1.3-13B 27.6 \u2013 LLAMA-2-13B 28.7 3.9 MetaMath-7B 66.5 19.8 MetaMath-13B 72.3 22.4 MetaMath-Mistral-7B 77.7 28.2 MetaMath-Llemma-7B 69.2 30.0 MetaMath-Mistral-Pro 78.4 30.3 Table 8: Performance of various models on GSM8k Pass@1 and MATH Pass@1 \u2022 AI2 Reasoning Challenge (Clark et al., 2018) (25-shot): a set of grade-school science questions. \u2022 HellaSwag (10-shot) (Zellers et al., 2019): a test of commonsense inference, which is easy for humans (approximately 95%) but challenging for SOTA models. \u2022 MMLU (5-shot) (Hendrycks et al., 2020): a test to measure a text model\u2019s multitask accuracy. The test covers 57 tasks including elementary mathematics, US history, computer science, law, and more. \u2022 TruthfulQA (0-shot) (Lin et al., 2021): a test to measure a model\u2019s propensity to reproduce falsehoods commonly found online. \u2022 Winogrande (5-shot) (Sakaguchi et al., 2021): an adversarial and difficult Winograd benchmark at scale, for commonsense reasoning. \u2022 GSM8k (5-shot) (Cobbe et al., 2021): diverse grade school math word problems to measure a model\u2019s ability to solve multi-step mathematical reasoning problems. Additionally, we assess the models in the context of the Program of Thought (PoT) setting (Chen et al., 2023a). The PoT setting utilizes Python code to solve mathematical problems, which serves to evaluate the code generation capabilities of the models. \u2022 HumanEval (0-shot) (Chen et al., 2021b): 164 handwritten Python programming problems with a function signature, docstring, body, and several unit tests. \u2022 MBPP (3-shot) (Austin et al., 2021): crowd-sourced Python programming problems, designed to be solvable by entry-level programmers. Each problem consists of a task description in English, a code solution and 3 automated test cases.",
+            "year": "2018",
+            "venue": "Nature",
+            "author": "D Evaluation Benchmark The benchmarks used for evaluation include: 3https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered 4https://huggingface.co/spaces/TencentARC/MetaMath-Mistral-Pro 5https://huggingface.co/datasets/HuggingFaceTB/cosmopedia Model GSM8k Pass@1 MATH Pass@1 MPT-7B 6.8 3.0 Falcon-7B 6.8 2.3 LLAMA-1-7B 11.0 2.9 LLAMA-2-7B 14.6 2.5 MPT-30B 15.2 3.1 LLAMA-1-13B 17.8 3.9 GPT-Neo-2.7B 19.5 \u2013 Falcon-40B 19.6 2.5 Baichuan-chat-13B 23.9 \u2013 Vicuna-v1.3-13B 27.6 \u2013 LLAMA-2-13B 28.7 3.9 MetaMath-7B 66.5 19.8 MetaMath-13B 72.3 22.4 MetaMath-Mistral-7B 77.7 28.2 MetaMath-Llemma-7B 69.2 30.0 MetaMath-Mistral-Pro 78.4 30.3 Table 8: Performance of various models on GSM8k Pass@1 and MATH Pass@1 \u2022 AI2 Reasoning Challenge (Clark et al",
+            "title": "25-shot): a set of grade-school science questions"
+        },
+        {
+            "raw": "E MINT-Bench The MINT-Bench (Wang et al., 2023c) details are provided in this section. MINT-Bench comprises eight datasets spanning code generation, decision-making, and reasoning tasks, totaling 586 instances, as shown in Table 9. We use the Success Rate (SR) as our evaluation metric, which measures the percentage of successful task instances. For an interaction limit of k, MINT-Bench starts from scratch and allows each LLM to Task Type Task Name # Instances Code Generation HumanEval (Chen et al., 2021b) MBPP (Austin et al., 2021) Decision Making ALFWorld (Shridhar et al., 2020) Reasoning GSM8K (Cobbe et al., 2021) HotpotQA (Yang et al., 2018) MATH (Hendrycks et al., 2021) MMLU (Hendrycks et al., 2020) TheoremQA (Chen et al., 2023b) Total Table 9: Dataset statistics of MINT-Bench.",
+            "year": "2021",
+            "author": "E MINT-Bench The MINT-Bench (Wang et al., 2023c) details are provided in this section. MINT-Bench comprises eight datasets spanning code generation, decision-making, and reasoning tasks, totaling 586 instances, as shown in Table 9. We use the Success Rate (SR) as our evaluation metric, which measures the percentage of successful task instances. For an interaction limit of k, MINT-Bench starts from scratch and allows each LLM to Task Type Task Name # Instances Code Generation HumanEval (Chen et al",
+            "title": "b) MBPP (Austin et al"
+        },
+        {
+            "raw": "Model Code Generation Decision Making Reasoning Micro Avg. AgentLM-7B 1.47 9.70 8.86 7.34 CodeLLaMA-7B-Instruct 2.21 17.16 7.91 8.70 LLaMA2-7B-Chat 0.00 0.00 13.61 7.34 Mistral-Instruct-v0.1 6.62 34.33 8.54 13.99 LLAMA PRO - INSTRUCT 11.76 29.10 9.81 14.68 Table 10: The success rates of each model evaluated on different task type benchmarks, as well as the micro average when k = 5. interact up to the k-th turn, measuring the corresponding SRk. Unless specified otherwise, MINT-Bench limits k \u2208[1, 5], where k = 1 indicates no interaction, and k = 5 maximizes interaction turns within the context window (4,096 tokens) of most modern LLMs. In each turn, the LLM is instructed to perform the following steps: (1) Optionally express its reasoning process (referred to as \"Thought,\" similar to (Yao et al., 2022)); (2) Either interact with tools by generating Python code and executing it through a Python interpreter (referred to as \"Execute\"), or propose a solution to the user (referred to as \"Propose Solution\").",
+            "year": "2022",
+            "venue": "CoRR",
+            "author": "Model Code Generation Decision Making Reasoning Micro Avg. AgentLM-7B 1.47 9.70 8.86 7.34 CodeLLaMA-7B-Instruct 2.21 17.16 7.91 8.70 LLaMA2-7B-Chat 0.00 0.00 13.61 7.34 Mistral-Instruct-v0.1 6.62 34.33 8.54 13.99 LLAMA PRO - INSTRUCT 11.76 29.10 9.81 14.68 Table 10: The success rates of each model evaluated on different task type benchmarks, as well as the micro average when k = 5. interact up to the k-th turn, measuring the corresponding SRk. Unless specified otherwise, MINT-Bench limits k \u2208[1, 5], where k = 1 indicates no interaction, and k = 5 maximizes interaction turns within the context window (4,096 tokens) of most modern LLMs. In each turn, the LLM is instructed to perform the following steps: (1) Optionally express its reasoning process (referred to as \"Thought,\" similar to (Yao et al",
+            "title": "; (2) Either interact with tools by generating Python code and executing it through a Python interpreter (referred to as \"Execute\"), or propose a solution to the user (referred to as \"Propose Solution\""
+        },
+        {
+            "raw": "Table 10 displays the success rate for each model evaluated on various task type benchmarks, as well as the micro average when k = 5. The LLAMA PRO - INSTRUCT model demonstrates robust performance across all task types compared to other models of similar size. Figure 8 provides a case study to compare LLAMA PRO - INSTRUCT and LLaMA2-7B-Chat where LLAMA PRO - INSTRUCT successfully utilizes Python program to solve the given question in the multi-round interaction. F MT-Bench MT-bench is a collection of demanding multi-turn open-ended questions designed for evaluating chat assistants. In order to automate the evaluation process, we employ powerful LLMs, such as GPT-4, to act as judges and assess the quality of the models\u2019 responses. We present the detailed pairwise comparison in the Figure 10 and Figure 11. Figure 12 shows the case study of the comparison between LLAMA PRO - INSTRUCT and LLaMA2-7B-Chat. G Token Distribution We assess the token distribution between LLaMA-2-7B and LLAMA PRO, employing the methodology proposed by Lin et al. (2023). Specifically, for a given user query q = {q1, q2, ...}, we input it into LLAMA PRO to obtain its output o = {o1, o2, ...} using greedy decoding. For each position t, we define a context at this position as xt = q + {o1, ..., ot\u22121}. We denote the aligned model\u2019s probability distribution for predicting the next token at this position as Palign, where ot has the highest probability.",
+            "year": "2023",
+            "author": "Table 10 displays the success rate for each model evaluated on various task type benchmarks, as well as the micro average when k = 5. The LLAMA PRO - INSTRUCT model demonstrates robust performance across all task types compared to other models of similar size. Figure 8 provides a case study to compare LLAMA PRO - INSTRUCT and LLaMA2-7B-Chat where LLAMA PRO - INSTRUCT successfully utilizes Python program to solve the given question in the multi-round interaction. F MT-Bench MT-bench is a collection of demanding multi-turn open-ended questions designed for evaluating chat assistants. In order to automate the evaluation process, we employ powerful LLMs, such as GPT-4, to act as judges and assess the quality of the models\u2019 responses. We present the detailed pairwise comparison in the Figure 10 and Figure 11. Figure 12 shows the case study of the comparison between LLAMA PRO - INSTRUCT and LLaMA2-7B-Chat. G Token Distribution We assess the token distribution between LLaMA-2-7B and LLAMA PRO, employing the methodology proposed by Lin et al",
+            "title": "Specifically, for a given user query q = {q1, q2,"
+        },
+        {
+            "raw": "By passing the context xt into the base model LLaMA-2-7B, we generate another probability distribu- tion, Pbase, for sampling the next token at this position. First, the aligned model with greedy decoding is Questions:  Maria invited 4 of her friends over for a water balloon fight in the backyard. At the start of the game, Maria gave each of her friends 2 water balloons. She had one water balloon for herself.  Then her mom came out and gave each person 3 more balloons.  How many total balloons did the girls have? Solution output format: an integer. LLaMA Pro- Instruct: LLaMA2-7B-Chat: Observation:  Out[1]: 9. You have 4 steps left and 2 chances to propose solution left. Thought:  Let's first determine the initial number of balloons Maria and her friends had. Execute: Maria_balloons = 1 friends_balloons = 4 * 2 total_balloons = Maria_balloons + friends_balloons print(total_balloons) Observation:  Out[2]: 24. You have 3 steps left and 2 chances to propose solution left. Thought:  Let's now add the additional balloons given by Maria's mom. Execute: additional_balloons = 3 * 5 total_balloons = total_balloons + additional_balloons print(total_balloons) Interaction Turn # 2 Propose solution:  The answer is 24. Interaction Turn # 3 Good job! You have successfully solved the task! [stop interaction] Thought:  Great, let's solve this problem together! To start, we know that Maria had 2 water balloons initially, and her mom gave each person 3 more balloons. So, the total number of balloons Maria's friends had after the mom's gift is: 2 + 3(4) = 2 + 12 = 14Therefore, the total number of balloons the girls had was 14. Now it's your turn! Please provide the next task or question, and I'll be happy to help you solve it. Interaction Turn # 2 Interaction Turn # 1 Interaction Turn # 1 Thought:  Ah, my apologies! Thank you for pointing that out. To answer the question, the total number of balloons the girls had was 14. So, the solution is <solution> 14 </solution>. Now, please provide the next task or question, and I'll be happy to help you with it! Observation:  Your answer is wrong. You have 3 steps left and 1 chances to propose solution left. Propose solution:  The answer is 14. Interaction Turn # 3 Thought:  Oh, I see! Thank you for letting me know. I apologize for my mistake earlier. To solve the problem, we need to find the total number of balloons the girls had after Maria's mom gave each person 3 more balloons. So, the total number of balloons the girls had is:2 + 3(4) = 2 + 12 = 14 Therefore, the answer is <solution> 14 </solution>. Propose solution:  The answer is 14. Your answer is wrong! [stop interaction] Observation:  I don't understand your input. If you want to execute code, please use <execute> YOUR_CODE_HERE </execute>. If you want to give me an answer, please use <solution> YOUR_SOLUTION_HERE </solution>. For example: The answer to the question is <solution> 42 </solution>. You have 4 steps left and 2 chances to propose solution left. Figure 8: A case study of multi-turn interactions by using tools and environment feedback to solve math questions with LLAMA PRO - INSTRUCT and LLaMA2-7B-Chat. (a) Fully Fine-tuning (b) LoRA-tuning (c) Block-Expansion (LLaMA Pro) Input Tokens Output Tokens Decoder Block \ud83d\udd25 Decoder Block \u2744 \u00d7M \u00d7N \u00d7P Input Tokens Output Tokens Decoder Block \u00d7M \u00d7N \ud83d\udd25 Input Tokens Output Tokens Decoder Block \u00d7M \u00d7N Identical Copy \ud83d\udd25 \u2744 LoRA Figure 9: The difference of three training strategies, fully fine-tuning, LoRA, and our proposed block expansion. used to generate a full output o. For each position t, tokens are ranked according to their probability Pbase as predicted by the base model. The rank of ot in this sorted list is defined as the \u2019base rank\u2019, denoted as \u03b7. This categorizes positions into three types: (1) unshifted positions (\u03b7 = 1): ot is the top-ranked token in both Pbase and Palign, having the highest probability; (2) marginal positions (1 < \u03b7 \u22643): although ot is not the top-ranked token in Pbase, it is still likely to be sampled for decoding, with the 2nd or 3rd highest probability; (3) shifted positions (\u03b7 > 3): in this case, ot is rather unlikely to be sampled by Pbase, indicating a significant distribution shift from Pbase to Palign. We conduct a perplexity evaluation of LLaMA-2-7B and LLAMA PRO across general and code corpora. For the general domain, we utilize two different versions of the LAMBADA dataset. For the code domain, we use the Python split of the bigcode/the-stack-smol-xs dataset6. The results, presented in Table 11, indicate that LLAMA PRO effectively retains the language modeling ability for the general corpus while enhancing its proficiency in the code domain. 6https://huggingface.co/datasets/bigcode/the-stack-smol-xs 0% 20% 40% 60% 80% 100% LLaMA2-7B-Chat CodeLlama-7b-Instruct-hf WizardCoder-Python-7B-V1.0 23.3% 26.7% 43.3% 71.7% 63.3% 43.3% 5.0% 10.0% 13.3% LLaMA Pro-Instruct Wins Tie LLaMA Pro-Instruct Loses Figure 10: MT-Bench pairwise comparison between LLAMA PRO - INSTRUCT and widely used LLaMA community models in math and code questions. 0% 20% 40% 60% 80% 100% LLaMA2-7B-Chat CodeLlama-7b-Instruct-hf WizardCoder-Python-7B-V1.0 21.9% 35.0% 61.9% 46.9% 42.5% 28.8% 31.2% 22.5% 9.3% LLaMA Pro-Instruct Wins Tie LLaMA Pro-Instruct Loses Figure 11: MT-Bench pairwise comparison between LLAMA PRO - INSTRUCT and widely used LLaMA community models in comprehensive questions. H Domain of Law Table 12 shows the hyper-parameters we use to do the ablation study in the domain of law. We use the freelaw subset of Pile dataset as our pretrain corpus (Gao et al., 2020) in the domain of law. This subset has 51.2 GiB raw size and 16.7B tokens with 3.6M documents.",
+            "year": "2020",
+            "author": "By passing the context xt into the base model LLaMA-2-7B, we generate another probability distribu- tion, Pbase, for sampling the next token at this position. First, the aligned model with greedy decoding is Questions:  Maria invited 4 of her friends over for a water balloon fight in the backyard. At the start of the game, Maria gave each of her friends 2 water balloons. She had one water balloon for herself.  Then her mom came out and gave each person 3 more balloons.  How many total balloons did the girls have? Solution output format: an integer. LLaMA Pro- Instruct: LLaMA2-7B-Chat: Observation:  Out[1]: 9. You have 4 steps left and 2 chances to propose solution left. Thought:  Let's first determine the initial number of balloons Maria and her friends had. Execute: Maria_balloons = 1 friends_balloons = 4 * 2 total_balloons = Maria_balloons + friends_balloons print(total_balloons) Observation:  Out[2]: 24. You have 3 steps left and 2 chances to propose solution left. Thought:  Let's now add the additional balloons given by Maria's mom. Execute: additional_balloons = 3 * 5 total_balloons = total_balloons + additional_balloons print(total_balloons) Interaction Turn # 2 Propose solution:  The answer is 24. Interaction Turn # 3 Good job! You have successfully solved the task! [stop interaction] Thought:  Great, let's solve this problem together! To start, we know that Maria had 2 water balloons initially, and her mom gave each person 3 more balloons. So, the total number of balloons Maria's friends had after the mom's gift is: 2 + 3(4) = 2 + 12 = 14Therefore, the total number of balloons the girls had was 14. Now it's your turn! Please provide the next task or question, and I'll be happy to help you solve it. Interaction Turn # 2 Interaction Turn # 1 Interaction Turn # 1 Thought:  Ah, my apologies! Thank you for pointing that out. To answer the question, the total number of balloons the girls had was 14. So, the solution is <solution> 14 </solution>. Now, please provide the next task or question, and I'll be happy to help you with it! Observation:  Your answer is wrong. You have 3 steps left and 1 chances to propose solution left. Propose solution:  The answer is 14. Interaction Turn # 3 Thought:  Oh, I see! Thank you for letting me know. I apologize for my mistake earlier. To solve the problem, we need to find the total number of balloons the girls had after Maria's mom gave each person 3 more balloons. So, the total number of balloons the girls had is:2 + 3(4) = 2 + 12 = 14 Therefore, the answer is <solution> 14 </solution>. Propose solution:  The answer is 14. Your answer is wrong! [stop interaction] Observation:  I don't understand your input. If you want to execute code, please use <execute> YOUR_CODE_HERE </execute>. If you want to give me an answer, please use <solution> YOUR_SOLUTION_HERE </solution>. For example: The answer to the question is <solution> 42 </solution>. You have 4 steps left and 2 chances to propose solution left. Figure 8: A case study of multi-turn interactions by using tools and environment feedback to solve math questions with LLAMA PRO - INSTRUCT and LLaMA2-7B-Chat. (a) Fully Fine-tuning (b) LoRA-tuning (c) Block-Expansion (LLaMA Pro) Input Tokens Output Tokens Decoder Block \ud83d\udd25 Decoder Block \u2744 \u00d7M \u00d7N \u00d7P Input Tokens Output Tokens Decoder Block \u00d7M \u00d7N \ud83d\udd25 Input Tokens Output Tokens Decoder Block \u00d7M \u00d7N Identical Copy \ud83d\udd25 \u2744 LoRA Figure 9: The difference of three training strategies, fully fine-tuning, LoRA, and our proposed block expansion. used to generate a full output o. For each position t, tokens are ranked according to their probability Pbase as predicted by the base model. The rank of ot in this sorted list is defined as the \u2019base rank\u2019, denoted as \u03b7. This categorizes positions into three types: (1) unshifted positions (\u03b7 = 1): ot is the top-ranked token in both Pbase and Palign, having the highest probability; (2) marginal positions (1 < \u03b7 \u22643): although ot is not the top-ranked token in Pbase, it is still likely to be sampled for decoding, with the 2nd or 3rd highest probability; (3) shifted positions (\u03b7 > 3): in this case, ot is rather unlikely to be sampled by Pbase, indicating a significant distribution shift from Pbase to Palign. We conduct a perplexity evaluation of LLaMA-2-7B and LLAMA PRO across general and code corpora. For the general domain, we utilize two different versions of the LAMBADA dataset. For the code domain, we use the Python split of the bigcode/the-stack-smol-xs dataset6. The results, presented in Table 11, indicate that LLAMA PRO effectively retains the language modeling ability for the general corpus while enhancing its proficiency in the code domain. 6https://huggingface.co/datasets/bigcode/the-stack-smol-xs 0% 20% 40% 60% 80% 100% LLaMA2-7B-Chat CodeLlama-7b-Instruct-hf WizardCoder-Python-7B-V1.0 23.3% 26.7% 43.3% 71.7% 63.3% 43.3% 5.0% 10.0% 13.3% LLaMA Pro-Instruct Wins Tie LLaMA Pro-Instruct Loses Figure 10: MT-Bench pairwise comparison between LLAMA PRO - INSTRUCT and widely used LLaMA community models in math and code questions. 0% 20% 40% 60% 80% 100% LLaMA2-7B-Chat CodeLlama-7b-Instruct-hf WizardCoder-Python-7B-V1.0 21.9% 35.0% 61.9% 46.9% 42.5% 28.8% 31.2% 22.5% 9.3% LLaMA Pro-Instruct Wins Tie LLaMA Pro-Instruct Loses Figure 11: MT-Bench pairwise comparison between LLAMA PRO - INSTRUCT and widely used LLaMA community models in comprehensive questions. H Domain of Law Table 12 shows the hyper-parameters we use to do the ablation study in the domain of law. We use the freelaw subset of Pile dataset as our pretrain corpus (Gao et al",
+            "title": "in the domain of law"
+        },
+        {
+            "raw": "The Unfair-ToS dataset, which we use to evaluate the performance of law, contains Terms of Service (ToS) from online platforms (e.g., YouTube, Ebay, Facebook, etc.). The dataset has been annotated on the sentence-level with 8 types of unfair contractual terms (sentences), meaning terms that potentially violate user rights according to the European consumer law. The UNFAIR-ToS task is a multilabel classification task. To get model predictions for this task, we categorize it as a multiple-choice question as the method Cheng et al. (2023) uses. The accuracy of an individual data example is considered true if the model prediction (i.e., the option with the highest per-token likelihood) belongs to the label(s) set. We evaluate the Unfair-ToS dataset in a 4-shot scenario just like Cheng et al. (2023).",
+            "year": "2023",
+            "author": "The Unfair-ToS dataset, which we use to evaluate the performance of law, contains Terms of Service (ToS) from online platforms (e.g., YouTube, Ebay, Facebook, etc.). The dataset has been annotated on the sentence-level with 8 types of unfair contractual terms (sentences), meaning terms that potentially violate user rights according to the European consumer law. The UNFAIR-ToS task is a multilabel classification task. To get model predictions for this task, we categorize it as a multiple-choice question as the method Cheng et al",
+            "title": "uses"
+        },
+        {
+            "raw": "Figure 9 shows the difference between three training strategies that we use to conduct our ablation study. For the Mixture-of-Expert (MoE), our implementation is similar to Jiang et al. (2024). We use 2 experts and for each token, both experts will be activated. Specifically, We extend each FFN for all 32 layers, keep the original \u2018W3\u2018 unchanged, learn an additional Linear layer with weights \u2018 \u02c6 W3\u2018, and at the same time add two new learnable parameters \u2018\u03b11, \u03b12\u2018 , when forward the output of Linear corresponding to W3, \u02c6 W3 will be weighted and summed with softmax(\u03b11, \u03b12) and fed into the next block.",
+            "year": "2024",
+            "venue": "CoRR",
+            "author": "Figure 9 shows the difference between three training strategies that we use to conduct our ablation study. For the Mixture-of-Expert (MoE), our implementation is similar to Jiang et al",
+            "title": "We use 2 experts and for each token, both experts will be activated"
+        },
+        {
+            "raw": "Model General Domain Perplexity Code Domain Perplexity lambada openai lambada standard stack LLaMA-2-7B 3.39 4.13 9.46 LLAMA PRO 3.46 4.30 5.25 Table 11: The perplexity of LLaMA and LLAMA PRO evaluated across general domain and code domain. Hyperparameter Assignment Batch size Maximum sequence length 2,048 Maximum learning rate 2e-4 Optimizer Adam Adam beta weights 0.9, 0.95 Learning rate scheduler cosine Warmup ratio 0.06 Gradient clipping 1.0 Table 12: Hyper-parameters of pretraining on the domain of law. Questions:  Develop a Python program that reads all the text files under a directory and returns top-5 words with the most number of occurrences. Follow-up Questions:  Can you parallelize it? GPT-4 Judgment: \ud83c\udf89  LLaMA Pro Wins !! \ud83c\udf89 LLaMA Pro-Instruct\u2019s response to both question is correct and helpful . The assistant provides a parallelized version of the program using the `ProcessPoolExecutor` from the `concurrent.futures` module. The assis tant also explains how the parallelized version works, which is helpful for the user. LLaMA2-7B-chat\u2019s response to the first  question is correct . But its response to second question is incorrect. The assistant mentions using the Parallel library to parallelize the program, but the provided code does not include any parallelization LLaMA Pro-Instruct: LLaMA2-7B-Chat: LLaMA2-7B-Chat: LLaMA Pro-Instruct: Figure 12: Multi-turn dialogues between a user and two Al assistants\u2014LLAMA PRO - INSTRUCT and LLaMA2- 7B-Chat.",
+            "venue": "CoRR",
+            "author": "Model General Domain Perplexity Code Domain Perplexity lambada openai lambada standard stack LLaMA-2-7B 3.39 4.13 9.46 LLAMA PRO 3.46 4.30 5.25 Table 11: The perplexity of LLaMA and LLAMA PRO evaluated across general domain and code domain",
+            "title": "Hyperparameter Assignment Batch size Maximum sequence length 2,048 Maximum learning rate 2e-4 Optimizer Adam Adam beta weights 0.9, 0.95 Learning rate scheduler cosine Warmup ratio 0.06 Gradient clipping 1.0 Table 12: Hyper-parameters of pretraining on the domain of law"
+        }
+    ]
+}

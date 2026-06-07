@@ -1,0 +1,306 @@
+{
+    "paper": "2017_Attention_Is_All_You_Need.pdf",
+    "total_references": 40,
+    "references": [
+        {
+            "raw": "[1] Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E Hinton. Layer normalization. arXiv preprint arXiv:1607.06450, 2016.",
+            "year": "2016",
+            "venue": "arXiv preprint arXiv:1607.06450",
+            "author": "Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E Hinton",
+            "arxiv_id": "1607.06450",
+            "title": "Layer normalization"
+        },
+        {
+            "raw": "[2] Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. Neural machine translation by jointly learning to align and translate. CoRR, abs/1409.0473, 2014.",
+            "year": "2014",
+            "venue": "CoRR, abs/1409.0473",
+            "author": "Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio",
+            "title": "Neural machine translation by jointly learning to align and translate",
+            "arxiv_id": "1409.0473"
+        },
+        {
+            "raw": "[3] Denny Britz, Anna Goldie, Minh-Thang Luong, and Quoc V. Le. Massive exploration of neural machine translation architectures. CoRR, abs/1703.03906, 2017.",
+            "year": "2017",
+            "venue": "CoRR, abs/1703.03906",
+            "author": "Denny Britz, Anna Goldie, Minh-Thang Luong, and Quoc V. Le",
+            "title": "Massive exploration of neural machine translation architectures",
+            "arxiv_id": "1703.03906"
+        },
+        {
+            "raw": "[4] Jianpeng Cheng, Li Dong, and Mirella Lapata. Long short-term memory-networks for machine reading. arXiv preprint arXiv:1601.06733, 2016.",
+            "year": "2016",
+            "venue": "arXiv preprint arXiv:1601.06733",
+            "author": "Jianpeng Cheng, Li Dong, and Mirella Lapata",
+            "arxiv_id": "1601.06733",
+            "title": "Long short-term memory-networks for machine reading"
+        },
+        {
+            "raw": "[5] Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. Learning phrase representations using rnn encoder-decoder for statistical machine translation. CoRR, abs/1406.1078, 2014.",
+            "year": "2014",
+            "venue": "CoRR, abs/1406.1078",
+            "author": "Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi Bougares, Holger Schwenk, and Yoshua Bengio",
+            "title": "Learning phrase representations using rnn encoder-decoder for statistical machine translation",
+            "arxiv_id": "1406.1078"
+        },
+        {
+            "raw": "[6] Francois Chollet. Xception: Deep learning with depthwise separable convolutions. arXiv preprint arXiv:1610.02357, 2016.",
+            "year": "2016",
+            "venue": "arXiv preprint arXiv:1610.02357",
+            "author": "Francois Chollet",
+            "arxiv_id": "1610.02357",
+            "title": "Xception: Deep learning with depthwise separable convolutions"
+        },
+        {
+            "raw": "[7] Junyoung Chung, \u00c7aglar G\u00fcl\u00e7ehre, Kyunghyun Cho, and Yoshua Bengio. Empirical evaluation of gated recurrent neural networks on sequence modeling. CoRR, abs/1412.3555, 2014.",
+            "year": "2014",
+            "venue": "CoRR, abs/1412.3555",
+            "author": "Junyoung Chung, \u00c7aglar G\u00fcl\u00e7ehre, Kyunghyun Cho, and Yoshua Bengio",
+            "title": "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+            "arxiv_id": "1412.3555"
+        },
+        {
+            "raw": "[8] Chris Dyer, Adhiguna Kuncoro, Miguel Ballesteros, and Noah A. Smith. Recurrent neural network grammars. In Proc. of NAACL, 2016.",
+            "year": "2016",
+            "venue": "In Proc. of NAACL",
+            "author": "Chris Dyer, Adhiguna Kuncoro, Miguel Ballesteros, and Noah A. Smith",
+            "title": "Recurrent neural network grammars"
+        },
+        {
+            "raw": "[9] Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann N. Dauphin. Convolu- tional sequence to sequence learning. arXiv preprint arXiv:1705.03122v2, 2017.",
+            "year": "2017",
+            "venue": "arXiv preprint arXiv:1705.03122v2",
+            "author": "Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and Yann N. Dauphin",
+            "arxiv_id": "1705.03122v2",
+            "title": "Convolu- tional sequence to sequence learning"
+        },
+        {
+            "raw": "[10] Alex Graves. Generating sequences with recurrent neural networks. arXiv preprint arXiv:1308.0850, 2013.",
+            "year": "2013",
+            "venue": "arXiv preprint arXiv:1308.0850",
+            "author": "Alex Graves",
+            "arxiv_id": "1308.0850",
+            "title": "Generating sequences with recurrent neural networks"
+        },
+        {
+            "raw": "[11] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for im- age recognition. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 770\u2013778, 2016.",
+            "year": "2016",
+            "venue": "In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 770\u2013778",
+            "author": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun",
+            "title": "Deep residual learning for im- age recognition"
+        },
+        {
+            "raw": "[12] Sepp Hochreiter, Yoshua Bengio, Paolo Frasconi, and J\u00fcrgen Schmidhuber. Gradient flow in recurrent nets: the difficulty of learning long-term dependencies, 2001.",
+            "year": "2001",
+            "author": "Sepp Hochreiter, Yoshua Bengio, Paolo Frasconi, and J\u00fcrgen Schmidhuber",
+            "title": "Gradient flow in recurrent nets: the difficulty of learning long-term dependencies, 2001"
+        },
+        {
+            "raw": "[13] Sepp Hochreiter and J\u00fcrgen Schmidhuber. Long short-term memory. Neural computation, 9(8):1735\u20131780, 1997.",
+            "year": "1997",
+            "author": "Sepp Hochreiter and J\u00fcrgen Schmidhuber",
+            "title": "Long short-term memory",
+            "venue": "Neural computation, 9(8):1735\u20131780"
+        },
+        {
+            "raw": "[14] Zhongqiang Huang and Mary Harper. Self-training PCFG grammars with latent annotations across languages. In Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing, pages 832\u2013841. ACL, August 2009.",
+            "year": "2009",
+            "venue": "In Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing, pages 832\u2013841. ACL, August",
+            "author": "Zhongqiang Huang and Mary Harper",
+            "title": "Self-training PCFG grammars with latent annotations across languages"
+        },
+        {
+            "raw": "[15] Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, and Yonghui Wu. Exploring the limits of language modeling. arXiv preprint arXiv:1602.02410, 2016.",
+            "year": "2016",
+            "venue": "arXiv preprint arXiv:1602.02410",
+            "author": "Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer, and Yonghui Wu",
+            "arxiv_id": "1602.02410",
+            "title": "Exploring the limits of language modeling"
+        },
+        {
+            "raw": "[16] \u0141ukasz Kaiser and Samy Bengio. Can active memory replace attention? In Advances in Neural Information Processing Systems, (NIPS), 2016.",
+            "year": "2016",
+            "author": "\u0141ukasz Kaiser and Samy Bengio",
+            "title": "Can active memory replace attention?",
+            "venue": "In Advances in Neural Information Processing Systems, (NIPS)"
+        },
+        {
+            "raw": "[17] \u0141ukasz Kaiser and Ilya Sutskever. Neural GPUs learn algorithms. In International Conference on Learning Representations (ICLR), 2016.",
+            "year": "2016",
+            "venue": "In International Conference on Learning Representations (ICLR)",
+            "author": "\u0141ukasz Kaiser and Ilya Sutskever",
+            "title": "Neural GPUs learn algorithms"
+        },
+        {
+            "raw": "[18] Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, and Ko- ray Kavukcuoglu. Neural machine translation in linear time. arXiv preprint arXiv:1610.10099v2, 2017.",
+            "year": "2017",
+            "venue": "arXiv preprint arXiv:1610.10099v2",
+            "author": "Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, and Ko- ray Kavukcuoglu",
+            "arxiv_id": "1610.10099v2",
+            "title": "Neural machine translation in linear time"
+        },
+        {
+            "raw": "[19] Yoon Kim, Carl Denton, Luong Hoang, and Alexander M. Rush. Structured attention networks. In International Conference on Learning Representations, 2017.",
+            "year": "2017",
+            "author": "Yoon Kim, Carl Denton, Luong Hoang, and Alexander M. Rush",
+            "title": "Structured attention networks",
+            "venue": "In International Conference on Learning Representations"
+        },
+        {
+            "raw": "[20] Diederik Kingma and Jimmy Ba. Adam: A method for stochastic optimization. In ICLR, 2015.",
+            "year": "2015",
+            "venue": "In ICLR",
+            "author": "Diederik Kingma and Jimmy Ba",
+            "title": "Adam: A method for stochastic optimization"
+        },
+        {
+            "raw": "[21] Oleksii Kuchaiev and Boris Ginsburg. Factorization tricks for LSTM networks. arXiv preprint arXiv:1703.10722, 2017.",
+            "year": "2017",
+            "venue": "arXiv preprint arXiv:1703.10722",
+            "author": "Oleksii Kuchaiev and Boris Ginsburg",
+            "arxiv_id": "1703.10722",
+            "title": "Factorization tricks for LSTM networks"
+        },
+        {
+            "raw": "[22] Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, and Yoshua Bengio. A structured self-attentive sentence embedding. arXiv preprint arXiv:1703.03130, 2017.",
+            "year": "2017",
+            "venue": "arXiv preprint arXiv:1703.03130",
+            "author": "Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, and Yoshua Bengio",
+            "arxiv_id": "1703.03130",
+            "title": "A structured self-attentive sentence embedding"
+        },
+        {
+            "raw": "[23] Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, and Lukasz Kaiser. Multi-task sequence to sequence learning. arXiv preprint arXiv:1511.06114, 2015.",
+            "year": "2015",
+            "venue": "arXiv preprint arXiv:1511.06114",
+            "author": "Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, and Lukasz Kaiser",
+            "arxiv_id": "1511.06114",
+            "title": "Multi-task sequence to sequence learning"
+        },
+        {
+            "raw": "[24] Minh-Thang Luong, Hieu Pham, and Christopher D Manning. Effective approaches to attention- based neural machine translation. arXiv preprint arXiv:1508.04025, 2015.",
+            "year": "2015",
+            "venue": "arXiv preprint arXiv:1508.04025",
+            "author": "Minh-Thang Luong, Hieu Pham, and Christopher D Manning",
+            "arxiv_id": "1508.04025",
+            "title": "Effective approaches to attention- based neural machine translation"
+        },
+        {
+            "raw": "[25] Mitchell P Marcus, Mary Ann Marcinkiewicz, and Beatrice Santorini. Building a large annotated corpus of english: The penn treebank. Computational linguistics, 19(2):313\u2013330, 1993.",
+            "year": "1993",
+            "author": "Mitchell P Marcus, Mary Ann Marcinkiewicz, and Beatrice Santorini",
+            "title": "Building a large annotated corpus of english: The penn treebank",
+            "venue": "Computational linguistics, 19(2):313\u2013330"
+        },
+        {
+            "raw": "[26] David McClosky, Eugene Charniak, and Mark Johnson. Effective self-training for parsing. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 152\u2013159. ACL, June 2006.",
+            "year": "2006",
+            "venue": "In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 152\u2013159. ACL, June",
+            "author": "David McClosky, Eugene Charniak, and Mark Johnson",
+            "title": "Effective self-training for parsing"
+        },
+        {
+            "raw": "[27] Ankur Parikh, Oscar T\u00e4ckstr\u00f6m, Dipanjan Das, and Jakob Uszkoreit. A decomposable attention model. In Empirical Methods in Natural Language Processing, 2016.",
+            "year": "2016",
+            "author": "Ankur Parikh, Oscar T\u00e4ckstr\u00f6m, Dipanjan Das, and Jakob Uszkoreit",
+            "title": "A decomposable attention model",
+            "venue": "In Empirical Methods in Natural Language Processing"
+        },
+        {
+            "raw": "[28] Romain Paulus, Caiming Xiong, and Richard Socher. A deep reinforced model for abstractive summarization. arXiv preprint arXiv:1705.04304, 2017.",
+            "year": "2017",
+            "venue": "arXiv preprint arXiv:1705.04304",
+            "author": "Romain Paulus, Caiming Xiong, and Richard Socher",
+            "arxiv_id": "1705.04304",
+            "title": "A deep reinforced model for abstractive summarization"
+        },
+        {
+            "raw": "[29] Slav Petrov, Leon Barrett, Romain Thibaux, and Dan Klein. Learning accurate, compact, and interpretable tree annotation. In Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the ACL, pages 433\u2013440. ACL, July 2006.",
+            "year": "2006",
+            "venue": "In Proceedings of the 21st International Conference on Computational Linguistics and 44th Annual Meeting of the ACL, pages 433\u2013440. ACL, July",
+            "author": "Slav Petrov, Leon Barrett, Romain Thibaux, and Dan Klein",
+            "title": "Learning accurate, compact, and interpretable tree annotation"
+        },
+        {
+            "raw": "[30] Ofir Press and Lior Wolf. Using the output embedding to improve language models. arXiv preprint arXiv:1608.05859, 2016.",
+            "year": "2016",
+            "venue": "arXiv preprint arXiv:1608.05859",
+            "author": "Ofir Press and Lior Wolf",
+            "arxiv_id": "1608.05859",
+            "title": "Using the output embedding to improve language models"
+        },
+        {
+            "raw": "[31] Rico Sennrich, Barry Haddow, and Alexandra Birch. Neural machine translation of rare words with subword units. arXiv preprint arXiv:1508.07909, 2015.",
+            "year": "2015",
+            "venue": "arXiv preprint arXiv:1508.07909",
+            "author": "Rico Sennrich, Barry Haddow, and Alexandra Birch",
+            "arxiv_id": "1508.07909",
+            "title": "Neural machine translation of rare words with subword units"
+        },
+        {
+            "raw": "[32] Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. Outrageously large neural networks: The sparsely-gated mixture-of-experts layer. arXiv preprint arXiv:1701.06538, 2017.",
+            "year": "2017",
+            "venue": "arXiv preprint arXiv:1701.06538",
+            "author": "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean",
+            "arxiv_id": "1701.06538",
+            "title": "Outrageously large neural networks: The sparsely-gated mixture-of-experts layer"
+        },
+        {
+            "raw": "[33] Nitish Srivastava, Geoffrey E Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdi- nov. Dropout: a simple way to prevent neural networks from overfitting. Journal of Machine Learning Research, 15(1):1929\u20131958, 2014.",
+            "year": "1929",
+            "author": "Nitish Srivastava, Geoffrey E Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdi- nov",
+            "title": "Dropout: a simple way to prevent neural networks from overfitting",
+            "venue": "Journal of Machine Learning Research, 15(1):1929\u2013"
+        },
+        {
+            "raw": "[34] Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, and Rob Fergus. End-to-end memory networks. In C. Cortes, N. D. Lawrence, D. D. Lee, M. Sugiyama, and R. Garnett, editors, Advances in Neural Information Processing Systems 28, pages 2440\u20132448. Curran Associates, Inc., 2015.",
+            "year": "2015",
+            "author": "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, and Rob Fergus",
+            "title": "End-to-end memory networks",
+            "venue": "In C. Cortes, N. D. Lawrence, D. D. Lee, M. Sugiyama, and R. Garnett, editors, Advances in Neural Information Processing Systems 28, pages 2440\u20132448. Curran Associates, Inc"
+        },
+        {
+            "raw": "[35] Ilya Sutskever, Oriol Vinyals, and Quoc VV Le. Sequence to sequence learning with neural networks. In Advances in Neural Information Processing Systems, pages 3104\u20133112, 2014.",
+            "year": "2014",
+            "author": "Ilya Sutskever, Oriol Vinyals, and Quoc VV Le",
+            "title": "Sequence to sequence learning with neural networks",
+            "venue": "In Advances in Neural Information Processing Systems, pages 3104\u20133112"
+        },
+        {
+            "raw": "[36] Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, and Zbigniew Wojna. Rethinking the inception architecture for computer vision. CoRR, abs/1512.00567, 2015.",
+            "year": "2015",
+            "venue": "CoRR, abs/1512.00567",
+            "author": "Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, and Zbigniew Wojna",
+            "title": "Rethinking the inception architecture for computer vision",
+            "arxiv_id": "1512.00567"
+        },
+        {
+            "raw": "[37] Vinyals & Kaiser, Koo, Petrov, Sutskever, and Hinton. Grammar as a foreign language. In Advances in Neural Information Processing Systems, 2015.",
+            "year": "2015",
+            "author": "Vinyals & Kaiser, Koo, Petrov, Sutskever, and Hinton",
+            "title": "Grammar as a foreign language",
+            "venue": "In Advances in Neural Information Processing Systems"
+        },
+        {
+            "raw": "[38] Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, et al. Google\u2019s neural machine translation system: Bridging the gap between human and machine translation. arXiv preprint arXiv:1609.08144, 2016.",
+            "year": "2016",
+            "author": "Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, et al. Google\u2019s neural machine translation system: Bridging the gap between human and machine translation",
+            "arxiv_id": "1609.08144",
+            "title": "arXiv preprint arXiv:1609.08144, 2016"
+        },
+        {
+            "raw": "[39] Jie Zhou, Ying Cao, Xuguang Wang, Peng Li, and Wei Xu. Deep recurrent models with fast-forward connections for neural machine translation. CoRR, abs/1606.04199, 2016.",
+            "year": "2016",
+            "venue": "CoRR, abs/1606.04199",
+            "author": "Jie Zhou, Ying Cao, Xuguang Wang, Peng Li, and Wei Xu",
+            "title": "Deep recurrent models with fast-forward connections for neural machine translation",
+            "arxiv_id": "1606.04199"
+        },
+        {
+            "raw": "[40] Muhua Zhu, Yue Zhang, Wenliang Chen, Min Zhang, and Jingbo Zhu. Fast and accurate shift-reduce constituent parsing. In Proceedings of the 51st Annual Meeting of the ACL (Volume 1: Long Papers), pages 434\u2013443. ACL, August 2013. Attention Visualizations It is in this spirit that a majority of American governments have passed new laws since making the registration or voting process more difficult . <EOS> <pad> <pad> <pad> <pad> <pad> <pad> It is in this spirit that a majority of American governments have passed new laws since making the registration or voting process more difficult . <EOS> <pad> <pad> <pad> <pad> <pad> <pad> Figure 3: An example of the attention mechanism following long-distance dependencies in the encoder self-attention in layer 5 of 6. Many of the attention heads attend to a distant dependency of the verb \u2018making\u2019, completing the phrase \u2018making...more difficult\u2019. Attentions here shown only for the word \u2018making\u2019. Different colors represent different heads. Best viewed in color. The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> Figure 4: Two attention heads, also in layer 5 of 6, apparently involved in anaphora resolution. Top: Full attentions for head 5. Bottom: Isolated attentions from just the word \u2018its\u2019 for attention heads 5 and 6. Note that the attentions are very sharp for this word. The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> Figure 5: Many of the attention heads exhibit behaviour that seems related to the structure of the sentence. We give two such examples above, from two different heads from the encoder self-attention at layer 5 of 6. The heads clearly learned to perform different tasks.",
+            "year": "2013",
+            "venue": "In Proceedings of the 51st Annual Meeting of the ACL (Volume 1: Long Papers), pages 434\u2013443. ACL, August 2013. Attention Visualizations It is in this spirit that a majority of American governments have passed new laws since making the registration or voting process more difficult . <EOS> <pad> <pad> <pad> <pad> <pad> <pad> It is in this spirit that a majority of American governments have passed new laws since making the registration or voting process more difficult . <EOS> <pad> <pad> <pad> <pad> <pad> <pad> Figure 3: An example of the attention mechanism following long-distance dependencies in the encoder self-attention in layer 5 of 6. Many of the attention heads attend to a distant dependency of the verb \u2018making\u2019, completing the phrase \u2018making...more difficult\u2019. Attentions here shown only for the word \u2018making\u2019. Different colors represent different heads. Best viewed in color. The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> Figure 4: Two attention heads, also in layer 5 of 6, apparently involved in anaphora resolution. Top: Full attentions for head 5. Bottom: Isolated attentions from just the word \u2018its\u2019 for attention heads 5 and 6. Note that the attentions are very sharp for this word. The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad> Figure 5: Many of the attention heads exhibit behaviour that seems related to the structure of the sentence. We give two such examples above, from two different heads from the encoder self-attention at layer 5 of 6. The heads clearly learned to perform different tasks",
+            "author": "Muhua Zhu, Yue Zhang, Wenliang Chen, Min Zhang, and Jingbo Zhu",
+            "title": "Fast and accurate shift-reduce constituent parsing"
+        }
+    ]
+}
