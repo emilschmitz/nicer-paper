@@ -3,3 +3,5 @@
 .gcloud_token
 __pycache__/
 *.pyc
+
+.env
