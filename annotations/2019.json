@@ -64,7 +64,7 @@
         "pages": null,
         "publisher": null,
         "doi": null,
-        "url": null,
+        "url": "https://arxiv.org/abs/2107.02314",
         "eprint": "2107.02314"
     },
     {
@@ -148,7 +148,7 @@
         "pages": "1--2",
         "publisher": null,
         "doi": "10.1109/IWQoS.2018.8624183",
-        "url": null,
+        "url": "https://doi.org/10.1109/IWQoS.2018.8624183",
         "eprint": null
     },
     {
@@ -165,7 +165,7 @@
         "pages": "425--430",
         "publisher": null,
         "doi": "10.1109/ICCKE50421.2020.9303718",
-        "url": null,
+        "url": "https://doi.org/10.1109/ICCKE50421.2020.9303718",
         "eprint": null
     },
     {
@@ -182,7 +182,7 @@
         "pages": "331--336",
         "doi": "10.1109/ICOEI.2019.8862686",
         "publisher": null,
-        "url": null,
+        "url": "https://doi.org/10.1109/ICOEI.2019.8862686",
         "eprint": null
     },
     {
@@ -199,7 +199,7 @@
         "pages": "8871--8875",
         "publisher": null,
         "doi": "10.1109/ICASSP40776.2020.9053834",
-        "url": null,
+        "url": "https://doi.org/10.1109/ICASSP40776.2020.9053834",
         "eprint": null
     },
     {
@@ -216,7 +216,7 @@
         "pages": "101--108",
         "publisher": null,
         "doi": "10.1109/FAMCAD.2007.19",
-        "url": null,
+        "url": "https://doi.org/10.1109/FAMCAD.2007.19",
         "eprint": null
     },
     {
@@ -233,7 +233,7 @@
         "pages": "1--3",
         "publisher": null,
         "doi": "10.1109/IWWBCI.2015.7073038",
-        "url": null,
+        "url": "https://doi.org/10.1109/IWWBCI.2015.7073038",
         "eprint": null
     },
     {
@@ -250,7 +250,7 @@
         "pages": "292--296",
         "publisher": null,
         "doi": "10.1109/KCIC.2018.8628591",
-        "url": null,
+        "url": "https://doi.org/10.1109/KCIC.2018.8628591",
         "eprint": null
     },
     {
@@ -267,7 +267,7 @@
         "pages": "1993--2024",
         "publisher": null,
         "doi": "10.1109/TMI.2014.2377694",
-        "url": null,
+        "url": "https://doi.org/10.1109/TMI.2014.2377694",
         "eprint": null
     },
     {
@@ -284,7 +284,7 @@
         "pages": null,
         "publisher": null,
         "doi": "10.1038/sdata.2017.117",
-        "url": null,
+        "url": "https://doi.org/10.1038/sdata.2017.117",
         "eprint": null
     },
     {
@@ -301,7 +301,7 @@
         "pages": null,
         "publisher": "The Cancer Imaging Archive",
         "doi": "10.7937/K9/TCIA.2017.KLXWJJ1Q",
-        "url": null,
+        "url": "https://doi.org/10.7937/K9/TCIA.2017.KLXWJJ1Q",
         "eprint": null
     },
     {
@@ -318,7 +318,7 @@
         "pages": null,
         "publisher": "The Cancer Imaging Archive",
         "doi": "10.7937/K9/TCIA.2017.GJQ7R0EF",
-        "url": null,
+        "url": "https://doi.org/10.7937/K9/TCIA.2017.GJQ7R0EF",
         "eprint": null
     },
     {
@@ -352,7 +352,7 @@
         "pages": "1--4",
         "publisher": null,
         "doi": "10.1109/ECACE.2019.8679240",
-        "url": null,
+        "url": "https://doi.org/10.1109/ECACE.2019.8679240",
         "eprint": null
     },
     {
@@ -369,7 +369,7 @@
         "pages": "217--221",
         "publisher": null,
         "doi": "10.1109/COMITCon.2019.8862209",
-        "url": null,
+        "url": "https://doi.org/10.1109/COMITCon.2019.8862209",
         "eprint": null
     },
     {
@@ -386,7 +386,7 @@
         "pages": "25--29",
         "publisher": null,
         "doi": "10.1109/TBME.2011.2163406",
-        "url": null,
+        "url": "https://doi.org/10.1109/TBME.2011.2163406",
         "eprint": null
     },
     {
@@ -403,7 +403,7 @@
         "pages": "3872--3876",
         "publisher": null,
         "doi": "10.1109/ICIP42928.2021.9506276",
-        "url": null,
+        "url": "https://doi.org/10.1109/ICIP42928.2021.9506276",
         "eprint": null
     },
     {
@@ -420,7 +420,7 @@
         "pages": "1--5",
         "publisher": null,
         "doi": "10.1109/ICODSA50139.2020.9212994",
-        "url": null,
+        "url": "https://doi.org/10.1109/ICODSA50139.2020.9212994",
         "eprint": null
     }
 ]
