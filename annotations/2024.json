@@ -14,7 +14,8 @@
         "publisher": null,
         "doi": "10.1109/JSTARS.2021.3133021",
         "url": "https://doi.org/10.1109/JSTARS.2021.3133021",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -31,7 +32,8 @@
         "publisher": null,
         "doi": "10.3390/s23031437",
         "url": "https://doi.org/10.3390/s23031437",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -48,7 +50,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2019.2907932",
         "url": "https://doi.org/10.1109/TGRS.2019.2907932",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -65,11 +68,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
-        "raw": "[5] M. Y. Teng, et al., Investigation of epifauna coverage on seagrass blades using spatial and spectral analysis of hyperspectral images, in 2013 5th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS 2013), Québec, CA, pp. 1-4, 2013, doi: 10.1109/WHISPERS.2013.8080658.",
+        "raw": "[5] M. Y. Teng, et al., Investigation of epifauna coverage on seagrass blades using spatial and spectral analysis of hyperspectral images, in 2013 5th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS 2013), Qu\u00e9bec, CA, pp. 1-4, 2013, doi: 10.1109/WHISPERS.2013.8080658.",
         "type": "inproceedings",
         "author": "M. Y. Teng and others",
         "title": "Investigation of epifauna coverage on seagrass blades using spatial and spectral analysis of hyperspectral images",
@@ -82,7 +86,8 @@
         "publisher": null,
         "doi": "10.1109/WHISPERS.2013.8080658",
         "url": "https://doi.org/10.1109/WHISPERS.2013.8080658",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -99,7 +104,8 @@
         "publisher": "IEEE",
         "doi": "10.1002/9781119687788.ch2",
         "url": "https://doi.org/10.1002/9781119687788.ch2",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -116,7 +122,8 @@
         "publisher": null,
         "doi": "10.1109/ICICICT54557.2022.9917771",
         "url": "https://doi.org/10.1109/ICICICT54557.2022.9917771",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -133,7 +140,8 @@
         "publisher": null,
         "doi": "10.1109/MGRS.2019.2902525",
         "url": "https://doi.org/10.1109/MGRS.2019.2902525",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -150,7 +158,8 @@
         "publisher": null,
         "doi": "10.1109/MGRS.2017.2762087",
         "url": "https://doi.org/10.1109/MGRS.2017.2762087",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -167,7 +176,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2017.2765364",
         "url": "https://doi.org/10.1109/TGRS.2017.2765364",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -184,7 +194,8 @@
         "publisher": null,
         "doi": "10.1109/JSTARS.2014.2329330",
         "url": "https://doi.org/10.1109/JSTARS.2014.2329330",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -201,7 +212,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2020.2967821",
         "url": "https://doi.org/10.1109/TGRS.2020.2967821",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -218,7 +230,8 @@
         "publisher": null,
         "doi": "10.1016/j.neucom.2018.02.105",
         "url": "https://doi.org/10.1016/j.neucom.2018.02.105",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -235,7 +248,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2019.2899129",
         "url": "https://doi.org/10.1109/TGRS.2019.2899129",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -252,7 +266,8 @@
         "publisher": null,
         "doi": "10.1109/JSTARS.2018.2844873",
         "url": "https://doi.org/10.1109/JSTARS.2018.2844873",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -269,7 +284,8 @@
         "publisher": null,
         "doi": "10.1016/j.neucom.2018.03.012",
         "url": "https://doi.org/10.1016/j.neucom.2018.03.012",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -286,7 +302,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2022.3176216",
         "url": "https://doi.org/10.1109/TGRS.2022.3176216",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -303,7 +320,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2010.11929",
         "url": "https://doi.org/10.48550/arXiv.2010.11929",
-        "eprint": "2010.11929"
+        "eprint": "2010.11929",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -320,7 +338,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2021.3130716",
         "url": "https://doi.org/10.1109/TGRS.2021.3130716",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -337,13 +356,14 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2022.3171551",
         "url": "https://doi.org/10.1109/TGRS.2022.3171551",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
-        "raw": "[21] D. Ibañez, et al., Masked Auto-Encoding Spectral-Spatial Transformer for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1-14, 2022, doi: 10.1109/TGRS.2022.3217892.",
+        "raw": "[21] D. Iba\u00f1ez, et al., Masked Auto-Encoding Spectral-Spatial Transformer for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1-14, 2022, doi: 10.1109/TGRS.2022.3217892.",
         "type": "article",
-        "author": "D. Ibañez and others",
+        "author": "D. Iba\u00f1ez and others",
         "title": "Masked Auto-Encoding Spectral-Spatial Transformer for Hyperspectral Image Classification",
         "year": "2022",
         "journal": "IEEE Transactions on Geoscience and Remote Sensing",
@@ -354,7 +374,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2022.3217892",
         "url": "https://doi.org/10.1109/TGRS.2022.3217892",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -371,7 +392,8 @@
         "publisher": null,
         "doi": "10.1109/TENCON54134.2021.9707289",
         "url": "https://doi.org/10.1109/TENCON54134.2021.9707289",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -388,7 +410,8 @@
         "publisher": null,
         "doi": "10.3390/rs13112216",
         "url": "https://doi.org/10.3390/rs13112216",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -405,7 +428,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2023.3314550",
         "url": "https://doi.org/10.1109/TGRS.2023.3314550",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -422,7 +446,8 @@
         "publisher": null,
         "doi": "10.1109/TIP.2024.3351443",
         "url": "https://doi.org/10.1109/TIP.2024.3351443",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -439,7 +464,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2022.3144158",
         "url": "https://doi.org/10.1109/TGRS.2022.3144158",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -456,7 +482,8 @@
         "publisher": null,
         "doi": "10.1109/ICIP46576.2022.9897603",
         "url": "https://doi.org/10.1109/ICIP46576.2022.9897603",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -473,7 +500,8 @@
         "publisher": null,
         "doi": "10.1109/ICIP46576.2022.9897603",
         "url": "https://doi.org/10.1109/ICIP46576.2022.9897603",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -490,7 +518,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2023.3349076",
         "url": "https://doi.org/10.1109/TGRS.2023.3349076",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -507,7 +536,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2022.3201145",
         "url": "https://doi.org/10.1109/TGRS.2022.3201145",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -524,7 +554,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2022.3207933",
         "url": "https://doi.org/10.1109/TGRS.2022.3207933",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -541,7 +572,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2023.3242346",
         "url": "https://doi.org/10.1109/TGRS.2023.3242346",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -558,7 +590,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2023.3297858",
         "url": "https://doi.org/10.1109/TGRS.2023.3297858",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -575,7 +608,8 @@
         "publisher": null,
         "doi": "10.1016/j.neucom.2021.03.091",
         "url": "https://doi.org/10.1016/j.neucom.2021.03.091",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -592,7 +626,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2018.2818945",
         "url": "https://doi.org/10.1109/TGRS.2018.2818945",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -609,7 +644,8 @@
         "publisher": null,
         "doi": "10.3390/rs9010067",
         "url": "https://doi.org/10.3390/rs9010067",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -626,7 +662,8 @@
         "publisher": null,
         "doi": "10.1109/ICIP.2017.8297014",
         "url": "https://doi.org/10.1109/ICIP.2017.8297014",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -643,7 +680,8 @@
         "publisher": null,
         "doi": "10.1109/ACCESS.2023.3293813",
         "url": "https://doi.org/10.1109/ACCESS.2023.3293813",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -660,7 +698,8 @@
         "publisher": null,
         "doi": "10.1109/CVPR52729.2023.01334",
         "url": "https://doi.org/10.1109/CVPR52729.2023.01334",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -677,7 +716,8 @@
         "publisher": null,
         "doi": "10.3390/e21121227",
         "url": "https://doi.org/10.3390/e21121227",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -694,7 +734,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2205.01972",
         "url": "https://doi.org/10.48550/arXiv.2205.01972",
-        "eprint": "2205.01972"
+        "eprint": "2205.01972",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -711,7 +752,8 @@
         "publisher": null,
         "doi": "10.1109/ICPR48806.2021.9413071",
         "url": "https://doi.org/10.1109/ICPR48806.2021.9413071",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -728,7 +770,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2021.3138742",
         "url": "https://doi.org/10.1109/TGRS.2021.3138742",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -745,7 +788,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2023.3277014",
         "url": "https://doi.org/10.1109/TGRS.2023.3277014",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -762,7 +806,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2111.00396",
         "url": "https://doi.org/10.48550/arXiv.2111.00396",
-        "eprint": "2111.00396"
+        "eprint": "2111.00396",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -779,7 +824,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2312.00752",
         "url": "https://doi.org/10.48550/arXiv.2312.00752",
-        "eprint": "2312.00752"
+        "eprint": "2312.00752",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -795,7 +841,8 @@
         "publisher": null,
         "doi": "10.3390/app14135683",
         "url": "https://doi.org/10.3390/app14135683",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -812,7 +859,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2404.18861",
         "url": "https://doi.org/10.48550/arXiv.2404.18861",
-        "eprint": "2404.18861"
+        "eprint": "2404.18861",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -829,7 +877,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2405.04404",
         "url": "https://doi.org/10.48550/arXiv.2405.04404",
-        "eprint": "2405.04404"
+        "eprint": "2405.04404",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -846,7 +895,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2404.09516",
         "url": "https://doi.org/10.48550/arXiv.2404.09516",
-        "eprint": "2404.09516"
+        "eprint": "2404.09516",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -863,7 +913,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2401.09417",
         "url": "https://doi.org/10.48550/arXiv.2401.09417",
-        "eprint": "2401.09417"
+        "eprint": "2401.09417",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -880,7 +931,8 @@
         "publisher": null,
         "doi": "10.1109/LGRS.2024.3407111",
         "url": "https://doi.org/10.1109/LGRS.2024.3407111",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -897,7 +949,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2401.10166",
         "url": "https://doi.org/10.48550/arXiv.2401.10166",
-        "eprint": "2401.10166"
+        "eprint": "2401.10166",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -914,7 +967,8 @@
         "publisher": null,
         "doi": "10.1109/TGRS.2024.3417253",
         "url": "https://doi.org/10.1109/TGRS.2024.3417253",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -931,7 +985,8 @@
         "publisher": null,
         "doi": "10.1109/LGRS.2024.3414293",
         "url": "https://doi.org/10.1109/LGRS.2024.3414293",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -948,7 +1003,8 @@
         "publisher": "Springer Science & Business Media",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -965,7 +1021,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -982,7 +1039,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -999,7 +1057,8 @@
         "publisher": null,
         "doi": "10.1109/IJCNN.2015.7280459",
         "url": "https://doi.org/10.1109/IJCNN.2015.7280459",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -1016,11 +1075,12 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2404.02668",
         "url": "https://doi.org/10.48550/arXiv.2404.02668",
-        "eprint": "2404.02668"
+        "eprint": "2404.02668",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
-        "raw": "[61] Y. Jing, et al., Spectralmamba: Efficient mamba for hyperspectral image classification. arXiv preprint arΧίν: 2404.08489, 2024, doi: 10.48550/arXiv.2404.08489.",
+        "raw": "[61] Y. Jing, et al., Spectralmamba: Efficient mamba for hyperspectral image classification. arXiv preprint ar\u03a7\u03af\u03bd: 2404.08489, 2024, doi: 10.48550/arXiv.2404.08489.",
         "type": "article",
         "author": "Y. Jing and others",
         "title": "Spectralmamba: Efficient mamba for hyperspectral image classification",
@@ -1033,11 +1093,12 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2404.08489",
         "url": "https://doi.org/10.48550/arXiv.2404.08489",
-        "eprint": "2404.08489"
+        "eprint": "2404.08489",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
-        "raw": "[62] J. Yang, et al., Hsimamba: Hyperpsectral imaging efficient feature learning with bidirectional state space for classification. arXiv preprint αν Χίν: 2404.00272, 2024, doi: 10.48550/arXiv.2404.00272.",
+        "raw": "[62] J. Yang, et al., Hsimamba: Hyperpsectral imaging efficient feature learning with bidirectional state space for classification. arXiv preprint \u03b1\u03bd \u03a7\u03af\u03bd: 2404.00272, 2024, doi: 10.48550/arXiv.2404.00272.",
         "type": "article",
         "author": "J. Yang and others",
         "title": "Hsimamba: Hyperspectral imaging efficient feature learning with bidirectional state space for classification",
@@ -1050,7 +1111,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2404.00272",
         "url": "https://doi.org/10.48550/arXiv.2404.00272",
-        "eprint": "2404.00272"
+        "eprint": "2404.00272",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -1067,7 +1129,8 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2406.07050",
         "url": "https://doi.org/10.48550/arXiv.2406.07050",
-        "eprint": "2406.07050"
+        "eprint": "2406.07050",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2024_Mamba_Linear-Time_Sequence_Modeling_with_Selective_State_Spaces.pdf",
@@ -1084,6 +1147,7 @@
         "publisher": null,
         "doi": "10.48550/arXiv.2106.11297",
         "url": "https://doi.org/10.48550/arXiv.2106.11297",
-        "eprint": "2106.11297"
+        "eprint": "2106.11297",
+        "provenance": "initial_gemini_web_extraction"
     }
 ]

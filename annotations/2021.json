@@ -1,7 +1,7 @@
 [
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., Devin, M., Ghemawat, S., Irving, G., Isard, M., et al. Tensorflow: A system for large-scale machine learning. In 12th {USENIX} symposium on operating systems design and implementation ({OSDI 16), pp. 265–283, 2016.",
+        "raw": "Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., Devin, M., Ghemawat, S., Irving, G., Isard, M., et al. Tensorflow: A system for large-scale machine learning. In 12th {USENIX} symposium on operating systems design and implementation ({OSDI 16), pp. 265\u2013283, 2016.",
         "type": "inproceedings",
         "author": "Abadi, M. and Barham, P. and Chen, J. and Chen, Z. and Davis, A. and Dean, J. and Devin, M. and Ghemawat, S. and Irving, G. and Isard, M. and others",
         "title": "Tensorflow: A system for large-scale machine learning",
@@ -14,13 +14,14 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Alayrac, J.-B., Recasens, A., Schneider, R., Arandjelović, R., Ramapuram, J., De Fauw, J., Smaira, L., Dieleman, S., and Zisserman, A. Self-supervised multimodal versatile networks. arXiv preprint arXiv: 2006.16228, 2020.",
+        "raw": "Alayrac, J.-B., Recasens, A., Schneider, R., Arandjelovi\u0107, R., Ramapuram, J., De Fauw, J., Smaira, L., Dieleman, S., and Zisserman, A. Self-supervised multimodal versatile networks. arXiv preprint arXiv: 2006.16228, 2020.",
         "type": "article",
-        "author": "Alayrac, J.-B. and Recasens, A. and Schneider, R. and Arandjelović, R. and Ramapuram, J. and De Fauw, J. and Smaira, L. and Dieleman, S. and Zisserman, A.",
+        "author": "Alayrac, J.-B. and Recasens, A. and Schneider, R. and Arandjelovi\u0107, R. and Ramapuram, J. and De Fauw, J. and Smaira, L. and Dieleman, S. and Zisserman, A.",
         "title": "Self-supervised multimodal versatile networks",
         "year": "2020",
         "journal": "arXiv preprint arXiv:2006.16228",
@@ -31,11 +32,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2006.16228",
-        "eprint": "2006.16228"
+        "eprint": "2006.16228",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Alcorn, M. A., Li, Q., Gong, Z., Wang, C., Mai, L., Ku, W.- S., and Nguyen, A. Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 4845–4854, 2019.",
+        "raw": "Alcorn, M. A., Li, Q., Gong, Z., Wang, C., Mai, L., Ku, W.- S., and Nguyen, A. Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 4845\u20134854, 2019.",
         "type": "inproceedings",
         "author": "Alcorn, M. A. and Li, Q. and Gong, Z. and Wang, C. and Mai, L. and Ku, W.-S. and Nguyen, A.",
         "title": "Strike (with) a pose: Neural networks are easily fooled by strange poses of familiar objects",
@@ -48,7 +50,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -65,7 +68,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1711.00482",
-        "eprint": "1711.00482"
+        "eprint": "1711.00482",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -82,11 +86,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2001.08856",
-        "eprint": "2001.08856"
+        "eprint": "2001.08856",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Bachman, P., Hjelm, R. D., and Buchwalter, W. Learning representations by maximizing mutual information across views. In Advances in Neural Information Processing Systems, pp. 15535–15545, 2019.",
+        "raw": "Bachman, P., Hjelm, R. D., and Buchwalter, W. Learning representations by maximizing mutual information across views. In Advances in Neural Information Processing Systems, pp. 15535\u201315545, 2019.",
         "type": "inproceedings",
         "author": "Bachman, P. and Hjelm, R. D. and Buchwalter, W.",
         "title": "Learning representations by maximizing mutual information across views",
@@ -99,11 +104,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Barbu, A., Mayo, D., Alverio, J., Luo, W., Wang, C., Gut- freund, D., Tenenbaum, J., and Katz, B. Objectnet: A large-scale bias-controlled dataset for pushing the lim- its of object recognition models. In Advances in Neural Information Processing Systems, pp. 9453–9463, 2019.",
+        "raw": "Barbu, A., Mayo, D., Alverio, J., Luo, W., Wang, C., Gut- freund, D., Tenenbaum, J., and Katz, B. Objectnet: A large-scale bias-controlled dataset for pushing the lim- its of object recognition models. In Advances in Neural Information Processing Systems, pp. 9453\u20139463, 2019.",
         "type": "inproceedings",
         "author": "Barbu, A. and Mayo, D. and Alverio, J. and Luo, W. and Wang, C. and Gutfreund, D. and Tenenbaum, J. and Katz, B.",
         "title": "Objectnet: A large-scale bias-controlled dataset for pushing the limits of object recognition models",
@@ -116,11 +122,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Barnard, K., Duygulu, P., Forsyth, D., Freitas, N. d., Blei, D. M., and Jordan, M. I. Matching words and pictures. Journal of machine learning research, 3(Feb):1107–1135, 2003.",
+        "raw": "Barnard, K., Duygulu, P., Forsyth, D., Freitas, N. d., Blei, D. M., and Jordan, M. I. Matching words and pictures. Journal of machine learning research, 3(Feb):1107\u20131135, 2003.",
         "type": "article",
         "author": "Barnard, K. and Duygulu, P. and Forsyth, D. and Freitas, N. d. and Blei, D. M. and Jordan, M. I.",
         "title": "Matching words and pictures",
@@ -133,7 +140,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -150,11 +158,12 @@
         "publisher": null,
         "doi": "10.1177/2053951718819569",
         "url": "https://doi.org/10.1177/2053951718819569",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Bengio, Y., Ducharme, R., Vincent, P., and Jauvin, C. A neural probabilistic language model. Journal of machine learning research, 3(Feb):1137–1155, 2003.",
+        "raw": "Bengio, Y., Ducharme, R., Vincent, P., and Jauvin, C. A neural probabilistic language model. Journal of machine learning research, 3(Feb):1137\u20131155, 2003.",
         "type": "article",
         "author": "Bengio, Y. and Ducharme, R. and Vincent, P. and Jauvin, C.",
         "title": "A neural probabilistic language model",
@@ -167,7 +176,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -184,11 +194,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1912.00578",
-        "eprint": "1912.00578"
+        "eprint": "1912.00578",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Blei, D. M., Ng, A. Y., and Jordan, M. I. Latent dirichlet allocation. Journal of machine Learning research, 3(Jan): 993–1022, 2003.",
+        "raw": "Blei, D. M., Ng, A. Y., and Jordan, M. I. Latent dirichlet allocation. Journal of machine Learning research, 3(Jan): 993\u20131022, 2003.",
         "type": "article",
         "author": "Blei, D. M. and Ng, A. Y. and Jordan, M. I.",
         "title": "Latent dirichlet allocation",
@@ -201,11 +212,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Bolukbasi, T., Chang, K.-W., Zou, J. Y., Saligrama, V., and Kalai, A. T. Man is to computer programmer as woman is to homemaker? debiasing word embeddings. Advances in neural information processing systems, 29:4349–4357, 2016.",
+        "raw": "Bolukbasi, T., Chang, K.-W., Zou, J. Y., Saligrama, V., and Kalai, A. T. Man is to computer programmer as woman is to homemaker? debiasing word embeddings. Advances in neural information processing systems, 29:4349\u20134357, 2016.",
         "type": "inproceedings",
         "author": "Bolukbasi, T. and Chang, K.-W. and Zou, J. Y. and Saligrama, V. and Kalai, A. T.",
         "title": "Man is to computer programmer as woman is to homemaker? debiasing word embeddings",
@@ -218,7 +230,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -235,7 +248,8 @@
         "publisher": "MIT press",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -252,7 +266,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2005.14165",
-        "eprint": "2005.14165"
+        "eprint": "2005.14165",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -269,7 +284,8 @@
         "publisher": "Duke University Press",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -286,11 +302,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2008.01232",
-        "eprint": "2008.01232"
+        "eprint": "2008.01232",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Buolamwini, J. and Gebru, T. Gender shades: Intersec- tional accuracy disparities in commercial gender classi- fication. In Conference on fairness, accountability and transparency, pp. 77–91, 2018.",
+        "raw": "Buolamwini, J. and Gebru, T. Gender shades: Intersec- tional accuracy disparities in commercial gender classi- fication. In Conference on fairness, accountability and transparency, pp. 77\u201391, 2018.",
         "type": "inproceedings",
         "author": "Buolamwini, J. and Gebru, T.",
         "title": "Gender shades: Intersectional accuracy disparities in commercial gender classification",
@@ -303,7 +320,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -320,11 +338,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1907.06987",
-        "eprint": "1907.06987"
+        "eprint": "1907.06987",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., and Sutskever, I. Generative pretraining from pixels. In International Conference on Machine Learning, pp. 1691–1703. PMLR, 2020a.",
+        "raw": "Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., and Sutskever, I. Generative pretraining from pixels. In International Conference on Machine Learning, pp. 1691\u20131703. PMLR, 2020a.",
         "type": "inproceedings",
         "author": "Chen, M. and Radford, A. and Child, R. and Wu, J. and Jun, H. and Luan, D. and Sutskever, I.",
         "title": "Generative pretraining from pixels",
@@ -337,7 +356,8 @@
         "publisher": "PMLR",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -354,7 +374,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1604.06174",
-        "eprint": "1604.06174"
+        "eprint": "1604.06174",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -371,7 +392,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2002.05709",
-        "eprint": "2002.05709"
+        "eprint": "2002.05709",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -388,11 +410,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2006.10029",
-        "eprint": "2006.10029"
+        "eprint": "2006.10029",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Chen, X. and Gupta, A. Webly supervised learning of convolutional networks. In Proceedings of the IEEE International Conference on Computer Vision, pp. 1431– 1439, 2015.",
+        "raw": "Chen, X. and Gupta, A. Webly supervised learning of convolutional networks. In Proceedings of the IEEE International Conference on Computer Vision, pp. 1431\u2013 1439, 2015.",
         "type": "inproceedings",
         "author": "Chen, X. and Gupta, A.",
         "title": "Webly supervised learning of convolutional networks",
@@ -405,7 +428,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -422,7 +446,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2003.04297",
-        "eprint": "2003.04297"
+        "eprint": "2003.04297",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -439,11 +464,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1909.11740",
-        "eprint": "1909.11740"
+        "eprint": "1909.11740",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Cheng, G., Han, J., and Lu, X. Remote sensing image scene classification: Benchmark and state of the art. Proceed- ings of the IEEE, 105(10):1865–1883, 2017.",
+        "raw": "Cheng, G., Han, J., and Lu, X. Remote sensing image scene classification: Benchmark and state of the art. Proceed- ings of the IEEE, 105(10):1865\u20131883, 2017.",
         "type": "article",
         "author": "Cheng, G. and Han, J. and Lu, X.",
         "title": "Remote sensing image scene classification: Benchmark and state of the art",
@@ -456,7 +482,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -473,11 +500,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1910.05446",
-        "eprint": "1910.05446"
+        "eprint": "1910.05446",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Coates, A., Ng, A., and Lee, H. An analysis of single- layer networks in unsupervised feature learning. In Pro- ceedings of the fourteenth international conference on artificial intelligence and statistics, pp. 215–223, 2011.",
+        "raw": "Coates, A., Ng, A., and Lee, H. An analysis of single- layer networks in unsupervised feature learning. In Pro- ceedings of the fourteenth international conference on artificial intelligence and statistics, pp. 215\u2013223, 2011.",
         "type": "inproceedings",
         "author": "Coates, A. and Ng, A. and Lee, H.",
         "title": "An analysis of single-layer networks in unsupervised feature learning",
@@ -490,7 +518,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -507,11 +536,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://www.youtube.com/watch?v=fMym_BKWQzk",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Dai, A. M. and Le, Q. V. Semi-supervised sequence learning. In Advances in neural information processing systems, pp. 3079–3087, 2015.",
+        "raw": "Dai, A. M. and Le, Q. V. Semi-supervised sequence learning. In Advances in neural information processing systems, pp. 3079\u20133087, 2015.",
         "type": "inproceedings",
         "author": "Dai, A. M. and Le, Q. V.",
         "title": "Semi-supervised sequence learning",
@@ -524,7 +554,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -541,7 +572,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2011.03395",
-        "eprint": "2011.03395"
+        "eprint": "2011.03395",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -558,7 +590,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -575,7 +608,8 @@
         "publisher": null,
         "doi": null,
         "url": "http://www.image-net.org/challenges/LSVRC/2012/",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -592,7 +626,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2006.06666",
-        "eprint": "2006.06666"
+        "eprint": "2006.06666",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -609,7 +644,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1810.04805",
-        "eprint": "1810.04805"
+        "eprint": "1810.04805",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -626,11 +662,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2005.00341",
-        "eprint": "2005.00341"
+        "eprint": "2005.00341",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Divvala, S. K., Farhadi, A., and Guestrin, C. Learning everything about anything: Webly-supervised visual con- cept learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3270– 3277, 2014.",
+        "raw": "Divvala, S. K., Farhadi, A., and Guestrin, C. Learning everything about anything: Webly-supervised visual con- cept learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 3270\u2013 3277, 2014.",
         "type": "inproceedings",
         "author": "Divvala, S. K. and Farhadi, A. and Guestrin, C.",
         "title": "Learning everything about anything: Webly-supervised visual concept learning",
@@ -643,11 +680,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Dodge, S. and Karam, L. A study and comparison of human and deep learning recognition performance under visual distortions. In 2017 26th international conference on computer communication and networks (ICCCN), pp. 1– 7. IEEE, 2017.",
+        "raw": "Dodge, S. and Karam, L. A study and comparison of human and deep learning recognition performance under visual distortions. In 2017 26th international conference on computer communication and networks (ICCCN), pp. 1\u2013 7. IEEE, 2017.",
         "type": "inproceedings",
         "author": "Dodge, S. and Karam, L.",
         "title": "A study and comparison of human and deep learning recognition performance under visual distortions",
@@ -660,7 +698,8 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -677,11 +716,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2010.11929",
-        "eprint": "2010.11929"
+        "eprint": "2010.11929",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Elhoseiny, M., Saleh, B., and Elgammal, A. Write a classi- fier: Zero-shot learning using purely textual descriptions. In Proceedings of the IEEE International Conference on Computer Vision, pp. 2584–2591, 2013.",
+        "raw": "Elhoseiny, M., Saleh, B., and Elgammal, A. Write a classi- fier: Zero-shot learning using purely textual descriptions. In Proceedings of the IEEE International Conference on Computer Vision, pp. 2584\u20132591, 2013.",
         "type": "inproceedings",
         "author": "Elhoseiny, M. and Saleh, B. and Elgammal, A.",
         "title": "Write a classifier: Zero-shot learning using purely textual descriptions",
@@ -694,7 +734,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -711,11 +752,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1707.05612",
-        "eprint": "1707.05612"
+        "eprint": "1707.05612",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Fergus, R., Fei-Fei, L., Perona, P., and Zisserman, A. Learn- ing object categories from google's image search. In Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1, volume 2, pp. 1816–1823. IEEE, 2005.",
+        "raw": "Fergus, R., Fei-Fei, L., Perona, P., and Zisserman, A. Learn- ing object categories from google's image search. In Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1, volume 2, pp. 1816\u20131823. IEEE, 2005.",
         "type": "inproceedings",
         "author": "Fergus, R. and Fei-Fei, L. and Perona, P. and Zisserman, A.",
         "title": "Learning object categories from google's image search",
@@ -728,11 +770,12 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Frome, A., Corrado, G. S., Shlens, J., Bengio, S., Dean, J., Ranzato, M., and Mikolov, T. Devise: A deep visual- semantic embedding model. In Advances in neural infor- mation processing systems, pp. 2121–2129, 2013.",
+        "raw": "Frome, A., Corrado, G. S., Shlens, J., Bengio, S., Dean, J., Ranzato, M., and Mikolov, T. Devise: A deep visual- semantic embedding model. In Advances in neural infor- mation processing systems, pp. 2121\u20132129, 2013.",
         "type": "inproceedings",
         "author": "Frome, A. and Corrado, G. S. and Shlens, J. and Bengio, S. and Dean, J. and Ranzato, M. and Mikolov, T.",
         "title": "Devise: A deep visual-semantic embedding model",
@@ -745,7 +788,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -762,7 +806,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2006.06195",
-        "eprint": "2006.06195"
+        "eprint": "2006.06195",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -779,7 +824,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2012.15723",
-        "eprint": "2012.15723"
+        "eprint": "2012.15723",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -796,7 +842,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://www.flawedfacedata.com/",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -813,7 +860,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -830,7 +878,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1811.12231",
-        "eprint": "1811.12231"
+        "eprint": "1811.12231",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -847,13 +896,14 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2004.07780",
-        "eprint": "2004.07780"
+        "eprint": "2004.07780",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Gomez, L., Patel, Y., Rusiñol, M., Karatzas, D., and Jawahar, C. Self-supervised learning of visual features through embedding images into text topic spaces. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 4230–4239, 2017.",
+        "raw": "Gomez, L., Patel, Y., Rusi\u00f1ol, M., Karatzas, D., and Jawahar, C. Self-supervised learning of visual features through embedding images into text topic spaces. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 4230\u20134239, 2017.",
         "type": "inproceedings",
-        "author": "Gomez, L. and Patel, Y. and Rusiñol, M. and Karatzas, D. and Jawahar, C.",
+        "author": "Gomez, L. and Patel, Y. and Rusi\u00f1ol, M. and Karatzas, D. and Jawahar, C.",
         "title": "Self-supervised learning of visual features through embedding images into text topic spaces",
         "year": "2017",
         "journal": null,
@@ -864,7 +914,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -881,11 +932,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1412.6572",
-        "eprint": "1412.6572"
+        "eprint": "1412.6572",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Goodfellow, I. J., Erhan, D., Carrier, P. L., Courville, A., Mirza, M., Hamner, B., Cukierski, W., Tang, Y., Thaler, D., Lee, D.-H., et al. Challenges in representation learn- ing: A report on three machine learning contests. Neural Networks, 64:59–63, 2015.",
+        "raw": "Goodfellow, I. J., Erhan, D., Carrier, P. L., Courville, A., Mirza, M., Hamner, B., Cukierski, W., Tang, Y., Thaler, D., Lee, D.-H., et al. Challenges in representation learn- ing: A report on three machine learning contests. Neural Networks, 64:59\u201363, 2015.",
         "type": "article",
         "author": "Goodfellow, I. J. and Erhan, D. and Carrier, P. L. and Courville, A. and Mirza, M. and Hamner, B. and Cukierski, W. and Tang, Y. and Thaler, D. and Lee, D.-H. and others",
         "title": "Challenges in representation learning: A report on three machine learning contests",
@@ -898,7 +950,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -915,11 +968,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://cloud.google.com/vision/docs/celebrity-recognition",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Griewank, A. and Walther, A. Algorithm 799: revolve: an implementation of checkpointing for the reverse or ad- joint mode of computational differentiation. ACM Trans- actions on Mathematical Software (TOMS), 26(1):19–45, 2000.",
+        "raw": "Griewank, A. and Walther, A. Algorithm 799: revolve: an implementation of checkpointing for the reverse or ad- joint mode of computational differentiation. ACM Trans- actions on Mathematical Software (TOMS), 26(1):19\u201345, 2000.",
         "type": "article",
         "author": "Griewank, A. and Walther, A.",
         "title": "Algorithm 799: revolve: an implementation of checkpointing for the reverse or adjoint mode of computational differentiation",
@@ -932,13 +986,14 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Grill, J.-B., Strub, F., Altché, F., Tallec, C., Richemond, P. H., Buchatskaya, E., Doersch, C., Pires, B. A., Guo, Z. D., Azar, M. G., et al. Bootstrap your own latent: A new approach to self-supervised learning. arXiv preprint arXiv: 2006.07733, 2020.",
+        "raw": "Grill, J.-B., Strub, F., Altch\u00e9, F., Tallec, C., Richemond, P. H., Buchatskaya, E., Doersch, C., Pires, B. A., Guo, Z. D., Azar, M. G., et al. Bootstrap your own latent: A new approach to self-supervised learning. arXiv preprint arXiv: 2006.07733, 2020.",
         "type": "article",
-        "author": "Grill, J.-B. and Strub, F. and Altché, F. and Tallec, C. and Richemond, P. H. and Buchatskaya, E. and Doersch, C. and Pires, B. A. and Guo, Z. D. and Azar, M. G. and others",
+        "author": "Grill, J.-B. and Strub, F. and Altch\u00e9, F. and Tallec, C. and Richemond, P. H. and Buchatskaya, E. and Doersch, C. and Pires, B. A. and Guo, Z. D. and Azar, M. G. and others",
         "title": "Bootstrap your own latent: A new approach to self-supervised learning",
         "year": "2020",
         "journal": "arXiv preprint arXiv:2006.07733",
@@ -949,7 +1004,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2006.07733",
-        "eprint": "2006.07733"
+        "eprint": "2006.07733",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -966,13 +1022,14 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1609.09106",
-        "eprint": "1609.09106"
+        "eprint": "1609.09106",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Hancock, B., Bringmann, M., Varma, P., Liang, P., Wang, S., and Ré, C. Training classifiers with natural language explanations. In Proceedings of the conference. Associ- ation for Computational Linguistics. Meeting, volume 2018, pp. 1884. NIH Public Access, 2018.",
+        "raw": "Hancock, B., Bringmann, M., Varma, P., Liang, P., Wang, S., and R\u00e9, C. Training classifiers with natural language explanations. In Proceedings of the conference. Associ- ation for Computational Linguistics. Meeting, volume 2018, pp. 1884. NIH Public Access, 2018.",
         "type": "inproceedings",
-        "author": "Hancock, B. and Bringmann, M. and Varma, P. and Liang, P. and Wang, S. and Ré, C.",
+        "author": "Hancock, B. and Bringmann, M. and Varma, P. and Liang, P. and Wang, S. and R\u00e9, C.",
         "title": "Training classifiers with natural language explanations",
         "year": "2018",
         "journal": null,
@@ -983,7 +1040,8 @@
         "publisher": "NIH Public Access",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1000,13 +1058,14 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1901.05415",
-        "eprint": "1901.05415"
+        "eprint": "1901.05415",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N. J., Kern, R., Picus, M., Hoyer, S., van Kerkwijk, M. H., Brett, M., Haldane, A., Fernández del Río, J., Wiebe, M., Peterson, P., Gérard-Marchant, P., Sheppard, K., Reddy, T., Weckesser, W., Abbasi, H., Gohlke, C., and Oliphant, T. E. Array programming with NumPy. Nature, 585:357–362, 2020. doi: 10.1038/ 41586-020-2649-2.",
+        "raw": "Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N. J., Kern, R., Picus, M., Hoyer, S., van Kerkwijk, M. H., Brett, M., Haldane, A., Fern\u00e1ndez del R\u00edo, J., Wiebe, M., Peterson, P., G\u00e9rard-Marchant, P., Sheppard, K., Reddy, T., Weckesser, W., Abbasi, H., Gohlke, C., and Oliphant, T. E. Array programming with NumPy. Nature, 585:357\u2013362, 2020. doi: 10.1038/ 41586-020-2649-2.",
         "type": "article",
-        "author": "Harris, C. R. and Millman, K. J. and van der Walt, S. J. and Gommers, R. and Virtanen, P. and Cournapeau, D. and Wieser, E. and Taylor, J. and Berg, S. and Smith, N. J. and Kern, R. and Picus, M. and Hoyer, S. and van Kerkwijk, M. H. and Brett, M. and Haldane, A. and Fernández del Río, J. and Wiebe, M. and Peterson, P. and Gérard-Marchant, P. and Sheppard, K. and Reddy, T. and Weckesser, W. and Abbasi, H. and Gohlke, C. and Oliphant, T. E.",
+        "author": "Harris, C. R. and Millman, K. J. and van der Walt, S. J. and Gommers, R. and Virtanen, P. and Cournapeau, D. and Wieser, E. and Taylor, J. and Berg, S. and Smith, N. J. and Kern, R. and Picus, M. and Hoyer, S. and van Kerkwijk, M. H. and Brett, M. and Haldane, A. and Fern\u00e1ndez del R\u00edo, J. and Wiebe, M. and Peterson, P. and G\u00e9rard-Marchant, P. and Sheppard, K. and Reddy, T. and Weckesser, W. and Abbasi, H. and Gohlke, C. and Oliphant, T. E.",
         "title": "Array programming with NumPy",
         "year": "2020",
         "journal": "Nature",
@@ -1017,11 +1076,12 @@
         "publisher": null,
         "doi": "10.1038/s41586-020-2649-2",
         "url": "https://doi.org/10.1038/s41586-020-2649-2",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Hays, J. and Efros, A. A. Im2gps: estimating geographic information from a single image. In 2008 ieee conference on computer vision and pattern recognition, pp. 1–8. IEEE, 2008.",
+        "raw": "Hays, J. and Efros, A. A. Im2gps: estimating geographic information from a single image. In 2008 ieee conference on computer vision and pattern recognition, pp. 1\u20138. IEEE, 2008.",
         "type": "inproceedings",
         "author": "Hays, J. and Efros, A. A.",
         "title": "Im2gps: estimating geographic information from a single image",
@@ -1034,11 +1094,12 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "He, K., Zhang, X., Ren, S., and Sun, J. Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. In Proceedings of the IEEE international conference on computer vision, pp. 1026–1034, 2015.",
+        "raw": "He, K., Zhang, X., Ren, S., and Sun, J. Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. In Proceedings of the IEEE international conference on computer vision, pp. 1026\u20131034, 2015.",
         "type": "inproceedings",
         "author": "He, K. and Zhang, X. and Ren, S. and Sun, J.",
         "title": "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification",
@@ -1051,11 +1112,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "He, K., Zhang, X., Ren, S., and Sun, J. Deep residual learn- ing for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 770–778, 2016a.",
+        "raw": "He, K., Zhang, X., Ren, S., and Sun, J. Deep residual learn- ing for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 770\u2013778, 2016a.",
         "type": "inproceedings",
         "author": "He, K. and Zhang, X. and Ren, S. and Sun, J.",
         "title": "Deep residual learning for image recognition",
@@ -1068,11 +1130,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "He, K., Zhang, X., Ren, S., and Sun, J. Deep residual learn- ing for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 770–778, 2016b.",
+        "raw": "He, K., Zhang, X., Ren, S., and Sun, J. Deep residual learn- ing for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 770\u2013778, 2016b.",
         "type": "inproceedings",
         "author": "He, K. and Zhang, X. and Ren, S. and Sun, J.",
         "title": "Deep residual learning for image recognition",
@@ -1085,11 +1148,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "He, K., Fan, H., Wu, Y., Xie, S., and Girshick, R. Mo- mentum contrast for unsupervised visual representation learning. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9729– 9738, 2020.",
+        "raw": "He, K., Fan, H., Wu, Y., Xie, S., and Girshick, R. Mo- mentum contrast for unsupervised visual representation learning. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9729\u2013 9738, 2020.",
         "type": "inproceedings",
         "author": "He, K. and Fan, H. and Wu, Y. and Xie, S. and Girshick, R.",
         "title": "Momentum contrast for unsupervised visual representation learning",
@@ -1102,11 +1166,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "He, T., Zhang, Z., Zhang, H., Zhang, Z., Xie, J., and Li, M. Bag of tricks for image classification with convolutional neural networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 558– 567, 2019.",
+        "raw": "He, T., Zhang, Z., Zhang, H., Zhang, Z., Xie, J., and Li, M. Bag of tricks for image classification with convolutional neural networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 558\u2013 567, 2019.",
         "type": "inproceedings",
         "author": "He, T. and Zhang, Z. and Zhang, H. and Zhang, Z. and Xie, J. and Li, M.",
         "title": "Bag of tricks for image classification with convolutional neural networks",
@@ -1119,11 +1184,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "He, X. and Peng, Y. Fine-grained image classification via combining vision and language. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recog- nition, pp. 5994–6002, 2017.",
+        "raw": "He, X. and Peng, Y. Fine-grained image classification via combining vision and language. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recog- nition, pp. 5994\u20136002, 2017.",
         "type": "inproceedings",
         "author": "He, X. and Peng, Y.",
         "title": "Fine-grained image classification via combining vision and language",
@@ -1136,11 +1202,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Helber, P., Bischke, B., Dengel, A., and Borth, D. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. IEEE Journal of Se- lected Topics in Applied Earth Observations and Remote Sensing, 12(7):2217–2226, 2019.",
+        "raw": "Helber, P., Bischke, B., Dengel, A., and Borth, D. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. IEEE Journal of Se- lected Topics in Applied Earth Observations and Remote Sensing, 12(7):2217\u20132226, 2019.",
         "type": "article",
         "author": "Helber, P. and Bischke, B. and Dengel, A. and Borth, D.",
         "title": "Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification",
@@ -1153,11 +1220,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Henaff, O. Data-efficient image recognition with contrastive predictive coding. In International Conference on Ma- chine Learning, pp. 4182–4192. PMLR, 2020.",
+        "raw": "Henaff, O. Data-efficient image recognition with contrastive predictive coding. In International Conference on Ma- chine Learning, pp. 4182\u20134192. PMLR, 2020.",
         "type": "inproceedings",
         "author": "Henaff, O.",
         "title": "Data-efficient image recognition with contrastive predictive coding",
@@ -1170,7 +1238,8 @@
         "publisher": "PMLR",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1187,7 +1256,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1903.12261",
-        "eprint": "1903.12261"
+        "eprint": "1903.12261",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1204,7 +1274,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1606.08415",
-        "eprint": "1606.08415"
+        "eprint": "1606.08415",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1221,7 +1292,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1907.07174",
-        "eprint": "1907.07174"
+        "eprint": "1907.07174",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1238,7 +1310,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2006.16241",
-        "eprint": "2006.16241"
+        "eprint": "2006.16241",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1255,7 +1328,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2004.06100",
-        "eprint": "2004.06100"
+        "eprint": "2004.06100",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1272,7 +1346,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1712.00409",
-        "eprint": "1712.00409"
+        "eprint": "1712.00409",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1289,11 +1364,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Hodosh, M., Young, P., and Hockenmaier, J. Framing image description as a ranking task: Data, models and evaluation metrics. Journal of Artificial Intelligence Research, 47: 853–899, 2013.",
+        "raw": "Hodosh, M., Young, P., and Hockenmaier, J. Framing image description as a ranking task: Data, models and evaluation metrics. Journal of Artificial Intelligence Research, 47: 853\u2013899, 2013.",
         "type": "article",
         "author": "Hodosh, M. and Young, P. and Hockenmaier, J.",
         "title": "Framing image description as a ranking task: Data, models and evaluation metrics",
@@ -1306,11 +1382,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Hongsuck Seo, P., Weyand, T., Sim, J., and Han, B. Cplanet: Enhancing image geolocalization by combinatorial parti- tioning of maps. In Proceedings of the European Confer- ence on Computer Vision (ECCV), pp. 536–551, 2018.",
+        "raw": "Hongsuck Seo, P., Weyand, T., Sim, J., and Han, B. Cplanet: Enhancing image geolocalization by combinatorial parti- tioning of maps. In Proceedings of the European Confer- ence on Computer Vision (ECCV), pp. 536\u2013551, 2018.",
         "type": "inproceedings",
         "author": "Hongsuck Seo, P. and Weyand, T. and Sim, J. and Han, B.",
         "title": "Cplanet: Enhancing image geolocalization by combinatorial partitioning of maps",
@@ -1323,7 +1400,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1340,11 +1418,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1801.06146",
-        "eprint": "1801.06146"
+        "eprint": "1801.06146",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Ilyas, A., Santurkar, S., Tsipras, D., Engstrom, L., Tran, B., and Madry, A. Adversarial examples are not bugs, they are features. In Advances in Neural Information Processing Systems, pp. 125–136, 2019.",
+        "raw": "Ilyas, A., Santurkar, S., Tsipras, D., Engstrom, L., Tran, B., and Madry, A. Adversarial examples are not bugs, they are features. In Advances in Neural Information Processing Systems, pp. 125\u2013136, 2019.",
         "type": "inproceedings",
         "author": "Ilyas, A. and Santurkar, S. and Tsipras, D. and Engstrom, L. and Tran, B. and Madry, A.",
         "title": "Adversarial examples are not bugs, they are features",
@@ -1357,7 +1436,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1374,7 +1454,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1502.03167",
-        "eprint": "1502.03167"
+        "eprint": "1502.03167",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1391,11 +1472,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1412.5903",
-        "eprint": "1412.5903"
+        "eprint": "1412.5903",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Jaderberg, M., Simonyan, K., Zisserman, A., et al. Spatial transformer networks. Advances in neural information processing systems, 28:2017–2025, 2015.",
+        "raw": "Jaderberg, M., Simonyan, K., Zisserman, A., et al. Spatial transformer networks. Advances in neural information processing systems, 28:2017\u20132025, 2015.",
         "type": "article",
         "author": "Jaderberg, M. and Simonyan, K. and Zisserman, A. and others",
         "title": "Spatial transformer networks",
@@ -1408,11 +1490,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Johnson, J., Hariharan, B., van der Maaten, L., Fei-Fei, L., Lawrence Zitnick, C., and Girshick, R. Clevr: A diag- nostic dataset for compositional language and elementary visual reasoning. In Proceedings of the IEEE Confer- ence on Computer Vision and Pattern Recognition, pp. 2901–2910, 2017.",
+        "raw": "Johnson, J., Hariharan, B., van der Maaten, L., Fei-Fei, L., Lawrence Zitnick, C., and Girshick, R. Clevr: A diag- nostic dataset for compositional language and elementary visual reasoning. In Proceedings of the IEEE Confer- ence on Computer Vision and Pattern Recognition, pp. 2901\u20132910, 2017.",
         "type": "inproceedings",
         "author": "Johnson, J. and Hariharan, B. and van der Maaten, L. and Fei-Fei, L. and Lawrence Zitnick, C. and Girshick, R.",
         "title": "Clevr: A diagnostic dataset for compositional language and elementary visual reasoning",
@@ -1425,11 +1508,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Joulin, A., Van Der Maaten, L., Jabri, A., and Vasilache, N. Learning visual features from large weakly supervised data. In European Conference on Computer Vision, pp. 67–84. Springer, 2016.",
+        "raw": "Joulin, A., Van Der Maaten, L., Jabri, A., and Vasilache, N. Learning visual features from large weakly supervised data. In European Conference on Computer Vision, pp. 67\u201384. Springer, 2016.",
         "type": "inproceedings",
         "author": "Joulin, A. and Van Der Maaten, L. and Jabri, A. and Vasilache, N.",
         "title": "Learning visual features from large weakly supervised data",
@@ -1442,7 +1526,8 @@
         "publisher": "Springer",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1459,7 +1544,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2008.01232",
-        "eprint": "2008.01232"
+        "eprint": "2008.01232",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1476,11 +1562,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2001.08361",
-        "eprint": "2001.08361"
+        "eprint": "2001.08361",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Karpathy, A., Joulin, A., and Fei-Fei, L. F. Deep fragment embeddings for bidirectional image sentence mapping. In Advances in neural information processing systems, pp. 1889–1897, 2014.",
+        "raw": "Karpathy, A., Joulin, A., and Fei-Fei, L. F. Deep fragment embeddings for bidirectional image sentence mapping. In Advances in neural information processing systems, pp. 1889\u20131897, 2014.",
         "type": "inproceedings",
         "author": "Karpathy, A. and Joulin, A. and Fei-Fei, L. F.",
         "title": "Deep fragment embeddings for bidirectional image sentence mapping",
@@ -1493,11 +1580,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Keyes, O. The misgendering machines: Trans/hci implica- tions of automatic gender recognition. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW):1–22, 2018.",
+        "raw": "Keyes, O. The misgendering machines: Trans/hci implica- tions of automatic gender recognition. Proceedings of the ACM on Human-Computer Interaction, 2(CSCW):1\u201322, 2018.",
         "type": "article",
         "author": "Keyes, O.",
         "title": "The misgendering machines: Trans/hci implications of automatic gender recognition",
@@ -1510,7 +1598,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1527,7 +1616,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2005.04790",
-        "eprint": "2005.04790"
+        "eprint": "2005.04790",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1544,7 +1634,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1412.6980",
-        "eprint": "1412.6980"
+        "eprint": "1412.6980",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1561,11 +1652,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1411.2539",
-        "eprint": "1411.2539"
+        "eprint": "1411.2539",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Kiros, R., Zhu, Y., Salakhutdinov, R. R., Zemel, R., Urtasun, R., Torralba, A., and Fidler, S. Skip-thought vectors. Advances in neural information processing systems, 28: 3294–3302, 2015.",
+        "raw": "Kiros, R., Zhu, Y., Salakhutdinov, R. R., Zemel, R., Urtasun, R., Torralba, A., and Fidler, S. Skip-thought vectors. Advances in neural information processing systems, 28: 3294\u20133302, 2015.",
         "type": "article",
         "author": "Kiros, R. and Zhu, Y. and Salakhutdinov, R. R. and Zemel, R. and Urtasun, R. and Torralba, A. and Fidler, S.",
         "title": "Skip-thought vectors",
@@ -1578,7 +1670,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1595,11 +1688,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1912.11370",
-        "eprint": "1912.11370"
+        "eprint": "1912.11370",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Kornblith, S., Shlens, J., and Le, Q. V. Do better imagenet models transfer better? In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2661–2671, 2019.",
+        "raw": "Kornblith, S., Shlens, J., and Le, Q. V. Do better imagenet models transfer better? In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2661\u20132671, 2019.",
         "type": "inproceedings",
         "author": "Kornblith, S. and Shlens, J. and Le, Q. V.",
         "title": "Do better imagenet models transfer better?",
@@ -1612,11 +1706,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Krishna, R., Zhu, Y., Groth, O., Johnson, J., Hata, K., Kravitz, J., Chen, S., Kalantidis, Y., Li, L.-J., Shamma, D. A., et al. Visual genome: Connecting language and vision using crowdsourced dense image annotations. International journal of computer vision, 123(1):32–73, 2017.",
+        "raw": "Krishna, R., Zhu, Y., Groth, O., Johnson, J., Hata, K., Kravitz, J., Chen, S., Kalantidis, Y., Li, L.-J., Shamma, D. A., et al. Visual genome: Connecting language and vision using crowdsourced dense image annotations. International journal of computer vision, 123(1):32\u201373, 2017.",
         "type": "article",
         "author": "Krishna, R. and Zhu, Y. and Groth, O. and Johnson, J. and Hata, K. and Kravitz, J. and Chen, S. and Kalantidis, Y. and Li, L.-J. and Shamma, D. A. and others",
         "title": "Visual genome: Connecting language and vision using crowdsourced dense image annotations",
@@ -1629,11 +1724,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Krizhevsky, A., Sutskever, I., and Hinton, G. E. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems, pp. 1097–1105, 2012.",
+        "raw": "Krizhevsky, A., Sutskever, I., and Hinton, G. E. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems, pp. 1097\u20131105, 2012.",
         "type": "inproceedings",
         "author": "Krizhevsky, A. and Sutskever, I. and Hinton, G. E.",
         "title": "Imagenet classification with deep convolutional neural networks",
@@ -1646,7 +1742,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1663,13 +1760,14 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1704.04517",
-        "eprint": "1704.04517"
+        "eprint": "1704.04517",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Kärkkäinen, K. and Joo, J. Fairface: Face attribute dataset for balanced race, gender, and age, 2019.",
+        "raw": "K\u00e4rkk\u00e4inen, K. and Joo, J. Fairface: Face attribute dataset for balanced race, gender, and age, 2019.",
         "type": "misc",
-        "author": "Kärkkäinen, K. and Joo, J.",
+        "author": "K\u00e4rkk\u00e4inen, K. and Joo, J.",
         "title": "Fairface: Face attribute dataset for balanced race, gender, and age",
         "year": "2019",
         "journal": null,
@@ -1680,7 +1778,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1697,11 +1796,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Lampert, C. H., Nickisch, H., and Harmeling, S. Learning to detect unseen object classes by between-class attribute transfer. In 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 951–958. IEEE, 2009.",
+        "raw": "Lampert, C. H., Nickisch, H., and Harmeling, S. Learning to detect unseen object classes by between-class attribute transfer. In 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 951\u2013958. IEEE, 2009.",
         "type": "inproceedings",
         "author": "Lampert, C. H. and Nickisch, H. and Harmeling, S.",
         "title": "Learning to detect unseen object classes by between-class attribute transfer",
@@ -1714,7 +1814,8 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1731,11 +1832,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Le, Q. and Mikolov, T. Distributed representations of sen- tences and documents. In International conference on machine learning, pp. 1188–1196, 2014.",
+        "raw": "Le, Q. and Mikolov, T. Distributed representations of sen- tences and documents. In International conference on machine learning, pp. 1188\u20131196, 2014.",
         "type": "inproceedings",
         "author": "Le, Q. and Mikolov, T.",
         "title": "Distributed representations of sentences and documents",
@@ -1748,7 +1850,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1765,7 +1868,8 @@
         "publisher": null,
         "doi": null,
         "url": "http://yann.lecun.com/exdb/mnist/",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1782,11 +1886,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Lei Ba, J., Swersky, K., Fidler, S., et al. Predicting deep zero-shot convolutional neural networks using textual descriptions. In Proceedings of the IEEE International Conference on Computer Vision, pp. 4247–4255, 2015.",
+        "raw": "Lei Ba, J., Swersky, K., Fidler, S., et al. Predicting deep zero-shot convolutional neural networks using textual descriptions. In Proceedings of the IEEE International Conference on Computer Vision, pp. 4247\u20134255, 2015.",
         "type": "inproceedings",
         "author": "Lei Ba, J. and Swersky, K. and Fidler, S. and others",
         "title": "Predicting deep zero-shot convolutional neural networks using textual descriptions",
@@ -1799,11 +1904,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Li, A., Jabri, A., Joulin, A., and van der Maaten, L. Learning visual n-grams from web data. In Proceedings of the IEEE International Conference on Computer Vision, pp. 4183–4192, 2017.",
+        "raw": "Li, A., Jabri, A., Joulin, A., and van der Maaten, L. Learning visual n-grams from web data. In Proceedings of the IEEE International Conference on Computer Vision, pp. 4183\u20134192, 2017.",
         "type": "inproceedings",
         "author": "Li, A. and Jabri, A. and Joulin, A. and van der Maaten, L.",
         "title": "Learning visual n-grams from web data",
@@ -1816,7 +1922,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1833,7 +1940,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1850,7 +1958,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1612.04936",
-        "eprint": "1612.04936"
+        "eprint": "1612.04936",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1867,7 +1976,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2004.06165",
-        "eprint": "2004.06165"
+        "eprint": "2004.06165",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1884,13 +1994,14 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2009.10259",
-        "eprint": "2009.10259"
+        "eprint": "2009.10259",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ra- manan, D., Dollár, P., and Zitnick, C. L. Microsoft coco: Common objects in context. In European conference on computer vision, pp. 740–755. Springer, 2014.",
+        "raw": "Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ra- manan, D., Doll\u00e1r, P., and Zitnick, C. L. Microsoft coco: Common objects in context. In European conference on computer vision, pp. 740\u2013755. Springer, 2014.",
         "type": "inproceedings",
-        "author": "Lin, T.-Y. and Maire, M. and Belongie, S. and Hays, J. and Perona, P. and Ramanan, D. and Dollár, P. and Zitnick, C. L.",
+        "author": "Lin, T.-Y. and Maire, M. and Belongie, S. and Hays, J. and Perona, P. and Ramanan, D. and Doll\u00e1r, P. and Zitnick, C. L.",
         "title": "Microsoft coco: Common objects in context",
         "year": "2014",
         "journal": null,
@@ -1901,7 +2012,8 @@
         "publisher": "Springer",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1918,7 +2030,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2005.00955",
-        "eprint": "2005.00955"
+        "eprint": "2005.00955",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1935,7 +2048,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2012.12871",
-        "eprint": "2012.12871"
+        "eprint": "2012.12871",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1952,13 +2066,14 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1801.10198",
-        "eprint": "1801.10198"
+        "eprint": "1801.10198",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Locatello, F., Bauer, S., Lucic, M., Rätsch, G., Gelly, S., Schölkopf, B., and Bachem, O. A sober look at the unsupervised learning of disentangled representations and their evaluation. arXiv preprint arXiv: 2010.14766, 2020.",
+        "raw": "Locatello, F., Bauer, S., Lucic, M., R\u00e4tsch, G., Gelly, S., Sch\u00f6lkopf, B., and Bachem, O. A sober look at the unsupervised learning of disentangled representations and their evaluation. arXiv preprint arXiv: 2010.14766, 2020.",
         "type": "article",
-        "author": "Locatello, F. and Bauer, S. and Lucic, M. and Rätsch, G. and Gelly, S. and Schölkopf, B. and Bachem, O.",
+        "author": "Locatello, F. and Bauer, S. and Lucic, M. and R\u00e4tsch, G. and Gelly, S. and Sch\u00f6lkopf, B. and Bachem, O.",
         "title": "A sober look at the unsupervised learning of disentangled representations and their evaluation",
         "year": "2020",
         "journal": "arXiv preprint arXiv:2010.14766",
@@ -1969,7 +2084,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2010.14766",
-        "eprint": "2010.14766"
+        "eprint": "2010.14766",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -1986,7 +2102,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1608.03983",
-        "eprint": "1608.03983"
+        "eprint": "1608.03983",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2003,11 +2120,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1711.05101",
-        "eprint": "1711.05101"
+        "eprint": "1711.05101",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Lu, J., Batra, D., Parikh, D., and Lee, S. Vilbert: Pretraining task-agnostic visiolinguistic representations for vision- and-language tasks. In Advances in Neural Information Processing Systems, pp. 13–23, 2019.",
+        "raw": "Lu, J., Batra, D., Parikh, D., and Lee, S. Vilbert: Pretraining task-agnostic visiolinguistic representations for vision- and-language tasks. In Advances in Neural Information Processing Systems, pp. 13\u201323, 2019.",
         "type": "inproceedings",
         "author": "Lu, J. and Batra, D. and Parikh, D. and Lee, S.",
         "title": "Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks",
@@ -2020,7 +2138,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2037,11 +2156,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://www.youtube.com/watch?v=KOQFxbPPLOE&t=1390s",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Lucic, M., Kurach, K., Michalski, M., Gelly, S., and Bous- quet, O. Are gans created equal? a large-scale study. Advances in neural information processing systems, 31: 700–709, 2018.",
+        "raw": "Lucic, M., Kurach, K., Michalski, M., Gelly, S., and Bous- quet, O. Are gans created equal? a large-scale study. Advances in neural information processing systems, 31: 700\u2013709, 2018.",
         "type": "article",
         "author": "Lucic, M. and Kurach, K. and Michalski, M. and Gelly, S. and Bousquet, O.",
         "title": "Are gans created equal? a large-scale study",
@@ -2054,11 +2174,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Mahajan, D., Girshick, R., Ramanathan, V., He, K., Paluri, M., Li, Y., Bharambe, A., and van der Maaten, L. Exploring the limits of weakly supervised pretraining. In Proceedings of the European Conference on Computer Vision (ECCV), pp. 181–196, 2018.",
+        "raw": "Mahajan, D., Girshick, R., Ramanathan, V., He, K., Paluri, M., Li, Y., Bharambe, A., and van der Maaten, L. Exploring the limits of weakly supervised pretraining. In Proceedings of the European Conference on Computer Vision (ECCV), pp. 181\u2013196, 2018.",
         "type": "inproceedings",
         "author": "Mahajan, D. and Girshick, R. and Ramanathan, V. and He, K. and Paluri, M. and Li, Y. and Bharambe, A. and van der Maaten, L.",
         "title": "Exploring the limits of weakly supervised pretraining",
@@ -2071,11 +2192,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "McCann, B., Bradbury, J., Xiong, C., and Socher, R. Learned in translation: Contextualized word vectors. In Advances in neural information processing systems, pp. 6294–6305, 2017.",
+        "raw": "McCann, B., Bradbury, J., Xiong, C., and Socher, R. Learned in translation: Contextualized word vectors. In Advances in neural information processing systems, pp. 6294\u20136305, 2017.",
         "type": "inproceedings",
         "author": "McCann, B. and Bradbury, J. and Xiong, C. and Socher, R.",
         "title": "Learned in translation: Contextualized word vectors",
@@ -2088,7 +2210,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2105,7 +2228,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1806.08730",
-        "eprint": "1806.08730"
+        "eprint": "1806.08730",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2122,11 +2246,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1710.03740",
-        "eprint": "1710.03740"
+        "eprint": "1710.03740",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Miech, A., Zhukov, D., Alayrac, J.-B., Tapaswi, M., Laptev, I., and Sivic, J. Howto100m: Learning a text-video em- bedding by watching hundred million narrated video clips. In Proceedings of the IEEE international conference on computer vision, pp. 2630–2640, 2019.",
+        "raw": "Miech, A., Zhukov, D., Alayrac, J.-B., Tapaswi, M., Laptev, I., and Sivic, J. Howto100m: Learning a text-video em- bedding by watching hundred million narrated video clips. In Proceedings of the IEEE international conference on computer vision, pp. 2630\u20132640, 2019.",
         "type": "inproceedings",
         "author": "Miech, A. and Zhukov, D. and Alayrac, J.-B. and Tapaswi, M. and Laptev, I. and Sivic, J.",
         "title": "Howto100m: Learning a text-video embedding by watching hundred million narrated video clips",
@@ -2139,7 +2264,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2156,11 +2282,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2008.01018",
-        "eprint": "2008.01018"
+        "eprint": "2008.01018",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Miech, A., Alayrac, J.-B., Smaira, L., Laptev, I., Sivic, J., and Zisserman, A. End-to-end learning of visual represen- tations from uncurated instructional videos. In Proceed- ings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9879–9889, 2020b.",
+        "raw": "Miech, A., Alayrac, J.-B., Smaira, L., Laptev, I., Sivic, J., and Zisserman, A. End-to-end learning of visual represen- tations from uncurated instructional videos. In Proceed- ings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9879\u20139889, 2020b.",
         "type": "inproceedings",
         "author": "Miech, A. and Alayrac, J.-B. and Smaira, L. and Laptev, I. and Sivic, J. and Zisserman, A.",
         "title": "End-to-end learning of visual representations from uncurated instructional videos",
@@ -2173,11 +2300,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., and Dean, J. Distributed representations of words and phrases and their compositionality. Advances in neural informa- tion processing systems, 26:3111–3119, 2013.",
+        "raw": "Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., and Dean, J. Distributed representations of words and phrases and their compositionality. Advances in neural informa- tion processing systems, 26:3111\u20133119, 2013.",
         "type": "article",
         "author": "Mikolov, T. and Sutskever, I. and Chen, K. and Corrado, G. S. and Dean, J.",
         "title": "Distributed representations of words and phrases and their compositionality",
@@ -2190,7 +2318,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2207,7 +2336,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2004.14444",
-        "eprint": "2004.14444"
+        "eprint": "2004.14444",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2224,11 +2354,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Mithun, N. C., Panda, R., Papalexakis, E. E., and Roy- Chowdhury, A. K. Webly supervised joint embedding for cross-modal image-text retrieval. In Proceedings of the 26th ACM international conference on Multimedia, pp. 1856–1864, 2018.",
+        "raw": "Mithun, N. C., Panda, R., Papalexakis, E. E., and Roy- Chowdhury, A. K. Webly supervised joint embedding for cross-modal image-text retrieval. In Proceedings of the 26th ACM international conference on Multimedia, pp. 1856\u20131864, 2018.",
         "type": "inproceedings",
         "author": "Mithun, N. C. and Panda, R. and Papalexakis, E. E. and Roy-Chowdhury, A. K.",
         "title": "Webly supervised joint embedding for cross-modal image-text retrieval",
@@ -2241,7 +2372,8 @@
         "publisher": "ACM",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2258,7 +2390,8 @@
         "publisher": "Citeseer",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2275,11 +2408,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1911.02683",
-        "eprint": "1911.02683"
+        "eprint": "1911.02683",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Muller-Budack, E., Pustu-Iren, K., and Ewerth, R. Geolo- cation estimation of photos using a hierarchical model and scene classification. In Proceedings of the European Conference on Computer Vision (ECCV), pp. 563–579, 2018.",
+        "raw": "Muller-Budack, E., Pustu-Iren, K., and Ewerth, R. Geolo- cation estimation of photos using a hierarchical model and scene classification. In Proceedings of the European Conference on Computer Vision (ECCV), pp. 563\u2013579, 2018.",
         "type": "inproceedings",
         "author": "Muller-Budack, E. and Pustu-Iren, K. and Ewerth, R.",
         "title": "Geolocation estimation of photos using a hierarchical model and scene classification",
@@ -2292,7 +2426,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2309,7 +2444,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2005.01932",
-        "eprint": "2005.01932"
+        "eprint": "2005.01932",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2326,7 +2462,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1506.08941",
-        "eprint": "1506.08941"
+        "eprint": "1506.08941",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2343,7 +2480,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2360,7 +2498,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2377,11 +2516,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Oh, S., Hoogs, A., Perera, A., Cuntoor, N., Chen, C.-C., Lee, J. T., Mukherjee, S., Aggarwal, J., Lee, H., Davis, L., et al. A large-scale benchmark dataset for event recognition in surveillance video. In CVPR 2011, pp. 3153–3160. IEEE, 2011.",
+        "raw": "Oh, S., Hoogs, A., Perera, A., Cuntoor, N., Chen, C.-C., Lee, J. T., Mukherjee, S., Aggarwal, J., Lee, H., Davis, L., et al. A large-scale benchmark dataset for event recognition in surveillance video. In CVPR 2011, pp. 3153\u20133160. IEEE, 2011.",
         "type": "inproceedings",
         "author": "Oh, S. and Hoogs, A. and Perera, A. and Cuntoor, N. and Chen, C.-C. and Lee, J. T. and Mukherjee, S. and Aggarwal, J. and Lee, H. and Davis, L. and others",
         "title": "A large-scale benchmark dataset for event recognition in surveillance video",
@@ -2394,11 +2534,12 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Oliver, A., Odena, A., Raffel, C. A., Cubuk, E. D., and Good- fellow, I. Realistic evaluation of deep semi-supervised learning algorithms. Advances in neural information pro- cessing systems, 31:3235–3246, 2018.",
+        "raw": "Oliver, A., Odena, A., Raffel, C. A., Cubuk, E. D., and Good- fellow, I. Realistic evaluation of deep semi-supervised learning algorithms. Advances in neural information pro- cessing systems, 31:3235\u20133246, 2018.",
         "type": "article",
         "author": "Oliver, A. and Odena, A. and Raffel, C. A. and Cubuk, E. D. and Goodfellow, I.",
         "title": "Realistic evaluation of deep semi-supervised learning algorithms",
@@ -2411,7 +2552,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2428,11 +2570,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1807.03748",
-        "eprint": "1807.03748"
+        "eprint": "1807.03748",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Ordonez, V., Kulkarni, G., and Berg, T. Im2text: Describing images using 1 million captioned photographs. Advances in neural information processing systems, 24:1143–1151, 2011.",
+        "raw": "Ordonez, V., Kulkarni, G., and Berg, T. Im2text: Describing images using 1 million captioned photographs. Advances in neural information processing systems, 24:1143\u20131151, 2011.",
         "type": "article",
         "author": "Ordonez, V. and Kulkarni, G. and Berg, T.",
         "title": "Im2text: Describing images using 1 million captioned photographs",
@@ -2445,7 +2588,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2462,7 +2606,8 @@
         "publisher": "Zenodo",
         "doi": "10.5281/zenodo.3509134",
         "url": "https://doi.org/10.5281/zenodo.3509134",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2479,11 +2624,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen, T., Lin, Z., Gimelshein, N., Antiga, L., Desmaison, A., Kopf, A., Yang, E., DeVito, Z., Raison, M., Tejani, A., Chilamkurthy, S., Steiner, B., Fang, L., Bai, J., and Chintala, S. Pytorch: An imperative style, high-performance deep learning library. In Advances in Neural Information Processing Systems 32, pp. 8024–8035, 2019.",
+        "raw": "Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen, T., Lin, Z., Gimelshein, N., Antiga, L., Desmaison, A., Kopf, A., Yang, E., DeVito, Z., Raison, M., Tejani, A., Chilamkurthy, S., Steiner, B., Fang, L., Bai, J., and Chintala, S. Pytorch: An imperative style, high-performance deep learning library. In Advances in Neural Information Processing Systems 32, pp. 8024\u20138035, 2019.",
         "type": "inproceedings",
         "author": "Paszke, A. and Gross, S. and Massa, F. and Lerer, A. and Bradbury, J. and Chanan, G. and Killeen, T. and Lin, Z. and Gimelshein, N. and Antiga, L. and Desmaison, A. and Kopf, A. and Yang, E. and DeVito, Z. and Raison, M. and Tejani, A. and Chilamkurthy, S. and Steiner, B. and Fang, L. and Bai, J. and Chintala, S.",
         "title": "Pytorch: An imperative style, high-performance deep learning library",
@@ -2496,11 +2642,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cour- napeau, D., Brucher, M., Perrot, M., and Duchesnay, E. Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12:2825–2830, 2011.",
+        "raw": "Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cour- napeau, D., Brucher, M., Perrot, M., and Duchesnay, E. Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12:2825\u20132830, 2011.",
         "type": "article",
         "author": "Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V. and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P. and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.",
         "title": "Scikit-learn: Machine learning in Python",
@@ -2513,11 +2660,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Pennington, J., Socher, R., and Manning, C. D. Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), pp. 1532–1543, 2014.",
+        "raw": "Pennington, J., Socher, R., and Manning, C. D. Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), pp. 1532\u20131543, 2014.",
         "type": "inproceedings",
         "author": "Pennington, J. and Socher, R. and Manning, C. D.",
         "title": "Glove: Global vectors for word representation",
@@ -2530,7 +2678,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2547,7 +2696,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1802.05365",
-        "eprint": "1802.05365"
+        "eprint": "1802.05365",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2564,11 +2714,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2001.07966",
-        "eprint": "2001.07966"
+        "eprint": "2001.07966",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Quattoni, A., Collins, M., and Darrell, T. Learning visual representations using images with captions. In 2007 IEEE Conference on Computer Vision and Pattern Recognition, pp. 1–8. IEEE, 2007.",
+        "raw": "Quattoni, A., Collins, M., and Darrell, T. Learning visual representations using images with captions. In 2007 IEEE Conference on Computer Vision and Pattern Recognition, pp. 1\u20138. IEEE, 2007.",
         "type": "inproceedings",
         "author": "Quattoni, A. and Collins, M. and Darrell, T.",
         "title": "Learning visual representations using images with captions",
@@ -2581,7 +2732,8 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2598,7 +2750,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2615,7 +2768,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2632,7 +2786,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1910.10683",
-        "eprint": "1910.10683"
+        "eprint": "1910.10683",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2649,11 +2804,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Ramanathan, V., Liang, P., and Fei-Fei, L. Video event understanding using natural language descriptions. In Proceedings of the IEEE International Conference on Computer Vision, pp. 905–912, 2013.",
+        "raw": "Ramanathan, V., Liang, P., and Fei-Fei, L. Video event understanding using natural language descriptions. In Proceedings of the IEEE International Conference on Computer Vision, pp. 905\u2013912, 2013.",
         "type": "inproceedings",
         "author": "Ramanathan, V. and Liang, P. and Fei-Fei, L.",
         "title": "Video event understanding using natural language descriptions",
@@ -2666,11 +2822,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Rashtchian, C., Young, P., Hodosh, M., and Hockenmaier, J. Collecting image annotations using amazon's mechanical turk. In Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon's Mechanical Turk, pp. 139–147, 2010.",
+        "raw": "Rashtchian, C., Young, P., Hodosh, M., and Hockenmaier, J. Collecting image annotations using amazon's mechanical turk. In Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon's Mechanical Turk, pp. 139\u2013147, 2010.",
         "type": "inproceedings",
         "author": "Rashtchian, C. and Young, P. and Hodosh, M. and Hockenmaier, J.",
         "title": "Collecting image annotations using amazon's mechanical turk",
@@ -2683,7 +2840,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2700,11 +2858,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1902.10811",
-        "eprint": "1902.10811"
+        "eprint": "1902.10811",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Salimans, T. and Kingma, D. P. Weight normalization: A simple reparameterization to accelerate training of deep neural networks. In Advances in neural information pro- cessing systems, pp. 901–909, 2016.",
+        "raw": "Salimans, T. and Kingma, D. P. Weight normalization: A simple reparameterization to accelerate training of deep neural networks. In Advances in neural information pro- cessing systems, pp. 901\u2013909, 2016.",
         "type": "inproceedings",
         "author": "Salimans, T. and Kingma, D. P.",
         "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
@@ -2717,11 +2876,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Scheuerman, M. K., Paul, J. M., and Brubaker, J. R. How computers see gender: An evaluation of gender classifica- tion in commercial facial analysis services. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW): 1–33, 2019.",
+        "raw": "Scheuerman, M. K., Paul, J. M., and Brubaker, J. R. How computers see gender: An evaluation of gender classifica- tion in commercial facial analysis services. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW): 1\u201333, 2019.",
         "type": "article",
         "author": "Scheuerman, M. K. and Paul, J. M. and Brubaker, J. R.",
         "title": "How computers see gender: An evaluation of gender classification in commercial facial analysis services",
@@ -2734,7 +2894,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2751,7 +2912,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2768,7 +2930,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1508.07909",
-        "eprint": "1508.07909"
+        "eprint": "1508.07909",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2785,11 +2948,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1906.02168",
-        "eprint": "1906.02168"
+        "eprint": "1906.02168",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Sharma, P., Ding, N., Goodman, S., and Soricut, R. Con- ceptual captions: A cleaned, hypernymed, image alt-text dataset for automatic image captioning. In Proceedings of the 56th Annual Meeting of the Association for Compu- tational Linguistics (Volume 1: Long Papers), pp. 2556– 2565, 2018.",
+        "raw": "Sharma, P., Ding, N., Goodman, S., and Soricut, R. Con- ceptual captions: A cleaned, hypernymed, image alt-text dataset for automatic image captioning. In Proceedings of the 56th Annual Meeting of the Association for Compu- tational Linguistics (Volume 1: Long Papers), pp. 2556\u2013 2565, 2018.",
         "type": "inproceedings",
         "author": "Sharma, P. and Ding, N. and Goodman, S. and Soricut, R.",
         "title": "Conceptual captions: A cleaned, hypernymed, image alt-text dataset for automatic image captioning",
@@ -2802,11 +2966,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Singh, A., Natarajan, V., Shah, M., Jiang, Y., Chen, X., Batra, D., Parikh, D., and Rohrbach, M. Towards vqa models that can read. In Proceedings of the IEEE Con- ference on Computer Vision and Pattern Recognition, pp. 8317–8326, 2019.",
+        "raw": "Singh, A., Natarajan, V., Shah, M., Jiang, Y., Chen, X., Batra, D., Parikh, D., and Rohrbach, M. Towards vqa models that can read. In Proceedings of the IEEE Con- ference on Computer Vision and Pattern Recognition, pp. 8317\u20138326, 2019.",
         "type": "inproceedings",
         "author": "Singh, A. and Natarajan, V. and Shah, M. and Jiang, Y. and Chen, X. and Batra, D. and Parikh, D. and Rohrbach, M.",
         "title": "Towards vqa models that can read",
@@ -2819,11 +2984,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Socher, R. and Fei-Fei, L. Connecting modalities: Semi- supervised segmentation and annotation of images using unaligned text corpora. In 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 966–973. IEEE, 2010.",
+        "raw": "Socher, R. and Fei-Fei, L. Connecting modalities: Semi- supervised segmentation and annotation of images using unaligned text corpora. In 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 966\u2013973. IEEE, 2010.",
         "type": "inproceedings",
         "author": "Socher, R. and Fei-Fei, L.",
         "title": "Connecting modalities: Semi-supervised segmentation and annotation of images using unaligned text corpora",
@@ -2836,11 +3002,12 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A. Y., and Potts, C. Recursive deep models for semantic compositionality over a sentiment treebank. In Proceedings of the 2013 conference on empirical methods in natural language processing, pp. 1631–1642, 2013.",
+        "raw": "Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A. Y., and Potts, C. Recursive deep models for semantic compositionality over a sentiment treebank. In Proceedings of the 2013 conference on empirical methods in natural language processing, pp. 1631\u20131642, 2013.",
         "type": "inproceedings",
         "author": "Socher, R. and Perelygin, A. and Wu, J. and Chuang, J. and Manning, C. D. and Ng, A. Y. and Potts, C.",
         "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
@@ -2853,11 +3020,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Socher, R., Karpathy, A., Le, Q. V., Manning, C. D., and Ng, A. Y. Grounded compositional semantics for finding and describing images with sentences. Transactions of the Association for Computational Linguistics, 2:207–218, 2014.",
+        "raw": "Socher, R., Karpathy, A., Le, Q. V., Manning, C. D., and Ng, A. Y. Grounded compositional semantics for finding and describing images with sentences. Transactions of the Association for Computational Linguistics, 2:207\u2013218, 2014.",
         "type": "article",
         "author": "Socher, R. and Karpathy, A. and Le, Q. V. and Manning, C. D. and Ng, A. Y.",
         "title": "Grounded compositional semantics for finding and describing images with sentences",
@@ -2870,11 +3038,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Sohn, K. Improved deep metric learning with multi-class n-pair loss objective. In Advances in neural information processing systems, pp. 1857–1865, 2016.",
+        "raw": "Sohn, K. Improved deep metric learning with multi-class n-pair loss objective. In Advances in neural information processing systems, pp. 1857\u20131865, 2016.",
         "type": "inproceedings",
         "author": "Sohn, K.",
         "title": "Improved deep metric learning with multi-class n-pair loss objective",
@@ -2887,7 +3056,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2904,7 +3074,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2921,7 +3092,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1212.0402",
-        "eprint": "1212.0402"
+        "eprint": "1212.0402",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2938,7 +3110,8 @@
         "publisher": "Zenodo",
         "doi": "10.5281/zenodo.2591652",
         "url": "https://doi.org/10.5281/zenodo.2591652",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -2955,11 +3128,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Srivastava, S., Labutov, I., and Mitchell, T. Joint concept learning and semantic parsing from natural language ex- planations. In Proceedings of the 2017 conference on empirical methods in natural language processing, pp. 1527–1536, 2017.",
+        "raw": "Srivastava, S., Labutov, I., and Mitchell, T. Joint concept learning and semantic parsing from natural language ex- planations. In Proceedings of the 2017 conference on empirical methods in natural language processing, pp. 1527\u20131536, 2017.",
         "type": "inproceedings",
         "author": "Srivastava, S. and Labutov, I. and Mitchell, T.",
         "title": "Joint concept learning and semantic parsing from natural language explanations",
@@ -2972,11 +3146,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Stallkamp, J., Schlipsing, M., Salmen, J., and Igel, C. The German Traffic Sign Recognition Benchmark: A multi- class classification competition. In IEEE International Joint Conference on Neural Networks, pp. 1453–1460, 2011.",
+        "raw": "Stallkamp, J., Schlipsing, M., Salmen, J., and Igel, C. The German Traffic Sign Recognition Benchmark: A multi- class classification competition. In IEEE International Joint Conference on Neural Networks, pp. 1453\u20131460, 2011.",
         "type": "inproceedings",
         "author": "Stallkamp, J. and Schlipsing, M. and Salmen, J. and Igel, C.",
         "title": "The German Traffic Sign Recognition Benchmark: A multi-class classification competition",
@@ -2989,7 +3164,8 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3006,7 +3182,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2007.14937",
-        "eprint": "2007.14937"
+        "eprint": "2007.14937",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3023,7 +3200,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1602.07261",
-        "eprint": "1602.07261"
+        "eprint": "1602.07261",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3040,7 +3218,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1908.07490",
-        "eprint": "1908.07490"
+        "eprint": "1908.07490",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3057,7 +3236,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1905.11946",
-        "eprint": "1905.11946"
+        "eprint": "1905.11946",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3074,11 +3254,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2007.00644",
-        "eprint": "2007.00644"
+        "eprint": "2007.00644",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Thomee, B., Shamma, D. A., Friedland, G., Elizalde, B., Ni, K., Poland, D., Borth, D., and Li, L.-J. Yfcc100m: The new data in multimedia research. Communications of the ACM, 59(2):64–73, 2016.",
+        "raw": "Thomee, B., Shamma, D. A., Friedland, G., Elizalde, B., Ni, K., Poland, D., Borth, D., and Li, L.-J. Yfcc100m: The new data in multimedia research. Communications of the ACM, 59(2):64\u201373, 2016.",
         "type": "article",
         "author": "Thomee, B. and Shamma, D. A. and Friedland, G. and Elizalde, B. and Ni, K. and Poland, D. and Borth, D. and Li, L.-J.",
         "title": "Yfcc100m: The new data in multimedia research",
@@ -3091,7 +3272,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3108,7 +3290,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1906.05849",
-        "eprint": "1906.05849"
+        "eprint": "1906.05849",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3125,11 +3308,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2003.11539",
-        "eprint": "2003.11539"
+        "eprint": "2003.11539",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Torralba, A., Fergus, R., and Freeman, W. T. 80 million tiny images: A large data set for nonparametric object and scene recognition. IEEE transactions on pattern analysis and machine intelligence, 30(11):1958–1970, 2008.",
+        "raw": "Torralba, A., Fergus, R., and Freeman, W. T. 80 million tiny images: A large data set for nonparametric object and scene recognition. IEEE transactions on pattern analysis and machine intelligence, 30(11):1958\u20131970, 2008.",
         "type": "article",
         "author": "Torralba, A. and Fergus, R. and Freeman, W. T.",
         "title": "80 million tiny images: A large data set for nonparametric object and scene recognition",
@@ -3142,13 +3326,14 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Touvron, H., Vedaldi, A., Douze, M., and Jégou, H. Fix- ing the train-test resolution discrepancy. In Advances in neural information processing systems, pp. 8252–8262, 2019.",
+        "raw": "Touvron, H., Vedaldi, A., Douze, M., and J\u00e9gou, H. Fix- ing the train-test resolution discrepancy. In Advances in neural information processing systems, pp. 8252\u20138262, 2019.",
         "type": "inproceedings",
-        "author": "Touvron, H. and Vedaldi, A. and Douze, M. and Jégou, H.",
+        "author": "Touvron, H. and Vedaldi, A. and Douze, M. and J\u00e9gou, H.",
         "title": "Fixing the train-test resolution discrepancy",
         "year": "2019",
         "journal": null,
@@ -3159,11 +3344,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Varadarajan, J. and Odobez, J.-M. Topic models for scene analysis and abnormality detection. In 2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops, pp. 1338–1345. IEEE, 2009.",
+        "raw": "Varadarajan, J. and Odobez, J.-M. Topic models for scene analysis and abnormality detection. In 2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops, pp. 1338\u20131345. IEEE, 2009.",
         "type": "inproceedings",
         "author": "Varadarajan, J. and Odobez, J.-M.",
         "title": "Topic models for scene analysis and abnormality detection",
@@ -3176,13 +3362,14 @@
         "publisher": "IEEE",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., and Polosukhin, I. Atten- tion is all you need. In Advances in neural information processing systems, pp. 5998–6008, 2017.",
+        "raw": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, \u0141., and Polosukhin, I. Atten- tion is all you need. In Advances in neural information processing systems, pp. 5998\u20136008, 2017.",
         "type": "inproceedings",
-        "author": "Vaswani, A. and Shazeer, N. and Parmar, N. and Uszkoreit, J. and Jones, L. and Gomez, A. N. and Kaiser, Ł. and Polosukhin, I.",
+        "author": "Vaswani, A. and Shazeer, N. and Parmar, N. and Uszkoreit, J. and Jones, L. and Gomez, A. N. and Kaiser, \u0141. and Polosukhin, I.",
         "title": "Attention is all you need",
         "year": "2017",
         "journal": null,
@@ -3193,7 +3380,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3210,13 +3398,14 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., Burovski, E., Peterson, P., Weckesser, W., Bright, J., van der Walt, S. J., Brett, M., Wilson, J., Millman, K. J., Mayorov, N., Nelson, A. R. J., Jones, E., Kern, R., Larson, E., Carey, C. J., Polat, İ., Feng, Y., Moore, E. W., VanderPlas, J., Laxalde, D., Perktold, J., Cimrman, R., Henriksen, I., Quintero, E. A., Harris, C. R., Archibald, A. M., Ribeiro, A. H., Pedregosa, F., van Mulbregt, P., and SciPy 1.0 Contributors. SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17:261–272, 2020. doi: 10.1038/s41592-019-0686-2.",
+        "raw": "Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D., Burovski, E., Peterson, P., Weckesser, W., Bright, J., van der Walt, S. J., Brett, M., Wilson, J., Millman, K. J., Mayorov, N., Nelson, A. R. J., Jones, E., Kern, R., Larson, E., Carey, C. J., Polat, \u0130., Feng, Y., Moore, E. W., VanderPlas, J., Laxalde, D., Perktold, J., Cimrman, R., Henriksen, I., Quintero, E. A., Harris, C. R., Archibald, A. M., Ribeiro, A. H., Pedregosa, F., van Mulbregt, P., and SciPy 1.0 Contributors. SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17:261\u2013272, 2020. doi: 10.1038/s41592-019-0686-2.",
         "type": "article",
-        "author": "Virtanen, P. and Gommers, R. and Oliphant, T. E. and Haberland, M. and Reddy, T. and Cournapeau, D. and Burovski, E. and Peterson, P. and Weckesser, W. and Bright, J. and van der Walt, S. J. and Brett, M. and Wilson, J. and Millman, K. J. and Mayorov, N. and Nelson, A. R. J. and Jones, E. and Kern, R. and Larson, E. and Carey, C. J. and Polat, İ. and Feng, Y. and Moore, E. W. and VanderPlas, J. and Laxalde, D. and Perktold, J. and Cimrman, R. and Henriksen, I. and Quintero, E. A. and Harris, C. R. and Archibald, A. M. and Ribeiro, A. H. and Pedregosa, F. and van Mulbregt, P. and SciPy 1.0 Contributors",
+        "author": "Virtanen, P. and Gommers, R. and Oliphant, T. E. and Haberland, M. and Reddy, T. and Cournapeau, D. and Burovski, E. and Peterson, P. and Weckesser, W. and Bright, J. and van der Walt, S. J. and Brett, M. and Wilson, J. and Millman, K. J. and Mayorov, N. and Nelson, A. R. J. and Jones, E. and Kern, R. and Larson, E. and Carey, C. J. and Polat, \u0130. and Feng, Y. and Moore, E. W. and VanderPlas, J. and Laxalde, D. and Perktold, J. and Cimrman, R. and Henriksen, I. and Quintero, E. A. and Harris, C. R. and Archibald, A. M. and Ribeiro, A. H. and Pedregosa, F. and van Mulbregt, P. and SciPy 1.0 Contributors",
         "title": "SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python",
         "year": "2020",
         "journal": "Nature Methods",
@@ -3227,11 +3416,12 @@
         "publisher": null,
         "doi": "10.1038/s41592-019-0686-2",
         "url": "https://doi.org/10.1038/s41592-019-0686-2",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Vo, N., Jacobs, N., and Hays, J. Revisiting im2gps in the deep learning era. In Proceedings of the IEEE Interna- tional Conference on Computer Vision, pp. 2621–2630, 2017.",
+        "raw": "Vo, N., Jacobs, N., and Hays, J. Revisiting im2gps in the deep learning era. In Proceedings of the IEEE Interna- tional Conference on Computer Vision, pp. 2621\u20132630, 2017.",
         "type": "inproceedings",
         "author": "Vo, N. and Jacobs, N. and Hays, J.",
         "title": "Revisiting im2gps in the deep learning era",
@@ -3244,7 +3434,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3261,11 +3452,12 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/1804.07461",
-        "eprint": "1804.07461"
+        "eprint": "1804.07461",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Wang, H., Ge, S., Lipton, Z., and Xing, E. P. Learning ro- bust global representations by penalizing local predictive power. In Advances in Neural Information Processing Systems, pp. 10506–10518, 2019.",
+        "raw": "Wang, H., Ge, S., Lipton, Z., and Xing, E. P. Learning ro- bust global representations by penalizing local predictive power. In Advances in Neural Information Processing Systems, pp. 10506\u201310518, 2019.",
         "type": "inproceedings",
         "author": "Wang, H. and Ge, S. and Lipton, Z. and Xing, E. P.",
         "title": "Learning robust global representations by penalizing local predictive power",
@@ -3278,11 +3470,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Wang, H., Lu, P., Zhang, H., Yang, M., Bai, X., Xu, Y., He, M., Wang, Y., and Liu, W. All you need is boundary: To- ward arbitrary-shaped text spotting. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pp. 12160–12167, 2020.",
+        "raw": "Wang, H., Lu, P., Zhang, H., Yang, M., Bai, X., Xu, Y., He, M., Wang, Y., and Liu, W. All you need is boundary: To- ward arbitrary-shaped text spotting. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 34, pp. 12160\u201312167, 2020.",
         "type": "inproceedings",
         "author": "Wang, H. and Lu, P. and Zhang, H. and Yang, M. and Bai, X. and Xu, Y. and He, M. and Wang, Y. and Liu, W.",
         "title": "All you need is boundary: Toward arbitrary-shaped text spotting",
@@ -3295,7 +3488,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
@@ -3312,11 +3506,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Weston, J., Bengio, S., and Usunier, N. Large scale im- age annotation: learning to rank with joint word-image embeddings. Machine learning, 81(1):21–35, 2010.",
+        "raw": "Weston, J., Bengio, S., and Usunier, N. Large scale im- age annotation: learning to rank with joint word-image embeddings. Machine learning, 81(1):21\u201335, 2010.",
         "type": "article",
         "author": "Weston, J. and Bengio, S. and Usunier, N.",
         "title": "Large scale image annotation: learning to rank with joint word-image embeddings",
@@ -3329,11 +3524,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Weston, J. E. Dialog-based language learning. In Advances in Neural Information Processing Systems, pp. 829–837, 2016.",
+        "raw": "Weston, J. E. Dialog-based language learning. In Advances in Neural Information Processing Systems, pp. 829\u2013837, 2016.",
         "type": "inproceedings",
         "author": "Weston, J. E.",
         "title": "Dialog-based language learning",
@@ -3346,11 +3542,12 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2021_Learning_Transferable_Visual_Models_from_Natural_Language_Supervision.pdf",
-        "raw": "Weyand, T., Kostrikov, I., and Philbin, J. Planet-photo geolo- cation with convolutional neural networks. In European Conference on Computer Vision, pp. 37–55. Springer, 2016.",
+        "raw": "Weyand, T., Kostrikov, I., and Philbin, J. Planet-photo geolo- cation with convolutional neural networks. In European Conference on Computer Vision, pp. 37\u201355. Springer, 2016.",
         "type": "inproceedings",
         "author": "Weyand, T. and Kostrikov, I. and Philbin, J.",
         "title": "Planet-photo geolocation with convolutional neural networks",
@@ -3363,6 +3560,7 @@
         "publisher": "Springer",
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     }
 ]

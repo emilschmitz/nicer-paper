@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "name": "Citation Tooltips Finder",
+  "version": "1.0.0",
+  "description": "Locally extracts citation references and displays links as hover tooltips on scientific PDFs.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Citation Finder Stats"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*.pdf",
+        "https://*/*.pdf",
+        "file://*/*.pdf"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "tooltip.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "viewer.html",
+        "viewer.js",
+        "extractor.js",
+        "pdf.worker.js",
+        "tooltip.css"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

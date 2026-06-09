@@ -14,7 +14,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -31,7 +32,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -48,7 +50,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -65,7 +68,8 @@
         "publisher": null,
         "doi": null,
         "url": "https://arxiv.org/abs/2107.02314",
-        "eprint": "2107.02314"
+        "eprint": "2107.02314",
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -81,7 +85,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -98,7 +103,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -115,13 +121,14 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
-        "raw": "8. Alil,sın, CemDirekoglu, MelikeS, ah, Review of MRI-based Brain Tumor Image Segmentation Using Deep Learning Methods, Procedia Computer Science, 2016.",
+        "raw": "8. Alil,s\u0131n, CemDirekoglu, MelikeS, ah, Review of MRI-based Brain Tumor Image Segmentation Using Deep Learning Methods, Procedia Computer Science, 2016.",
         "type": "article",
-        "author": "Alil,sın and CemDirekoglu and MelikeS, ah",
+        "author": "Alil,s\u0131n and CemDirekoglu and MelikeS, ah",
         "title": "Review of MRI-based Brain Tumor Image Segmentation Using Deep Learning Methods",
         "year": "2016",
         "journal": "Procedia Computer Science",
@@ -132,7 +139,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -149,7 +157,8 @@
         "publisher": null,
         "doi": "10.1109/IWQoS.2018.8624183",
         "url": "https://doi.org/10.1109/IWQoS.2018.8624183",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -166,7 +175,8 @@
         "publisher": null,
         "doi": "10.1109/ICCKE50421.2020.9303718",
         "url": "https://doi.org/10.1109/ICCKE50421.2020.9303718",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -183,7 +193,8 @@
         "doi": "10.1109/ICOEI.2019.8862686",
         "publisher": null,
         "url": "https://doi.org/10.1109/ICOEI.2019.8862686",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -200,7 +211,8 @@
         "publisher": null,
         "doi": "10.1109/ICASSP40776.2020.9053834",
         "url": "https://doi.org/10.1109/ICASSP40776.2020.9053834",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -217,7 +229,8 @@
         "publisher": null,
         "doi": "10.1109/FAMCAD.2007.19",
         "url": "https://doi.org/10.1109/FAMCAD.2007.19",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -234,7 +247,8 @@
         "publisher": null,
         "doi": "10.1109/IWWBCI.2015.7073038",
         "url": "https://doi.org/10.1109/IWWBCI.2015.7073038",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -251,7 +265,8 @@
         "publisher": null,
         "doi": "10.1109/KCIC.2018.8628591",
         "url": "https://doi.org/10.1109/KCIC.2018.8628591",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -268,7 +283,8 @@
         "publisher": null,
         "doi": "10.1109/TMI.2014.2377694",
         "url": "https://doi.org/10.1109/TMI.2014.2377694",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -285,7 +301,8 @@
         "publisher": null,
         "doi": "10.1038/sdata.2017.117",
         "url": "https://doi.org/10.1038/sdata.2017.117",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -302,7 +319,8 @@
         "publisher": "The Cancer Imaging Archive",
         "doi": "10.7937/K9/TCIA.2017.KLXWJJ1Q",
         "url": "https://doi.org/10.7937/K9/TCIA.2017.KLXWJJ1Q",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -319,7 +337,8 @@
         "publisher": "The Cancer Imaging Archive",
         "doi": "10.7937/K9/TCIA.2017.GJQ7R0EF",
         "url": "https://doi.org/10.7937/K9/TCIA.2017.GJQ7R0EF",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -336,7 +355,8 @@
         "publisher": null,
         "doi": null,
         "url": null,
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -353,7 +373,8 @@
         "publisher": null,
         "doi": "10.1109/ECACE.2019.8679240",
         "url": "https://doi.org/10.1109/ECACE.2019.8679240",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -370,7 +391,8 @@
         "publisher": null,
         "doi": "10.1109/COMITCon.2019.8862209",
         "url": "https://doi.org/10.1109/COMITCon.2019.8862209",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -387,7 +409,8 @@
         "publisher": null,
         "doi": "10.1109/TBME.2011.2163406",
         "url": "https://doi.org/10.1109/TBME.2011.2163406",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -404,7 +427,8 @@
         "publisher": null,
         "doi": "10.1109/ICIP42928.2021.9506276",
         "url": "https://doi.org/10.1109/ICIP42928.2021.9506276",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     },
     {
         "source_paper": "2019_EfficientNet_Rethinking_Model_Scaling_for_Convolutional_Neural_Networks.pdf",
@@ -421,6 +445,7 @@
         "publisher": null,
         "doi": "10.1109/ICODSA50139.2020.9212994",
         "url": "https://doi.org/10.1109/ICODSA50139.2020.9212994",
-        "eprint": null
+        "eprint": null,
+        "provenance": "initial_gemini_web_extraction"
     }
 ]
