@@ -167,10 +167,12 @@ function applyCitationOverlaysToPage(pageNum, pageDiv) {
     // Convert PDF coords to viewport pixels
     const rect = viewport.convertToViewportRectangle(link.sourceRect);
     
-    const x = Math.min(rect[0], rect[2]);
-    const y = Math.min(rect[1], rect[3]);
-    const w = Math.abs(rect[2] - rect[0]);
-    const h = Math.abs(rect[3] - rect[1]);
+    // Expand bounding box coordinates slightly for padding (makes hover/click target much more reliable)
+    const padding = 1.5;
+    const x = Math.min(rect[0], rect[2]) - padding;
+    const y = Math.min(rect[1], rect[3]) - padding;
+    const w = Math.abs(rect[2] - rect[0]) + (padding * 2);
+    const h = Math.abs(rect[3] - rect[1]) + (padding * 2);
 
     const overlay = document.createElement('a');
     overlay.className = 'link-overlay cit-link-overlay';
