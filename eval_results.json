@@ -8,7 +8,7 @@
     "missed_urls": 1,
     "mismatched_urls": 4,
     "new_urls_found": 0,
-    "latency_ms": 1439,
+    "latency_ms": 3398,
     "link_stats": {
       "total": 180,
       "internal": 170,
@@ -538,7 +538,7 @@
     "missed_urls": 1,
     "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 689,
+    "latency_ms": 1404,
     "link_stats": {
       "total": 288,
       "internal": 283,
@@ -956,7 +956,7 @@
     "missed_urls": 3,
     "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 743,
+    "latency_ms": 1414,
     "link_stats": {
       "total": 158,
       "internal": 148,
@@ -1182,7 +1182,7 @@
     "missed_urls": 27,
     "mismatched_urls": 1,
     "new_urls_found": 0,
-    "latency_ms": 5889,
+    "latency_ms": 6600,
     "link_stats": {
       "total": 795,
       "internal": 774,
@@ -2784,7 +2784,7 @@
     "missed_urls": 0,
     "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 212,
+    "latency_ms": 354,
     "link_stats": {
       "total": 0,
       "internal": 0,

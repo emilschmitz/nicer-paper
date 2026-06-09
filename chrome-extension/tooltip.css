@@ -102,3 +102,19 @@
 .cit-tooltip-action-btn:active {
   transform: scale(0.97);
 }
+
+/* Transparent Overlay Link Layer */
+.link-overlay {
+  position: absolute;
+  background-color: rgba(59, 130, 246, 0.0); /* completely transparent */
+  border: 1px dashed rgba(59, 130, 246, 0.0); /* completely transparent */
+  cursor: pointer;
+  z-index: 10;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+
+.link-overlay:hover {
+  background-color: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.4);
+}
+

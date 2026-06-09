@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     const tabUrl = tab.url;
-    const viewerUrlPrefix = chrome.runtime.getURL('viewer.html');
+    const viewerUrlPrefix = chrome.runtime.getURL('pdfjs/web/viewer.html');
 
     if (tabUrl.startsWith(viewerUrlPrefix)) {
       // Current tab is viewing a PDF in our custom viewer
