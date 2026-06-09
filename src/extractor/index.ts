@@ -27,13 +27,19 @@ export async function extractCitationsFromPdf(
   const externalLinks: LinkAnn[] = [];
   const internalLinks: LinkAnn[] = [];
 
-  // 1. Pass: Extract text items and links
-  for (let p = 1; p <= numPages; p++) {
-    const { textItems, externalLinks: ext, internalLinks: int } = await extractPageTextAndLinks(doc, p);
+  // 1. Pass: Extract text items and links in parallel
+  const pagePromises = Array.from({ length: numPages }, (_, i) => i + 1).map(p =>
+    extractPageTextAndLinks(doc, p)
+  );
+  const pagesData = await Promise.all(pagePromises);
+  
+  pagesData.forEach(({ textItems, externalLinks: ext, internalLinks: int }, index) => {
+    const p = index + 1;
     allTextItems[p] = textItems;
     externalLinks.push(...ext);
     internalLinks.push(...int);
-  }
+  });
+
 
   // 2. Identify references section start page
   const refStartPage = findReferencesStartPage(allTextItems, numPages);

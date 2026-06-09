@@ -22,7 +22,10 @@ export async function extractPageTextAndLinks(
   pageNum: number
 ): Promise<{ textItems: TextItem[]; externalLinks: LinkAnn[]; internalLinks: LinkAnn[] }> {
   const page = await doc.getPage(pageNum);
-  const textContent = await page.getTextContent();
+  const [textContent, annotations] = await Promise.all([
+    page.getTextContent(),
+    page.getAnnotations(),
+  ]);
   
   const textItems: TextItem[] = textContent.items.map((item: any) => ({
     text: item.str,
@@ -35,10 +38,9 @@ export async function extractPageTextAndLinks(
   const externalLinks: LinkAnn[] = [];
   const internalLinks: LinkAnn[] = [];
 
-  const annotations = await page.getAnnotations();
   const links = annotations.filter((ann: any) => ann.subtype === 'Link');
 
-  for (const link of links) {
+  const linkPromises = links.map(async (link: any) => {
     if (link.url) {
       externalLinks.push({
         page: pageNum,
@@ -86,7 +88,9 @@ export async function extractPageTextAndLinks(
         // Fail silently on destination resolution error
       }
     }
-  }
+  });
+
+  await Promise.all(linkPromises);
 
   return { textItems, externalLinks, internalLinks };
 }
@@ -102,7 +106,7 @@ export function findReferencesStartPage(
   for (let p = Math.max(1, Math.floor(numPages * 0.4)); p <= numPages; p++) {
     const pageItems = allTextItems[p] || [];
     const hasHeader = pageItems.some(it => 
-      /^\s*(\d+[\s\.]*)?(references|bibliography|literature cited)\s*$/i.test(it.text.trim())
+      /^\s*(\d+[\s\.]*)?(references|bibliography|literature citgled)\s*$/i.test(it.text.trim())
     );
     if (hasHeader) {
       refStartPage = p;

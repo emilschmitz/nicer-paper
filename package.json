@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "@huggingface/transformers": "^4.2.0",
+    "@xenova/transformers": "^2.17.2",
     "pdfjs-dist": "^6.0.227",
+    "sharp": "^0.34.5",
     "zod": "^4.4.3"
   }
 }

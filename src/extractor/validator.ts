@@ -6,6 +6,10 @@ export const CitationSchema = z.object({
   url: z.string().url().nullable(), // Must be a valid URL string or null
   page: z.number().int().positive(),
   startY: z.number(),
+  authors: z.string().nullable().optional(),
+  title: z.string().nullable().optional(),
+  venue: z.string().nullable().optional(),
+  year: z.string().nullable().optional(),
 });
 
 export type Citation = z.infer<typeof CitationSchema>;
@@ -16,6 +20,12 @@ export const InlineLinkSchema = z.object({
   sourceRect: z.array(z.number()).length(4), // [x1, y1, x2, y2]
   destName: z.string(),
   targetUrl: z.string().url().nullable(),
+  targetMetadata: z.object({
+    authors: z.string().nullable(),
+    title: z.string().nullable(),
+    venue: z.string().nullable(),
+    year: z.string().nullable(),
+  }).nullable().optional(),
 });
 
 export type InlineLink = z.infer<typeof InlineLinkSchema>;
