@@ -1,6 +1,7 @@
 import { loadPdfDocument, extractPageTextAndLinks, findReferencesStartPage } from './pdfParser';
 import { groupItemsIntoLines, getColumnMargin, segmentColumnIntoBlocks } from './segmenter';
 import { resolveReferenceUrl } from './urlResolver';
+import { parseRegexHeuristics } from './parser';
 import { 
   ExtractorOptions, 
   ExtractorOutput, 
@@ -118,11 +119,23 @@ export async function extractCitationsFromPdf(
         }
       }
 
+      let targetMetadata = null;
+      if (bestBlock) {
+        const meta = parseRegexHeuristics(bestBlock.text);
+        targetMetadata = {
+          authors: meta.authors || null,
+          title: meta.title || null,
+          venue: meta.venue || null,
+          year: meta.year || null,
+        };
+      }
+
       const linkObj = {
         sourcePage: link.page,
         sourceRect: link.rect,
         destName: link.dest,
         targetUrl: bestBlock ? bestBlock.extractedUrl : null,
+        targetMetadata: targetMetadata,
       };
 
       // Validate with modular Zod validator
@@ -144,4 +157,5 @@ export async function extractCitationsFromPdf(
 export * from './types';
 export * from './urlResolver';
 export { loadPdfDocument } from './pdfParser';
+export { ExtractorConfig } from './config';
 

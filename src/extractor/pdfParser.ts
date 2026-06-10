@@ -1,5 +1,6 @@
 import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf.mjs';
 import { TextItem, LinkAnn, ExtractorOptions } from './types';
+import { ExtractorConfig as ExtConfig } from './config';
 
 /**
  * Loads the PDF document using pdfjs-dist.
@@ -102,8 +103,9 @@ export function findReferencesStartPage(
   allTextItems: { [pageNum: number]: TextItem[] },
   numPages: number
 ): number {
-  let refStartPage = Math.max(1, Math.floor(numPages * 0.4));
-  for (let p = Math.max(1, Math.floor(numPages * 0.4)); p <= numPages; p++) {
+  const ratio = ExtConfig.PDF.REF_START_PAGE_RATIO;
+  let refStartPage = Math.max(1, Math.floor(numPages * ratio));
+  for (let p = Math.max(1, Math.floor(numPages * ratio)); p <= numPages; p++) {
     const pageItems = allTextItems[p] || [];
     const hasHeader = pageItems.some(it => 
       /^\s*(\d+[\s\.]*)?(references|bibliography|literature citgled)\s*$/i.test(it.text.trim())

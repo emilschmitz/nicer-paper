@@ -1,7 +1,15 @@
 import { extractCitationsFromPdf } from '../../extractor.js';
+import { Config } from '../../config.js';
 
+console.log('Citation Finder: Viewer Inject starting...');
+window.TEST_LOADED = true;
 let extractionResult = null;
 let tooltipEl = null;
+let hoverTimeout = null;
+let hideTimeout = null;
+let currentDestKey = null;
+let currentTargetEl = null;
+let currentUrl = null;
 
 // Initialize tooltip
 function createTooltip() {
@@ -10,116 +18,258 @@ function createTooltip() {
   tooltipEl.id = 'citation-tooltip';
   tooltipEl.className = 'cit-tooltip-hidden';
   tooltipEl.style.position = 'fixed';
+  tooltipEl.style.zIndex = '999999';
   document.body.appendChild(tooltipEl);
+
+  tooltipEl.addEventListener('mouseenter', () => {
+    clearHideTimeout();
+  });
+  
+  tooltipEl.addEventListener('mouseleave', () => {
+    startHideTimeout();
+  });
 }
 
-function showTooltip(anchorEl, destName, url) {
-  if (!tooltipEl) createTooltip();
+function clearHideTimeout() {
+  if (hideTimeout) {
+    clearTimeout(hideTimeout);
+    hideTimeout = null;
+  }
+}
 
-  const rect = anchorEl.getBoundingClientRect();
-  const top = rect.top - 10;
-  const left = rect.left + (rect.width / 2);
+function startHideTimeout() {
+  clearHideTimeout();
+  hideTimeout = setTimeout(() => {
+    hideTooltip();
+  }, 250);
+}
 
-  if (url) {
-    tooltipEl.innerHTML = `
-      <div class="cit-tooltip-content">
-        <span class="cit-tooltip-label">Citation Link (${destName})</span>
-        <a class="cit-tooltip-url" href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>
-        <div class="cit-tooltip-actions">
-          <span class="cit-tooltip-action-btn copy-btn">Copy Link</span>
-        </div>
-      </div>
-    `;
-
-    tooltipEl.querySelector('.copy-btn').addEventListener('click', (e) => {
-      e.preventDefault();
-      navigator.clipboard.writeText(url);
-      const btn = e.target;
-      btn.innerText = 'Copied!';
-      setTimeout(() => { btn.innerText = 'Copy Link'; }, 2000);
-    });
-  } else {
-    tooltipEl.innerHTML = `
-      <div class="cit-tooltip-content">
-        <span class="cit-tooltip-label">Citation (${destName})</span>
-        <span class="cit-tooltip-no-link">No link found in references</span>
-      </div>
-    `;
+function updateTooltipWithEnrichedData(metadata, abstract) {
+  if (!tooltipEl) return;
+  
+  const authorsEl = tooltipEl.querySelector('.cit-tooltip-authors');
+  const yearEl = tooltipEl.querySelector('.cit-tooltip-year');
+  const titleEl = tooltipEl.querySelector('.cit-tooltip-title');
+  const venueEl = tooltipEl.querySelector('.cit-tooltip-venue');
+  const abstractEl = tooltipEl.querySelector('.cit-tooltip-abstract');
+  
+  if (metadata) {
+    if (authorsEl && metadata.authors) {
+      authorsEl.innerText = metadata.authors;
+      authorsEl.title = metadata.authors;
+    }
+    if (yearEl && metadata.year) yearEl.innerText = `(${metadata.year})`;
+    if (titleEl && metadata.title) titleEl.innerText = `"${metadata.title}"`;
+    if (venueEl && metadata.venue) venueEl.innerText = metadata.venue;
+  }
+  
+  if (abstractEl) {
+    abstractEl.innerText = abstract || 'No abstract preview available.';
+    abstractEl.classList.remove('cit-loading');
   }
 
-  tooltipEl.className = 'cit-tooltip-visible';
+  repositionTooltip();
+}
 
-  // Position the tooltip centered above the anchor
+function repositionTooltip() {
+  if (!tooltipEl || !currentTargetEl) return;
+  
+  const rect = currentTargetEl.getBoundingClientRect();
+  const top = rect.top - 8;
+  const left = rect.left + (rect.width / 2);
+
   const tooltipRect = tooltipEl.getBoundingClientRect();
   tooltipEl.style.top = `${top - tooltipRect.height}px`;
   tooltipEl.style.left = `${left - (tooltipRect.width / 2)}px`;
 }
 
+function showTooltip(anchorEl, destKey, url, metadata, abstract) {
+  if (!tooltipEl) createTooltip();
+  
+  currentTargetEl = anchorEl;
+  currentDestKey = destKey;
+  currentUrl = url;
+  tooltipEl.dataset.destKey = destKey;
+
+  const authors = metadata?.authors || 'Unknown Authors';
+  const year = metadata?.year || '';
+  const title = metadata?.title || 'Citation Reference';
+  const venue = metadata?.venue || '';
+
+  let abstractHtml = '';
+  if (url) {
+    if (abstract) {
+      abstractHtml = `<div class="cit-tooltip-abstract">${abstract}</div>`;
+    } else {
+      abstractHtml = `<div class="cit-tooltip-abstract cit-loading">Loading abstract...</div>`;
+    }
+  }
+
+  let footerHtml = '';
+  if (url) {
+    footerHtml = `
+      <div class="cit-tooltip-footer">
+        <a class="cit-tooltip-url-btn" href="${url}" target="_blank" rel="noopener noreferrer">Open Paper</a>
+        <span class="cit-tooltip-action-btn copy-btn">Copy Link</span>
+      </div>
+    `;
+  } else {
+    footerHtml = `
+      <div class="cit-tooltip-footer">
+        <span class="cit-tooltip-label">Local citation preview</span>
+      </div>
+    `;
+  }
+
+  tooltipEl.innerHTML = `
+    <div class="cit-tooltip-content">
+      <div class="cit-tooltip-header">
+        <span class="cit-tooltip-authors" title="${authors}">${authors}</span>
+        <span class="cit-tooltip-year">${year ? `(${year})` : ''}</span>
+      </div>
+      <div class="cit-tooltip-title">"${title}"</div>
+      ${venue ? `<div class="cit-tooltip-venue">${venue}</div>` : ''}
+      ${abstractHtml}
+      ${footerHtml}
+    </div>
+  `;
+
+  if (url) {
+    const copyBtn = tooltipEl.querySelector('.copy-btn');
+    if (copyBtn) {
+      copyBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        navigator.clipboard.writeText(url);
+        copyBtn.innerText = 'Copied!';
+        setTimeout(() => { copyBtn.innerText = 'Copy Link'; }, 2000);
+      });
+    }
+  }
+
+  tooltipEl.className = 'cit-tooltip-visible';
+  repositionTooltip();
+}
+
 function hideTooltip() {
   if (tooltipEl) {
     tooltipEl.className = 'cit-tooltip-hidden';
+    currentDestKey = null;
+    currentTargetEl = null;
+    currentUrl = null;
   }
 }
 
-// Helper: Fetch PDF as ArrayBuffer, supporting both http/https (via fetch) and file:// (via XMLHttpRequest)
-function fetchPdfAsArrayBuffer(url) {
-  return new Promise((resolve, reject) => {
-    if (url.startsWith('file://')) {
-      const xhr = new XMLHttpRequest();
-      xhr.open('GET', url, true);
-      xhr.responseType = 'arraybuffer';
-      xhr.onload = () => {
-        if (xhr.status === 0 || (xhr.status >= 200 && xhr.status < 300)) {
-          resolve(new Uint8Array(xhr.response));
-        } else {
-          reject(new Error(`Local file loading failed with status: ${xhr.status}`));
-        }
-      };
-      xhr.onerror = () => {
-        reject(new Error('Local file access failed. Make sure "Allow access to file URLs" is enabled in Chrome settings.'));
-      };
-      xhr.send();
+// In-memory cache for hovered citation responses to avoid IPC message roundtrips on repeated hovers
+const citationMemoryCache = new Map();
+
+// Listen for messages from background script
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  if (message.action === 'updateTooltipMetadata') {
+    const { destKey, metadata, abstract } = message;
+    
+    // Update in-memory cache
+    const cacheKey = `${pdfUrl}::${destKey}`;
+    if (citationMemoryCache.has(cacheKey)) {
+      const cached = citationMemoryCache.get(cacheKey);
+      cached.metadata = metadata;
+      cached.abstract = abstract;
     } else {
-      fetch(url)
-        .then(res => {
-          if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-          return res.arrayBuffer();
-        })
-        .then(buf => resolve(new Uint8Array(buf)))
-        .catch(reject);
+      citationMemoryCache.set(cacheKey, {
+        url: currentUrl,
+        metadata,
+        abstract
+      });
     }
+
+    if (currentDestKey === destKey) {
+      updateTooltipWithEnrichedData(metadata, abstract);
+    }
+  }
+});
+
+
+// Helper: Retrieve raw PDF bytes directly from PDF.js viewer document memory to avoid duplicate downloads
+function getPdfDataFromViewer() {
+  return new Promise((resolve, reject) => {
+    const app = window.PDFViewerApplication;
+    
+    const tryResolve = () => {
+      if (app && app.pdfDocument) {
+        app.pdfDocument.getData()
+          .then(resolve)
+          .catch(reject);
+        cleanup();
+        return true;
+      }
+      return false;
+    };
+
+    if (tryResolve()) return;
+
+    const handleEvent = () => {
+      tryResolve();
+    };
+
+    const cleanup = () => {
+      window.removeEventListener('documentloaded', handleEvent);
+      document.removeEventListener('documentloaded', handleEvent);
+      document.removeEventListener('pagerendered', handleEvent);
+      if (app && app.eventBus) {
+        app.eventBus.off('documentloaded', handleEvent);
+      }
+    };
+
+    // Listen on eventBus, document, and window
+    if (app && app.eventBus) {
+      app.eventBus.on('documentloaded', handleEvent);
+    }
+    window.addEventListener('documentloaded', handleEvent);
+    document.addEventListener('documentloaded', handleEvent);
+    document.addEventListener('pagerendered', handleEvent);
+
+    // Timeout safety fallback
+    setTimeout(() => {
+      if (!tryResolve()) {
+        cleanup();
+        reject(new Error('Timeout waiting for PDF.js document to load'));
+      }
+    }, Config.PDF.LOAD_TIMEOUT_MS);
   });
 }
 
-// 1. Get query parameters
+// Get query parameters
 const urlParams = new URLSearchParams(window.location.search);
 const pdfUrl = urlParams.get('file');
 
 if (pdfUrl) {
   const cacheKey = `pdf_cache_${pdfUrl.split('#')[0]}`;
   
-  // Try loading from local storage cache
-  chrome.storage.local.get([cacheKey], async (result) => {
-    if (result[cacheKey]) {
-      extractionResult = result[cacheKey];
+  // Try loading from local storage cache via background to ensure LRU timestamps are handled
+  chrome.runtime.sendMessage({ action: 'getCachedCitationsOnly', pdfUrl }, async (response) => {
+    if (response && response.success && response.data) {
+      extractionResult = response.data;
       console.log('Citation Finder: Loaded citations from cache.', extractionResult);
       applyOverlaysToAllRenderedPages();
     } else {
       console.log('Citation Finder: Cache miss. Extracting citations locally in viewer tab...');
       try {
-        const pdfData = await fetchPdfAsArrayBuffer(pdfUrl);
+        console.log('Citation Finder: Retrieving PDF bytes from viewer memory...');
+        const pdfData = await getPdfDataFromViewer();
+        console.log('Citation Finder: Successfully retrieved PDF bytes from memory (0 network overhead!).');
 
-        // Run local extraction (fully supported in tab context)
+        // Run local extraction
         extractionResult = await extractCitationsFromPdf(pdfData, {
-          workerSrc: '../../pdf.worker.js' // path relative to viewer.html
+          workerSrc: '../../pdf.worker.js'
         });
 
         console.log('Citation Finder: Local extraction completed.', extractionResult);
 
-        // Save to cache
-        const cacheObj = {};
-        cacheObj[cacheKey] = extractionResult;
-        chrome.storage.local.set(cacheObj);
+        // Save to cache via background to update timestamps and invoke LRU pruning
+        chrome.runtime.sendMessage({
+          action: 'saveExtractedCitations',
+          pdfUrl: pdfUrl,
+          data: extractionResult
+        });
 
         applyOverlaysToAllRenderedPages();
       } catch (err) {
@@ -154,7 +304,6 @@ document.addEventListener('pagerendered', (e) => {
 function applyCitationOverlaysToPage(pageNum, pageDiv) {
   if (!extractionResult || !extractionResult.inlineLinks) return;
 
-  // Clear existing overlays on this page first to prevent duplicates when zooming
   const existingOverlays = pageDiv.querySelectorAll('.cit-link-overlay');
   existingOverlays.forEach(el => el.remove());
 
@@ -164,10 +313,8 @@ function applyCitationOverlaysToPage(pageNum, pageDiv) {
 
   const pageLinks = extractionResult.inlineLinks.filter(l => l.sourcePage === pageNum);
   pageLinks.forEach(link => {
-    // Convert PDF coords to viewport pixels
     const rect = viewport.convertToViewportRectangle(link.sourceRect);
     
-    // Expand bounding box coordinates slightly for padding (makes hover/click target much more reliable)
     const padding = 1.5;
     const x = Math.min(rect[0], rect[2]) - padding;
     const y = Math.min(rect[1], rect[3]) - padding;
@@ -180,26 +327,66 @@ function applyCitationOverlaysToPage(pageNum, pageDiv) {
     overlay.style.top = `${y}px`;
     overlay.style.width = `${w}px`;
     overlay.style.height = `${h}px`;
-    overlay.href = link.targetUrl || '#';
-    if (link.targetUrl) {
-      overlay.target = '_blank';
-      overlay.rel = 'noopener noreferrer';
-    }
+    overlay.href = '#'; // Let it default to empty anchor to avoid external navigation on click
 
     overlay.addEventListener('mouseover', () => {
-      showTooltip(overlay, link.destName, link.targetUrl);
+      clearTimeout(hoverTimeout);
+      clearHideTimeout();
+      
+      if (currentDestKey === link.destName) return;
+
+      hoverTimeout = setTimeout(() => {
+        const cacheKey = `${pdfUrl}::${link.destName}`;
+        if (citationMemoryCache.has(cacheKey)) {
+          const cached = citationMemoryCache.get(cacheKey);
+          showTooltip(overlay, link.destName, cached.url, cached.metadata, cached.abstract);
+          return;
+        }
+
+        // Query background to trigger async metadata fetch / get current cache
+        chrome.runtime.sendMessage(
+          { action: 'getLinkForCitation', destKey: link.destName, pdfUrl: pdfUrl },
+          (response) => {
+            if (response && response.success) {
+              const metadata = response.metadata || link.targetMetadata;
+              // Cache in-memory
+              citationMemoryCache.set(cacheKey, {
+                url: response.url,
+                metadata: metadata,
+                abstract: response.abstract
+              });
+              showTooltip(overlay, link.destName, response.url, metadata, response.abstract);
+            } else {
+              // Fallback to local heuristic metadata
+              showTooltip(overlay, link.destName, link.targetUrl, link.targetMetadata, null);
+            }
+          }
+        );
+      }, Config.TOOLTIP.SHOW_DELAY_MS);
     });
 
     overlay.addEventListener('mouseout', () => {
-      hideTooltip();
+      clearTimeout(hoverTimeout);
+      startHideTimeout();
     });
 
+    // Handle click pass-through: clicking the overlay triggers the native jump link underneath
     overlay.addEventListener('click', (e) => {
-      if (!link.targetUrl) {
-        e.preventDefault();
+      e.preventDefault();
+      
+      overlay.style.pointerEvents = 'none';
+      const underlyingEl = document.elementFromPoint(e.clientX, e.clientY);
+      if (underlyingEl && typeof underlyingEl.click === 'function') {
+        underlyingEl.click();
       }
+      overlay.style.pointerEvents = 'auto';
     });
 
     pageDiv.appendChild(overlay);
   });
 }
+
+// Init page
+// Note: We don't need to call injectStyles() because we added it to viewer.html manually
+createTooltip();
+console.log('Citation Tooltips Extension initialized.');

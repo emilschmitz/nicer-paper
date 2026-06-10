@@ -6,7 +6,8 @@
   "permissions": [
     "storage",
     "activeTab",
-    "tabs"
+    "tabs",
+    "unlimitedStorage"
   ],
   "host_permissions": [
     "<all_urls>",
@@ -41,6 +42,7 @@
       "resources": [
         "pdfjs/*",
         "extractor.js",
+        "config.js",
         "pdf.worker.js",
         "tooltip.css"
       ],

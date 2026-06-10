@@ -1,6 +1,5 @@
 # GEMINI.md
 
 * Temporary inspection files must always be stored in a timestamped subdirectory under the ignored `tmp/` directory.
-* After making any changes to the Chrome extension, you should always verify the functionality quickly using the `agent-browser` CLI (e.g. launching with `--extension chrome-extension` and checking page rendering and tooltip overlays).
+* After making any changes to the Chrome extension, you should always verify the functionality quickly using the `agent-browser` CLI (e.g. launching with `--extension chrome-extension` and checking page rendering and tooltip overlays). Use the headed 'chrome for testing' iff the specific functionality is not easily verifiable via the headless agent-browser.
 * Always track execution progress numerically using clean logging and progress bars for batch operations and evaluation runs.
-

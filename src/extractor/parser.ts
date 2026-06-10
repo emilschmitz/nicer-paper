@@ -1,5 +1,7 @@
 import { pipeline, env } from '@huggingface/transformers';
 
+import { ExtractorConfig } from './config';
+
 // Configure offline mode for Transformers.js
 env.allowRemoteFiles = false;
 env.allowLocalFiles = true;
@@ -324,8 +326,8 @@ Citation: ${text}
 <|im_start|>assistant
 `;
   const result = await textGenerator(prompt, {
-    max_new_tokens: 100,
-    temperature: 0.0,
+    max_new_tokens: ExtractorConfig.SLM.MAX_NEW_TOKENS,
+    temperature: ExtractorConfig.SLM.TEMPERATURE,
     do_sample: false,
     return_full_text: false,
   });
@@ -360,8 +362,8 @@ Citation: ${text}
 <|im_start|>assistant
 `;
   const result = await textGenerator(prompt, {
-    max_new_tokens: 100,
-    temperature: 0.0,
+    max_new_tokens: ExtractorConfig.SLM.MAX_NEW_TOKENS,
+    temperature: ExtractorConfig.SLM.TEMPERATURE,
     do_sample: false,
     return_full_text: false,
   });

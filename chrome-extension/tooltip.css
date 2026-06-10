@@ -122,4 +122,114 @@
   transform: scale(1.02); /* responsive hover scaling */
 }
 
+/* Rich Tooltip Metadata Elements */
+.cit-tooltip-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 6px;
+  margin-bottom: 2px;
+}
+
+.cit-tooltip-authors {
+  font-weight: 700;
+  color: #f3f4f6;
+  font-size: 11.5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 220px;
+}
+
+.cit-tooltip-year {
+  font-size: 11px;
+  color: #9ca3af;
+  font-weight: 600;
+}
+
+.cit-tooltip-title {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: #ffffff;
+  line-height: 1.4;
+  margin-bottom: 2px;
+}
+
+.cit-tooltip-venue {
+  font-size: 11px;
+  font-style: italic;
+  color: #60a5fa; /* soft accent blue */
+  margin-bottom: 6px;
+  line-height: 1.3;
+}
+
+.cit-tooltip-abstract {
+  font-size: 11px;
+  line-height: 1.45;
+  color: #d1d5db;
+  background: rgba(255, 255, 255, 0.03);
+  border-left: 2px solid #3b82f6;
+  padding: 6px 8px;
+  border-radius: 4px;
+  max-height: 90px;
+  overflow-y: auto;
+  margin-bottom: 6px;
+}
+
+.cit-tooltip-abstract::-webkit-scrollbar {
+  width: 4px;
+}
+
+.cit-tooltip-abstract::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
+}
+
+.cit-tooltip-abstract.cit-loading {
+  color: #9ca3af;
+  font-style: italic;
+  animation: cit-pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes cit-pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+.cit-tooltip-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 4px;
+  align-items: center;
+}
+
+.cit-tooltip-url-btn {
+  font-size: 11px;
+  font-weight: 600;
+  color: #ffffff;
+  background: #2563eb;
+  border: 1px solid #1d4ed8;
+  border-radius: 6px;
+  padding: 5px 10px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  line-height: 1.2;
+}
+
+.cit-tooltip-url-btn:hover {
+  background: #1d4ed8;
+  border-color: #1e40af;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.cit-tooltip-url-btn:active {
+  transform: scale(0.97);
+}
+
+
 
