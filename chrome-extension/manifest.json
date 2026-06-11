@@ -1,13 +1,19 @@
 {
   "manifest_version": 3,
-  "name": "Citation Tooltips Finder",
+  "name": "Paper Reader",
   "version": "1.0.0",
   "description": "Locally extracts citation references and displays links as hover tooltips on scientific PDFs.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "permissions": [
     "storage",
     "activeTab",
     "tabs",
-    "unlimitedStorage"
+    "unlimitedStorage",
+    "webRequest"
   ],
   "host_permissions": [
     "<all_urls>",
@@ -15,7 +21,12 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Citation Finder Stats"
+    "default_title": "Paper Reader",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
   },
   "background": {
     "service_worker": "background.js",

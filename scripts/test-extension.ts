@@ -19,6 +19,14 @@ async function runCmd(args: string[]): Promise<string> {
 
 async function main() {
   try {
+    // Force close any running daemon to ensure extension gets loaded
+    console.log('Closing any running browser daemon...');
+    try {
+      await runCmd(['close']);
+    } catch (e) {
+      // Ignore errors if no daemon is running
+    }
+
     // Wait for server to start
     await new Promise(r => setTimeout(r, 1500));
 
@@ -30,7 +38,7 @@ async function main() {
 
     // Wait for rendering and local extraction
     console.log('Waiting for PDF to load and extract...');
-    await new Promise(r => setTimeout(r, 4000));
+    await new Promise(r => setTimeout(r, 12000));
 
     console.log('Verifying page rendering...');
     const pages = await runCmd(['eval', 'document.querySelectorAll(".page").length']);
@@ -46,20 +54,24 @@ async function main() {
 
     console.log('Simulating hover and testing tooltip...');
     const hoverResult = await runCmd(['eval', `
-      const linksWithUrls = Array.from(document.querySelectorAll('.link-overlay')).filter(a => a.getAttribute('href') && a.getAttribute('href') !== '#');
-      if (linksWithUrls.length > 0) {
-        const overlay = linksWithUrls[0];
-        const event = new MouseEvent('mouseover', { bubbles: true, cancelable: true });
-        overlay.dispatchEvent(event);
-        const tooltip = document.getElementById('citation-tooltip');
-        JSON.stringify({
-          url: overlay.getAttribute('href'),
-          visible: tooltip.classList.contains('cit-tooltip-visible'),
-          content: tooltip.innerHTML.trim()
-        });
-      } else {
-        'No link with URL found';
-      }
+      new Promise((resolve) => {
+        const overlays = document.querySelectorAll('.link-overlay');
+        if (overlays.length > 0) {
+          const overlay = overlays[0];
+          const event = new MouseEvent('mouseover', { bubbles: true, cancelable: true });
+          overlay.dispatchEvent(event);
+          
+          setTimeout(() => {
+            const tooltip = document.getElementById('citation-tooltip');
+            resolve(JSON.stringify({
+              visible: tooltip ? tooltip.classList.contains('cit-tooltip-visible') : false,
+              content: tooltip ? tooltip.innerHTML.trim() : ''
+            }));
+          }, 350);
+        } else {
+          resolve(JSON.stringify({ error: 'No overlays found' }));
+        }
+      });
     `]);
     console.log('✓ Hover Tooltip Result:', JSON.parse(hoverResult));
 

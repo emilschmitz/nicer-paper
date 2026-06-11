@@ -50,6 +50,7 @@ export interface ExtractorOptions {
   standardFontDataUrl?: string;
   workerSrc?: string;
   strategies?: LinkExtractorStrategy[];
+  onProgress?: (progress: number) => void;
 }
 
 export interface ExtractorOutput {

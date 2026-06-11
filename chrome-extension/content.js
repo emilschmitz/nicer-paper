@@ -1,4 +1,26 @@
 // content.js - Injected into the PDF viewer page
+let tooltipPrefs = {
+  showAuthors: true,
+  showYear: true,
+  showTitle: true,
+  showVenue: true,
+  showAbstract: true,
+  showOpenPaper: true,
+  showCopyLink: true
+};
+
+chrome.storage.local.get(['tooltipPreferences'], (result) => {
+  if (result.tooltipPreferences) {
+    tooltipPrefs = { ...tooltipPrefs, ...result.tooltipPreferences };
+  }
+});
+
+chrome.storage.onChanged.addListener((changes, areaName) => {
+  if (areaName === 'local' && changes.tooltipPreferences) {
+    tooltipPrefs = { ...tooltipPrefs, ...changes.tooltipPreferences.newValue };
+  }
+});
+
 let tooltipEl = null;
 let hoverTimeout = null;
 let hideTimeout = null;
@@ -98,14 +120,36 @@ function showTooltip(anchorEl, destKey, url, metadata, abstract) {
   currentUrl = url;
   tooltipEl.dataset.destKey = destKey;
 
-  const authors = metadata?.authors || 'Unknown Authors';
-  const year = metadata?.year || '';
-  const title = metadata?.title || 'Citation Reference';
-  const venue = metadata?.venue || '';
+  let authors = (tooltipPrefs.showAuthors && metadata?.authors) ? metadata.authors : '';
+  if (tooltipPrefs.showAuthors && !authors && !metadata?.authors) {
+    authors = 'Unknown Authors';
+  }
+  const year = (tooltipPrefs.showYear && metadata?.year) ? metadata.year : '';
+  let title = (tooltipPrefs.showTitle) ? (metadata?.title || 'Citation Reference') : '';
+  const venue = (tooltipPrefs.showVenue && metadata?.venue) ? metadata.venue : '';
+
+  let headerHtml = '';
+  if (authors || year) {
+    headerHtml = `
+      <div class="cit-tooltip-header">
+        ${authors ? `<span class="cit-tooltip-authors" title="${authors}">${authors}</span>` : ''}
+        ${year ? `<span class="cit-tooltip-year">(${year})</span>` : ''}
+      </div>
+    `;
+  }
+
+  let titleHtml = '';
+  if (title) {
+    titleHtml = `<div class="cit-tooltip-title">"${title}"</div>`;
+  }
+
+  let venueHtml = '';
+  if (venue) {
+    venueHtml = `<div class="cit-tooltip-venue">${venue}</div>`;
+  }
 
   let abstractHtml = '';
-  // Only show abstract loading or preview if we have a resolved target URL/DOI to query
-  if (url) {
+  if (tooltipPrefs.showAbstract && url) {
     if (abstract) {
       abstractHtml = `<div class="cit-tooltip-abstract">${abstract}</div>`;
     } else {
@@ -115,12 +159,16 @@ function showTooltip(anchorEl, destKey, url, metadata, abstract) {
 
   let footerHtml = '';
   if (url) {
-    footerHtml = `
-      <div class="cit-tooltip-footer">
-        <a class="cit-tooltip-url-btn" href="${url}" target="_blank" rel="noopener noreferrer">Open Paper</a>
-        <span class="cit-tooltip-action-btn copy-btn">Copy Link</span>
-      </div>
-    `;
+    const showOpen = tooltipPrefs.showOpenPaper;
+    const showCopy = tooltipPrefs.showCopyLink;
+    if (showOpen || showCopy) {
+      footerHtml = `
+        <div class="cit-tooltip-footer">
+          ${showOpen ? `<a class="cit-tooltip-url-btn" href="${url}" target="_blank" rel="noopener noreferrer">Open Paper</a>` : ''}
+          ${showCopy ? `<span class="cit-tooltip-action-btn copy-btn">Copy Link</span>` : ''}
+        </div>
+      `;
+    }
   } else {
     footerHtml = `
       <div class="cit-tooltip-footer">
@@ -129,21 +177,22 @@ function showTooltip(anchorEl, destKey, url, metadata, abstract) {
     `;
   }
 
+  if (!headerHtml && !titleHtml && !venueHtml && !abstractHtml) {
+    titleHtml = `<div class="cit-tooltip-title">Citation Reference</div>`;
+  }
+
   tooltipEl.innerHTML = `
     <div class="cit-tooltip-content">
-      <div class="cit-tooltip-header">
-        <span class="cit-tooltip-authors" title="${authors}">${authors}</span>
-        <span class="cit-tooltip-year">${year ? `(${year})` : ''}</span>
-      </div>
-      <div class="cit-tooltip-title">"${title}"</div>
-      ${venue ? `<div class="cit-tooltip-venue">${venue}</div>` : ''}
+      ${headerHtml}
+      ${titleHtml}
+      ${venueHtml}
       ${abstractHtml}
       ${footerHtml}
     </div>
   `;
 
   // Bind copy button event
-  if (url) {
+  if (url && tooltipPrefs.showCopyLink) {
     const copyBtn = tooltipEl.querySelector('.copy-btn');
     if (copyBtn) {
       copyBtn.addEventListener('click', (e) => {

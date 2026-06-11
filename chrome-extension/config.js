@@ -1,6 +1,6 @@
 export const Config = {
   API: {
-    APP_NAME: 'CitationTooltipsExtension/1.0',
+    APP_NAME: 'PaperReaderExtension/1.0',
     CONTACT_EMAIL: 'eschmitz364@gmail.com',
   },
   CACHE: {

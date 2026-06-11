@@ -4,6 +4,34 @@ import { Config } from './config.js';
 console.log('[Background] Service worker starting...');
 console.log('[Background] Imports successful.');
 
+// In-memory map to store current parsing progress of PDF URLs
+const activeParsings = new Map();
+
+// Initialize whitelist, blacklist, and tooltip preferences storage if not already present
+chrome.runtime.onInstalled.addListener(() => {
+  chrome.storage.local.get(['whitelistPatterns', 'blacklistPatterns', 'tooltipPreferences'], (result) => {
+    if (result.whitelistPatterns === undefined) {
+      chrome.storage.local.set({ whitelistPatterns: [] });
+    }
+    if (result.blacklistPatterns === undefined) {
+      chrome.storage.local.set({ blacklistPatterns: [] });
+    }
+    if (result.tooltipPreferences === undefined) {
+      chrome.storage.local.set({
+        tooltipPreferences: {
+          showAuthors: true,
+          showYear: true,
+          showTitle: true,
+          showVenue: true,
+          showAbstract: true,
+          showOpenPaper: true,
+          showCopyLink: true
+        }
+      });
+    }
+  });
+});
+
 // Cache key helper
 function getCacheKey(url) {
   return `pdf_cache_${url.split('#')[0]}`; // Strip hash destinations
@@ -275,7 +303,12 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
             }
             sendResponse({ success: true, url: targetUrl, metadata, abstract });
             if (targetUrl && !abstract) {
-              enrichMetadata(targetUrl, destKey, pdfUrl, sender.tab?.id);
+              chrome.storage.local.get(['tooltipPreferences'], (res) => {
+                const prefs = res.tooltipPreferences || {};
+                if (prefs.showAbstract !== false) {
+                  enrichMetadata(targetUrl, destKey, pdfUrl, sender.tab?.id);
+                }
+              });
             }
           };
           processHit();
@@ -324,6 +357,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 
   if (request.action === 'saveExtractedCitations') {
     const { pdfUrl, data } = request;
+    activeParsings.delete(pdfUrl); // Done parsing!
     const cacheKey = getCacheKey(pdfUrl);
     const cacheObj = {};
     cacheObj[cacheKey] = {
@@ -337,9 +371,97 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     });
     return true;
   }
+
+  if (request.action === 'reportExtractionProgress') {
+    const { pdfUrl, progress } = request;
+    activeParsings.set(pdfUrl, progress);
+    sendResponse({ success: true });
+    return true;
+  }
+
+  if (request.action === 'getExtractionProgress') {
+    const { pdfUrl } = request;
+    const progress = activeParsings.has(pdfUrl) ? activeParsings.get(pdfUrl) : null;
+    sendResponse({ success: true, progress });
+    return true;
+  }
 });
 
-// Listen for tab updates to intercept navigation to PDF files and redirect to custom viewer
+function isPdfUrl(url) {
+  try {
+    const parsed = new URL(url);
+    const pathname = parsed.pathname.toLowerCase();
+    return pathname.endsWith('.pdf');
+  } catch (err) {
+    const cleanUrl = url.split(/[?#]/)[0].toLowerCase();
+    return cleanUrl.endsWith('.pdf');
+  }
+}
+
+function shouldInterceptUrl(url, whitelist, blacklist) {
+  if (blacklist && blacklist.length > 0) {
+    const isBlacklisted = blacklist.some(patternStr => {
+      try {
+        const regex = new RegExp(patternStr, 'i');
+        return regex.test(url);
+      } catch (err) {
+        console.error(`Invalid blacklist regex: ${patternStr}`, err);
+        return false;
+      }
+    });
+    if (isBlacklisted) return false;
+  }
+
+  if (whitelist && whitelist.length > 0) {
+    const isWhitelisted = whitelist.some(patternStr => {
+      try {
+        const regex = new RegExp(patternStr, 'i');
+        return regex.test(url);
+      } catch (err) {
+        console.error(`Invalid whitelist regex: ${patternStr}`, err);
+        return false;
+      }
+    });
+    return isWhitelisted;
+  }
+
+  return true;
+}
+
+// 1. Intercept via webRequest header detection (for online PDFs like arXiv or direct downloads)
+chrome.webRequest.onHeadersReceived.addListener(
+  (details) => {
+    if (details.type !== 'main_frame') return;
+
+    const url = details.url;
+    const viewerPrefix = chrome.runtime.getURL('pdfjs/web/viewer.html');
+    if (url.startsWith(viewerPrefix)) return;
+
+    if (!details.responseHeaders) return;
+    const contentTypeHeader = details.responseHeaders.find(
+      h => h.name.toLowerCase() === 'content-type'
+    );
+    if (!contentTypeHeader) return;
+
+    const contentType = contentTypeHeader.value.toLowerCase();
+    if (contentType.includes('application/pdf')) {
+      chrome.storage.local.get(['whitelistPatterns', 'blacklistPatterns'], (result) => {
+        const whitelist = result.whitelistPatterns || [];
+        const blacklist = result.blacklistPatterns || [];
+
+        if (shouldInterceptUrl(url, whitelist, blacklist)) {
+          console.log(`[onHeadersReceived] Redirecting tab ${details.tabId} to custom PDF viewer: ${url}`);
+          const viewerUrl = `${viewerPrefix}?file=${encodeURIComponent(url)}`;
+          chrome.tabs.update(details.tabId, { url: viewerUrl });
+        }
+      });
+    }
+  },
+  { urls: ["<all_urls>"], types: ["main_frame"] },
+  ["responseHeaders"]
+);
+
+// 2. Intercept tab updates (fallback for local file:/// URLs or immediate navigation matching)
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
   const url = changeInfo.url || tab.url;
   if (!url) return;
@@ -347,34 +469,18 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
   const viewerPrefix = chrome.runtime.getURL('pdfjs/web/viewer.html');
   if (url.startsWith(viewerPrefix)) return;
 
-  const DEFAULT_PATTERNS = [
-    '\\.pdf(?:\\?|#|$)',
-    'arxiv\\.org/pdf/\\d+'
-  ];
+  if (isPdfUrl(url)) {
+    chrome.storage.local.get(['whitelistPatterns', 'blacklistPatterns'], (result) => {
+      const whitelist = result.whitelistPatterns || [];
+      const blacklist = result.blacklistPatterns || [];
 
-  chrome.storage.local.get(['interceptPatterns'], (result) => {
-    let patterns = result.interceptPatterns;
-    if (!patterns) {
-      patterns = DEFAULT_PATTERNS;
-      chrome.storage.local.set({ interceptPatterns: patterns });
-    }
-
-    const shouldIntercept = patterns.some(patternStr => {
-      try {
-        const regex = new RegExp(patternStr, 'i');
-        return regex.test(url);
-      } catch (err) {
-        console.error(`Invalid regex pattern: ${patternStr}`, err);
-        return false;
+      if (shouldInterceptUrl(url, whitelist, blacklist)) {
+        console.log(`[onUpdated] Redirecting tab ${tabId} to custom PDF viewer: ${url}`);
+        const viewerUrl = `${viewerPrefix}?file=${encodeURIComponent(url)}`;
+        chrome.tabs.update(tabId, { url: viewerUrl });
       }
     });
-
-    if (shouldIntercept) {
-      console.log(`Redirecting tab ${tabId} to custom PDF viewer: ${url}`);
-      const viewerUrl = `${viewerPrefix}?file=${encodeURIComponent(url)}`;
-      chrome.tabs.update(tabId, { url: viewerUrl });
-    }
-  });
+  }
 });
 
 // Update access timestamp for LRU cache policy

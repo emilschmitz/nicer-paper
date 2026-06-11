@@ -29,9 +29,15 @@ export async function extractCitationsFromPdf(
   const internalLinks: LinkAnn[] = [];
 
   // 1. Pass: Extract text items and links in parallel
-  const pagePromises = Array.from({ length: numPages }, (_, i) => i + 1).map(p =>
-    extractPageTextAndLinks(doc, p)
-  );
+  let completedPages = 0;
+  const pagePromises = Array.from({ length: numPages }, (_, i) => i + 1).map(async (p) => {
+    const data = await extractPageTextAndLinks(doc, p);
+    completedPages++;
+    if (options?.onProgress) {
+      options.onProgress(Math.round((completedPages / numPages) * 100));
+    }
+    return data;
+  });
   const pagesData = await Promise.all(pagePromises);
   
   pagesData.forEach(({ textItems, externalLinks: ext, internalLinks: int }, index) => {
