@@ -51343,7 +51343,7 @@ class Tensor {
 // node_modules/onnxruntime-common/dist/esm/tensor.js
 var Tensor2 = Tensor;
 // node_modules/@huggingface/transformers/dist/transformers.web.js
-var __dirname = "/home/emil/projects/cit-tooltips/node_modules/@huggingface/transformers/dist";
+var __dirname = "./node_modules/@huggingface/transformers/dist";
 var __defProp2 = Object.defineProperty;
 var __export2 = (target, all) => {
   for (var name in all)

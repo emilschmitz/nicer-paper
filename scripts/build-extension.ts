@@ -40,6 +40,18 @@ if (result.success) {
     }
     fs.renameSync(oldPath, newPath);
   }
+
+  // Post-process to remove absolute paths and avoid local path leaks (e.g. /home/emil/...)
+  if (fs.existsSync(newPath)) {
+    let content = fs.readFileSync(newPath, 'utf8');
+    const absolutePathPattern = new RegExp(path.resolve('.'), 'g');
+    content = content.replace(absolutePathPattern, '.');
+    // Also strip generic home directories if present
+    content = content.replace(/\/home\/[a-zA-Z0-9_-]+\/projects\/cit-tooltips/g, '.');
+    fs.writeFileSync(newPath, content, 'utf8');
+    console.log(`✓ Cleaned absolute path leaks from ${newPath}`);
+  }
+
   console.log(`✓ Successfully bundled extractor.js to ${newPath}`);
 } else {
   console.error('✗ Bundling failed:', result.logs);
