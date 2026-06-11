@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Paper Reader",
+  "name": "NicerPaper",
   "version": "1.0.0",
   "description": "Locally extracts citation references and displays links as hover tooltips on scientific PDFs.",
   "icons": {
@@ -21,7 +21,7 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Paper Reader",
+    "default_title": "NicerPaper",
     "default_icon": {
       "16": "icon16.png",
       "48": "icon48.png",

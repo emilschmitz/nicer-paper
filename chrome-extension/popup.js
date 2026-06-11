@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
               const matchRate = totalLinks > 0 ? Math.round((resolvedLinks / totalLinks) * 100) : 0;
 
               statRatio.innerText = `${matchRate}% (${resolvedLinks}/${totalLinks})`;
-              footerMessage.innerText = 'Paper Reader is active. Hover over inline links to view citation target tooltips.';
+              footerMessage.innerText = 'NicerPaper is active. Hover over inline links to view citation target tooltips.';
             } else {
               // Still loading/parsing
               badge.innerText = 'Loading';
