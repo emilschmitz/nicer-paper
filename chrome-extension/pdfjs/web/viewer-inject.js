@@ -66,6 +66,15 @@ function startHideTimeout() {
   }, 250);
 }
 
+function formatAuthorsForDisplay(authorsStr) {
+  if (!authorsStr) return '';
+  const parts = authorsStr.split(/\s+and\s+/i);
+  if (parts.length > 2) {
+    return `${parts[0]} et al.`;
+  }
+  return authorsStr;
+}
+
 function updateTooltipWithEnrichedData(metadata, abstract) {
   if (!tooltipEl) return;
   
@@ -77,7 +86,7 @@ function updateTooltipWithEnrichedData(metadata, abstract) {
   
   if (metadata) {
     if (authorsEl && metadata.authors) {
-      authorsEl.innerText = metadata.authors;
+      authorsEl.innerText = formatAuthorsForDisplay(metadata.authors);
       authorsEl.title = metadata.authors;
     }
     if (yearEl && metadata.year) yearEl.innerText = `(${metadata.year})`;
@@ -105,6 +114,7 @@ function repositionTooltip() {
   tooltipEl.style.left = `${left - (tooltipRect.width / 2)}px`;
 }
 
+// Show tooltip at coordinate
 function showTooltip(anchorEl, destKey, url, metadata, abstract) {
   if (!tooltipEl) createTooltip();
   
@@ -113,8 +123,9 @@ function showTooltip(anchorEl, destKey, url, metadata, abstract) {
   currentUrl = url;
   tooltipEl.dataset.destKey = destKey;
 
-  let authors = (tooltipPrefs.showAuthors && metadata?.authors) ? metadata.authors : '';
-  if (tooltipPrefs.showAuthors && !authors && !metadata?.authors) {
+  const rawAuthors = metadata?.authors || '';
+  let authors = (tooltipPrefs.showAuthors && rawAuthors) ? formatAuthorsForDisplay(rawAuthors) : '';
+  if (tooltipPrefs.showAuthors && !authors && !rawAuthors) {
     authors = 'Unknown Authors';
   }
   const year = (tooltipPrefs.showYear && metadata?.year) ? metadata.year : '';
@@ -125,7 +136,7 @@ function showTooltip(anchorEl, destKey, url, metadata, abstract) {
   if (authors || year) {
     headerHtml = `
       <div class="cit-tooltip-header">
-        ${authors ? `<span class="cit-tooltip-authors" title="${authors}">${authors}</span>` : ''}
+        ${authors ? `<span class="cit-tooltip-authors" title="${rawAuthors || authors}">${authors}</span>` : ''}
         ${year ? `<span class="cit-tooltip-year">(${year})</span>` : ''}
       </div>
     `;
