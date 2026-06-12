@@ -1,0 +1,243 @@
+{
+  "paper_id": "1011.4105",
+  "title": "Multilevel Polynomial Partitions and Simplified Range Searching",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Polynomial Factorization 1987-1991",
+      "authors": [
+        "Erich Kaltofen"
+      ],
+      "year": 1992,
+      "venue": "Latin American Symposium on Theoretical Informatics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BFb0023837"
+    },
+    "BIBREF1": {
+      "title": "Incidences between Points and Lines in Three Dimensions",
+      "authors": [
+        "Micha Sharir",
+        "Noam Solomon"
+      ],
+      "year": 2015,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4230/LIPIcs.SOCG.2015.553"
+    },
+    "BIBREF2": {
+      "title": "Refined Bounds on the Number of Connected Components of Sign Conditions on a Variety",
+      "authors": [
+        "Sal Barone",
+        "Saugata Basu"
+      ],
+      "year": 2012,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-011-9391-3"
+    },
+    "BIBREF3": {
+      "title": "Efficient partition trees",
+      "authors": [
+        "Jiří Matoušek"
+      ],
+      "year": 1991,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/109648.109649"
+    },
+    "BIBREF4": {
+      "title": "Improved bounds for incidences between points and circles",
+      "authors": [
+        "Micha Sharir",
+        "Adam Sheffer",
+        "Joshua Zahl"
+      ],
+      "year": 2013,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2462356.2462382"
+    },
+    "BIBREF5": {
+      "title": "Unit distances in three dimensions",
+      "authors": [
+        "Haim Kaplan",
+        "Jiří Matoušek",
+        "Zuzana Safernová",
+        "Micha Sharir"
+      ],
+      "year": 2012,
+      "venue": "Combinatorics, Probability & Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0963548312000144"
+    },
+    "BIBREF6": {
+      "title": "The structure of polynomial ideals and Grobner bases",
+      "authors": [
+        "Thomas W. Dubé"
+      ],
+      "year": 2013,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Exponential space computation of Gröbner bases",
+      "authors": [
+        "Klaus Kühnle",
+        "Ernst W. Mayr"
+      ],
+      "year": 1996,
+      "venue": "International Symposium on Symbolic and Algebraic Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/236869.236900"
+    },
+    "BIBREF8": {
+      "title": "Incidences between points and lines in R4: Extended Abstract",
+      "authors": [
+        "Micha Sharir",
+        "Noam Solomon"
+      ],
+      "year": 2014,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2582112.2582147"
+    },
+    "BIBREF9": {
+      "title": "Optimal partition trees",
+      "authors": [
+        "Timothy M. Chan"
+      ],
+      "year": 2010,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1810959.1810961"
+    },
+    "BIBREF10": {
+      "title": "Definability and fast quantifier elimination in algebraically closed fields",
+      "authors": [
+        "Joos Heintz"
+      ],
+      "year": 1983,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0304-3975(83)90002-6"
+    },
+    "BIBREF11": {
+      "title": "ź-nets and simplex range queries",
+      "authors": [
+        "David Haussler",
+        "Emo Welzl"
+      ],
+      "year": 1987,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02187876"
+    },
+    "BIBREF12": {
+      "title": "New applications of random sampling in computational geometry",
+      "authors": [
+        "Kenneth L. Clarkson"
+      ],
+      "year": 1987,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02187879"
+    },
+    "BIBREF13": {
+      "title": "Simple Proofs of Classical Theorems in Discrete Geometry via the Guth–Katz Polynomial Partitioning Technique",
+      "authors": [
+        "Haim Kaplan",
+        "Jiří Matoušek",
+        "Micha Sharir"
+      ],
+      "year": 2012,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-012-9443-3"
+    },
+    "BIBREF14": {
+      "title": "Space-efficient Gröbner basis computation without degree bounds",
+      "authors": [
+        "Ernst W. Mayr",
+        "Stephan Ritscher"
+      ],
+      "year": 2011,
+      "venue": "International Symposium on Symbolic and Algebraic Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1993886.1993926"
+    },
+    "BIBREF15": {
+      "title": "Distinct Distance Estimates and Low Degree Polynomial Partitioning",
+      "authors": [
+        "Larry Guth"
+      ],
+      "year": 2015,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-014-9648-8"
+    },
+    "BIBREF16": {
+      "title": "A Szemerédi---Trotter Type Theorem in $$mathbb {R}^4$$R4",
+      "authors": [
+        "Joshua Zahl"
+      ],
+      "year": 2015,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-015-9717-7"
+    },
+    "BIBREF17": {
+      "title": "On Range Searching with Semialgebraic Sets. II",
+      "authors": [
+        "Pankaj K. Agarwal",
+        "Jiří Matoušek",
+        "Micha Sharir"
+      ],
+      "year": 2013,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/120890855"
+    },
+    "BIBREF18": {
+      "title": "A new algorithm for the geometric decomposition of a variety",
+      "authors": [
+        "Mohamed Elkadi",
+        "Bernard Mourrain"
+      ],
+      "year": 1999,
+      "venue": "International Symposium on Symbolic and Algebraic Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/309831.309843"
+    },
+    "BIBREF19": {
+      "title": "An Incidence Theorem in Higher Dimensions",
+      "authors": [
+        "József Solymosi",
+        "Terence Tao"
+      ],
+      "year": 2012,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-012-9420-x"
+    },
+    "BIBREF20": {
+      "title": "Ideals, Varieties, and Algorithms",
+      "authors": [
+        "David A. Cox",
+        "John B. Little",
+        "Donal O'Shea"
+      ],
+      "year": 1997,
+      "venue": "American Mathematical Monthly",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-0-387-35651-8"
+    },
+    "BIBREF21": {
+      "title": "Polynomial partitioning on varieties and point-hypersurface incidences in four dimensions",
+      "authors": [
+        "Saugata Basu",
+        "Martín Sombra"
+      ],
+      "year": 2014,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF22": {
+      "title": "Polynomial Partitioning on Varieties of Codimension Two and Point-Hypersurface Incidences in Four Dimensions",
+      "authors": [
+        "Saugata Basu",
+        "Martín Sombra"
+      ],
+      "year": 2016,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-015-9736-4"
+    },
+    "BIBREF23": {
+      "title": "An improved bound on the number of point-surface incidences in three dimensions",
+      "authors": [
+        "Joshua Zahl"
+      ],
+      "year": 2013,
+      "venue": "Contributions to Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.11575/cdm.v8i1.62120"
+    }
+  }
+}

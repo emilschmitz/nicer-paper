@@ -1,0 +1,25 @@
+{
+  "paper_id": "1302.0634",
+  "title": "Model reduction for complex hyperbolic networks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An overview of approximation methods for large-scale dynamical systems",
+      "authors": [
+        "Athanasios C. Antoulas"
+      ],
+      "year": 2005,
+      "venue": "Annual Reviews in Control",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.arcontrol.2005.08.002"
+    },
+    "BIBREF1": {
+      "title": "Empirical Balanced Truncation of Nonlinear Systems",
+      "authors": [
+        "Marissa Condon",
+        "Rossen I. Ivanov"
+      ],
+      "year": 2004,
+      "venue": "Journal of Nonlinear Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00332-004-0617-5"
+    }
+  }
+}

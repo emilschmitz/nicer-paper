@@ -1,0 +1,127 @@
+{
+  "paper_id": "quant-ph/0612199",
+  "title": "Measurements and Confluence in Quantum Lambda Calculi With Explicit Qubits",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Taming non-compositionality using new binders",
+      "authors": [
+        "Frédéric Prost"
+      ],
+      "year": 2007,
+      "venue": "International Conference on Unconventional Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-73554-0_15"
+    },
+    "BIBREF1": {
+      "title": "A Syntax for Linear Logic",
+      "authors": [
+        "Philip Wadler"
+      ],
+      "year": 1993,
+      "venue": "International Conference on Mathematical Foundations of Programming Semantics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-58027-1_24"
+    },
+    "BIBREF2": {
+      "title": "Tree-Manipulating Systems and Church-Rosser Theorems",
+      "authors": [
+        "Barry K. Rosen"
+      ],
+      "year": 1973,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/321738.321750"
+    },
+    "BIBREF3": {
+      "title": "A Lambda Calculus for Quantum Computation",
+      "authors": [
+        "André van Tonder"
+      ],
+      "year": 2004,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539703432165"
+    },
+    "BIBREF4": {
+      "title": "Linear-algebraic λ-calculus: higher-order, encodings, and confluence.",
+      "authors": [
+        "Pablo Arrighi",
+        "Gilles Dowek"
+      ],
+      "year": 2008,
+      "venue": "Rewriting Techniques and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-70590-1_2"
+    },
+    "BIBREF5": {
+      "title": "A Computational Definition of the Notion of Vectorial Space",
+      "authors": [
+        "Pablo Arrighi",
+        "Gilles Dowek"
+      ],
+      "year": 2005,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2004.06.013"
+    },
+    "BIBREF6": {
+      "title": "Constructing Induction Rules for Deductive Synthesis Proofs",
+      "authors": [
+        "Alan Bundy",
+        "Lucas Dixon",
+        "Jeremy Gow",
+        "Jacques Fleuriot"
+      ],
+      "year": 2006,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2005.08.003"
+    },
+    "BIBREF7": {
+      "title": "Probabilistic λ-calculus and Quantitative Program Analysis",
+      "authors": [
+        "Alessandra Di Pierro",
+        "Chris Hankin",
+        "Herbert Wiklicky"
+      ],
+      "year": 2005,
+      "venue": "Journal of Logic and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1093/logcom/exi008"
+    },
+    "BIBREF8": {
+      "title": "An Algebra of Pure Quantum Programming",
+      "authors": [
+        "Thorsten Altenkirch",
+        "Jonathan Grattage",
+        "Juliana K. Vizzotto",
+        "Amr Sabry"
+      ],
+      "year": 2007,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2006.12.010"
+    },
+    "BIBREF9": {
+      "title": "A lambda calculus for quantum computation with classical control",
+      "authors": [
+        "Peter Selinger",
+        "Benoit Valiron"
+      ],
+      "year": 2006,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129506005238"
+    },
+    "BIBREF10": {
+      "title": "A functional quantum programming language",
+      "authors": [
+        "T. Altenkirch",
+        "J. Grattage"
+      ],
+      "year": 2005,
+      "venue": "Logic in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/LICS.2005.1"
+    },
+    "BIBREF11": {
+      "title": "Lineal: A linear-algebraic Lambda-calculus",
+      "authors": [
+        "Pablo Arrighi",
+        "Gilles Dowek"
+      ],
+      "year": 2006,
+      "venue": "arXiv: Quantum Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.23638/LMCS-13(1:8)2017"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "paper_id": "0708.4176",
+  "title": "Topological Complexity of omega-Powers : Extended Abstract",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Topological Characterizations of Infinite Behaviours of Transition Systems",
+      "authors": [
+        "André Arnold"
+      ],
+      "year": 1983,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BFb0036895"
+    },
+    "BIBREF1": {
+      "title": "Handbook of Formal Languages",
+      "authors": [
+        "Grzegorz Rozenberg",
+        "Arto Salomaa"
+      ],
+      "year": 1997,
+      "venue": "",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-59126-6"
+    },
+    "BIBREF2": {
+      "title": "Borel hierarchy and omega context free languages",
+      "authors": [
+        "Olivier Finkel"
+      ],
+      "year": 2003,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(02)00042-7"
+    },
+    "BIBREF3": {
+      "title": "An ω-Power of a Finitary Language Which is a Borel Set of Infinite Rank",
+      "authors": [
+        "Olivier Finkel"
+      ],
+      "year": 2004,
+      "venue": "Fundamenta Informaticae",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Formal Languages and Their Relation to Automata",
+      "authors": [
+        "John E. Hopcroft",
+        "Jeffrey D. Ullman"
+      ],
+      "year": 1969,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Context-free languages and pushdown automata",
+      "authors": [
+        "Jean-Michel Autebert",
+        "Jean Berstel",
+        "Luc Boasson"
+      ],
+      "year": 1997,
+      "venue": "Handbook of formal languages, vol. 1",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-59136-5_3"
+    },
+    "BIBREF6": {
+      "title": "Topological properties of omega context-free languages",
+      "authors": [
+        "Olivier Finkel"
+      ],
+      "year": 2001,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(00)00405-9"
+    },
+    "BIBREF7": {
+      "title": "Classical and effective descriptive complexities of ω-powers☆",
+      "authors": [
+        "Olivier Finkel",
+        "Dominique Lecomte"
+      ],
+      "year": 2009,
+      "venue": "Annals of Pure and Applied Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.apal.2009.02.005"
+    },
+    "BIBREF8": {
+      "title": "Logical Specifications of Infinite Computations",
+      "authors": [
+        "Wolfgang Thomas",
+        "Helmut Lescow"
+      ],
+      "year": 1993,
+      "venue": "A Decade of Concurrency, Reflections and Perspectives, REX School/Symposium",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-58043-3_29"
+    }
+  }
+}

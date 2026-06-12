@@ -1,0 +1,71 @@
+{
+  "paper_id": "1112.1145v1",
+  "title": "The Lower/Upper Bound Property of Approximate Eigenvalues by Nonconforming Finite Element Methods for Elliptic Operators",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A High Accuracy Post-processing Algorithm for the Eigenvalues of Elliptic Operators",
+      "authors": [
+        "Jun Hu",
+        "Yunqing Huang",
+        "Quan Shen"
+      ],
+      "year": 2012,
+      "venue": "Journal of Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10915-011-9552-9"
+    },
+    "BIBREF1": {
+      "title": "A new class of Zienkiewicz-type non-conforming element in any dimensions",
+      "authors": [
+        "Ming Wang",
+        "Zhong-Ci Shi",
+        "Jinchao Xu"
+      ],
+      "year": 2007,
+      "venue": "Numerische Mathematik",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00211-007-0063-4"
+    },
+    "BIBREF2": {
+      "title": "Eigenvalue approximations from below using Morley elements",
+      "authors": [
+        "Yidu Yang",
+        "Qun Lin",
+        "Hai Bi",
+        "Qin Li"
+      ],
+      "year": 2012,
+      "venue": "Advances in Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10444-011-9185-4"
+    },
+    "BIBREF3": {
+      "title": "Lower Bounds for Eigenvalues of Elliptic Operators: By Nonconforming Finite Element Methods",
+      "authors": [
+        "Jun Hu",
+        "Yunqing Huang",
+        "Qun Lin"
+      ],
+      "year": 2014,
+      "venue": "Journal of Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10915-014-9821-5"
+    },
+    "BIBREF4": {
+      "title": "Finite element approximation of eigenvalue problems",
+      "authors": [
+        "Daniele Boffi"
+      ],
+      "year": 2010,
+      "venue": "Acta Numerica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0962492910000012"
+    },
+    "BIBREF5": {
+      "title": "Constructing both lower and upper bounds for the eigenvalues of elliptic operators by nonconforming finite element methods",
+      "authors": [
+        "Jun Hu",
+        "Yunqing Huang",
+        "Quan Shen"
+      ],
+      "year": 2015,
+      "venue": "Numerische Mathematik",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00211-014-0688-z"
+    }
+  }
+}

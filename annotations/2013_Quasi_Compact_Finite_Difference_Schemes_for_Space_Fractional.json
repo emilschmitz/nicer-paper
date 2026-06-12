@@ -1,0 +1,67 @@
+{
+  "paper_id": "1201.5949",
+  "title": "Quasi-Compact Finite Difference Schemes for Space Fractional Diffusion Equations",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Matrix Analysis for Scientists and Engineers",
+      "authors": [
+        "Alan J. Laub"
+      ],
+      "year": 2004,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Finite Difference Methods for Ordinary and Partial Differential Equations: Steady-State and Time-Dependent Problems",
+      "authors": [
+        "Randall J. LeVeque"
+      ],
+      "year": 2007,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "A class of second order difference approximations for solving space fractional diffusion equations",
+      "authors": [
+        "WenYi Tian",
+        "Han Zhou",
+        "Weihua Deng"
+      ],
+      "year": 2015,
+      "venue": "Mathematics of Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1090/S0025-5718-2015-02917-2"
+    },
+    "BIBREF3": {
+      "title": "High Accuracy Compact Schemes and Gibbs' Phenomenon",
+      "authors": [
+        "Tapan K. Sengupta",
+        "G. Ganerwal",
+        "Anurag Dipankar"
+      ],
+      "year": 2004,
+      "venue": "Journal of Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10915-004-1317-2"
+    },
+    "BIBREF4": {
+      "title": "A second-order accurate numerical approximation for the fractional diffusion equation",
+      "authors": [
+        "Charles Tadjeran",
+        "Mark M. Meerschaert",
+        "Hans-Peter Scheffler"
+      ],
+      "year": 2006,
+      "venue": "Journal of Computational Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcp.2005.08.008"
+    },
+    "BIBREF5": {
+      "title": "A second-order accurate numerical method for the two-dimensional fractional diffusion equation",
+      "authors": [
+        "Charles Tadjeran",
+        "Mark M. Meerschaert"
+      ],
+      "year": 2007,
+      "venue": "Journal of Computational Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcp.2006.05.030"
+    }
+  }
+}

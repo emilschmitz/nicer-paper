@@ -1,0 +1,34 @@
+{
+  "paper_id": "0907.4740",
+  "title": "Last but not Least: Additional Positional Effects on Citation and Readership in arXiv",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The Importance of Being First: Position Dependent Citation Rates on arXiv:astro-ph",
+      "authors": [
+        "J. P. Dietrich"
+      ],
+      "year": 2008,
+      "venue": "Publications of the Astronomical Society of the Pacific",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1086/527522"
+    },
+    "BIBREF1": {
+      "title": "Positional Effects on Citation and Readership in arXiv",
+      "authors": [
+        "Asif-ul Haque",
+        "Paul Ginsparg"
+      ],
+      "year": 2009,
+      "venue": "arXiv: Digital Libraries",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/asi.21166"
+    },
+    "BIBREF2": {
+      "title": "Disentangling Visibility and Self-Promotion Bias in the arXiv:astro-ph Positional Citation Effect",
+      "authors": [
+        "J. P. Dietrich"
+      ],
+      "year": 2008,
+      "venue": "Publications of the Astronomical Society of the Pacific",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1086/589836"
+    }
+  }
+}

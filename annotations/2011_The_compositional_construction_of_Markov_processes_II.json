@@ -1,0 +1,185 @@
+{
+  "paper_id": "0909.4136",
+  "title": "The compositional construction of Markov processes II",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "PROBABILISTIC VERIFICATION BY TABLEAUX.",
+      "authors": [
+        "Amir Pnueli",
+        "Lenore D. Zuck"
+      ],
+      "year": 1986,
+      "venue": "Logic in Computer Science",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Some varieties of iteration theories.",
+      "authors": [
+        "Stephen L. Bloom",
+        "Zoltán Ésik"
+      ],
+      "year": 1984,
+      "venue": "Bulletin of The European Association for Theoretical Computer Science",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Span(Graph): A Categorial Algebra of Transition Systems",
+      "authors": [
+        "Piergiulio Katis",
+        "Nicoletta Sabadini",
+        "Robert F. C. Walters"
+      ],
+      "year": 1997,
+      "venue": "Algebraic Methodology and Software Technology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BFb0000479"
+    },
+    "BIBREF3": {
+      "title": "A Formalization of the IWIM Model",
+      "authors": [
+        "Piergiulio Katis",
+        "Nicoletta Sabadini",
+        "Robert F. C. Walters"
+      ],
+      "year": 2000,
+      "venue": "International Conference on Coordination Models and Languages",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-45263-X_17"
+    },
+    "BIBREF4": {
+      "title": "Modeling and Verification of Randomized Distributed Real -Time Systems",
+      "authors": [
+        "Roberto Segala"
+      ],
+      "year": 1996,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "The compositional construction of Markov processes",
+      "authors": [
+        "L. de Francesco Albasini",
+        "N. Sabadini",
+        "R. F. C. Walters"
+      ],
+      "year": 2009,
+      "venue": "arXiv: Logic in Computer Science",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "A Compositional Approach to Performance Modelling",
+      "authors": [
+        "Jane Hillston"
+      ],
+      "year": 1996,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Observing Branching Structure through Probabilistic Contexts",
+      "authors": [
+        "Nancy Lynch",
+        "Roberto Segala",
+        "Frits Vaandrager"
+      ],
+      "year": 2007,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1147/S0097539704446487"
+    },
+    "BIBREF8": {
+      "title": "A non-interleaving process calculus for multi-party synchronisation",
+      "authors": [
+        "Paweł Sobociński"
+      ],
+      "year": 2009,
+      "venue": "arXiv: Logic in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4204/EPTCS.12.6"
+    },
+    "BIBREF9": {
+      "title": "Statecharts: A visual formalism for complex systems",
+      "authors": [
+        "David Harel"
+      ],
+      "year": 1987,
+      "venue": "Science of Computer Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0167-6423(87)90035-9"
+    },
+    "BIBREF10": {
+      "title": "Environment and classical channels in categorical quantum mechanics",
+      "authors": [
+        "Bob Coecke",
+        "Simon Perdrix"
+      ],
+      "year": 2010,
+      "venue": "Computer Science Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-15205-4_20"
+    },
+    "BIBREF11": {
+      "title": "Communicating Sequential Processes",
+      "authors": [
+        "C. A. R. Hoare"
+      ],
+      "year": 1985,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "Probabilistic automata : system types, parallel composition and comparison",
+      "authors": [
+        "A Ana Sokolova",
+        "EP Erik de Vink"
+      ],
+      "year": 2004,
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-24611-4_1"
+    },
+    "BIBREF13": {
+      "title": "Reactive, generative, and stratified models of probabilistic processes",
+      "authors": [
+        "Rob J. VanGlabbeek",
+        "Scott A. Smolka",
+        "Bernhard Steffen"
+      ],
+      "year": 1995,
+      "venue": "Information & Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/inco.1995.1123"
+    },
+    "BIBREF14": {
+      "title": "A Calculus of Communicating Systems",
+      "authors": [
+        "R. Milner"
+      ],
+      "year": 1980,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "Automatic verification of probabilistic concurrent finite state programs",
+      "authors": [
+        "Moshe Y. Vardi"
+      ],
+      "year": 1985,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SFCS.1985.12"
+    },
+    "BIBREF16": {
+      "title": "On traced monoidal closed categories",
+      "authors": [
+        "Masahito Hasegawa"
+      ],
+      "year": 2009,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129508007184"
+    },
+    "BIBREF17": {
+      "title": "Bisimulation for Labelled Markov Processes",
+      "authors": [
+        "Richard Blute",
+        "Josée Desharnais",
+        "Abbas Edalat",
+        "Prakash Panangaden"
+      ],
+      "year": 1997,
+      "venue": "BRICS Report Series",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.7146/brics.v4i4.18783"
+    }
+  }
+}

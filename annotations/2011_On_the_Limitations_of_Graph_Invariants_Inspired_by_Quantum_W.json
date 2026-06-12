@@ -1,0 +1,49 @@
+{
+  "paper_id": "quant-ph/0505026v2",
+  "title": "On the Limitations of Graph Invariants Inspired by Quantum Walks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Non-Isomorphic Graphs with Cospectral Symmetric Powers",
+      "authors": [
+        "Amir Rahnamai Barghi",
+        "Ilya Ponomarenko"
+      ],
+      "year": 2009,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A Matrix Representation of Graphs and its Spectrum as a Graph Invariant",
+      "authors": [
+        "David Emms",
+        "Edwin R. Hancock",
+        "Simone Severini",
+        "Richard C. Wilson"
+      ],
+      "year": 2006,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Quantum Walks on Regular Graphs and Eigenvalues",
+      "authors": [
+        "Chris D. Godsil",
+        "Krystal Guo"
+      ],
+      "year": 2011,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "An optimal lower bound on the number of variables for graph identification",
+      "authors": [
+        "Jin-yi Cai",
+        "Martin Fürer",
+        "Neil Immerman"
+      ],
+      "year": 1992,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/bf01305232"
+    }
+  }
+}

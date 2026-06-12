@@ -1,0 +1,132 @@
+{
+  "paper_id": "1306.0227",
+  "title": "Analysis of Asymptotic Preserving DG-IMEX Schemes for Linear Kinetic Transport Equations in a Diffusive Scaling",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Analysis of an Asymptotic Preserving Scheme for Linear Kinetic Equations in the Diffusion Limit",
+      "authors": [
+        "Jian-Guo Liu",
+        "Luc Mieussens"
+      ],
+      "year": 2010,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090772770"
+    },
+    "BIBREF1": {
+      "title": "Numerical Schemes of Diffusion Asymptotics and Moment Closures for Kinetic Equations",
+      "authors": [
+        "J. A. Carrillo",
+        "T. Goudon",
+        "P. Lafitte",
+        "F. Vecil"
+      ],
+      "year": 2008,
+      "venue": "Journal of Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10915-007-9181-5"
+    },
+    "BIBREF2": {
+      "title": "Error Estimates to Smooth Solutions of Runge--Kutta Discontinuous Galerkin Methods for Scalar Conservation Laws",
+      "authors": [
+        "Qiang Zhang",
+        "Chi-Wang Shu"
+      ],
+      "year": 2004,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0036142902404182"
+    },
+    "BIBREF3": {
+      "title": "High order asymptotic preserving DG-IMEX schemes for discrete-velocity kinetic equations in a diffusive scaling",
+      "authors": [
+        "Juhi Jang",
+        "Fengyan Li",
+        "Jing-Mei Qiu",
+        "Tao Xiong"
+      ],
+      "year": 2015,
+      "venue": "Journal of Computational Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcp.2014.10.025"
+    },
+    "BIBREF4": {
+      "title": "Flux-Explicit IMEX Runge--Kutta Schemes for Hyperbolic to Parabolic Relaxation Problems",
+      "authors": [
+        "Sebastiano Boscarino",
+        "Giovanni Russo"
+      ],
+      "year": 2013,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110850803"
+    },
+    "BIBREF5": {
+      "title": "Implicit-Explicit Runge-Kutta schemes for hyperbolic systems and kinetic equations in the diffusion limit",
+      "authors": [
+        "Sebastiano Boscarino",
+        "Lorenzo Pareschi",
+        "Giovanni Russo"
+      ],
+      "year": 2013,
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110842855"
+    },
+    "BIBREF6": {
+      "title": "Uniformly Accurate Diffusive Relaxation Schemes for Multiscale Transport Equations",
+      "authors": [
+        "Shi Jin",
+        "Lorenzo Pareschi",
+        "Giuseppe Toscani"
+      ],
+      "year": 2000,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0036142998347978"
+    },
+    "BIBREF7": {
+      "title": "A New Asymptotic Preserving Scheme Based on Micro-Macro Formulation for Linear Kinetic Equations in the Diffusion Limit",
+      "authors": [
+        "Mohammed Lemou",
+        "Luc Mieussens"
+      ],
+      "year": 2008,
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/07069479X"
+    },
+    "BIBREF8": {
+      "title": "Stability Analysis and A Priori Error Estimates of the Third Order Explicit Runge-Kutta Discontinuous Galerkin Method for Scalar Conservation Laws",
+      "authors": [
+        "Qiang Zhang",
+        "Chi-Wang Shu"
+      ],
+      "year": 2010,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090771363"
+    },
+    "BIBREF9": {
+      "title": "Taming the CFL Number for Discontinuous Galerkin Methods on Structured Meshes",
+      "authors": [
+        "T. Warburton",
+        "T. Hagstrom"
+      ],
+      "year": 2008,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/060672601"
+    },
+    "BIBREF10": {
+      "title": "Asymptotic-preserving Projective Integration Schemes for Kinetic Equations in the Diffusion Limit",
+      "authors": [
+        "Pauline Lafitte",
+        "Giovanni Samaey"
+      ],
+      "year": 2012,
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100795954"
+    },
+    "BIBREF11": {
+      "title": "Asymptotic Analysis of Upwind Discontinuous Galerkin Approximation of the Radiative Transport Equation in the Diffusive Limit",
+      "authors": [
+        "Jean-Luc Guermond",
+        "Guido Kanschat"
+      ],
+      "year": 2010,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090746938"
+    }
+  }
+}

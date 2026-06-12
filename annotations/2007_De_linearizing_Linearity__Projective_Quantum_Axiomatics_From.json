@@ -1,0 +1,92 @@
+{
+  "paper_id": "quant-ph/0402130",
+  "title": "De-linearizing Linearity: Projective Quantum Axiomatics From Strong Compact Closure",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Dagger Compact Closed Categories and Completely Positive Maps",
+      "authors": [
+        "Peter Selinger"
+      ],
+      "year": 2007,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2006.12.018"
+    },
+    "BIBREF1": {
+      "title": "Towards a quantum programming language",
+      "authors": [
+        "Peter Selinger"
+      ],
+      "year": 2004,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129504004256"
+    },
+    "BIBREF2": {
+      "title": "Axiomatic Description of Mixed States From Selinger's CPM-construction",
+      "authors": [
+        "Bob Coecke"
+      ],
+      "year": 2008,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2008.04.014"
+    },
+    "BIBREF3": {
+      "title": "A categorical quantum logic",
+      "authors": [
+        "Samson Abramsky",
+        "Ross Duncan"
+      ],
+      "year": 2006,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129506005275"
+    },
+    "BIBREF4": {
+      "title": "ABSTRACT PHYSICAL TRACES",
+      "authors": [
+        "Samson Abramsky",
+        "Bob Coecke"
+      ],
+      "year": 2005,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "A categorical semantics of quantum protocols",
+      "authors": [
+        "S. Abramsky",
+        "B. Coecke"
+      ],
+      "year": 2004,
+      "venue": "Logic in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/LICS.2004.1"
+    },
+    "BIBREF6": {
+      "title": "Abstract scalars, loops, and free traced and strongly compact closed categories",
+      "authors": [
+        "Samson Abramsky"
+      ],
+      "year": 2005,
+      "venue": "Conference on Algebra and Coalgebra in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/11548133_1"
+    },
+    "BIBREF7": {
+      "title": "A sequent calculus for nominal logic",
+      "authors": [
+        "M. Gabbay",
+        "J. Cheney"
+      ],
+      "year": 2004,
+      "venue": "Logic in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/LICS.2004.6"
+    },
+    "BIBREF8": {
+      "title": "POVMs and Naimark's theorem without sums",
+      "authors": [
+        "Bob Coecke",
+        "Eric Oliver Paquette"
+      ],
+      "year": 2006,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

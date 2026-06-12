@@ -1,0 +1,148 @@
+{
+  "paper_id": "1206.6811",
+  "title": "On the entropy of sums of Bernoulli random variables via the Chen-Stein method",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An Information-Theoretic Perspective of the Poisson Approximation via the Chen-Stein Method",
+      "authors": [
+        "Igal Sason"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "The Interplay Between Entropy and Variational Distance",
+      "authors": [
+        "Siu-Wai Ho",
+        "R W Yeung"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2080452"
+    },
+    "BIBREF2": {
+      "title": "Monotonicity, Thinning, and Discrete Versions of the Entropy Power Inequality",
+      "authors": [
+        "O Johnson",
+        "Yaming Yu"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2070570"
+    },
+    "BIBREF3": {
+      "title": "On the Entropy of Compound Distributions on Nonnegative Integers",
+      "authors": [
+        "Yaming Yu"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2023725"
+    },
+    "BIBREF4": {
+      "title": "On the Maximum Entropy Properties of the Binomial Distribution",
+      "authors": [
+        "Yaming Yu"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.924715"
+    },
+    "BIBREF5": {
+      "title": "A criterion for the compound poisson distribution to be maximum entropy",
+      "authors": [
+        "Oliver Johnson",
+        "Ioannis Kontoyiannis",
+        "Mokshay Madiman"
+      ],
+      "year": 2009,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2009.5205527"
+    },
+    "BIBREF6": {
+      "title": "Entropy and the law of small numbers",
+      "authors": [
+        "I. Kontoyiannis",
+        "P. Harremoes",
+        "O. Johnson"
+      ],
+      "year": 2003,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2004.840861"
+    },
+    "BIBREF7": {
+      "title": "Sharp Bounds on the Entropy of the Poisson Law and Related Quantities",
+      "authors": [
+        "Jose A Adell",
+        "Alberto Lekuona",
+        "Yaming Yu"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2044057"
+    },
+    "BIBREF8": {
+      "title": "Compound Poisson Approximation via Information Functionals",
+      "authors": [
+        "A. D. Barbour",
+        "Oliver Johnson",
+        "Ioannis Kontoyiannis",
+        "Mokshay M. Madiman"
+      ],
+      "year": 2010,
+      "venue": "Electronic Journal of Probability",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1214/EJP.v15-799"
+    },
+    "BIBREF9": {
+      "title": "Binomial and Poisson distributions as maximum entropy distributions",
+      "authors": [
+        "P. Harremoes"
+      ],
+      "year": 2001,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.930936"
+    },
+    "BIBREF10": {
+      "title": "Rate of convergence to Poisson law in terms of information divergence",
+      "authors": [
+        "P. Harremoes",
+        "P.S. Ruzankin"
+      ],
+      "year": 2004,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2004.833364"
+    },
+    "BIBREF11": {
+      "title": "Monotonic Convergence in an Information-Theoretic Law of Small Numbers",
+      "authors": [
+        "Yaming Yu"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2032727"
+    },
+    "BIBREF12": {
+      "title": "Thinning, Entropy, and the Law of Thin Numbers",
+      "authors": [
+        "Peter Harremoës",
+        "O Johnson",
+        "I Kontoyiannis"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2053893"
+    },
+    "BIBREF13": {
+      "title": "Log-concavity, ultra-log-concavity, and a maximum entropy property of discrete compound Poisson measures",
+      "authors": [
+        "Oliver Johnson",
+        "Ioannis Kontoyiannis",
+        "Mokshay Madiman"
+      ],
+      "year": 2013,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.dam.2011.08.025"
+    }
+  }
+}

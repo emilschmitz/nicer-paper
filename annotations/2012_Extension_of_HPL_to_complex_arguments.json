@@ -1,0 +1,97 @@
+{
+  "paper_id": "hep-ph/0703052",
+  "title": "Extension of HPL to complex arguments",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "lsjk - a C++ library for arbitrary-precision numeric evaluation of the generalized log-sine functions",
+      "authors": [
+        "M.Yu. Kalmykov",
+        "A. Sheplyakov"
+      ],
+      "year": 2005,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2005.04.013"
+    },
+    "BIBREF1": {
+      "title": "HypExp, a Mathematica package for expanding hypergeometric functions around integer-valued parameters",
+      "authors": [
+        "Tobias Huber",
+        "Daniel Maître"
+      ],
+      "year": 2006,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2006.01.007"
+    },
+    "BIBREF2": {
+      "title": "Numerical evaluation of multiple polylogarithms",
+      "authors": [
+        "Jens Vollinga",
+        "Stefan Weinzierl"
+      ],
+      "year": 2005,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2004.12.009"
+    },
+    "BIBREF3": {
+      "title": "XSUMMER- : Transcendental functions and symbolic summation in FORM",
+      "authors": [
+        "S. Moch",
+        "Peter Uwer"
+      ],
+      "year": 2006,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2005.12.014"
+    },
+    "BIBREF4": {
+      "title": "Introduction to the GiNaC Framework for Symbolic Computation within the C++ Programming Language",
+      "authors": [
+        "Christian Bauer",
+        "Alexander Frink",
+        "Richard Kreckel"
+      ],
+      "year": 2002,
+      "venue": "Journal of Symbolic Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jsco.2001.0494"
+    },
+    "BIBREF5": {
+      "title": "All order ε-expansion of Gauss hypergeometric functions with integer and half/integer values of parameters",
+      "authors": [
+        "Mikhail Yu. Kalmykov",
+        "Bennie F.L. Ward",
+        "Scott Yost"
+      ],
+      "year": 2007,
+      "venue": "Journal of High Energy Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/1126-6708/2007/02/040"
+    },
+    "BIBREF6": {
+      "title": "HPL, a mathematica implementation of the harmonic polylogarithms",
+      "authors": [
+        "Daniel Maître"
+      ],
+      "year": 2006,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2005.10.008"
+    },
+    "BIBREF7": {
+      "title": "Symbolic expansion of transcendental functions",
+      "authors": [
+        "Stefan Weinzierl"
+      ],
+      "year": 2002,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0010-4655(02)00261-8"
+    },
+    "BIBREF8": {
+      "title": "Evaluations of k-fold Euler/Zagier sums: a compendium of results for arbitrary k",
+      "authors": [
+        "J. M. Borwein",
+        "D. M. Bradley",
+        "D. J. Broadhurst"
+      ],
+      "year": 1996,
+      "venue": "arXiv: High Energy Physics - Theory",
+      "link": ""
+    }
+  }
+}

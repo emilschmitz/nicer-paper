@@ -1,0 +1,358 @@
+{
+  "paper_id": "1212.0873",
+  "title": "Separable approximations and decomposition methods for the augmented Lagrangian",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Randomized Block Coordinate Non-Monotone Gradient Method for a Class of Nonlinear Programming",
+      "authors": [
+        "Zhaosong Lu",
+        "Lin Xiao"
+      ],
+      "year": 2013,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "SOLVING MULTIPLE-BLOCK SEPARABLE CONVEX MINIMIZATION PROBLEMS USING TWO-BLOCK ALTERNATING DIRECTION METHOD OF MULTIPLIERS",
+      "authors": [
+        "Xiangfeng Wang",
+        "Mingyi Hong",
+        "Shiqian Ma",
+        "Zhi-Quan Luo"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Efficient Serial and Parallel Coordinate Descent Methods for Huge-Scale Truss Topology Design",
+      "authors": [
+        "Peter Richtárik",
+        "Martin Takáč"
+      ],
+      "year": 2012,
+      "venue": "A Quarterly Journal of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-29210-1_5"
+    },
+    "BIBREF3": {
+      "title": "Stochastic dual coordinate ascent methods for regularized loss",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Scenarios and Policy Aggregation in Optimization Under Uncertainty",
+      "authors": [
+        "R. T. Rockafellar",
+        "Roger J. B. Wets"
+      ],
+      "year": 1991,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.16.1.119"
+    },
+    "BIBREF5": {
+      "title": "A diagonal quadratic approximation method for large scale linear programs",
+      "authors": [
+        "John M. Mulvey",
+        "Andrzej Ruszczyński"
+      ],
+      "year": 1992,
+      "venue": "Operations Research Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0167-6377(92)90046-6"
+    },
+    "BIBREF6": {
+      "title": "On convergence of an augmented Lagrangian decomposition method for sparse convex optimization",
+      "authors": [
+        "Andrzej Ruszczyński"
+      ],
+      "year": 1995,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.20.3.634"
+    },
+    "BIBREF7": {
+      "title": "A random coordinate descent algorithm for optimization problems with composite objective function and linear coupled constraints",
+      "authors": [
+        "Ion Necoara",
+        "Andrei Patrascu"
+      ],
+      "year": 2014,
+      "venue": "Computational Optimization and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10589-013-9598-8"
+    },
+    "BIBREF8": {
+      "title": "ALTERNATING DIRECTION METHOD WITH GAUSSIAN BACK SUBSTITUTION FOR SEPARABLE CONVEX PROGRAMMING",
+      "authors": [
+        "Bingsheng He",
+        "Min Tao",
+        "Xiaoming Yuan"
+      ],
+      "year": 2012,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110822347"
+    },
+    "BIBREF9": {
+      "title": "Single-machine scheduling polyhedra with precedence constraints",
+      "authors": [
+        "Maurice Queyranne",
+        "Yaoguang Wang"
+      ],
+      "year": 1991,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.16.1.1"
+    },
+    "BIBREF10": {
+      "title": "An Extension of the DQA Algorithm to Convex Stochastic Programs",
+      "authors": [
+        "Adam J. Berger",
+        "John M. Mulvey",
+        "Andrzej Ruszczyński"
+      ],
+      "year": 1994,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0804043"
+    },
+    "BIBREF11": {
+      "title": "Efficient random coordinate descent algorithms for large-scale structured nonconvex optimization",
+      "authors": [
+        "Andrei Patrascu",
+        "Ion Necoara"
+      ],
+      "year": 2015,
+      "venue": "Journal of Global Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10898-014-0151-9"
+    },
+    "BIBREF12": {
+      "title": "Parallel Coordinate Descent for the Adaboost Problem",
+      "authors": [
+        "Olivier Fercoq"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICMLA.2013.72"
+    },
+    "BIBREF13": {
+      "title": "Improving ultimate convergence of an augmented Lagrangian method",
+      "authors": [
+        "E. G. Birgin",
+        "J. M. Martínez"
+      ],
+      "year": 2008,
+      "venue": "Optimization Methods & Software",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1080/10556780701577730"
+    },
+    "BIBREF14": {
+      "title": "On the Douglas-Rachford splitting method and the proximal point algorithm for maximal monotone operators",
+      "authors": [
+        "Jonathan Eckstein",
+        "Dimitri P. Bertsekas"
+      ],
+      "year": 1992,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01581204"
+    },
+    "BIBREF15": {
+      "title": "Properties of an augmented Lagrangian for design optimization",
+      "authors": [
+        "Adel Hamdi",
+        "Andreas Griewank"
+      ],
+      "year": 2010,
+      "venue": "Optimization Methods & Software",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1080/10556780903270910"
+    },
+    "BIBREF16": {
+      "title": "Block coordinate descent algorithms for large-scale sparse multiclass classification",
+      "authors": [
+        "Mathieu Blondel",
+        "Kazuhiro Seki",
+        "Kuniaki Uehara"
+      ],
+      "year": 2013,
+      "venue": "Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10994-013-5367-2"
+    },
+    "BIBREF17": {
+      "title": "Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems",
+      "authors": [
+        "Yurii E. Nesterov"
+      ],
+      "year": 2012,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100802001"
+    },
+    "BIBREF18": {
+      "title": "A New Scenario Decomposition Method for Large-Scale Stochastic Optimization",
+      "authors": [
+        "John M. Mulvey",
+        "Andrzej Ruszczyński"
+      ],
+      "year": 1995,
+      "venue": "Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/opre.43.3.477"
+    },
+    "BIBREF19": {
+      "title": "Accelerated Mini-Batch Stochastic Dual Coordinate Ascent",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Parallel Coordinate Descent for L1-Regularized Loss Minimization",
+      "authors": [
+        "Joseph K. Bradley",
+        "Aapo Kyrola",
+        "Danny Bickson",
+        "Carlos Guestrin"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "Efficient block-coordinate descent algorithms for the Group Lasso",
+      "authors": [
+        "Zhiwei Qin",
+        "Katya Scheinberg",
+        "Donald Goldfarb"
+      ],
+      "year": 2013,
+      "venue": "Mathematical Programming Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s12532-013-0051-x"
+    },
+    "BIBREF22": {
+      "title": "Iteration complexity of randomized block-coordinate descent methods for minimizing a composite function",
+      "authors": [
+        "Peter Richtárik",
+        "Martin Takáč"
+      ],
+      "year": 2014,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-012-0614-z"
+    },
+    "BIBREF23": {
+      "title": "Augmented Lagrangians and Applications of the Proximal Point Algorithm in Convex Programming",
+      "authors": [
+        "R. T. Rockafellar"
+      ],
+      "year": 1976,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.1.2.97"
+    },
+    "BIBREF24": {
+      "title": "Stochastic Methods for l 1 -regularized Loss Minimization",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Ambuj Tewari"
+      ],
+      "year": 2011,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF25": {
+      "title": "A dual coordinate descent method for large-scale linear SVM",
+      "authors": [
+        "Cho-Jui Hsieh",
+        "Kai-Wei Chang",
+        "Chih-Jen Lin",
+        "S. Sathiya Keerthi",
+        "S. Sundararajan"
+      ],
+      "year": 2008,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1390156.1390208"
+    },
+    "BIBREF26": {
+      "title": "Stochastic methods for ℓ1 regularized loss minimization",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Ambuj Tewari"
+      ],
+      "year": 2009,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1553374.1553493"
+    },
+    "BIBREF27": {
+      "title": "Inexact Coordinate Descent: Complexity and Preconditioning",
+      "authors": [
+        "Rachael Tappenden",
+        "Peter Richtárik",
+        "Jacek Gondzio"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF28": {
+      "title": "On the Linear Convergence of the Alternating Direction Method of Multipliers",
+      "authors": [
+        "Mingyi Hong",
+        "Zhi-Quan Luo"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF29": {
+      "title": "Parallel Coordinate Descent Methods for Big Data Optimization",
+      "authors": [
+        "Peter Richtárik",
+        "Martin Takáč"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF30": {
+      "title": "On the Complexity Analysis of Randomized Block-Coordinate Descent Methods",
+      "authors": [
+        "Zhaosong Lu",
+        "Lin Xiao"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF31": {
+      "title": "Parallel Coordinate Descent for L1-Regularized Loss Minimization",
+      "authors": [
+        "Aapo Kyrola",
+        "Daniel Bickson",
+        "Carlos Guestrin",
+        "Joseph K. Bradley"
+      ],
+      "year": 2011,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF32": {
+      "title": "Efficient Accelerated Coordinate Descent Methods and Faster Algorithms for Solving Linear Systems",
+      "authors": [
+        "Yin Tat Lee",
+        "Aaron Sidford"
+      ],
+      "year": 2013,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2013.24"
+    },
+    "BIBREF33": {
+      "title": "Mini-Batch Primal and Dual Methods for SVMs",
+      "authors": [
+        "Martin Takac",
+        "Avleen Bijral",
+        "Peter Richtarik",
+        "Nati Srebro"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    }
+  }
+}

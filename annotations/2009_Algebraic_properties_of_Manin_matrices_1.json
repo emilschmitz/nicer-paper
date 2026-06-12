@@ -1,0 +1,65 @@
+{
+  "paper_id": "0809.3516",
+  "title": "Algebraic properties of Manin matrices 1",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Combinatorial Proofs of Capelli's and Turnbull's Identities from Classical Invariant Theory",
+      "authors": [
+        "Dominique Foata",
+        "Doron Zeilberger"
+      ],
+      "year": 1994,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Noncommutative determinants, Cauchy-Binet formulae, and Capelli-type identities. I. Generalizations of the Capelli and Turnbull identities",
+      "authors": [
+        "Sergio Caracciolo",
+        "Andrea Sportiello",
+        "Alan D. Sokal"
+      ],
+      "year": 2008,
+      "venue": "arXiv: Combinatorics",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "A sharp bound for the reconstruction of partitions.",
+      "authors": [
+        "Vincent Vatter"
+      ],
+      "year": 2008,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Non-Commutative Sylvester's Determinantal Identity",
+      "authors": [
+        "Matjaž Konvalinka"
+      ],
+      "year": 2007,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Algebraic properties of Manin matrices 1",
+      "authors": [
+        "A. Chervov",
+        "G. Falqui",
+        "V. Rubtsov"
+      ],
+      "year": 2009,
+      "venue": "arXiv: Quantum Algebra",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Dodgson's Determinant-Evaluation Rule proved by Two-Timing Men and Women",
+      "authors": [
+        "Doron Zeilberger"
+      ],
+      "year": 1998,
+      "venue": "arXiv: Combinatorics",
+      "link": ""
+    }
+  }
+}

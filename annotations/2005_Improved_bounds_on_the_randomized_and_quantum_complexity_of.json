@@ -1,0 +1,71 @@
+{
+  "paper_id": "quant-ph/0311148",
+  "title": "Improved bounds on the randomized and quantum complexity of initial-value problems",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Quantum approximation II. Sobolev embeddings",
+      "authors": [
+        "Stefan Heinrich"
+      ],
+      "year": 2004,
+      "venue": "Journal of Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jco.2003.08.003"
+    },
+    "BIBREF1": {
+      "title": "Path Integration on a Quantum Computer",
+      "authors": [
+        "J. F. Traub",
+        "H. Woźniakowski"
+      ],
+      "year": 2002,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1023417813916"
+    },
+    "BIBREF2": {
+      "title": "Quantum Complexity of Integration",
+      "authors": [
+        "Erich Novak"
+      ],
+      "year": 2001,
+      "venue": "Journal of Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcom.2000.0566"
+    },
+    "BIBREF3": {
+      "title": "Quantum Summation with an Application to Integration",
+      "authors": [
+        "S. Heinrich"
+      ],
+      "year": 2002,
+      "venue": "Journal of Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcom.2001.0629"
+    },
+    "BIBREF4": {
+      "title": "Quantum approximation I. Embeddings of finite-dimensional L p spaces",
+      "authors": [
+        "Stefan Heinrich"
+      ],
+      "year": 2004,
+      "venue": "Journal of Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jco.2003.08.002"
+    },
+    "BIBREF5": {
+      "title": "The quantum query complexity of approximating the median and related statistics",
+      "authors": [
+        "Ashwin Nayak",
+        "Felix Wu"
+      ],
+      "year": 1999,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/301250.301349"
+    },
+    "BIBREF6": {
+      "title": "Randomized and quantum algorithms yield a speed-up for initial-value problems",
+      "authors": [
+        "Bolesław Kacewicz"
+      ],
+      "year": 2004,
+      "venue": "Journal of Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jco.2004.05.002"
+    }
+  }
+}

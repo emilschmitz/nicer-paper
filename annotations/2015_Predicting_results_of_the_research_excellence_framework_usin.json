@@ -1,0 +1,42 @@
+{
+  "paper_id": "1411.1996",
+  "title": "Predicting results of the research excellence framework using departmental h-index: revisited",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Absolute and specific measures of research group excellence",
+      "authors": [
+        "O. Mryglod",
+        "R. Kenna",
+        "Yu. Holovatch",
+        "B. Berche"
+      ],
+      "year": 2013,
+      "venue": "Scientometrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11192-012-0874-7"
+    },
+    "BIBREF1": {
+      "title": "Comparison of a citation-based indicator and peer review for absolute and specific measures of research-group excellence",
+      "authors": [
+        "O. Mryglod",
+        "R. Kenna",
+        "Yu. Holovatch",
+        "B. Berche"
+      ],
+      "year": 2013,
+      "venue": "Scientometrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11192-013-1058-9"
+    },
+    "BIBREF2": {
+      "title": "Predicting results of the Research Excellence Framework using departmental h-index",
+      "authors": [
+        "O. Mryglod",
+        "R. Kenna",
+        "Yu. Holovatch",
+        "B. Berche"
+      ],
+      "year": 2015,
+      "venue": "Scientometrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11192-014-1512-3"
+    }
+  }
+}

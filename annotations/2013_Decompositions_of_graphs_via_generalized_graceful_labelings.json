@@ -1,0 +1,25 @@
+{
+  "paper_id": "1210.4370",
+  "title": "Decompositions of graphs via generalized graceful labelings",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Decompositions of complete multipartite graphs via generalized graceful labelings",
+      "authors": [
+        "A. Benini",
+        "A. Pasotti"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Combinatorics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Graceful graphs with pendant edges.",
+      "authors": [
+        "Christian Barrientos"
+      ],
+      "year": 2005,
+      "venue": "Australasian J. Combinatorics",
+      "link": ""
+    }
+  }
+}

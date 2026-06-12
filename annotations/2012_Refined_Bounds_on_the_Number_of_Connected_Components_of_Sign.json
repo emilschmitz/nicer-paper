@@ -1,0 +1,147 @@
+{
+  "paper_id": "1104.4987v3",
+  "title": "Refined Bounds on the Number of Connected Components of Sign Conditions on a Variety",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An asymptotically tight bound on the number of connected components of realizable sign conditions",
+      "authors": [
+        "Saugata Basu",
+        "Richard Pollack",
+        "Marie-Françoise Roy"
+      ],
+      "year": 2006,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A Sharper Estimate on the Betti Numbers of Sets Defined by Quadratic Inequalities",
+      "authors": [
+        "Saugata Basu",
+        "Michael Kettner"
+      ],
+      "year": 2008,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-007-9001-6"
+    },
+    "BIBREF2": {
+      "title": "Unit distances in three dimensions",
+      "authors": [
+        "Haim Kaplan",
+        "Jiří Matoušek",
+        "Zuzana Safernová",
+        "Micha Sharir"
+      ],
+      "year": 2012,
+      "venue": "Combinatorics, Probability & Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0963548312000144"
+    },
+    "BIBREF3": {
+      "title": "Bounding the number of connected components of a real algebraic set",
+      "authors": [
+        "Riccardo Benedetti",
+        "Francois Loeser",
+        "Jean Jacques Risler"
+      ],
+      "year": 1991,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02574685"
+    },
+    "BIBREF4": {
+      "title": "An asymptotically tight bound on the number of semi-algebraically connected components of realizable sign conditions",
+      "authors": [
+        "Baogang Xu",
+        "Xingxing Yu"
+      ],
+      "year": 2009,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00493-009-2357-x"
+    },
+    "BIBREF5": {
+      "title": "Bounding the Number of Geometric Permutations Induced byk-Transversals",
+      "authors": [
+        "Jacob E. Goodman",
+        "Richard Pollack",
+        "Rephael Wenger"
+      ],
+      "year": 1996,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcta.1996.0072"
+    },
+    "BIBREF6": {
+      "title": "On computing a set of points meeting every cell defined by a family of polynomials on a variety",
+      "authors": [
+        "Saugata Basu",
+        "Richard Pollack",
+        "Marie-Françoise Roy"
+      ],
+      "year": 1997,
+      "venue": "Journal of Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcom.1997.0434"
+    },
+    "BIBREF7": {
+      "title": "An Incidence Theorem in Higher Dimensions",
+      "authors": [
+        "József Solymosi",
+        "Terence Tao"
+      ],
+      "year": 2012,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-012-9420-x"
+    },
+    "BIBREF8": {
+      "title": "On the combinatorial and algebraic complexity of quantifier elimination",
+      "authors": [
+        "Saugata Basu",
+        "Richard Pollack",
+        "Marie-Françoise Roy"
+      ],
+      "year": 1996,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/235809.235813"
+    },
+    "BIBREF9": {
+      "title": "Vandermonde Matrices, NP-Completeness, and Transversal Subspaces",
+      "authors": [
+        "Alexander Chistov",
+        "Hervé Fournier",
+        "Leonid Gurvits",
+        "Pascal Koiran"
+      ],
+      "year": 2003,
+      "venue": "Foundations of Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10208-002-0076-4"
+    },
+    "BIBREF10": {
+      "title": "Strong bi-homogeneous Bézout theorem and its use in effective real algebraic geometry",
+      "authors": [
+        "Mohab Safey El Din",
+        "Philippe Trebuchet"
+      ],
+      "year": 2006,
+      "venue": "arXiv: Symbolic Computation",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "On the geometry of polar varieties",
+      "authors": [
+        "Bernd Bank",
+        "Marc Giusti",
+        "Joos Heintz",
+        "Mohab Safey El Din",
+        "Eric Schost"
+      ],
+      "year": 2010,
+      "venue": "Applicable Algebra in Engineering, Communication and Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00200-009-0117-1"
+    },
+    "BIBREF12": {
+      "title": "An improved bound on the number of point-surface incidences in three dimensions",
+      "authors": [
+        "Joshua Zahl"
+      ],
+      "year": 2013,
+      "venue": "Contributions to Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.11575/cdm.v8i1.62120"
+    }
+  }
+}

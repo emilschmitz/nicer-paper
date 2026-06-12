@@ -1,0 +1,121 @@
+{
+  "paper_id": "0910.1824",
+  "title": "Properly coloured copies and rainbow copies of large graphs with small maximum degree",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On rainbow trees and cycles",
+      "authors": [
+        "Alan M. Frieze",
+        "Michael Krivelevich"
+      ],
+      "year": 2008,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Polychromatic Hamilton cycles",
+      "authors": [
+        "Alan Frieze",
+        "Bruce Reed"
+      ],
+      "year": 1993,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(93)90054-W"
+    },
+    "BIBREF2": {
+      "title": "A property of the colored complete graph",
+      "authors": [
+        "J. Shearer"
+      ],
+      "year": 1979,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(79)90020-7"
+    },
+    "BIBREF3": {
+      "title": "An improvement of the lovász local lemma via cluster expansion",
+      "authors": [
+        "Rodrigo Bissacot",
+        "Roberto FernÁndez",
+        "Aldo Procacci",
+        "Benedetto Scoppola"
+      ],
+      "year": 2011,
+      "venue": "Combinatorics, Probability & Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0963548311000253"
+    },
+    "BIBREF4": {
+      "title": "Graphs with Hamiltonian cycles having adjacent lines different colors",
+      "authors": [
+        "C. C. Chen",
+        "David E. Daykin"
+      ],
+      "year": 1976,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0095-8956(76)90053-8"
+    },
+    "BIBREF5": {
+      "title": "Properly colored Hamilton cycles in edge-colored complete graphs",
+      "authors": [
+        "N. Alon",
+        "G. Gutin"
+      ],
+      "year": 1997,
+      "venue": "Random Structures and Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/(SICI)1098-2418(199709)11:2<179::AID-RSA5>3.0.CO;2-P"
+    },
+    "BIBREF6": {
+      "title": "Almost spanning subgraphs of random graphs after adversarial edge removal",
+      "authors": [
+        "Julia Böttcher",
+        "Yoshiharu Kohayakawa",
+        "Anusch Taraz"
+      ],
+      "year": 2013,
+      "venue": "Combinatorics, Probability & Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/s0963548313000199"
+    },
+    "BIBREF7": {
+      "title": "Path and cycle sub-Ramsey numbers and an edge-colouring conjecture",
+      "authors": [
+        "G Hahn",
+        "C Thomassen"
+      ],
+      "year": 1986,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(86)90038-5"
+    },
+    "BIBREF8": {
+      "title": "Properly colored subgraphs and rainbow subgraphs in edge-colorings with local constraints",
+      "authors": [
+        "Noga Alon",
+        "Tao Jiang",
+        "Zevi Miller",
+        "Dan Pritikin"
+      ],
+      "year": 2003,
+      "venue": "Random Structures and Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/rsa.10102"
+    },
+    "BIBREF9": {
+      "title": "Multicoloured Hamilton Cycles",
+      "authors": [
+        "Michael H. Albert",
+        "Alan M. Frieze",
+        "Bruce A. Reed"
+      ],
+      "year": 1995,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Using Lovász Local Lemma in the Space of Random Injections",
+      "authors": [
+        "Linyuan Lu",
+        "László A. Székely"
+      ],
+      "year": 2007,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "paper_id": "1306.3727",
+  "title": "On the optimality of approximation schemes for the classical scheduling problem",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A note on scheduling with low rank processing times",
+      "authors": [
+        "Lin Chen",
+        "Deshi Ye",
+        "Guochuan Zhang"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Computational Complexity",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Parameterized Complexity and Approximation Algorithms",
+      "authors": [
+        "Dániel Marx"
+      ],
+      "year": 2008,
+      "venue": "The Computer Journal",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1093/comjnl/bxm048"
+    },
+    "BIBREF2": {
+      "title": "Exact and Approximate Algorithms for Scheduling Nonidentical Processors",
+      "authors": [
+        "Ellis Horowitz",
+        "Sartaj Sahni"
+      ],
+      "year": 1976,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/321941.321951"
+    },
+    "BIBREF3": {
+      "title": "Which Problems Have Strongly Exponential Complexity",
+      "authors": [
+        "Russell Impagliazzo",
+        "Ramamohan Paturi",
+        "Francis Zane"
+      ],
+      "year": 2001,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcss.2001.1774"
+    },
+    "BIBREF4": {
+      "title": "Grouping Techniques for Scheduling Problems: Simpler and Faster",
+      "authors": [
+        "Aleksei V. Fishkin",
+        "Klaus Jansen",
+        "Monaldo Mastrolilli"
+      ],
+      "year": 2008,
+      "venue": "Algorithmica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00453-007-9086-6"
+    },
+    "BIBREF5": {
+      "title": "On the possibility of faster SAT algorithms",
+      "authors": [
+        "Mihai Pătraşcu",
+        "Ryan Williams"
+      ],
+      "year": 2010,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "On the computational hardness based on linear FPT-reductions",
+      "authors": [
+        "Jianer Chen",
+        "Xiuzhen Huang",
+        "Iyad A. Kanj",
+        "Ge Xia"
+      ],
+      "year": 2006,
+      "venue": "Journal of Combinatorial Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10878-006-7137-6"
+    },
+    "BIBREF7": {
+      "title": "There is no EPTAS for two-dimensional knapsack",
+      "authors": [
+        "Ariel Kulik",
+        "Hadas Shachnai"
+      ],
+      "year": 2010,
+      "venue": "Information Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.ipl.2010.05.031"
+    },
+    "BIBREF8": {
+      "title": "An EPTAS for Scheduling Jobs on Uniform Processors: Using an MILP Relaxation with a Constant Number of Integral Variables",
+      "authors": [
+        "Klaus Jansen"
+      ],
+      "year": 2010,
+      "venue": "SIAM Journal on Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090749451"
+    },
+    "BIBREF9": {
+      "title": "Bin packing with restricted piece sizes",
+      "authors": [
+        "J. Y.-T. Leung"
+      ],
+      "year": 1989,
+      "venue": "Information Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0020-0190(89)90223-8"
+    },
+    "BIBREF10": {
+      "title": "Improved Approximation Schemes for Scheduling Unrelated Parallel Machines",
+      "authors": [
+        "Klaus Jansen",
+        "Lorant Porkolab"
+      ],
+      "year": 2001,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.26.2.324.10559"
+    },
+    "BIBREF11": {
+      "title": "A duality between clause width and clause density for SAT",
+      "authors": [
+        "C. Calabro",
+        "R. Impagliazzo",
+        "R. Paturi"
+      ],
+      "year": 2006,
+      "venue": "Conference on Computational Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CCC.2006.6"
+    },
+    "BIBREF12": {
+      "title": "On the Optimality of Planar and Geometric Approximation Schemes",
+      "authors": [
+        "D. Marx"
+      ],
+      "year": 2007,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2007.50"
+    },
+    "BIBREF13": {
+      "title": "Lower bounds based on the Exponential Time Hypothesis",
+      "authors": [
+        "Daniel Lokshtanov",
+        "Dániel Marx",
+        "Saket Saurabh"
+      ],
+      "year": 2015,
+      "venue": "Bulletin of The European Association for Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-21275-3_14"
+    },
+    "BIBREF14": {
+      "title": "Minimum makespan scheduling with low rank processing times",
+      "authors": [
+        "Aditya Bhaskara",
+        "Ravishankar Krishnaswamy",
+        "Kunal Talwar",
+        "Udi Wieder"
+      ],
+      "year": 2013,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "3-SAT Faster and Simpler - Unique-SAT Bounds for PPSZ Hold in General",
+      "authors": [
+        "Timon Hertli"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Computational Complexity",
+      "link": ""
+    }
+  }
+}

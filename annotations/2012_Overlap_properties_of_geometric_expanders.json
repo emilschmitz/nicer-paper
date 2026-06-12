@@ -1,0 +1,195 @@
+{
+  "paper_id": "1005.1392",
+  "title": "Overlap properties of geometric expanders",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Few More Cyclic Steiner 2-Designs",
+      "authors": [
+        "Kejun Chen",
+        "Ruizhong Wei"
+      ],
+      "year": 2006,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Structure Theorems for Systems of Segments",
+      "authors": [
+        "János Pach",
+        "József Solymosi"
+      ],
+      "year": 2000,
+      "venue": "JCDCG '00 Revised Papers from the Japanese Conference on Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-47738-1_29"
+    },
+    "BIBREF2": {
+      "title": "Explicit constructions of Ramanujan complexes of type A d",
+      "authors": [
+        "Alexander Lubotzky",
+        "Beth Samuels",
+        "Uzi Vishne"
+      ],
+      "year": 2005,
+      "venue": "European Journal of Combinatorics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.ejc.2004.06.007"
+    },
+    "BIBREF3": {
+      "title": "Voronoi diagrams—a survey of a fundamental geometric data structure",
+      "authors": [
+        "Franz Aurenhammer"
+      ],
+      "year": 1991,
+      "venue": "ACM Computing Surveys",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/116873.116880"
+    },
+    "BIBREF4": {
+      "title": "On the number of corner cuts",
+      "authors": [
+        "Uli Wagner"
+      ],
+      "year": 2002,
+      "venue": "Advances in Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0196-8858(02)00014-3"
+    },
+    "BIBREF5": {
+      "title": "A generalization of carathéodory's theorem",
+      "authors": [
+        "Imre Bárány"
+      ],
+      "year": 1982,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(82)90115-7"
+    },
+    "BIBREF6": {
+      "title": "Points and triangles in the plane and halving planes in space",
+      "authors": [
+        "Boris Aronov",
+        "Bernard Chazelle",
+        "Herbert Edelsbrunner",
+        "Leonidas J. Guibas",
+        "Micha Sharir",
+        "Rephael Wenger"
+      ],
+      "year": 1991,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02574700"
+    },
+    "BIBREF7": {
+      "title": "A Tverberg-type result on multicolored simplices",
+      "authors": [
+        "János Pach"
+      ],
+      "year": 1998,
+      "venue": "Computational Geometry: Theory and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0925-7721(97)00022-9"
+    },
+    "BIBREF8": {
+      "title": "Halfspace range search: an algorithmic application of k -sets",
+      "authors": [
+        "B. Chazelle",
+        "F. P. Preparata"
+      ],
+      "year": 1986,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02187685"
+    },
+    "BIBREF9": {
+      "title": "Balls and bins: a study in negative dependence",
+      "authors": [
+        "Devdatt Dubhashi",
+        "Desh Ranjan"
+      ],
+      "year": 1998,
+      "venue": "Random Structures and Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/(SICI)1098-2418(199809)13:2<99::AID-RSA1>3.0.CO;2-M"
+    },
+    "BIBREF10": {
+      "title": "Ramanujan geometries of type &Ã n",
+      "authors": [
+        "Donald I. Cartwright",
+        "Patrick Solé",
+        "Andrzej Zuk"
+      ],
+      "year": 2003,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0012-365X(02)00748-3"
+    },
+    "BIBREF11": {
+      "title": "The colored Tverberg's problem and complexes of injective functions",
+      "authors": [
+        "Rade T. Živaljevic",
+        "Sinša T. Vrecica"
+      ],
+      "year": 1992,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0097-3165(92)90028-S"
+    },
+    "BIBREF12": {
+      "title": "Crossing patterns of semi-algebraic sets",
+      "authors": [
+        "Noga Alon",
+        "János Pach",
+        "Rom Pinchasi",
+        "Radoš Radoičić",
+        "Micha Sharir"
+      ],
+      "year": 2005,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcta.2004.12.008"
+    },
+    "BIBREF13": {
+      "title": "Algorithms for vertical and orthogonal L1 linear approximation of points",
+      "authors": [
+        "P. Yamamoto",
+        "K. Kato",
+        "K. Imai",
+        "H. Imai"
+      ],
+      "year": 1988,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/73393.73429"
+    },
+    "BIBREF14": {
+      "title": "Eppstein's bound on intersecting triangles revisited",
+      "authors": [
+        "Gabriel Nivasch",
+        "Micha Sharir"
+      ],
+      "year": 2009,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcta.2008.07.003"
+    },
+    "BIBREF15": {
+      "title": "ON THE NUMBER OF HALVING PLANES",
+      "authors": [
+        "Imre Bárány",
+        "Zoltán Füredi",
+        "László Lovász"
+      ],
+      "year": 1990,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02123008"
+    },
+    "BIBREF16": {
+      "title": "Bounded-Degree Graphs can have Arbitrarily Large Slope Numbers",
+      "authors": [
+        "János Pach",
+        "Dömötör Pálvölgyi"
+      ],
+      "year": 2006,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Stabbing Simplices by Points and Flats",
+      "authors": [
+        "Boris Bukh",
+        "Jiří Matoušek",
+        "Gabriel Nivasch"
+      ],
+      "year": 2010,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-008-9124-4"
+    }
+  }
+}

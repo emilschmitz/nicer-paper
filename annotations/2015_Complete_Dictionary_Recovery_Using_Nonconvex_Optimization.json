@@ -1,0 +1,436 @@
+{
+  "paper_id": "1504.06785",
+  "title": "Complete Dictionary Recovery Using Nonconvex Optimization",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Sparsity-Based Generalization Bounds for Predictive Sparse Coding",
+      "authors": [
+        "Nishant Mehta",
+        "Alexander Gray"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A linear-time algorithm for trust region problems",
+      "authors": [
+        "Elad Hazan",
+        "Tomer Koren"
+      ],
+      "year": 2016,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-015-0933-y"
+    },
+    "BIBREF2": {
+      "title": "Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing",
+      "authors": [
+        "Michael Elad"
+      ],
+      "year": 2010,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Near Optimal Compressed Sensing of Sparse Rank-One Matrices via Sparse Power Factorization.",
+      "authors": [
+        "Kiryung Lee",
+        "Yihong Wu",
+        "Yoram Bresler"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Optimization Algorithms on Matrix Manifolds",
+      "authors": [
+        "P.-A. Absil",
+        "R. Mahony",
+        "R. Sepulchre"
+      ],
+      "year": 2007,
+      "venue": "",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1515/9781400830244"
+    },
+    "BIBREF5": {
+      "title": "Fast Exact Matrix Completion with Finite Samples",
+      "authors": [
+        "Prateek Jain",
+        "Praneeth Netrapalli"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Numerical Analysis",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "When Can Dictionary Learning Uniquely Recover Sparse Data From Subsamples",
+      "authors": [
+        "Christopher J. Hillar",
+        "Friedrich T. Sommer"
+      ],
+      "year": 2015,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2015.2460238"
+    },
+    "BIBREF7": {
+      "title": "Sparse and Spurious: Dictionary Learning With Noise and Outliers",
+      "authors": [
+        "Remi Gribonval",
+        "Rodolphe Jenatton",
+        "Francis Bach"
+      ],
+      "year": 2015,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2015.2472522"
+    },
+    "BIBREF8": {
+      "title": "Guaranteed Non-Orthogonal Tensor Decomposition via Alternating Rank-$1$ Updates",
+      "authors": [
+        "Animashree Anandkumar",
+        "Rong Ge",
+        "Majid Janzamin"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Matrix completion from a few entries",
+      "authors": [
+        "Raghunandan H. Keshavan",
+        "Sewoong Oh",
+        "Andrea Montanari"
+      ],
+      "year": 2009,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2009.5205567"
+    },
+    "BIBREF10": {
+      "title": "Sparse Modeling for Image and Vision Processing",
+      "authors": [
+        "Julien Mairal",
+        "Francis Bach",
+        "Jean Ponce"
+      ],
+      "year": 2014,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "On the identifiability of overcomplete dictionaries via the minimisation principle underlying K-SVD",
+      "authors": [
+        "Karin Schnass"
+      ],
+      "year": 2014,
+      "venue": "Applied and Computational Harmonic Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.acha.2014.01.005"
+    },
+    "BIBREF12": {
+      "title": "The trust region subproblem and semidefinite programming",
+      "authors": [
+        "Charles Fortin",
+        "Henry Wolkowicz"
+      ],
+      "year": 2004,
+      "venue": "Optimization Methods & Software",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1080/10556780410001647186"
+    },
+    "BIBREF13": {
+      "title": "The Geometry of Algorithms with Orthogonality Constraints",
+      "authors": [
+        "Alan Edelman",
+        "Tomás A. Arias",
+        "Steven T. Smith"
+      ],
+      "year": 1999,
+      "venue": "SIAM Journal on Matrix Analysis and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0895479895290954"
+    },
+    "BIBREF14": {
+      "title": "Dictionary Learning and Tensor Decomposition via the Sum-of-Squares Method",
+      "authors": [
+        "Boaz Barak",
+        "Jonathan A. Kelner",
+        "David Steurer"
+      ],
+      "year": 2015,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2746539.2746605"
+    },
+    "BIBREF15": {
+      "title": "Some NP-complete problems in quadratic and nonlinear programming",
+      "authors": [
+        "Katta G. Murty",
+        "Santosh N. Kabadi"
+      ],
+      "year": 1987,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02592948"
+    },
+    "BIBREF16": {
+      "title": "Simple, Efficient, and Neural Algorithms for Sparse Coding",
+      "authors": [
+        "Sanjeev Arora",
+        "Rong Ge",
+        "Tengyu Ma",
+        "Ankur Moitra"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Low-rank matrix completion using alternating minimization",
+      "authors": [
+        "Prateek Jain",
+        "Praneeth Netrapalli",
+        "Sujay Sanghavi"
+      ],
+      "year": 2013,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2488608.2488693"
+    },
+    "BIBREF18": {
+      "title": "Non-convex Robust PCA",
+      "authors": [
+        "Praneeth Netrapalli",
+        "Niranjan U N",
+        "Sujay Sanghavi",
+        "Animashree Anandkumar",
+        "Prateek Jain"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "Exact recovery of sparsely-used dictionaries",
+      "authors": [
+        "Daniel A. Spielman",
+        "Huan Wang",
+        "John Wright"
+      ],
+      "year": 2013,
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Complete Dictionary Recovery over the Sphere",
+      "authors": [
+        "Ju Sun",
+        "Qing Qu",
+        "John Wright"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "Learning Sparsely Used Overcomplete Dictionaries via Alternating Minimization",
+      "authors": [
+        "Alekh Agarwal",
+        "Animashree Anandkumar",
+        "Prateek Jain",
+        "Praneeth Netrapalli"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF22": {
+      "title": "Trust-Region Methods on Riemannian Manifolds",
+      "authors": [
+        "P.-A. Absil",
+        "C. G. Baker",
+        "K. A. Gallivan"
+      ],
+      "year": 2007,
+      "venue": "Foundations of Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10208-005-0179-9"
+    },
+    "BIBREF23": {
+      "title": "New Algorithms for Learning Incoherent and Overcomplete Dictionaries",
+      "authors": [
+        "Sanjeev Arora",
+        "Rong Ge",
+        "Ankur Moitra"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Dictionary Identification—Sparse Matrix-Factorization via $ell_1$ -Minimization",
+      "authors": [
+        "Rémi Gribonval",
+        "Karin Schnass"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2048466"
+    },
+    "BIBREF25": {
+      "title": "Provable Tensor Factorization with Missing Data",
+      "authors": [
+        "Prateek Jain",
+        "Sewoong Oh"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF26": {
+      "title": "Alternating Minimization for Mixed Linear Regression",
+      "authors": [
+        "Xinyang Yi",
+        "Constantine Caramanis",
+        "Sujay Sanghavi"
+      ],
+      "year": 2014,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF27": {
+      "title": "Phase Retrieval via Wirtinger Flow: Theory and Algorithms",
+      "authors": [
+        "Emmanuel J. Candes",
+        "Xiaodong Li",
+        "Mahdi Soltanolkotabi"
+      ],
+      "year": 2015,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2015.2399924"
+    },
+    "BIBREF28": {
+      "title": "Learning Sparsely Used Overcomplete Dictionaries",
+      "authors": [
+        "Alekh Agarwal",
+        "Animashree Anandkumar",
+        "Prateek Jain",
+        "Praneeth Netrapalli",
+        "Rashish Tandon"
+      ],
+      "year": 2014,
+      "venue": "Conference on Learning Theory",
+      "link": ""
+    },
+    "BIBREF29": {
+      "title": "Matrix Completion From a Few Entries",
+      "authors": [
+        "Raghunandan H Keshavan",
+        "Andrea Montanari",
+        "Sewoong Oh"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2046205"
+    },
+    "BIBREF30": {
+      "title": "More Algorithms for Provable Dictionary Learning.",
+      "authors": [
+        "Sanjeev Arora",
+        "Aditya Bhaskara",
+        "Rong Ge",
+        "Tengyu Ma"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": ""
+    },
+    "BIBREF31": {
+      "title": "Blind Source Separation by Sparse Decomposition in a Signal Dictionary",
+      "authors": [
+        "Michael Zibulevsky",
+        "Barak A. Pearlmutter"
+      ],
+      "year": 2001,
+      "venue": "Neural Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1162/089976601300014385"
+    },
+    "BIBREF32": {
+      "title": "Exact Recovery of Sparsely Used Overcomplete Dictionaries.",
+      "authors": [
+        "Alekh Agarwal",
+        "Animashree Anandkumar",
+        "Praneeth Netrapalli"
+      ],
+      "year": 2013,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF33": {
+      "title": "Finding a sparse vector in a subspace: Linear sparsity using alternating directions",
+      "authors": [
+        "Qing Qu",
+        "Ju Sun",
+        "John Wright"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF34": {
+      "title": "Phase Retrieval using Alternating Minimization",
+      "authors": [
+        "Praneeth Netrapalli",
+        "Prateek Jain",
+        "Sujay Sanghavi"
+      ],
+      "year": 2013,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF35": {
+      "title": "Dictionary Learning with Few Samples and Matrix Concentration",
+      "authors": [
+        "Kyle Luh",
+        "Van Vu"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Probability",
+      "link": ""
+    },
+    "BIBREF36": {
+      "title": "Non-convex Robust PCA",
+      "authors": [
+        "Praneeth Netrapalli",
+        "U N Niranjan",
+        "Sujay Sanghavi",
+        "Animashree Anandkumar",
+        "Prateek Jain"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF37": {
+      "title": "Local identification of overcomplete dictionaries",
+      "authors": [
+        "Karin Schnass"
+      ],
+      "year": 2015,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF38": {
+      "title": "Fast Matrix Completion Without the Condition Number",
+      "authors": [
+        "Moritz Hardt",
+        "Mary Wootters"
+      ],
+      "year": 2014,
+      "venue": "Conference on Learning Theory",
+      "link": ""
+    },
+    "BIBREF39": {
+      "title": "Understanding Alternating Minimization for Matrix Completion",
+      "authors": [
+        "Moritz Hardt"
+      ],
+      "year": 2014,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2014.75"
+    }
+  }
+}

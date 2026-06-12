@@ -1,0 +1,197 @@
+{
+  "paper_id": "1501.04366",
+  "title": "Fully quantum source compression with a quantum helper",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The Quantum Reverse Shannon Theorem and Resource Tradeoffs for Simulating Quantum Channels",
+      "authors": [
+        "Charles H. Bennett",
+        "Igor Devetak",
+        "Aram W. Harrow",
+        "Peter W. Shor",
+        "Andreas Winter"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2014.2309968"
+    },
+    "BIBREF1": {
+      "title": "A mathematical theory of communication",
+      "authors": [
+        "C. E. Shannon"
+      ],
+      "year": 1948,
+      "venue": "Bell System Technical Journal",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/j.1538-7305.1948.tb01338.x"
+    },
+    "BIBREF2": {
+      "title": "A Resource Framework for Quantum Shannon Theory",
+      "authors": [
+        "I. Devetak",
+        "A.W. Harrow",
+        "A.J. Winter"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.928980"
+    },
+    "BIBREF3": {
+      "title": "The information-theoretic costs of simulating quantum measurements",
+      "authors": [
+        "Mark M. Wilde",
+        "Patrick M. Hayden",
+        "Francesco Buscemi",
+        "Min-Hsiu Hsieh"
+      ],
+      "year": 2012,
+      "venue": "Journal of Physics A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/1751-8113/45/45/453001"
+    },
+    "BIBREF4": {
+      "title": "Quantum-to-classical rate distortion coding",
+      "authors": [
+        "Nilanjana Datta",
+        "Min-Hsiu Hsieh",
+        "Mark M. Wilde",
+        "Andreas J. Winter"
+      ],
+      "year": 2013,
+      "venue": "Journal of Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1063/1.4798396"
+    },
+    "BIBREF5": {
+      "title": "Quantum Rate Distortion, Reverse Shannon Theorems, and Source-Channel Separation",
+      "authors": [
+        "N. Datta",
+        "Min-Hsiu Hsieh",
+        "M. M. Wilde"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2012.2215575"
+    },
+    "BIBREF6": {
+      "title": "The Mathematical Theory of Communication",
+      "authors": [
+        "C. E. Shannon"
+      ],
+      "year": 1949,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "On source coding with side information at the decoder",
+      "authors": [
+        "A. Wyner"
+      ],
+      "year": 1975,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1975.1055374"
+    },
+    "BIBREF8": {
+      "title": "Non-asymptotic and second-order achievability bounds for source coding with side-information",
+      "authors": [
+        "Shun Watanabe",
+        "Shigeaki Kuzuoka",
+        "Vincent Y. F. Tan"
+      ],
+      "year": 2013,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2013.6620787"
+    },
+    "BIBREF9": {
+      "title": "Optimal Quantum Source Coding With Quantum Side Information at the Encoder and Decoder",
+      "authors": [
+        "J.T. Yard",
+        "I. Devetak"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2030494"
+    },
+    "BIBREF10": {
+      "title": "A Father Protocol for Quantum Broadcast Channels",
+      "authors": [
+        "Frederic Dupuis",
+        "Patrick Hayden",
+        "Ke Li"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2046217"
+    },
+    "BIBREF11": {
+      "title": "Network information theory for classical-quantum channels",
+      "authors": [
+        "Ivan Savov"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "Source coding with side information and a converse for degraded broadcast channels",
+      "authors": [
+        "R. Ahlswede",
+        "J. Korner"
+      ],
+      "year": 1975,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1975.1055469"
+    },
+    "BIBREF13": {
+      "title": "Entanglement-Assisted Capacity of Quantum Multiple-Access Channels",
+      "authors": [
+        "Min-Hsiu Hsieh",
+        "I. Devetak",
+        "A. Winter"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.924726"
+    },
+    "BIBREF14": {
+      "title": "Trading Classical Communication, Quantum Communication, and Entanglement in Quantum Shannon Theory",
+      "authors": [
+        "Min-Hsiu Hsieh",
+        "Mark M Wilde"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2054532"
+    },
+    "BIBREF15": {
+      "title": "Source compression with a quantum helper",
+      "authors": [
+        "Min-Hsiu Hsieh",
+        "Shun Watanabe"
+      ],
+      "year": 2015,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2015.7282959"
+    },
+    "BIBREF16": {
+      "title": "Quantum Rate-Distortion Coding With Auxiliary Resources",
+      "authors": [
+        "Mark M. Wilde",
+        "Nilanjana Datta",
+        "Min-Hsiu Hsieh",
+        "Andreas Winter"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2013.2271772"
+    },
+    "BIBREF17": {
+      "title": "A family of quantum protocols",
+      "authors": [
+        "Igor Devetak",
+        "Aram W. Harrow",
+        "Andreas Winter"
+      ],
+      "year": 2004,
+      "venue": "Physical Review Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/PhysRevLett.93.230504"
+    }
+  }
+}

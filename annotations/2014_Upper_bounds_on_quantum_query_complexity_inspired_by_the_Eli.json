@@ -1,0 +1,252 @@
+{
+  "paper_id": "quant-ph/0606127",
+  "title": "Upper bounds on quantum query complexity inspired by the Elitzur-Vaidman bomb tester",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Quantum Query Complexity for Some Graph Problems",
+      "authors": [
+        "Aija Berzina",
+        "Andrej Dubrovsky",
+        "Rusins Freivalds",
+        "Lelde Lace",
+        "Oksana Scegulnaja"
+      ],
+      "year": 2004,
+      "venue": "Conference on Current Trends in Theory and Practice of Informatics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-24618-3_11"
+    },
+    "BIBREF1": {
+      "title": "Quantum speed-up of Markov chain based algorithms",
+      "authors": [
+        "M. Szegedy"
+      ],
+      "year": 2004,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2004.53"
+    },
+    "BIBREF2": {
+      "title": "An optimal quantum algorithm for the oracle identification problem",
+      "authors": [
+        "Robin Kothari"
+      ],
+      "year": 2014,
+      "venue": "Symposium on Theoretical Aspects of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4230/LIPIcs.STACS.2014.482"
+    },
+    "BIBREF3": {
+      "title": "A panoply of quantum algorithms",
+      "authors": [
+        "Bartholomew Furrow"
+      ],
+      "year": 2008,
+      "venue": "Quantum Information & Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.14288/1.0085242"
+    },
+    "BIBREF4": {
+      "title": "Quantum Query Complexity of State Conversion",
+      "authors": [
+        "Troy Lee",
+        "Rajat Mittal",
+        "Ben W. Reichardt",
+        "Robert palek",
+        "Mario Szegedy"
+      ],
+      "year": 2011,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2011.75"
+    },
+    "BIBREF5": {
+      "title": "Quantum lower bounds by quantum arguments",
+      "authors": [
+        "Andris Ambainis"
+      ],
+      "year": 2000,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/335305.335394"
+    },
+    "BIBREF6": {
+      "title": "On the power of Ambainis lower bounds",
+      "authors": [
+        "Shengyu Zhang"
+      ],
+      "year": 2005,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.tcs.2005.01.019"
+    },
+    "BIBREF7": {
+      "title": "Search via Quantum Walk",
+      "authors": [
+        "Frédéric Magniez",
+        "Ashwin Nayak",
+        "Jérémie Roland",
+        "Miklos Santha"
+      ],
+      "year": 2011,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090745854"
+    },
+    "BIBREF8": {
+      "title": "Strengths and Weaknesses of Quantum Computing",
+      "authors": [
+        "Charles H. Bennett",
+        "Ethan Bernstein",
+        "Gilles Brassard",
+        "Umesh Vazirani"
+      ],
+      "year": 1997,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539796300933"
+    },
+    "BIBREF9": {
+      "title": "Quantum Query Complexity of Some Graph Problems",
+      "authors": [
+        "Christoph Dürr",
+        "Mark Heiligman",
+        "Peter HOyer",
+        "Mehdi Mhalla"
+      ],
+      "year": 2006,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/050644719"
+    },
+    "BIBREF10": {
+      "title": "Complexity measures and decision tree complexity: a survey",
+      "authors": [
+        "Harry Buhrman",
+        "Ronald de Wolf"
+      ],
+      "year": 2002,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(01)00144-X"
+    },
+    "BIBREF11": {
+      "title": "Quantum Walk Algorithm for Element Distinctness",
+      "authors": [
+        "Andris Ambainis"
+      ],
+      "year": 2007,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539705447311"
+    },
+    "BIBREF12": {
+      "title": "Upper and lower time bounds for parallel random access machines without simultaneous writes",
+      "authors": [
+        "Stephen Cook",
+        "Cynthia Dwork",
+        "Ru duml",
+        "ger Reischuk"
+      ],
+      "year": 1986,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0215006"
+    },
+    "BIBREF13": {
+      "title": "Quantum Algorithms for Matching Problems",
+      "authors": [
+        "Sebastian Dörn"
+      ],
+      "year": 2009,
+      "venue": "Theory of Computing Systems / Mathematical Systems Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00224-008-9118-x"
+    },
+    "BIBREF14": {
+      "title": "Negative weights make adversaries stronger",
+      "authors": [
+        "Peter Hoyer",
+        "Troy Lee",
+        "Robert Spalek"
+      ],
+      "year": 2007,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1250790.1250867"
+    },
+    "BIBREF15": {
+      "title": "Nested quantum walks with quantum data structures",
+      "authors": [
+        "Stacey Jeffery",
+        "Robin Kothari",
+        "Frédéric Magniez"
+      ],
+      "year": 2013,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/1.9781611973105.106"
+    },
+    "BIBREF16": {
+      "title": "A quantum algorithm for finding the minimum",
+      "authors": [
+        "Christoph Dürr",
+        "Peter Høyer"
+      ],
+      "year": 1996,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "An $n^{5/2} $ Algorithm for Maximum Matchings in Bipartite Graphs",
+      "authors": [
+        "John E. Hopcroft",
+        "Richard M. Karp"
+      ],
+      "year": 1973,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0202019"
+    },
+    "BIBREF18": {
+      "title": "Span Programs and Quantum Query Complexity: The General Adversary Bound Is Nearly Tight for Every Boolean Function",
+      "authors": [
+        "Ben W. Reichardt"
+      ],
+      "year": 2009,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2009.55"
+    },
+    "BIBREF19": {
+      "title": "An adaptive attack on Wiesner's quantum money",
+      "authors": [
+        "Aharon Brodutch",
+        "Daniel Nagaj",
+        "Or Sattath",
+        "Dominique Unruh"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Reflections for quantum query algorithms",
+      "authors": [
+        "Ben W. Reichardt"
+      ],
+      "year": 2010,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "A fast quantum mechanical algorithm for database search",
+      "authors": [
+        "Lov K. Grover"
+      ],
+      "year": 1996,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF22": {
+      "title": "Quantum Adversary (Upper) Bound",
+      "authors": [
+        "Shelby Kimmel"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Quantum Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4086/cjtcs.2013.004"
+    },
+    "BIBREF23": {
+      "title": "On the power of Ambainis's lower bounds",
+      "authors": [
+        "Shengyu Zhang"
+      ],
+      "year": 2003,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

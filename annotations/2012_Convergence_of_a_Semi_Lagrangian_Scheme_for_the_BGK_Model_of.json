@@ -1,0 +1,16 @@
+{
+  "paper_id": "1103.5247",
+  "title": "Convergence of a Semi-Lagrangian Scheme for the BGK Model of the Boltzmann Equation",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Implicit—Explicit Schemes for BGK Kinetic Equations",
+      "authors": [
+        "Sandra Pieraccini",
+        "Gabriella Puppo"
+      ],
+      "year": 2007,
+      "venue": "Journal of Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10915-006-9116-6"
+    }
+  }
+}

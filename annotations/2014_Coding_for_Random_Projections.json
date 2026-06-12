@@ -1,0 +1,323 @@
+{
+  "paper_id": "1403.8144",
+  "title": "Coding for Random Projections",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Improving random projections using marginal information",
+      "authors": [
+        "Ping Li",
+        "Trevor J. Hastie",
+        "Kenneth W. Church"
+      ],
+      "year": 2006,
+      "venue": "Conference on Learning Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/11776420_46"
+    },
+    "BIBREF1": {
+      "title": "Finding Frequent Items in Data Streams",
+      "authors": [
+        "Moses Charikar",
+        "Kevin Chen",
+        "Martin Farach-Colton"
+      ],
+      "year": 2002,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(03)00400-6"
+    },
+    "BIBREF2": {
+      "title": "Experiments with Random Projection",
+      "authors": [
+        "Sanjoy Dasgupta"
+      ],
+      "year": 2000,
+      "venue": "Uncertainty in Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "The random projection method",
+      "authors": [
+        "Santosh S. Vempala"
+      ],
+      "year": 2005,
+      "venue": "",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1090/dimacs/065"
+    },
+    "BIBREF4": {
+      "title": "Sign Stable Projections, Sign Cauchy Projections and Chi-Square Kernels.",
+      "authors": [
+        "Ping Li",
+        "Gennady Samorodnitsky",
+        "John E. Hopcroft"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Efficient Nonnegative Matrix Factorization with Random Projections.",
+      "authors": [
+        "Fei Wang",
+        "Ping Li"
+      ],
+      "year": 2010,
+      "venue": "SIAM International Conference on Data Mining",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Coding for Random Projections and Approximate Near Neighbor Search",
+      "authors": [
+        "Ping Li",
+        "Michael Mitzenmacher",
+        "Anshumali Shrivastava"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Learning mixtures of Gaussians",
+      "authors": [
+        "S. Dasgupta"
+      ],
+      "year": 1999,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SFFCS.1999.814639"
+    },
+    "BIBREF8": {
+      "title": "Why simple hash functions work: exploiting the entropy in a data stream",
+      "authors": [
+        "Michael Mitzenmacher",
+        "Salil Vadhan"
+      ],
+      "year": 2008,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "An Algorithm for Finding Nearest Neighbors",
+      "authors": [
+        "J.H. Friedman",
+        "F. Baskett",
+        "L.J. Shustek"
+      ],
+      "year": 1975,
+      "venue": "IEEE Transactions on Computers",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/T-C.1975.224110"
+    },
+    "BIBREF10": {
+      "title": "Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming",
+      "authors": [
+        "Michel X. Goemans",
+        "David P. Williamson"
+      ],
+      "year": 1995,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/227683.227684"
+    },
+    "BIBREF11": {
+      "title": "Similarity estimation techniques from rounding algorithms",
+      "authors": [
+        "Moses S. Charikar"
+      ],
+      "year": 2002,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/509907.509965"
+    },
+    "BIBREF12": {
+      "title": "Training linear SVMs in linear time",
+      "authors": [
+        "Thorsten Joachims"
+      ],
+      "year": 2006,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1150402.1150429"
+    },
+    "BIBREF13": {
+      "title": "Very sparse stable random projections for dimension reduction in l α (0 <α ≤ 2) norm",
+      "authors": [
+        "Ping Li"
+      ],
+      "year": 2007,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1281192.1281241"
+    },
+    "BIBREF14": {
+      "title": "Universal classes of hash functions",
+      "authors": [
+        "J.Lawrence Carter",
+        "Mark N. Wegman"
+      ],
+      "year": 1979,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0022-0000(79)90044-8"
+    },
+    "BIBREF15": {
+      "title": "Latent semantic indexing: a probabilistic analysis",
+      "authors": [
+        "Christos H. Papadimitriou",
+        "Hisao Tamaki",
+        "Prabhakar Raghavan",
+        "Santosh Vempala"
+      ],
+      "year": 1998,
+      "venue": "Symposium on Principles of Database Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/275487.275505"
+    },
+    "BIBREF16": {
+      "title": "Feature hashing for large scale multitask learning",
+      "authors": [
+        "Kilian Weinberger",
+        "Anirban Dasgupta",
+        "John Langford",
+        "Alex Smola",
+        "Josh Attenberg"
+      ],
+      "year": 2009,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1553374.1553516"
+    },
+    "BIBREF17": {
+      "title": "Random projection in dimensionality reduction: applications to image and text data",
+      "authors": [
+        "Ella Bingham",
+        "Heikki Mannila"
+      ],
+      "year": 2001,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/502512.502546"
+    },
+    "BIBREF18": {
+      "title": "Experiments with random projections for machine learning",
+      "authors": [
+        "Dmitriy Fradkin",
+        "David Madigan"
+      ],
+      "year": 2003,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/956750.956812"
+    },
+    "BIBREF19": {
+      "title": "LIBLINEAR: A Library for Large Linear Classification",
+      "authors": [
+        "Rong-En Fan",
+        "Kai-Wei Chang",
+        "Cho-Jui Hsieh",
+        "Xiang-Rui Wang",
+        "Chih-Jen Lin"
+      ],
+      "year": 2008,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search",
+      "authors": [
+        "Anshumali Shrivastava",
+        "Ping Li"
+      ],
+      "year": 2014,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "b-Bit minwise hashing",
+      "authors": [
+        "Ping Li",
+        "Christian König"
+      ],
+      "year": 2010,
+      "venue": "The Web Conference",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1772690.1772759"
+    },
+    "BIBREF22": {
+      "title": "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Yoram Singer",
+        "Nathan Srebro"
+      ],
+      "year": 2007,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1273496.1273598"
+    },
+    "BIBREF23": {
+      "title": "One Permutation Hashing",
+      "authors": [
+        "Ping Li",
+        "Art Owen",
+        "Cun-hui Zhang"
+      ],
+      "year": 2012,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Finding motifs using random projections",
+      "authors": [
+        "Jeremy Buhler",
+        "Martin Tompa"
+      ],
+      "year": 2001,
+      "venue": "Research in Computational Molecular Biology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/369133.369172"
+    },
+    "BIBREF25": {
+      "title": "Locality-sensitive hashing scheme based on p-stable distributions",
+      "authors": [
+        "Mayur Datar",
+        "Nicole Immorlica",
+        "Piotr Indyk",
+        "Vahab S. Mirrokni"
+      ],
+      "year": 2004,
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/997817.997857"
+    },
+    "BIBREF26": {
+      "title": "Learning the structure of manifolds using random projections",
+      "authors": [
+        "Yoav Freund",
+        "Sanjoy Dasgupta",
+        "Mayank Kabra",
+        "Nakul Verma"
+      ],
+      "year": 2007,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF27": {
+      "title": "Universal classes of hash functions (Extended Abstract)",
+      "authors": [
+        "J. Lawrence Carter",
+        "Mark N. Wegman"
+      ],
+      "year": 1977,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/800105.803400"
+    },
+    "BIBREF28": {
+      "title": "Approximate Nearest Neighbor: Towards Removing the Curse of Dimensionality",
+      "authors": [
+        "Sariel Har-Peled",
+        "Piotr Indyk",
+        "Rajeev Motwani"
+      ],
+      "year": 2012,
+      "venue": "Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4086/toc.2012.v008a014"
+    },
+    "BIBREF29": {
+      "title": "Feature Hashing for Large Scale Multitask Learning",
+      "authors": [
+        "Kilian Weinberger",
+        "Anirban Dasgupta",
+        "Josh Attenberg",
+        "John Langford",
+        "Alex Smola"
+      ],
+      "year": 2009,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    }
+  }
+}

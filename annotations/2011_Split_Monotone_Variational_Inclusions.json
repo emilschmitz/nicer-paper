@@ -1,0 +1,26 @@
+{
+  "paper_id": "1009.3780",
+  "title": "Split Monotone Variational Inclusions",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On Projection Algorithms for Solving Convex Feasibility Problems",
+      "authors": [
+        "Heinz H. Bauschke",
+        "Jonathan M. Borwein"
+      ],
+      "year": 1996,
+      "venue": "Siam Review",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0036144593251710"
+    },
+    "BIBREF1": {
+      "title": "A Weak-to-Strong Convergence Principle for Fejé-Monotone Methods in Hilbert Spaces",
+      "authors": [
+        "Heinz H. Bauschke",
+        "Patrick L. Combettes"
+      ],
+      "year": 2001,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.26.2.248.10558"
+    }
+  }
+}

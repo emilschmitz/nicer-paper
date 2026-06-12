@@ -1,0 +1,138 @@
+{
+  "paper_id": "1403.2816",
+  "title": "An SDP approach for quadratic fractional problems with a two-sided quadratic constraint",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On Extensions of the Frank-Wolfe Theorems",
+      "authors": [
+        "Zhi-Quan Luo",
+        "Shuzhong Zhang"
+      ],
+      "year": 1999,
+      "venue": "Computational Optimization and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1008652705980"
+    },
+    "BIBREF1": {
+      "title": "Duality and solutions for quadratic programming over single non-homogeneous quadratic constraint",
+      "authors": [
+        "Joe-Mei Feng",
+        "Gang-Xuan Lin",
+        "Reuy-Lin Sheu",
+        "Yong Xia"
+      ],
+      "year": 2012,
+      "venue": "Journal of Global Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10898-010-9625-6"
+    },
+    "BIBREF2": {
+      "title": "Parametric approaches to fractional programs",
+      "authors": [
+        "Toshihide Ibaraki"
+      ],
+      "year": 1983,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02591871"
+    },
+    "BIBREF3": {
+      "title": "Algorithms for generalized fractional programming",
+      "authors": [
+        "Jean-Pierre Crouzeix",
+        "Jacques A. Ferland"
+      ],
+      "year": 1991,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01582887"
+    },
+    "BIBREF4": {
+      "title": "A new algorithm for generalized fractional programs",
+      "authors": [
+        "A. I. Barros",
+        "J. B. G. Frenk",
+        "S. Schaible",
+        "S. Zhang"
+      ],
+      "year": 1996,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02592087"
+    },
+    "BIBREF5": {
+      "title": "A convex optimization approach for minimizing the ratio of indefinite quadratic functions over an ellipsoid",
+      "authors": [
+        "Amir Beck",
+        "Marc Teboulle"
+      ],
+      "year": 2009,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-007-0181-x"
+    },
+    "BIBREF6": {
+      "title": "The generalized trust region subproblem",
+      "authors": [
+        "Ting Kei Pong",
+        "Henry Wolkowicz"
+      ],
+      "year": 2014,
+      "venue": "Computational Optimization and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10589-013-9635-7"
+    },
+    "BIBREF7": {
+      "title": "Convergence of interval-type algorithms for generalized fractional programming",
+      "authors": [
+        "J. C. Bernard",
+        "J. A. Ferland"
+      ],
+      "year": 1989,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01582298"
+    },
+    "BIBREF8": {
+      "title": "New Results on Quadratic Minimization",
+      "authors": [
+        "Yinyu Ye",
+        "Shuzhong Zhang"
+      ],
+      "year": 2003,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S105262340139001X"
+    },
+    "BIBREF9": {
+      "title": "Indefinite Trust Region Subproblems and Nonsymmetric Eigenvalue Perturbations",
+      "authors": [
+        "Ronald J. Stern",
+        "Henry Wolkowicz"
+      ],
+      "year": 1995,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0805016"
+    },
+    "BIBREF10": {
+      "title": "On cones of nonnegative quadratic functions",
+      "authors": [
+        "Jos F. Sturm",
+        "Shuzhong Zhang"
+      ],
+      "year": 2003,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.28.2.246.14485"
+    },
+    "BIBREF11": {
+      "title": "Potpourri of Conjectures and Open Questions in Nonlinear Analysis and Optimization",
+      "authors": [
+        "Jean-Baptiste Hiriart-Urruty"
+      ],
+      "year": 2007,
+      "venue": "Siam Review",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/050633500"
+    },
+    "BIBREF12": {
+      "title": "A Survey of the S-Lemma",
+      "authors": [
+        "Imre Pólik",
+        "Tamás Terlaky"
+      ],
+      "year": 2007,
+      "venue": "Siam Review",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S003614450444614X"
+    }
+  }
+}

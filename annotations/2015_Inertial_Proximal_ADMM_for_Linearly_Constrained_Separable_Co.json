@@ -1,0 +1,375 @@
+{
+  "paper_id": "1407.8238",
+  "title": "Inertial Proximal ADMM for Linearly Constrained Separable Convex Optimization",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Parallel and distributed computation",
+      "authors": [
+        "D.P. Bertsekas",
+        "J.N. Tsitsiklis"
+      ],
+      "year": 1989,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A general inertial proximal point algorithm for mixed variational inequality problem",
+      "authors": [
+        "Caihua Chen",
+        "Shiqian Ma",
+        "Junfeng Yang"
+      ],
+      "year": 2015,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/140980910"
+    },
+    "BIBREF2": {
+      "title": "An inertial forward–backward algorithm for the minimization of the sum of two nonconvex functions",
+      "authors": [
+        "Radu Ioan Boţ",
+        "Ernö Robert Csetnek",
+        "Szilárd Csaba László"
+      ],
+      "year": 2016,
+      "venue": "EURO Journal on Computational Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s13675-015-0045-8"
+    },
+    "BIBREF3": {
+      "title": "The Linearized Alternating Direction Method of Multipliers for Dantzig Selector",
+      "authors": [
+        "Xiangfeng Wang",
+        "Xiaoming Yuan"
+      ],
+      "year": 2012,
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110833543"
+    },
+    "BIBREF4": {
+      "title": "A New Alternating Minimization Algorithm for Total Variation Image Reconstruction",
+      "authors": [
+        "Yilun Wang",
+        "Junfeng Yang",
+        "Wotao Yin",
+        "Yin Zhang"
+      ],
+      "year": 2008,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/080724265"
+    },
+    "BIBREF5": {
+      "title": "A General Framework for a Class of First Order Primal-Dual Algorithms for Convex Optimization in Imaging Science",
+      "authors": [
+        "Ernie Esser",
+        "Xiaoqun Zhang",
+        "Tony F. Chan"
+      ],
+      "year": 2010,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/09076934X"
+    },
+    "BIBREF6": {
+      "title": "iPiasco: Inertial Proximal Algorithm for Strongly Convex Optimization",
+      "authors": [
+        "Peter Ochs",
+        "Thomas Brox",
+        "Thomas Pock"
+      ],
+      "year": 2015,
+      "venue": "Journal of Mathematical Imaging and Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10851-015-0565-0"
+    },
+    "BIBREF7": {
+      "title": "Alternating Direction Method for Image Inpainting in Wavelet Domains",
+      "authors": [
+        "Raymond H. Chan",
+        "Junfeng Yang",
+        "Xiaoming Yuan"
+      ],
+      "year": 2011,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100807247"
+    },
+    "BIBREF8": {
+      "title": "iPiano: Inertial Proximal Algorithm for Nonconvex Optimization",
+      "authors": [
+        "Peter Ochs",
+        "Yunjin Chen",
+        "Thomas Brox",
+        "Thomas Pock"
+      ],
+      "year": 2014,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/130942954"
+    },
+    "BIBREF9": {
+      "title": "An Algorithm for Total Variation Minimization and Applications",
+      "authors": [
+        "Mila Nikolova"
+      ],
+      "year": 2004,
+      "venue": "Journal of Mathematical Imaging and Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/B:JMIV.0000011321.19549.88"
+    },
+    "BIBREF10": {
+      "title": "Fixed-Point Continuation for $ell_1$-Minimization: Methodology and Convergence",
+      "authors": [
+        "Elaine T. Hale",
+        "Wotao Yin",
+        "Yin Zhang"
+      ],
+      "year": 2008,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/070698920"
+    },
+    "BIBREF11": {
+      "title": "Convergence Analysis of Primal-Dual Algorithms for a Saddle-Point Problem: From Contraction Perspective",
+      "authors": [
+        "Bingsheng He",
+        "Xiaoming Yuan"
+      ],
+      "year": 2012,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100814494"
+    },
+    "BIBREF12": {
+      "title": "A new inexact alternating directions method for monotone variational inequalities",
+      "authors": [
+        "Bingsheng He",
+        "Li-Zhi Liao",
+        "Deren Han",
+        "Hai Yang"
+      ],
+      "year": 2002,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s101070100280"
+    },
+    "BIBREF13": {
+      "title": "New Proximal Point Algorithms for Convex Minimization",
+      "authors": [
+        "Osman Güler"
+      ],
+      "year": 1992,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0802032"
+    },
+    "BIBREF14": {
+      "title": "Rate of Convergence Analysis of Decomposition Methods Based on the Proximal Method of Multipliers for Convex Minimization",
+      "authors": [
+        "Ron Shefi",
+        "Marc Teboulle"
+      ],
+      "year": 2014,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/130910774"
+    },
+    "BIBREF15": {
+      "title": "Inertial Douglas-Rachford splitting for monotone inclusion problems",
+      "authors": [
+        "Radu Ioan Boţ",
+        "Ernö Robert Csetnek",
+        "Christopher Hendrich"
+      ],
+      "year": 2015,
+      "venue": "Applied Mathematics and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.amc.2015.01.017"
+    },
+    "BIBREF16": {
+      "title": "Stable Image Reconstruction Using Total Variation Minimization",
+      "authors": [
+        "Deanna Needell",
+        "Rachel A Ward"
+      ],
+      "year": 2013,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/120868281"
+    },
+    "BIBREF17": {
+      "title": "Hankel Matrix Rank Minimization with Applications to System Identification and Realization",
+      "authors": [
+        "Maryam Fazel",
+        "Ting Kei Pong",
+        "Defeng Sun",
+        "Paul Tseng"
+      ],
+      "year": 2013,
+      "venue": "SIAM Journal on Matrix Analysis and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110853996"
+    },
+    "BIBREF18": {
+      "title": "Weak Convergence of a Relaxed and Inertial Hybrid Projection-Proximal Point Algorithm for Maximal Monotone Operators in Hilbert Space",
+      "authors": [
+        "Felipe Alvarez"
+      ],
+      "year": 2003,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S1052623403427859"
+    },
+    "BIBREF19": {
+      "title": "On the Minimizing Property of a Second Order Dissipative System in Hilbert Spaces",
+      "authors": [
+        "Felipe Alvarez"
+      ],
+      "year": 2000,
+      "venue": "Siam Journal on Control and Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0363012998335802"
+    },
+    "BIBREF20": {
+      "title": "Alternating Direction Algorithms for $ell_1$-Problems in Compressive Sensing",
+      "authors": [
+        "Junfeng Yang",
+        "Yin Zhang"
+      ],
+      "year": 2011,
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090777761"
+    },
+    "BIBREF21": {
+      "title": "A Dynamical Approach to an Inertial Forward-Backward Algorithm for Convex Minimization",
+      "authors": [
+        "Hédy Attouch",
+        "Juan Peypouquet",
+        "Patrick Redont"
+      ],
+      "year": 2014,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/130910294"
+    },
+    "BIBREF22": {
+      "title": "Linearized augmented Lagrangian and alternating direction methods for nuclear norm minimization",
+      "authors": [
+        "Junfeng Yang",
+        "Xiaoming Yuan"
+      ],
+      "year": 2012,
+      "venue": "Mathematics of Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1090/S0025-5718-2012-02598-1"
+    },
+    "BIBREF23": {
+      "title": "A Fast Algorithm for Deblurring Models with Neumann Boundary Conditions",
+      "authors": [
+        "Michael K. Ng",
+        "Raymond H. Chan",
+        "Wun-Cheung Tang"
+      ],
+      "year": 1999,
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S1064827598341384"
+    },
+    "BIBREF24": {
+      "title": "An Inertial Tseng's Type Proximal Algorithm for Nonsmooth and Nonconvex Optimization Problems",
+      "authors": [
+        "Radu Ioan Boź",
+        "Ernö Robert Csetnek"
+      ],
+      "year": 2016,
+      "venue": "Journal of Optimization Theory and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10957-015-0730-z"
+    },
+    "BIBREF25": {
+      "title": "A First-Order Primal-Dual Algorithm for Convex Problems with Applications to Imaging",
+      "authors": [
+        "Antonin Chambolle",
+        "Thomas Pock"
+      ],
+      "year": 2011,
+      "venue": "Journal of Mathematical Imaging and Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10851-010-0251-1"
+    },
+    "BIBREF26": {
+      "title": "An Inertial Forward-Backward Algorithm for Monotone Inclusions",
+      "authors": [
+        "Dirk A. Lorenz",
+        "Thomas Pock"
+      ],
+      "year": 2015,
+      "venue": "Journal of Mathematical Imaging and Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10851-014-0523-2"
+    },
+    "BIBREF27": {
+      "title": "A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems",
+      "authors": [
+        "Amir Beck",
+        "Marc Teboulle"
+      ],
+      "year": 2009,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/080716542"
+    },
+    "BIBREF28": {
+      "title": "The Split Bregman Method for L1-Regularized Problems",
+      "authors": [
+        "Tom Goldstein",
+        "Stanley Osher"
+      ],
+      "year": 2009,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/080725891"
+    },
+    "BIBREF29": {
+      "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+      "authors": [
+        "E.J. Candes",
+        "J. Romberg",
+        "T. Tao"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2005.862083"
+    },
+    "BIBREF30": {
+      "title": "Noisy matrix decomposition via convex relaxation: Optimal rates in high dimensions",
+      "authors": [
+        "Alekh Agarwal",
+        "Sahand N. Negahban",
+        "Martin J. Wainwright"
+      ],
+      "year": 2012,
+      "venue": "Annals of Statistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1214/12-AOS1000"
+    },
+    "BIBREF31": {
+      "title": "A Fast Alternating Direction Method for TVL1-L2 Signal Reconstruction From Partial Fourier Data",
+      "authors": [
+        "Junfeng Yang",
+        "Yin Zhang",
+        "Wotao Yin"
+      ],
+      "year": 2010,
+      "venue": "IEEE Journal of Selected Topics in Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/JSTSP.2010.2042333"
+    },
+    "BIBREF32": {
+      "title": "Distributed Optimization and Statistical Learning Via the Alternating Direction Method of Multipliers",
+      "authors": [
+        "Stephen Boyd",
+        "Neal Parikh",
+        "Eric Chu",
+        "Borja Peleato",
+        "Jonathan Eckstein"
+      ],
+      "year": 2011,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF33": {
+      "title": "On the ergodic convergence rates of a first-order primal---dual algorithm",
+      "authors": [
+        "Antonin Chambolle",
+        "Thomas Pock"
+      ],
+      "year": 2016,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-015-0957-3"
+    },
+    "BIBREF34": {
+      "title": "An inertial Tseng's type proximal algorithm for nonsmooth and nonconvex optimization problems",
+      "authors": [
+        "Radu Ioan Bot",
+        "Ernö Robert Csetnek"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    }
+  }
+}

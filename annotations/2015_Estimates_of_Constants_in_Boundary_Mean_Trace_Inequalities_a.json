@@ -1,0 +1,48 @@
+{
+  "paper_id": "1211.2224",
+  "title": "Estimates of Constants in Boundary-Mean Trace Inequalities and Applications to Error Analysis",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Robust a posteriori error control and adaptivity for multiscale, multinumerics, and mortar coupling",
+      "authors": [
+        "Gergina V. Pencheva",
+        "Martin Vohralík",
+        "Mary F. Wheeler",
+        "Tim Wildey"
+      ],
+      "year": 2013,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110839047"
+    },
+    "BIBREF1": {
+      "title": "A Posteriori Error Estimations of Some Cell-Centered Finite Volume Methods",
+      "authors": [
+        "Serge Nicaise"
+      ],
+      "year": 2005,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0036142903437787"
+    },
+    "BIBREF2": {
+      "title": "A Posteriori Error Estimates for the Mortar Mixed Finite Element Method",
+      "authors": [
+        "Mary F. Wheeler",
+        "Ivan Yotov"
+      ],
+      "year": 2005,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0036142903431687"
+    },
+    "BIBREF3": {
+      "title": "Domain Decomposition for Less Regular Subdomains: Overlapping Schwarz in Two Dimensions",
+      "authors": [
+        "Clark R. Dohrmann",
+        "Axel Klawonn",
+        "Olof B. Widlund"
+      ],
+      "year": 2008,
+      "venue": "SIAM Journal on Numerical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/070685841"
+    }
+  }
+}

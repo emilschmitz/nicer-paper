@@ -1,0 +1,125 @@
+{
+  "paper_id": "1112.2516",
+  "title": "Does the specification of uncertainty hurt the progress of scientometrics",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The danger of pseudo science in Informetrics",
+      "authors": [
+        "Jos A. E. Spaan"
+      ],
+      "year": 2010,
+      "venue": "arXiv: Digital Libraries",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Citation analysis cannot legitimate the strategic selection of excellence",
+      "authors": [
+        "Tobias Opthof",
+        "Loet Leydesdorff"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Digital Libraries",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Further steps towards an ideal method of measuring citation performance: The avoidance of citation (ratio) averages in field-normalization",
+      "authors": [
+        "Lutz Bornmann",
+        "Rüdiger Mutz"
+      ],
+      "year": 2011,
+      "venue": "Journal of Informetrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.joi.2010.10.009"
+    },
+    "BIBREF3": {
+      "title": "There are neither « King » nor « Crown » in scientometrics: comments on a supposed « alternative » method of normalization",
+      "authors": [
+        "Yves Gingras",
+        "Vincent Larivière"
+      ],
+      "year": 2011,
+      "venue": "Journal of Informetrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.joi.2010.10.005"
+    },
+    "BIBREF4": {
+      "title": "Statistical reliability of comparisons based on the citation impact of scientific publications",
+      "authors": [
+        "András Schubert",
+        "Wolfgang Glänzel"
+      ],
+      "year": 1983,
+      "venue": "Scientometrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02097178"
+    },
+    "BIBREF5": {
+      "title": "On reliability and robustness of scientometrics indicators based on stochastic models. An evidence-based opinion paper",
+      "authors": [
+        "Wolfgang Glänzel"
+      ],
+      "year": 2010,
+      "venue": "Journal of Informetrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.joi.2010.01.005"
+    },
+    "BIBREF6": {
+      "title": "Lifting the crown—citation z-score",
+      "authors": [
+        "Jonas Lundberg"
+      ],
+      "year": 2007,
+      "venue": "Journal of Informetrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.joi.2006.09.007"
+    },
+    "BIBREF7": {
+      "title": "Caveats for the journal and field normalizations in the CWTS (\"Leiden\") evaluations of research performance",
+      "authors": [
+        "Tobias Opthof",
+        "Loet Leydesdorff"
+      ],
+      "year": 2010,
+      "venue": "Journal of Informetrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.joi.2010.02.003"
+    },
+    "BIBREF8": {
+      "title": "Turning the tables on citation analysis one more time: Principles for comparing sets of documents",
+      "authors": [
+        "Loet Leydesdorff",
+        "Lutz Bornmann",
+        "Rüdiger Mutz",
+        "Tobias Opthof"
+      ],
+      "year": 2011,
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/asi.21534"
+    },
+    "BIBREF9": {
+      "title": "The skewness of science",
+      "authors": [
+        "Per Ottar Seglen"
+      ],
+      "year": 1992,
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/(SICI)1097-4571(199210)43:9<628::AID-ASI5>3.0.CO;2-0"
+    },
+    "BIBREF10": {
+      "title": "A Meta-evaluation of Scientific Research Proposals: Different Ways of Comparing Rejected to Awarded Applications",
+      "authors": [
+        "Lutz Bornmann",
+        "Loet Leydesdorff",
+        "Peter van den Besselaar"
+      ],
+      "year": 2009,
+      "venue": "arXiv: Computers and Society",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "Normalization at the field level: Fractional counting of citations",
+      "authors": [
+        "Loet Leydesdorff",
+        "Tobias Opthof"
+      ],
+      "year": 2010,
+      "venue": "Journal of Informetrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.joi.2010.05.003"
+    }
+  }
+}

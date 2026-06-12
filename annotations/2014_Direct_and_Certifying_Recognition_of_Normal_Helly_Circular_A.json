@@ -1,0 +1,105 @@
+{
+  "paper_id": "1402.2641",
+  "title": "Direct and Certifying Recognition of Normal Helly Circular-Arc Graphs in Linear Time",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On Finding Tucker Submatrices and Lekkerkerker-Boland Subgraphs",
+      "authors": [
+        "Nathan Lindzey",
+        "Ross M. McConnell"
+      ],
+      "year": 2013,
+      "venue": "Workshop on Graph-Theoretic Concepts in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-45043-3_30"
+    },
+    "BIBREF1": {
+      "title": "Linear Recognition of Almost (Unit) Interval Graphs",
+      "authors": [
+        "Yixin Cao"
+      ],
+      "year": 2014,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Linear-time certifying recognition algorithms and forbidden induced subgraphs",
+      "authors": [
+        "Pinar Heggernes",
+        "Dieter Kratsch"
+      ],
+      "year": 2007,
+      "venue": "Nordic Journal of Computing",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Normal Helly circular-arc graphs and its subclasses",
+      "authors": [
+        "Min Chih Lin",
+        "Francisco J. Soulignac",
+        "Jayme L. Szwarcfiter"
+      ],
+      "year": 2013,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.dam.2012.11.005"
+    },
+    "BIBREF4": {
+      "title": "Simple linear-time algorithms to test chordality of graphs, test acyclicity of hypergraphs, and selectively reduce acyclic hypergraphs",
+      "authors": [
+        "Robert E. Tarjan",
+        "Mihalis Yannakakis"
+      ],
+      "year": 1984,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0213035"
+    },
+    "BIBREF5": {
+      "title": "Certifying Algorithms for Recognizing Interval Graphs and Permutation Graphs",
+      "authors": [
+        "Dieter Kratsch",
+        "Ross M. McConnell",
+        "Kurt Mehlhorn",
+        "Jeremy P. Spinrad"
+      ],
+      "year": 2006,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539703437855"
+    },
+    "BIBREF6": {
+      "title": "Restricted circular-arc graphs and clique cycles",
+      "authors": [
+        "Terry A. McKee"
+      ],
+      "year": 2003,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0012-365X(02)00578-2"
+    },
+    "BIBREF7": {
+      "title": "ON CIRCULAR-ARC GRAPHS HAVING A MODEL WITH NO THREE ARCS COVERING THE CIRCLE",
+      "authors": [
+        "Luciano N. Grippo",
+        "Martín Darío Safe"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Discrete Mathematics",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Linear-time recognition of circular-arc graphs",
+      "authors": [
+        "R.M. McConnell"
+      ],
+      "year": 2001,
+      "venue": "International Conference on Cluster Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00453-003-1032-7"
+    },
+    "BIBREF9": {
+      "title": "Linear recognition of almost interval graphs",
+      "authors": [
+        "Yixin Cao"
+      ],
+      "year": 2016,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/1.9781611974331.ch77"
+    }
+  }
+}

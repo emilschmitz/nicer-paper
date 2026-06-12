@@ -1,0 +1,37 @@
+{
+  "paper_id": "1412.5096",
+  "title": "On the Multiple Packing Densities of Triangles",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Research Problems in Discrete Geometry",
+      "authors": [
+        "János Pach",
+        "Peter Brass",
+        "William Moser"
+      ],
+      "year": 2006,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "On the Multiple Covering Densities of Triangles",
+      "authors": [
+        "Kirati Sriamorn",
+        "Akanat Wetayawanich"
+      ],
+      "year": 2015,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-015-9711-0"
+    },
+    "BIBREF2": {
+      "title": "On the Covering Densities of Quarter-Convex Disks",
+      "authors": [
+        "Kirati Sriamorn",
+        "Fei Xue"
+      ],
+      "year": 2015,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-015-9696-8"
+    }
+  }
+}

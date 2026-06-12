@@ -1,0 +1,70 @@
+{
+  "paper_id": "0902.0306",
+  "title": "A note on random k-dimensional posets",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Property testing and parameter testing for permutations",
+      "authors": [
+        "Carlos Hoppen",
+        "Yoshiharu Kohayakawa",
+        "Carlos Gustavo Moreira",
+        "Rudini Menezes Sampaio"
+      ],
+      "year": 2010,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Limits of dense graph sequences",
+      "authors": [
+        "László Lovász",
+        "Balázs Szegedy"
+      ],
+      "year": 2006,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jctb.2006.05.002"
+    },
+    "BIBREF2": {
+      "title": "A note on exponents vs root heights for complex simple Lie algebras",
+      "authors": [
+        "Sankaran Viswanath"
+      ],
+      "year": 2006,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Quasi-random graphs",
+      "authors": [
+        "Fan R. K. Chung",
+        "Ronald L. Graham",
+        "Richard M. Wilson"
+      ],
+      "year": 1989,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/bf02125347"
+    },
+    "BIBREF4": {
+      "title": "Quasirandom permutations",
+      "authors": [
+        "Joshua N. Cooper"
+      ],
+      "year": 2004,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcta.2004.01.006"
+    },
+    "BIBREF5": {
+      "title": "Limits of permutation sequences",
+      "authors": [
+        "Carlos Hoppen",
+        "Yoshiharu Kohayakawa",
+        "Carlos Gustavo Moreira",
+        "Balazs Rath",
+        "Rudini Menezes Sampaio"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Combinatorics",
+      "link": ""
+    }
+  }
+}

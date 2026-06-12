@@ -1,0 +1,37 @@
+{
+  "paper_id": "1408.2222",
+  "title": "Optimal control of the state statistics for a linear stochastic system",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Minimum Relative Entropy State Transitions in Linear Stochastic Systems: the Continuous Time Case",
+      "authors": [
+        "Igor G. Vladimirov",
+        "Ian R. Petersen"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Stochastic bridges of linear systems",
+      "authors": [
+        "Yongxin Chen",
+        "Tryphon Georgiou"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Systems and Control",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Optimal steering of a linear stochastic system to a final probability distribution, Part III",
+      "authors": [
+        "Yongxin Chen",
+        "Tryphon T. Georgiou",
+        "Michele Pavon"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Systems and Control",
+      "link": ""
+    }
+  }
+}

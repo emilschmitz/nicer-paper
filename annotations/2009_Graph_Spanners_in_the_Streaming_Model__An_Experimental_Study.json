@@ -1,0 +1,268 @@
+{
+  "paper_id": "cs/0611023",
+  "title": "Graph Spanners in the Streaming Model: An Experimental Study",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "R-MAT: A Recursive Model for Graph Mining.",
+      "authors": [
+        "Deepayan Chakrabarti",
+        "Yiping Zhan",
+        "Christos Faloutsos"
+      ],
+      "year": 2004,
+      "venue": "SIAM International Conference on Data Mining",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Which Triangulations Approximate the Complete Graph",
+      "authors": [
+        "Gautam Das",
+        "Deborah Joseph"
+      ],
+      "year": 1989,
+      "venue": "Proceedings of the International Symposium on Optimal Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-51859-2_15"
+    },
+    "BIBREF2": {
+      "title": "Dynamic algorithms for graph spanners",
+      "authors": [
+        "Surender Baswana"
+      ],
+      "year": 2006,
+      "venue": "European Symposium on Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/11841036_10"
+    },
+    "BIBREF3": {
+      "title": "Deterministic constructions of approximate distance oracles and spanners",
+      "authors": [
+        "Liam Roditty",
+        "Mikkel Thorup",
+        "Uri Zwick"
+      ],
+      "year": 2005,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/11523468_22"
+    },
+    "BIBREF4": {
+      "title": "A simple linear time algorithm for computing a (2k - 1)-spanner of o(n 1+1/k ) size in weighted graphs",
+      "authors": [
+        "Surender Baswana",
+        "Sandeep Sen"
+      ],
+      "year": 2003,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-45061-0_32"
+    },
+    "BIBREF5": {
+      "title": "Small stretch spanners in the streaming model: new algorithms and experiments",
+      "authors": [
+        "Giorgio Ausiello",
+        "Camil Demetrescu",
+        "Paolo G. Franciosa",
+        "Giuseppe F. Italiano",
+        "Andrea Ribichini"
+      ],
+      "year": 2007,
+      "venue": "European Symposium on Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-75520-3_54"
+    },
+    "BIBREF6": {
+      "title": "Faster Streaming algorithms for graph spanners",
+      "authors": [
+        "Surender Baswana"
+      ],
+      "year": 2006,
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "On power-law relationships of the Internet topology",
+      "authors": [
+        "Michalis Faloutsos",
+        "Petros Faloutsos",
+        "Christos Faloutsos"
+      ],
+      "year": 1999,
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/316188.316229"
+    },
+    "BIBREF8": {
+      "title": "On sparse spanners of weighted graphs",
+      "authors": [
+        "Ingo Althöfer",
+        "Gautam Das",
+        "David Dobkin",
+        "Deborah Joseph",
+        "José Soares"
+      ],
+      "year": 1993,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02189308"
+    },
+    "BIBREF9": {
+      "title": "An optimal synchronizer for the hypercube",
+      "authors": [
+        "David Peleg",
+        "Jeffrey D. Ullman"
+      ],
+      "year": 1989,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0218050"
+    },
+    "BIBREF10": {
+      "title": "Additive graph spanners",
+      "authors": [
+        "Arthur L. Liestman",
+        "Thomas C. Shermer"
+      ],
+      "year": 1993,
+      "venue": "Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/net.3230230417"
+    },
+    "BIBREF11": {
+      "title": "Delaunay graphs are almost as good as complete graphs",
+      "authors": [
+        "David P. Dobkin",
+        "Steven J. Friedman",
+        "Kenneth J. Supowit"
+      ],
+      "year": 1990,
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02187801"
+    },
+    "BIBREF12": {
+      "title": "Streaming and fully dynamic centralized algorithms for constructing and maintaining sparse spanners",
+      "authors": [
+        "Michael Elkin"
+      ],
+      "year": 2011,
+      "venue": "ACM Transactions on Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1921659.1921666"
+    },
+    "BIBREF13": {
+      "title": "Graph distances in the streaming model: the value of space",
+      "authors": [
+        "Joan Feigenbaum",
+        "Sampath Kannan",
+        "Andrew McGregor",
+        "Siddharth Suri",
+        "Jian Zhang"
+      ],
+      "year": 2005,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF14": {
+      "title": "DEGREE-BOUNDED SPANNERS",
+      "authors": [
+        "Leizhen Cai",
+        "J. Mark Keil"
+      ],
+      "year": 1993,
+      "venue": "Parallel Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1142/S0129626493000484"
+    },
+    "BIBREF15": {
+      "title": "Efficient algorithms for constructing (1+∊,β)-spanners in the distributed and streaming models",
+      "authors": [
+        "Michael Elkin",
+        "Jian Zhang"
+      ],
+      "year": 2006,
+      "venue": "Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00446-005-0147-2"
+    },
+    "BIBREF16": {
+      "title": "NP-completeness of minimum spanner problems",
+      "authors": [
+        "Leizhen Cai"
+      ],
+      "year": 1994,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0166-218X(94)90073-6"
+    },
+    "BIBREF17": {
+      "title": "Degree-constrained pyramid spanners",
+      "authors": [
+        "Dana Richards",
+        "Arthur L. Liestman"
+      ],
+      "year": 1995,
+      "venue": "Journal of Parallel and Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jpdc.1995.1024"
+    },
+    "BIBREF18": {
+      "title": "Complexity of network synchronization",
+      "authors": [
+        "Baruch Awerbuch"
+      ],
+      "year": 1985,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/4221.4227"
+    },
+    "BIBREF19": {
+      "title": "Small Stretch Spanners on Dynamic Graphs",
+      "authors": [
+        "Giorgio Ausiello",
+        "Paolo Giulio Franciosa",
+        "Giuseppe F. Italiano"
+      ],
+      "year": 2006,
+      "venue": "Journal of Graph Algorithms and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.7155/jgaa.00133"
+    },
+    "BIBREF20": {
+      "title": "Efficient algorithms for constructing (1+,ε, β)-spanners in the distributed and streaming models",
+      "authors": [
+        "Michael Elkin",
+        "Jian Zhang"
+      ],
+      "year": 2004,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1011767.1011791"
+    },
+    "BIBREF21": {
+      "title": "There are planar graphs almost as good as the complete graph",
+      "authors": [
+        "L. P. Chew"
+      ],
+      "year": 1989,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0022-0000(89)90044-5"
+    },
+    "BIBREF22": {
+      "title": "Counting triangles in data streams",
+      "authors": [
+        "Luciana S. Buriol",
+        "Gereon Frahling",
+        "Stefano Leonardi",
+        "Alberto Marchetti-Spaccamela",
+        "Christian Sohler"
+      ],
+      "year": 2006,
+      "venue": "Symposium on Principles of Database Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1142351.1142388"
+    },
+    "BIBREF23": {
+      "title": "On the streaming model augmented with a sorting primitive",
+      "authors": [
+        "G. Aggarwal",
+        "M. Datar",
+        "S. Rajagopalan",
+        "M. Ruhl"
+      ],
+      "year": 2004,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2004.48"
+    },
+    "BIBREF24": {
+      "title": "Graph spanners",
+      "authors": [
+        "Jose Augusto Ramos Soares"
+      ],
+      "year": 1992,
+      "venue": "",
+      "link": ""
+    }
+  }
+}

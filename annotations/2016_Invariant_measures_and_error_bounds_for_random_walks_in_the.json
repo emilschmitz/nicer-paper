@@ -1,0 +1,176 @@
+{
+  "paper_id": "1304.3316",
+  "title": "Invariant measures and error bounds for random walks in the quarter-plane based on sums of geometric terms",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Revisiting the Tail Asymptotics of the Double QBD Process: Refinement and Complete Solutions for the Coordinate and Diagonal Directions",
+      "authors": [
+        "Masahiro Kobayashi",
+        "Masakiyo Miyazawa"
+      ],
+      "year": 2013,
+      "venue": "Mammalia",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-1-4614-4909-6_8"
+    },
+    "BIBREF1": {
+      "title": "The BMAP/G/1/N --> · /PH/1/M tandem queue with losses",
+      "authors": [
+        "Valentina Klimenok",
+        "Lothar Breuer",
+        "Gennady Tsarenkov",
+        "Alexander Dudin"
+      ],
+      "year": 2005,
+      "venue": "Performance Evaluation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.peva.2004.09.001"
+    },
+    "BIBREF2": {
+      "title": "A two-stage tandem queue attended by a moving server with holding and switching costs",
+      "authors": [
+        "S. M. R. Iravani",
+        "M. J. M. Posner",
+        "J. A. Buzacott"
+      ],
+      "year": 1997,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1019181124314"
+    },
+    "BIBREF3": {
+      "title": "An analytical solution for a tandem queue with blocking",
+      "authors": [
+        "Winfried K. Grassmann",
+        "Steve Drekic"
+      ],
+      "year": 2000,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1019139405059"
+    },
+    "BIBREF4": {
+      "title": "A Tandem Queue with Blocking and Markovian Arrival Process",
+      "authors": [
+        "A. Gómez-Corral"
+      ],
+      "year": 2002,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1016235415066"
+    },
+    "BIBREF5": {
+      "title": "Two-server queue with one server idle below a threshold",
+      "authors": [
+        "J. A. Morrison"
+      ],
+      "year": 1990,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01154549"
+    },
+    "BIBREF6": {
+      "title": "A two-server queueing system with periodic and credit-based server availabilities*",
+      "authors": [
+        "Ioannis Stavrakakis"
+      ],
+      "year": 1994,
+      "venue": "Annals of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02031592"
+    },
+    "BIBREF7": {
+      "title": "A Markov Renewal Approach to M / G /1 Type Queues with Countably Many Background States",
+      "authors": [
+        "Masakiyo Miyazawa"
+      ],
+      "year": 2004,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/B:QUES.0000021148.33178.0f"
+    },
+    "BIBREF8": {
+      "title": "An explicit solution for a tandem queue with retrials and losses",
+      "authors": [
+        "Tuan Phung-Duc"
+      ],
+      "year": 2012,
+      "venue": "Operational Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s12351-011-0113-7"
+    },
+    "BIBREF9": {
+      "title": "Stationary distribution of a two-dimensional SRBM: geometric views and boundary measures",
+      "authors": [
+        "J. G. Dai",
+        "Masakiyo Miyazawa"
+      ],
+      "year": 2013,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11134-012-9339-1"
+    },
+    "BIBREF10": {
+      "title": "Product-form characterization for a two-dimensional reflecting random walk",
+      "authors": [
+        "Guy Latouche",
+        "Masakiyo Miyazawa"
+      ],
+      "year": 2014,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11134-013-9381-7"
+    },
+    "BIBREF11": {
+      "title": "Erlang arrivals joining the shorter queue",
+      "authors": [
+        "Ivo J. Adan",
+        "Stella Kapodistria",
+        "Johan S. Leeuwaarden"
+      ],
+      "year": 2013,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11134-012-9324-8"
+    },
+    "BIBREF12": {
+      "title": "A multi-dimensional SRBM: geometric views of its product form stationary distribution",
+      "authors": [
+        "J. G. Dai",
+        "Masakiyo Miyazawa",
+        "Jian Wu"
+      ],
+      "year": 2014,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11134-014-9411-0"
+    },
+    "BIBREF13": {
+      "title": "A Linear Programming Approach to Error Bounds for Random Walks in the Quarter-plane",
+      "authors": [
+        "Jasper Goseling",
+        "Richard J. Boucherie",
+        "Jan-Kees van Ommeren"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Probability",
+      "link": ""
+    },
+    "BIBREF14": {
+      "title": "A Tandem Queue with Coupled Processors: Computational Issues",
+      "authors": [
+        "J. S. Leeuwaarden",
+        "J. A. Resing"
+      ],
+      "year": 2005,
+      "venue": "Queueing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11134-005-1683-y"
+    },
+    "BIBREF15": {
+      "title": "Tail Decay Rates in Double QBD Processes and Related Reflected Random Walks",
+      "authors": [
+        "Masakiyo Miyazawa"
+      ],
+      "year": 2009,
+      "venue": "Mathematics of Operations Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/moor.1090.0375"
+    },
+    "BIBREF16": {
+      "title": "A tandem queueing model with coupled processors",
+      "authors": [
+        "Jacques Resing",
+        "Lerzan ÖRmeci"
+      ],
+      "year": 2003,
+      "venue": "Operations Research Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0167-6377(03)00046-4"
+    }
+  }
+}

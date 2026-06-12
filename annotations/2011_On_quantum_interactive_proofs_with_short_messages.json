@@ -1,0 +1,58 @@
+{
+  "paper_id": "1004.0411v2",
+  "title": "On quantum interactive proofs with short messages",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Quantum Interactive Proofs with Short Messages",
+      "authors": [
+        "Salman Beigi",
+        "Peter W. Shor",
+        "John Watrous"
+      ],
+      "year": 2011,
+      "venue": "Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4086/toc.2011.v007a007"
+    },
+    "BIBREF1": {
+      "title": "Parallelization, amplification, and exponential time simulation of quantum interactive proof systems",
+      "authors": [
+        "Alexei Kitaev",
+        "John Watrous"
+      ],
+      "year": 2000,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/335305.335387"
+    },
+    "BIBREF2": {
+      "title": "PSPACE has constant-round quantum interactive proof systems",
+      "authors": [
+        "John Watrous"
+      ],
+      "year": 2003,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(01)00375-9"
+    },
+    "BIBREF3": {
+      "title": "Quantum multi-prover interactive proof systems with limited prior entanglement",
+      "authors": [
+        "Hirotada Kobayashi",
+        "Keiji Matsumoto"
+      ],
+      "year": 2003,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0022-0000(03)00035-7"
+    },
+    "BIBREF4": {
+      "title": "QIP = PSPACE",
+      "authors": [
+        "Rahul Jain",
+        "Zhengfeng Ji",
+        "Sarvagya Upadhyay",
+        "John Watrous"
+      ],
+      "year": 2010,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1806689.1806768"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "paper_id": "1204.2611",
+  "title": "Complexity-adaptive universal signal estimation for compressed sensing",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A generalized framework for learning and recovery of structured sparse signals",
+      "authors": [
+        "Justin Ziniel",
+        "Sundeep Rangan",
+        "Philip Schniter"
+      ],
+      "year": 2012,
+      "venue": "IEEE Signal Processing Workshop on Statistical Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SSP.2012.6319694"
+    },
+    "BIBREF1": {
+      "title": "Block and Sliding-Block Lossy Compression via MCMC",
+      "authors": [
+        "Shirin Jalali",
+        "Tsachy Weissman"
+      ],
+      "year": 2012,
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TCOMM.2012.061412.110194"
+    },
+    "BIBREF2": {
+      "title": "Universal MAP estimation in compressed sensing",
+      "authors": [
+        "Dror Baron",
+        "Marco F. Duarte"
+      ],
+      "year": 2011,
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/Allerton.2011.6120245"
+    },
+    "BIBREF3": {
+      "title": "Expectation-Maximization Gaussian-Mixture Approximate Message Passing",
+      "authors": [
+        "Jeremy P. Vila",
+        "Philip Schniter"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSP.2013.2272287"
+    },
+    "BIBREF4": {
+      "title": "A universal data compression system",
+      "authors": [
+        "J. Rissanen"
+      ],
+      "year": 1983,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1983.1056741"
+    },
+    "BIBREF5": {
+      "title": "An MCMC Approach to Universal Lossy Compression of Analog Sources",
+      "authors": [
+        "D. Baron",
+        "T. Weissman"
+      ],
+      "year": 2012,
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSP.2012.2206585"
+    },
+    "BIBREF6": {
+      "title": "A universal algorithm for sequential data compression",
+      "authors": [
+        "J. Ziv",
+        "A. Lempel"
+      ],
+      "year": 1977,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1977.1055714"
+    },
+    "BIBREF7": {
+      "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+      "authors": [
+        "E.J. Candes",
+        "J. Romberg",
+        "T. Tao"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2005.862083"
+    },
+    "BIBREF8": {
+      "title": "Compressed sensing",
+      "authors": [
+        "D.L. Donoho"
+      ],
+      "year": 2004,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Minimum complexity pursuit",
+      "authors": [
+        "Shirin Jalali",
+        "Arian Maleki"
+      ],
+      "year": 2011,
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/Allerton.2011.6120382"
+    }
+  }
+}

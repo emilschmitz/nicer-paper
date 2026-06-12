@@ -1,0 +1,56 @@
+{
+  "paper_id": "1403.1845",
+  "title": "Alexander Duality and Rational Associahedra",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The cyclic sieving phenomenon",
+      "authors": [
+        "V. Reiner",
+        "D. Stanton",
+        "D. White"
+      ],
+      "year": 2004,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcta.2004.04.009"
+    },
+    "BIBREF1": {
+      "title": "Cyclic sieving and cluster multicomplexes",
+      "authors": [
+        "Brendon Rhoades"
+      ],
+      "year": 2010,
+      "venue": "Advances in Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.aam.2010.03.003"
+    },
+    "BIBREF2": {
+      "title": "Polygon dissections and some generalizations of cluster complexes",
+      "authors": [
+        "Eleni Tzanaki"
+      ],
+      "year": 2006,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jcta.2005.08.010"
+    },
+    "BIBREF3": {
+      "title": "Polygon Dissections and Euler, Fuss, Kirkman, and Cayley Numbers",
+      "authors": [
+        "Józef H. Przytycki",
+        "Adam S. Sikora"
+      ],
+      "year": 2000,
+      "venue": "Journal of Combinatorial Theory, Series A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcta.1999.3042"
+    },
+    "BIBREF4": {
+      "title": "Rational Associahedra and Noncrossing Partitions",
+      "authors": [
+        "Drew Armstrong",
+        "Brendon Rhoades",
+        "Nathan Williams"
+      ],
+      "year": 2013,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    }
+  }
+}

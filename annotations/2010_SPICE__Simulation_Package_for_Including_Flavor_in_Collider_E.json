@@ -1,0 +1,48 @@
+{
+  "paper_id": "0903.1805",
+  "title": "SPICE: Simulation Package for Including Flavor in Collider Events☆",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "SUSY Les Houches Accord 2",
+      "authors": [
+        "B. C. Allanach",
+        "C. Balázs",
+        "G. Bélanger",
+        "M. Bernhardt",
+        "F. Boudjema",
+        "D. Choudhury",
+        "K. Desch",
+        "U. Ellwanger",
+        "Paolo Gambino",
+        "R. Godbole",
+        "T. Goto",
+        "J. Guasch",
+        "M. Guchait",
+        "T. Hahn",
+        "S. Heinemeyer",
+        "C. Hugonie",
+        "T. Hurth",
+        "S. Kraml",
+        "S. Kreiss",
+        "J. Lykken",
+        "F. Moortgat",
+        "S. Moretti",
+        "S. Peñaranda",
+        "T. Plehn",
+        "W. Porod",
+        "A. Pukhov",
+        "P. Richardson",
+        "M. Schumacher",
+        "L. Silvestrini",
+        "P. Skands",
+        "P. Slavich",
+        "M. Spira",
+        "G. Weiglein",
+        "P. Wienemann"
+      ],
+      "year": 2009,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2008.08.004"
+    }
+  }
+}

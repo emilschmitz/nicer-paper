@@ -1,0 +1,27 @@
+{
+  "paper_id": "1301.5373",
+  "title": "Nonlinear Diffusion Problems with Free Boundaries: Convergence, Transition Speed, and Zero Number Arguments",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Sharp Estimate of the Spreading Speed Determined by Nonlinear Free Boundary Problems",
+      "authors": [
+        "Yihong Du",
+        "Hiroshi Matsuzawa",
+        "Maolin Zhou"
+      ],
+      "year": 2014,
+      "venue": "Siam Journal on Mathematical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/130908063"
+    },
+    "BIBREF1": {
+      "title": "Spreading-Vanishing Dichotomy in the Diffusive Logistic Model with a Free Boundary",
+      "authors": [
+        "Yihong Du",
+        "Zhigui Lin"
+      ],
+      "year": 2010,
+      "venue": "Siam Journal on Mathematical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/090771089"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "paper_id": "0904.2203v1",
+  "title": "Minimum Clique Partition in Unit Disk Graphs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Optimization Problems in Unit-Disk Graphs.",
+      "authors": [
+        "Balabhaskar Balasundaram",
+        "Sergiy Butenko"
+      ],
+      "year": 2009,
+      "venue": "Encyclopedia of Optimization",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A PTAS for Minimum Clique Partition in Unit Disk Graphs",
+      "authors": [
+        "Imran A. Pirwani",
+        "Mohammad R. Salavatipour"
+      ],
+      "year": 2009,
+      "venue": "",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.7939/R3W37KX2Q"
+    },
+    "BIBREF2": {
+      "title": "Constant-factor approximation for minimum-weight (connected) dominating sets in unit disk graphs",
+      "authors": [
+        "Christoph Ambühl",
+        "Thomas Erlebach",
+        "Matúš Mihalák",
+        "Marc Nunkesser"
+      ],
+      "year": 2006,
+      "venue": "International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/11830924_3"
+    },
+    "BIBREF3": {
+      "title": "Polynomial-time approximation schemes for geometric graphs",
+      "authors": [
+        "Thomas Erlebach",
+        "Klaus Jansen",
+        "Eike Seidel"
+      ],
+      "year": 2001,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Unit disk graph recognition is NP-hard",
+      "authors": [
+        "Heinz Breu",
+        "David G. Kirkpatrick"
+      ],
+      "year": 1998,
+      "venue": "Computational Geometry: Theory and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0925-7721(97)00014-X"
+    },
+    "BIBREF5": {
+      "title": "Covering convex sets with non-overlapping polygons",
+      "authors": [
+        "H. Edelsbrunner",
+        "A. D. Robison",
+        "Xiao-Jun Shen"
+      ],
+      "year": 1990,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(90)90147-A"
+    },
+    "BIBREF6": {
+      "title": "On minimum clique partition and maximum independent set on unit disk graphs and penny graphs: complexity and approximation",
+      "authors": [
+        "Márcia R. Cerioli",
+        "Luerbio Faria",
+        "Talita O. Ferreira",
+        "Fábio Protti"
+      ],
+      "year": 2004,
+      "venue": "Electronic Notes in Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.endm.2004.06.012"
+    },
+    "BIBREF7": {
+      "title": "Unit disk graphs",
+      "authors": [
+        "Brent N. Clark",
+        "Charles J. Colbourn",
+        "David S. Johnson"
+      ],
+      "year": 1991,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(90)90358-O"
+    },
+    "BIBREF8": {
+      "title": "Uniform deterministic dictionaries",
+      "authors": [
+        "Milan Ružić"
+      ],
+      "year": 2008,
+      "venue": "ACM Transactions on Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1328911.1328912"
+    },
+    "BIBREF9": {
+      "title": "Optimal algorithms for approximate clustering",
+      "authors": [
+        "Tomás Feder",
+        "Daniel Greene"
+      ],
+      "year": 1988,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/62212.62255"
+    },
+    "BIBREF10": {
+      "title": "Simple heuristics for unit disk graphs",
+      "authors": [
+        "Madhav V. Marathe",
+        "H. Breu",
+        "Harry B. Hunt",
+        "S. S. Ravi",
+        "Daniel J. Rosenkrantz"
+      ],
+      "year": 1995,
+      "venue": "Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/net.3230250205"
+    },
+    "BIBREF11": {
+      "title": "Approximation schemes for wireless networks",
+      "authors": [
+        "Tim Nieberg",
+        "Johann Hurink",
+        "Walter Kern"
+      ],
+      "year": 2008,
+      "venue": "ACM Transactions on Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1383369.1383380"
+    },
+    "BIBREF12": {
+      "title": "A still better performance guarantee for approximate graph coloring",
+      "authors": [
+        "Magnús M. Hallórsson"
+      ],
+      "year": 1993,
+      "venue": "Information Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0020-0190(93)90246-6"
+    },
+    "BIBREF13": {
+      "title": "A Weakly Robust PTAS for Minimum Clique Partition in Unit Disk Graphs",
+      "authors": [
+        "Imran A. Pirwani",
+        "Mohammad R. Salavatipour"
+      ],
+      "year": 2012,
+      "venue": "Algorithmica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00453-011-9503-8"
+    },
+    "BIBREF14": {
+      "title": "Approximating geometric coverage problems",
+      "authors": [
+        "Thomas Erlebach",
+        "Erik Jan van Leeuwen"
+      ],
+      "year": 2008,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "Linear Degree Extractors and the Inapproximability of Max Clique and Chromatic Number",
+      "authors": [
+        "David Zuckerman"
+      ],
+      "year": 2007,
+      "venue": "Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4086/toc.2007.v003a006"
+    },
+    "BIBREF16": {
+      "title": "Probability and computing",
+      "authors": [
+        "Michael Mitzenmacher"
+      ],
+      "year": 2005,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Geometric clusterings",
+      "authors": [
+        "Vasilis Capoyleas",
+        "Günter Rote",
+        "Gerhard Woeginger"
+      ],
+      "year": 1991,
+      "venue": "Journal of Algorithms archive",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0196-6774(91)90007-L"
+    }
+  }
+}

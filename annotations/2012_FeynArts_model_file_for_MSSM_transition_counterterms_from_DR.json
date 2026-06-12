@@ -1,0 +1,16 @@
+{
+  "paper_id": "hep-ph/0105349",
+  "title": "FeynArts model file for MSSM transition counterterms from DREG to DRED",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "FeynRules - Feynman rules made easy",
+      "authors": [
+        "Neil D. Christensen",
+        "Claude Duhr"
+      ],
+      "year": 2009,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2009.02.018"
+    }
+  }
+}
