@@ -129,7 +129,7 @@ export async function extractCitationsFromPdf(
       if (bestBlock) {
         const meta = parseRegexHeuristics(bestBlock.text);
         targetMetadata = {
-          authors: meta.authors || null,
+          authors: (meta.authors && meta.authors.length > 0) ? meta.authors : null,
           title: meta.title || null,
           venue: meta.venue || null,
           year: meta.year || null,

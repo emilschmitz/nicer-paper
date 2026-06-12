@@ -60,14 +60,18 @@ async function runEvaluation() {
     const filePath = path.join(ANNOTATIONS_DIR, file);
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     
-    // Clean and map fields to standardized form
-    const mapped: CitationItem[] = data.map((d: any) => ({
-      raw: d.raw || "",
-      author: d.author || "",
-      title: d.title || "",
-      venue: d.journal || d.booktitle || "",
-      year: d.year || ""
-    })).filter((d: CitationItem) => d.raw && (d.author || d.title));
+    const bibEntries = data.bib_entries || {};
+    const mapped: CitationItem[] = Object.values(bibEntries).map((ann: any) => {
+      const authorsStr = Array.isArray(ann.authors) ? ann.authors.join(' and ') : (ann.author || '');
+      const raw = `${authorsStr}. ${ann.title}. ${ann.year || ''}.`;
+      return {
+        raw,
+        author: authorsStr,
+        title: ann.title || "",
+        venue: ann.venue || "",
+        year: ann.year ? String(ann.year) : ""
+      };
+    }).filter((d: CitationItem) => d.raw && (d.author || d.title));
 
     // Sample items from this paper
     const sampled = mapped.slice(0, SAMPLE_SIZE_PER_PAPER);
@@ -135,7 +139,7 @@ async function runEvaluation() {
       count++;
 
       // Score fields
-      const authorSim = getDiceSimilarity(item.author, extracted.authors);
+      const authorSim = getDiceSimilarity(item.author, extracted.authors.join(" and "));
       const titleSim = getDiceSimilarity(item.title, extracted.title);
       const venueSim = getDiceSimilarity(item.venue, extracted.venue);
       const yearCorrect = item.year.trim() === extracted.year.trim() ? 1 : 0;

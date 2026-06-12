@@ -68,11 +68,11 @@ function startHideTimeout() {
 
 function formatAuthorsForDisplay(authorsStr) {
   if (!authorsStr) return '';
-  const parts = authorsStr.split(/\s+and\s+/i);
+  const parts = Array.isArray(authorsStr) ? authorsStr : authorsStr.split(/\s+and\s+/i);
   if (parts.length > 2) {
     return `${parts[0]} et al.`;
   }
-  return authorsStr;
+  return Array.isArray(authorsStr) ? authorsStr.join(' and ') : authorsStr;
 }
 
 function updateTooltipWithEnrichedData(metadata, abstract) {
@@ -87,7 +87,7 @@ function updateTooltipWithEnrichedData(metadata, abstract) {
   if (metadata) {
     if (authorsEl && metadata.authors) {
       authorsEl.innerText = formatAuthorsForDisplay(metadata.authors);
-      authorsEl.title = metadata.authors;
+      authorsEl.title = Array.isArray(metadata.authors) ? metadata.authors.join(' and ') : metadata.authors;
     }
     if (yearEl && metadata.year) yearEl.innerText = `(${metadata.year})`;
     if (titleEl && metadata.title) titleEl.innerText = `"${metadata.title}"`;
@@ -134,9 +134,10 @@ function showTooltip(anchorEl, destKey, url, metadata, abstract) {
 
   let headerHtml = '';
   if (authors || year) {
+    const rawAuthorsStr = Array.isArray(rawAuthors) ? rawAuthors.join(' and ') : rawAuthors;
     headerHtml = `
       <div class="cit-tooltip-header">
-        ${authors ? `<span class="cit-tooltip-authors" title="${rawAuthors || authors}">${authors}</span>` : ''}
+        ${authors ? `<span class="cit-tooltip-authors" title="${rawAuthorsStr || authors}">${authors}</span>` : ''}
         ${year ? `<span class="cit-tooltip-year">(${year})</span>` : ''}
       </div>
     `;

@@ -72,16 +72,30 @@ async function runEvaluation() {
 
   for (const jsonFile of jsonFiles) {
     const jsonPath = path.join(ANNOTATIONS_DIR, jsonFile);
-    const annotations = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+    const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
     
-    if (annotations.length === 0) continue;
-    const pdfFilename = annotations[0].source_paper;
+    const pdfFilename = jsonFile.replace('.json', '.pdf');
     const pdfPath = path.join(PDF_DIR, pdfFilename);
 
     if (!fs.existsSync(pdfPath)) {
       console.warn(`PDF file not found: ${pdfPath}. Skipping ${jsonFile}...`);
       continue;
     }
+
+    const bibEntries = data.bib_entries || {};
+    const annotations = Object.values(bibEntries).map((ann: any) => {
+      const authorsStr = Array.isArray(ann.authors) ? ann.authors.join(' and ') : (ann.author || '');
+      const raw = `${authorsStr}. ${ann.title}. ${ann.year || ''}.`;
+      return {
+        raw,
+        url: ann.link || null,
+        author: authorsStr,
+        title: ann.title || '',
+        year: ann.year ? String(ann.year) : '',
+      };
+    });
+
+    if (annotations.length === 0) continue;
 
     console.log(`\nProcessing ${pdfFilename}...`);
     const startTime = Date.now();

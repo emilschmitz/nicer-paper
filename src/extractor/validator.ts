@@ -1,15 +1,39 @@
 import { z } from 'zod';
 
+// Schema for authors (string or array of strings, normalized to array of strings)
+export const AuthorsSchema = z.preprocess((val) => {
+  if (typeof val === 'string') {
+    if (!val) return [];
+    return val.split(/\s+and\s+/i).map(s => s.trim()).filter(Boolean);
+  }
+  return val;
+}, z.array(z.string())).nullable();
+
+// Schema for year (coerced and validated to string, must be a number from 0 to 3000)
+export const YearSchema = z.preprocess((val) => {
+  if (typeof val === 'number') {
+    return String(val);
+  }
+  if (val === '') return null;
+  return val;
+}, z.string().nullable().refine((val) => {
+  if (val === null || val === '') return true;
+  const num = parseInt(val, 10);
+  return !isNaN(num) && num >= 0 && num <= 3000;
+}, {
+  message: "Year must be a number between 0 and 3000"
+})).nullable();
+
 // Zod Schema for Extracted Citation validation
 export const CitationSchema = z.object({
   text: z.string().min(1),
   url: z.string().url().nullable(), // Must be a valid URL string or null
   page: z.number().int().positive(),
   startY: z.number(),
-  authors: z.string().nullable().optional(),
+  authors: AuthorsSchema.optional(),
   title: z.string().nullable().optional(),
   venue: z.string().nullable().optional(),
-  year: z.string().nullable().optional(),
+  year: YearSchema.optional(),
 });
 
 export type Citation = z.infer<typeof CitationSchema>;
@@ -21,10 +45,10 @@ export const InlineLinkSchema = z.object({
   destName: z.string(),
   targetUrl: z.string().url().nullable(),
   targetMetadata: z.object({
-    authors: z.string().nullable(),
+    authors: AuthorsSchema,
     title: z.string().nullable(),
     venue: z.string().nullable(),
-    year: z.string().nullable(),
+    year: YearSchema,
   }).nullable().optional(),
 });
 

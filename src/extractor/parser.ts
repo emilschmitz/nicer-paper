@@ -7,7 +7,7 @@ env.allowRemoteFiles = false;
 env.allowLocalFiles = true;
 
 export interface ExtractedMetadata {
-  authors: string;
+  authors: string[];
   title: string;
   venue: string;
   year: string;
@@ -34,8 +34,8 @@ export async function initSlmPipeline() {
 /**
  * Normalizes author strings to "Author 1 and Author 2 and Author 3" format.
  */
-export function normalizeAuthors(authorsStr: string): string {
-  if (!authorsStr) return "";
+export function normalizeAuthors(authorsStr: string): string[] {
+  if (!authorsStr) return [];
   const hasEtAl = /\bet\s+al\b/i.test(authorsStr);
   let clean = authorsStr.trim().replace(/^[\s,.;&]+|[\s,.;&]+$/g, "");
   clean = clean.replace(/\b(and|&)\b/gi, " and ");
@@ -46,15 +46,10 @@ export function normalizeAuthors(authorsStr: string): string {
     .map(a => a.trim())
     .filter(a => a.length > 1 && !/^(et\s+al\.?|and|editor[s]?)$/i.test(a));
   
-  let normalized = authors.join(" and ");
   if (hasEtAl) {
-    if (normalized) {
-      normalized += " and others";
-    } else {
-      normalized = "others";
-    }
+    authors.push("others");
   }
-  return normalized;
+  return authors;
 }
 
 /**
@@ -307,7 +302,7 @@ function parseJsonOutput(qwenOutput: string): ExtractedMetadata {
   } catch (e) {
     // Fallback on JSON parse error
   }
-  return { authors: "", title: "", venue: "", year: "" };
+  return { authors: [], title: "", venue: "", year: "" };
 }
 
 // ----------------------------------------------------
@@ -504,7 +499,7 @@ export async function parseHybridNerHeuristics(text: string): Promise<ExtractedM
   const heuristicsResult = parseRegexHeuristics(textForHeuristics);
 
   // If NER failed to detect authors, fall back to heuristics' author detection
-  if (!authors) {
+  if (authors.length === 0) {
     authors = heuristicsResult.authors;
   }
 

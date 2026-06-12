@@ -46219,15 +46219,38 @@ function date4(params) {
 // node_modules/zod/v4/classic/external.js
 config(en_default());
 // src/extractor/validator.ts
+var AuthorsSchema = exports_external.preprocess((val) => {
+  if (typeof val === "string") {
+    if (!val)
+      return [];
+    return val.split(/\s+and\s+/i).map((s) => s.trim()).filter(Boolean);
+  }
+  return val;
+}, exports_external.array(exports_external.string())).nullable();
+var YearSchema = exports_external.preprocess((val) => {
+  if (typeof val === "number") {
+    return String(val);
+  }
+  if (val === "")
+    return null;
+  return val;
+}, exports_external.string().nullable().refine((val) => {
+  if (val === null || val === "")
+    return true;
+  const num = parseInt(val, 10);
+  return !isNaN(num) && num >= 0 && num <= 3000;
+}, {
+  message: "Year must be a number between 0 and 3000"
+})).nullable();
 var CitationSchema = exports_external.object({
   text: exports_external.string().min(1),
   url: exports_external.string().url().nullable(),
   page: exports_external.number().int().positive(),
   startY: exports_external.number(),
-  authors: exports_external.string().nullable().optional(),
+  authors: AuthorsSchema.optional(),
   title: exports_external.string().nullable().optional(),
   venue: exports_external.string().nullable().optional(),
-  year: exports_external.string().nullable().optional()
+  year: YearSchema.optional()
 });
 var InlineLinkSchema = exports_external.object({
   sourcePage: exports_external.number().int().positive(),
@@ -46235,10 +46258,10 @@ var InlineLinkSchema = exports_external.object({
   destName: exports_external.string(),
   targetUrl: exports_external.string().url().nullable(),
   targetMetadata: exports_external.object({
-    authors: exports_external.string().nullable(),
+    authors: AuthorsSchema,
     title: exports_external.string().nullable(),
     venue: exports_external.string().nullable(),
-    year: exports_external.string().nullable()
+    year: YearSchema
   }).nullable().optional()
 });
 function validateUrl(url2) {
@@ -73569,7 +73592,7 @@ env3.allowRemoteFiles = false;
 env3.allowLocalFiles = true;
 function normalizeAuthors(authorsStr) {
   if (!authorsStr)
-    return "";
+    return [];
   const hasEtAl = /\bet\s+al\b/i.test(authorsStr);
   let clean = authorsStr.trim().replace(/^[\s,.;&]+|[\s,.;&]+$/g, "");
   clean = clean.replace(/\b(and|&)\b/gi, " and ");
@@ -73577,15 +73600,10 @@ function normalizeAuthors(authorsStr) {
   clean = clean.replace(/(\s+and\s+)+/gi, " and ");
   clean = clean.split(/\s+/).join(" ");
   const authors = clean.split(/\s+and\s+/i).map((a) => a.trim()).filter((a) => a.length > 1 && !/^(et\s+al\.?|and|editor[s]?)$/i.test(a));
-  let normalized = authors.join(" and ");
   if (hasEtAl) {
-    if (normalized) {
-      normalized += " and others";
-    } else {
-      normalized = "others";
-    }
+    authors.push("others");
   }
-  return normalized;
+  return authors;
 }
 function parseRegexHeuristics(text) {
   let cleanText = text.replace(/^\[\d+\]\s*/, "").replace(/^\d+\.\s*/, "").trim();
@@ -73781,7 +73799,7 @@ async function extractCitationsFromPdf(pdfData, options) {
       if (bestBlock) {
         const meta3 = parseRegexHeuristics(bestBlock.text);
         targetMetadata = {
-          authors: meta3.authors || null,
+          authors: meta3.authors && meta3.authors.length > 0 ? meta3.authors : null,
           title: meta3.title || null,
           venue: meta3.venue || null,
           year: meta3.year || null
@@ -73817,11 +73835,13 @@ export {
   extractCitationsFromPdf,
   defaultStrategies,
   boxesOverlap,
+  YearSchema,
   InlineLinkSchema,
   ExtractorConfig,
   DoiStrategy,
   DirectTextUrlStrategy,
   CitationSchema,
+  AuthorsSchema,
   ArxivStrategy,
   AnnotationOverlapStrategy
 };
