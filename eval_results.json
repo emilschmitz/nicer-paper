@@ -4,11 +4,11 @@
     "annotations_count": 64,
     "extracted_blocks_count": 273,
     "matched_count": 63,
-    "correct_urls": 59,
+    "correct_urls": 63,
     "missed_urls": 1,
-    "mismatched_urls": 4,
+    "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 1242,
+    "latency_ms": 1051,
     "link_stats": {
       "total": 180,
       "internal": 170,
@@ -405,7 +405,7 @@
         "ground_truth_url": "https://doi.org/10.48550/arXiv.2405.04404",
         "extracted_url": "https://arxiv.org/abs/2405.04404",
         "similarity_score": 0.8383233532934131,
-        "status": "mismatch"
+        "status": "correct"
       },
       {
         "raw_ground_truth": "[50] X. Wang, et al., State Space Model for New-Generation Network Alternative to Transformers: A Survey, arXiv preprint arXiv:2404.09516, 2024, doi: 10.48550/arXiv.2404.09516.",
@@ -437,7 +437,7 @@
         "ground_truth_url": "https://doi.org/10.48550/arXiv.2401.10166",
         "extracted_url": "https://arxiv.org/abs/2401.10166",
         "similarity_score": 0.7777777777777778,
-        "status": "mismatch"
+        "status": "correct"
       },
       {
         "raw_ground_truth": "[54] H. Chen, et al., Changemamba: Remote sensing change detection with spatio-temporal state space model, IEEE Trans. Geosci. Remote Sens.. vol. 62, pp. 1-20, 2024, doi: 10.1109/TGRS.2024.3417253.",
@@ -509,7 +509,7 @@
         "ground_truth_url": "https://doi.org/10.48550/arXiv.2404.00272",
         "extracted_url": "https://arxiv.org/abs/2404.00272",
         "similarity_score": 0.8292682926829268,
-        "status": "mismatch"
+        "status": "correct"
       },
       {
         "raw_ground_truth": "[63] J. Sheng, et al., DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification. arXiv preprint arXiv:2406.07050, 2024, doi: 10.48550/arXiv.2406.07050.",
@@ -517,7 +517,7 @@
         "ground_truth_url": "https://doi.org/10.48550/arXiv.2406.07050",
         "extracted_url": "https://arxiv.org/abs/2406.07050",
         "similarity_score": 0.8869565217391304,
-        "status": "mismatch"
+        "status": "correct"
       },
       {
         "raw_ground_truth": "[64] R. Michael, et al., Tokenlearner: What can 8 learned tokens do for images and videos?. arXiv preprint arXiv:2106.11297, 2021, doi: 10.48550/arXiv.2106.11297.",
@@ -538,7 +538,7 @@
     "missed_urls": 1,
     "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 409,
+    "latency_ms": 480,
     "link_stats": {
       "total": 288,
       "internal": 283,
@@ -956,7 +956,7 @@
     "missed_urls": 3,
     "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 706,
+    "latency_ms": 593,
     "link_stats": {
       "total": 158,
       "internal": 148,
@@ -1182,7 +1182,7 @@
     "missed_urls": 27,
     "mismatched_urls": 1,
     "new_urls_found": 0,
-    "latency_ms": 3183,
+    "latency_ms": 3805,
     "link_stats": {
       "total": 795,
       "internal": 774,
@@ -2784,7 +2784,7 @@
     "missed_urls": 0,
     "mismatched_urls": 0,
     "new_urls_found": 0,
-    "latency_ms": 186,
+    "latency_ms": 255,
     "link_stats": {
       "total": 0,
       "internal": 0,

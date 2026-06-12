@@ -1,4 +1,5 @@
 import { extractCitationsFromPdf, Citation } from './extractor/index';
+import { UrlEquivalenceRules } from './extractor/config';
 import path from 'path';
 import fs from 'fs';
 
@@ -31,6 +32,25 @@ function getDiceSimilarity(s1: string, s2: string): number {
     }
   }
   return (2 * intersection) / (b1.size + b2.size);
+}
+
+function getCanonicalUrl(url: string): string {
+  const cleanUrl = url.trim().toLowerCase().replace(/\/$/, '');
+  for (const rule of UrlEquivalenceRules) {
+    for (const pattern of rule.patterns) {
+      const match = cleanUrl.match(pattern);
+      if (match) {
+        return rule.canonicalize(match[1]);
+      }
+    }
+  }
+  return cleanUrl;
+}
+
+function areUrlsEquivalent(url1: string | null, url2: string | null): boolean {
+  if (url1 === url2) return true;
+  if (!url1 || !url2) return false;
+  return getCanonicalUrl(url1) === getCanonicalUrl(url2);
 }
 
 async function runEvaluation() {
@@ -113,16 +133,14 @@ async function runEvaluation() {
         extractedUrl = bestBlock.url;
         
         const gtUrl = ann.url || null;
-        const extUrlClean = extractedUrl ? extractedUrl.toLowerCase().replace(/\/$/, '') : null;
-        const gtUrlClean = gtUrl ? gtUrl.toLowerCase().replace(/\/$/, '') : null;
 
-        if (gtUrlClean === extUrlClean) {
+        if (areUrlsEquivalent(gtUrl, extractedUrl)) {
           correctUrls++;
           status = 'correct';
-        } else if (gtUrlClean !== null && extUrlClean === null) {
+        } else if (gtUrl !== null && extractedUrl === null) {
           missedUrls++;
           status = 'miss';
-        } else if (gtUrlClean === null && extUrlClean !== null) {
+        } else if (gtUrl === null && extractedUrl !== null) {
           newUrlsFound++;
           status = 'new_found'; // We found a URL not marked in ground truth
         } else {
