@@ -13,8 +13,7 @@
       "year": "2010",
       "venue": "Mobile Computing, Applications, and Services",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-29336-8_4",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-29336-8_4"
     },
     "BIBREF5": {
       "title": "Practical power modeling of data transmission over 802.11g for wireless applications",
@@ -28,8 +27,7 @@
       "year": "2010",
       "venue": "Energy-Efficient Computing and Networking",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1791314.1791326",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1791314.1791326"
     },
     "BIBREF7": {
       "title": "MAUI: making smartphones last longer with code offload",
@@ -45,8 +43,7 @@
       "year": "2010",
       "venue": "International Conference on Mobile Systems, Applications, and Services",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1814433.1814441",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1814433.1814441"
     },
     "BIBREF10": {
       "title": "Accurate online power estimation and automatic battery behavior based power model generation for smartphones",
@@ -62,8 +59,7 @@
       "year": "2010",
       "venue": "International Conference on Hardware/Software Codesign and System Synthesis",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1878961.1878982",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1878961.1878982"
     }
   }
 }

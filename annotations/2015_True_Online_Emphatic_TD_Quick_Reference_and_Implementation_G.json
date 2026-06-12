@@ -16,8 +16,7 @@
       "year": "2009",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1553374.1553501",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1553374.1553501"
     },
     "BIBREF1": {
       "title": "Reinforcement Learning: An Introduction",
@@ -28,8 +27,7 @@
       "year": "1988",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction",
@@ -45,8 +43,7 @@
       "year": "2011",
       "venue": "Adaptive Agents and Multi-Agents Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "A direct adaptive method for faster backpropagation learning: the RPROP algorithm",
@@ -57,8 +54,7 @@
       "year": "1993",
       "venue": "IEEE International Conference on Neural Networks",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Bias in Natural Actor-Critic Algorithms",
@@ -68,8 +64,7 @@
       "year": "2014",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Tuning-free step-size adaptation",
@@ -82,8 +77,7 @@
       "year": "2012",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2012.6288330",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2012.6288330"
     },
     "BIBREF6": {
       "title": "Multi-timescale nexting in a reinforcement learning robot",
@@ -95,8 +89,7 @@
       "year": "2014",
       "venue": "Adaptive Behavior",
       "arxiv_link": "https://arxiv.org/abs/1112.1133",
-      "doi_link": "https://doi.org/10.1177/1059712313511648",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1177/1059712313511648"
     },
     "BIBREF7": {
       "title": "Off-policy TD(λ) with a true online equivalence",
@@ -108,8 +101,7 @@
       "year": "2014",
       "venue": "Uncertainty in Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "An Empirical Evaluation of True Online TD(λ).",
@@ -122,8 +114,7 @@
       "year": "2015",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "An Emphatic Approach to the Problem of Off-policy Temporal-Difference Learning",
@@ -135,8 +126,7 @@
       "year": "2015",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "On Convergence of Emphatic Temporal-Difference Learning",
@@ -146,8 +136,7 @@
       "year": "2015",
       "venue": "Conference on Learning Theory",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

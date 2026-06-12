@@ -11,8 +11,7 @@
       "year": "2007",
       "venue": "International Conference on Automated Planning and Scheduling",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "A theory of plan modification",
@@ -22,8 +21,7 @@
       "year": "1990",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Complexity of planning with partial observability",
@@ -33,8 +31,7 @@
       "year": "2004",
       "venue": "International Conference on Automated Planning and Scheduling",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Planning with incomplete information as heuristic search in belief space",
@@ -45,8 +42,7 @@
       "year": "2000",
       "venue": "International Conference on Artificial Intelligence Planning Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Expressive planning and explicit knowledge",
@@ -57,8 +53,7 @@
       "year": "1996",
       "venue": "International Conference on Artificial Intelligence Planning Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Compiling uncertainty away: solving conformant planning problems using a classical planner (sometimes)",
@@ -69,8 +64,7 @@
       "year": "2006",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "Plan modifications versus plan generation : a complexity-theoretic perspective",
@@ -81,8 +75,7 @@
       "year": "1992",
       "venue": "International Joint Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.22028/d291-24863",
-      "other_link": null
+      "doi_link": "https://doi.org/10.22028/d291-24863"
     },
     "BIBREF7": {
       "title": "Conformant Planning via Model Checking",
@@ -93,8 +86,7 @@
       "year": "1999",
       "venue": "Lecture Notes in Computer Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1613/jair.774",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1613/jair.774"
     },
     "BIBREF8": {
       "title": "Conformant planning via heuristic forward search: a new approach",
@@ -105,8 +97,7 @@
       "year": "2006",
       "venue": "Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.artint.2006.01.003",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.artint.2006.01.003"
     },
     "BIBREF9": {
       "title": "Random MAX SAT, random MAX CUT, and their phase transitions",
@@ -119,8 +110,7 @@
       "year": "2004",
       "venue": "Random Structures and Algorithms",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/rsa.v24:4",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/rsa.v24:4"
     },
     "BIBREF10": {
       "title": "Constraint partitioning in penalty formulations for solving temporal planning problems",
@@ -131,8 +121,7 @@
       "year": "2006",
       "venue": "Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.artint.2005.07.001",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.artint.2005.07.001"
     },
     "BIBREF12": {
       "title": "Task decomposition on abstract states, for planning under nondeterminism",
@@ -145,8 +134,7 @@
       "year": "2009",
       "venue": "Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.artint.2008.11.012",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.artint.2008.11.012"
     },
     "BIBREF13": {
       "title": "Phase transition in a random NK landscape model",
@@ -158,8 +146,7 @@
       "year": "2008",
       "venue": "Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.artint.2007.06.002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.artint.2007.06.002"
     },
     "BIBREF14": {
       "title": "The TSP phase transition",
@@ -170,8 +157,7 @@
       "year": "1996",
       "venue": "Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s0004-3702(96)00030-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s0004-3702(96)00030-6"
     },
     "BIBREF15": {
       "title": "A validation-structure-based theory of plan modification and reuse",
@@ -182,8 +168,7 @@
       "year": "1992",
       "venue": "Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "Message-based web service composition, integrity constraints, and planning under uncertainty: a new connection",
@@ -196,8 +181,7 @@
       "year": "2009",
       "venue": "Journal of Artificial Intelligence Research",
       "arxiv_link": "https://arxiv.org/abs/1401.3470",
-      "doi_link": "https://doi.org/10.1613/jair.2716",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1613/jair.2716"
     },
     "BIBREF17": {
       "title": "Conformant planning heuristics based on plan reuse in belief states",
@@ -209,8 +193,7 @@
       "year": "2008",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "Planning graph heuristics for belief space search",
@@ -222,8 +205,7 @@
       "year": "2006",
       "venue": "Journal of Artificial Intelligence Research",
       "arxiv_link": "https://arxiv.org/abs/1103.1711",
-      "doi_link": "https://doi.org/10.1613/jair.1869",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1613/jair.1869"
     },
     "BIBREF20": {
       "title": "Solution reuse in dynamic constraint satisfaction problems",
@@ -234,8 +216,7 @@
       "year": "1994",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF21": {
       "title": "Conformant Graphplan",
@@ -246,8 +227,7 @@
       "year": "1998",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

@@ -14,8 +14,7 @@
       "year": "2007",
       "venue": "Journal of Informetrics",
       "arxiv_link": "https://arxiv.org/abs/physics/0604130",
-      "doi_link": "https://doi.org/10.1016/j.joi.2006.06.001",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.joi.2006.06.001"
     },
     "BIBREF1": {
       "title": "An Overview of Microsoft Academic Service (MAS) and Applications",
@@ -31,8 +30,7 @@
       "year": "2015",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Ranking scientific publications using a model of network traffic",
@@ -45,8 +43,7 @@
       "year": "2007",
       "venue": "Journal of Statistical Mechanics: Theory and Experiment",
       "arxiv_link": "https://arxiv.org/abs/physics/0612122",
-      "doi_link": "https://doi.org/10.1088/1742-5468/2007/06/p06010",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1088/1742-5468/2007/06/p06010"
     },
     "BIBREF3": {
       "title": "Citation count prediction: learning to estimate future citations for literature",
@@ -60,8 +57,7 @@
       "year": "2011",
       "venue": "Conference on Information and Knowledge Management",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2063576.2063757",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2063576.2063757"
     },
     "BIBREF4": {
       "title": "Theory and practise of the g-index",
@@ -71,8 +67,7 @@
       "year": "2006",
       "venue": "Scientometrics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11192-006-0144-7",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11192-006-0144-7"
     },
     "BIBREF6": {
       "title": "Citing for high impact",
@@ -84,8 +79,7 @@
       "year": "2010",
       "venue": "ACM/IEEE Joint Conference on Digital Libraries",
       "arxiv_link": "https://arxiv.org/abs/1004.3351",
-      "doi_link": "https://doi.org/10.1145/1816123.1816131",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1816123.1816131"
     },
     "BIBREF7": {
       "title": "To better stand on the shoulder of giants",
@@ -99,8 +93,7 @@
       "year": "2012",
       "venue": "ACM/IEEE Joint Conference on Digital Libraries",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Are there better indices for evaluation purposes than the h index? A comparison of nine different variants of the h index using data from biomedicine",
@@ -112,8 +105,7 @@
       "year": "2008",
       "venue": "Journal of the Association for Information Science and Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/asi.v59:5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/asi.v59:5"
     },
     "BIBREF9": {
       "title": "Quantifying long-term scientific impact.",
@@ -125,8 +117,7 @@
       "year": "2013",
       "venue": "Science",
       "arxiv_link": "https://arxiv.org/abs/1306.3293",
-      "doi_link": "https://doi.org/10.1126/science.1237825",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1126/science.1237825"
     },
     "BIBREF10": {
       "title": "A macro study of self-citation",
@@ -136,8 +127,7 @@
       "year": "2003",
       "venue": "Scientometrics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Detecting h-index manipulation through self-citation analysis",
@@ -148,8 +138,7 @@
       "year": "2011",
       "venue": "Scientometrics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11192-010-0306-5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11192-010-0306-5"
     },
     "BIBREF12": {
       "title": "Google Scholar's ranking algorithm: The impact of citation counts (An empirical study)",
@@ -160,8 +149,7 @@
       "year": "2009",
       "venue": "Research Challenges in Information Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/rcis.2009.5089308",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/rcis.2009.5089308"
     }
   }
 }

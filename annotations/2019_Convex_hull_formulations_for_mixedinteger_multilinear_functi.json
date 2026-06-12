@@ -10,8 +10,7 @@
       "year": "1997",
       "venue": "Journal of Global Optimization",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Mixed-integer nonlinear programs featuring on/off constraints",
@@ -24,8 +23,7 @@
       "year": "2012",
       "venue": "Computational Optimization and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s10589-011-9424-0",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s10589-011-9424-0"
     },
     "BIBREF2": {
       "title": "Global optimization of nonconvex problems with multilinear intermediates",
@@ -38,8 +36,7 @@
       "year": "2015",
       "venue": "Mathematical Programming Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s12532-014-0073-z",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s12532-014-0073-z"
     },
     "BIBREF3": {
       "title": "Computability of global solutions to factorable nonconvex programs: Part I — Convex underestimating problems",
@@ -49,8 +46,7 @@
       "year": "1976",
       "venue": "Mathematical Programming",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/bf01580665",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/bf01580665"
     },
     "BIBREF4": {
       "title": "Reformulation and convex relaxation techniques for global optimization",
@@ -60,8 +56,7 @@
       "year": "2004",
       "venue": "A Quarterly Journal of Operations Research",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s10288-004-0038-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s10288-004-0038-6"
     },
     "BIBREF5": {
       "title": "A hierarchy of relaxation between the continuous and convex hull representations",
@@ -72,8 +67,7 @@
       "year": "1990",
       "venue": "SIAM Journal on Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Perspective reformulations of mixed integer nonlinear programs with indicator variables",
@@ -84,8 +78,7 @@
       "year": "2010",
       "venue": "Mathematical Programming",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s10107-010-0360-z",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s10107-010-0360-z"
     },
     "BIBREF8": {
       "title": "Optimal Resilient transmission Grid Design",
@@ -99,8 +92,7 @@
       "year": "2016",
       "venue": "Power Systems Computation Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/pscc.2016.7540988",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/pscc.2016.7540988"
     },
     "BIBREF9": {
       "title": "Optimal Transmission Line Switching Under Geomagnetic Disturbances",
@@ -115,8 +107,7 @@
       "year": "2018",
       "venue": "IEEE Transactions on Power Systems",
       "arxiv_link": "https://arxiv.org/abs/1701.01469",
-      "doi_link": "https://doi.org/10.1109/tpwrs.2017.2761178",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpwrs.2017.2761178"
     },
     "BIBREF10": {
       "title": "An Adaptive, Multivariate Partitioning Algorithm for Global Optimization of Nonconvex Programs",
@@ -130,8 +121,7 @@
       "year": "2017",
       "venue": "arXiv: Optimization and Control",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Tightening McCormick Relaxations for Nonlinear Programs via Dynamic Multivariate Partitioning",
@@ -144,8 +134,7 @@
       "year": "2016",
       "venue": "Principles and Practice of Constraint Programming",
       "arxiv_link": "https://arxiv.org/abs/1606.05806",
-      "doi_link": "https://doi.org/10.1007/978-3-319-44953-1_24",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-44953-1_24"
     }
   }
 }

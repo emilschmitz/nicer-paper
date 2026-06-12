@@ -14,8 +14,7 @@
       "year": "1999",
       "venue": "RFC",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "An Extension to the Session Initiation Protocol (SIP) for Symmetric Response Routing",
@@ -26,8 +25,7 @@
       "year": "2003",
       "venue": "RFC",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "User Datagram Protocol",
@@ -37,8 +35,7 @@
       "year": "1980",
       "venue": "RFC768",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "The IP Network Address Translator (NAT)",
@@ -49,8 +46,7 @@
       "year": "1994",
       "venue": "RFC",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "SDP: Session Description Protocol",
@@ -61,8 +57,7 @@
       "year": "1998",
       "venue": "RFC",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "SIP: Session Initiation Protocol",
@@ -79,8 +74,7 @@
       "year": "2002",
       "venue": "RFC3261",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "RTP: A Transport Protocol for Real-Time Applications",
@@ -93,8 +87,7 @@
       "year": "2003",
       "venue": "RFC",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)",
@@ -107,8 +100,7 @@
       "year": "2003",
       "venue": "RFC 3489",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Internet Protocol",
@@ -118,8 +110,7 @@
       "year": "1981",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

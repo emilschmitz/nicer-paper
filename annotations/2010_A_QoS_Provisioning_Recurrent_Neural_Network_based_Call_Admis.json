@@ -10,8 +10,7 @@
       "year": "1996",
       "venue": "Neural Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1162/neco.1996.8.7.1391",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1162/neco.1996.8.7.1391"
     },
     "BIBREF8": {
       "title": "Finding Structure in Time",
@@ -21,8 +20,7 @@
       "year": "1990",
       "venue": "Cognitive Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1207/s15516709cog1402_1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1207/s15516709cog1402_1"
     },
     "BIBREF9": {
       "title": "Application of neural networks to an emerging financial market: forecasting and trading the Taiwan stock index",
@@ -34,8 +32,7 @@
       "year": "2003",
       "venue": "Computers & Operations Research",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s0305-0548(02)00037-0",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s0305-0548(02)00037-0"
     },
     "BIBREF10": {
       "title": "Queueing-blocking system with two arrival streams and guard channels",
@@ -45,8 +42,7 @@
       "year": "1988",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/26.2745",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/26.2745"
     },
     "BIBREF12": {
       "title": "Effects of multiple access alternatives in heterogeneous wireless networks",
@@ -58,8 +54,7 @@
       "year": "2003",
       "venue": "Wireless Communications and Networking Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/wcnc.2003.1200642",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/wcnc.2003.1200642"
     },
     "BIBREF15": {
       "title": "On-line learning algorithms for locally recurrent neural networks",
@@ -72,8 +67,7 @@
       "year": "1999",
       "venue": "IEEE Transactions on Neural Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/72.750549",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/72.750549"
     }
   }
 }

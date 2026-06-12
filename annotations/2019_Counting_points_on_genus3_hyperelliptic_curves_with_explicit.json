@@ -11,8 +11,7 @@
       "year": "2004",
       "venue": "Algorithmic Number Theory Symposium",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Counting points on genus 2 curves with real multiplication",
@@ -24,8 +23,7 @@
       "year": "2011",
       "venue": "International Conference on the Theory and Application of Cryptology and Information Security",
       "arxiv_link": "https://arxiv.org/abs/1106.0661",
-      "doi_link": "https://doi.org/10.1007/978-3-642-25385-0_27",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-25385-0_27"
     },
     "BIBREF2": {
       "title": "Efficiently computable endomorphisms for hyperelliptic curves",
@@ -36,8 +34,7 @@
       "year": "2006",
       "venue": "Algorithmic Number Theory Symposium",
       "arxiv_link": "https://arxiv.org/abs/math/0603505",
-      "doi_link": "https://doi.org/10.1007/11792086_35",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/11792086_35"
     },
     "BIBREF3": {
       "title": "Computing L-series of hyperelliptic curves",
@@ -48,8 +45,7 @@
       "year": "2008",
       "venue": "Algorithmic Number Theory Symposium",
       "arxiv_link": "https://arxiv.org/abs/0801.2778",
-      "doi_link": "https://doi.org/10.1007/978-3-540-79456-1_21",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-79456-1_21"
     },
     "BIBREF4": {
       "title": "A generic approach to searching for Jacobians",
@@ -59,8 +55,7 @@
       "year": "2009",
       "venue": "Mathematics of Computation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Proving that a genus 2 curve has complex multiplication",
@@ -70,8 +65,7 @@
       "year": "1999",
       "venue": "Mathematics of Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1090/s0025-5718-99-01101-1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1090/s0025-5718-99-01101-1"
     },
     "BIBREF6": {
       "title": "Counting Points on Curves and Abelian Varieties Over Finite Fields",
@@ -82,8 +76,7 @@
       "year": "2001",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-61581-4_36",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-61581-4_36"
     },
     "BIBREF7": {
       "title": "An extension of Kedlaya's algorithm for hyperelliptic curves",
@@ -93,8 +86,7 @@
       "year": "2012",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Genus 2 point counting over prime fields",
@@ -105,8 +97,7 @@
       "year": "2012",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.jsc.2011.09.003",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.jsc.2011.09.003"
     },
     "BIBREF9": {
       "title": "Isogenies for point counting on genus two hyperelliptic curves with maximal real multiplication",
@@ -122,8 +113,7 @@
       "year": "2017",
       "venue": "Algebraic geometry for coding theory and cryptography",
       "arxiv_link": "https://arxiv.org/abs/1701.01927",
-      "doi_link": "https://doi.org/10.1007/978-3-319-63931-4_3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-63931-4_3"
     },
     "BIBREF10": {
       "title": "Improved Complexity Bounds for Counting Points on Hyperelliptic Curves.",
@@ -135,8 +125,7 @@
       "year": "2017",
       "venue": "arXiv: Number Theory",
       "arxiv_link": "https://arxiv.org/abs/1710.03448",
-      "doi_link": "https://doi.org/10.1007/s10208-018-9392-1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s10208-018-9392-1"
     },
     "BIBREF11": {
       "title": "Counting Points on Genus 2 Curves with Real Multiplication",
@@ -148,8 +137,7 @@
       "year": "2011",
       "venue": "arXiv: Number Theory",
       "arxiv_link": "https://arxiv.org/abs/1106.0661",
-      "doi_link": "https://doi.org/10.1007/978-3-642-25385-0_27",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-25385-0_27"
     }
   }
 }

@@ -11,8 +11,7 @@
       "year": "2006",
       "venue": "International Workshop on Quality of Service",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iwqos.2006.250480",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iwqos.2006.250480"
     },
     "BIBREF2": {
       "title": "Improving Amplify-and-Forward Relay Networks: Optimal Power Allocation versus Selection",
@@ -24,8 +23,7 @@
       "year": "2006",
       "venue": "International Symposium on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/isit.2006.262002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/isit.2006.262002"
     },
     "BIBREF3": {
       "title": "Channel coding and decoding in a relay system operated with physical-layer network coding",
@@ -36,8 +34,7 @@
       "year": "2009",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": "https://arxiv.org/abs/0807.4770",
-      "doi_link": "https://doi.org/10.1109/jsac.2009.090618",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jsac.2009.090618"
     },
     "BIBREF4": {
       "title": "Trading structure for randomness in wireless opportunistic routing",
@@ -50,8 +47,7 @@
       "year": "2007",
       "venue": "ACM Special Interest Group on Data Communication",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1282427.1282400",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1282427.1282400"
     },
     "BIBREF5": {
       "title": "On energy efficiency and optimum resource allocation of relay transmissions in the low-power regime",
@@ -63,8 +59,7 @@
       "year": "2005",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "XORs in the air: practical wireless network coding",
@@ -79,8 +74,7 @@
       "year": "2006",
       "venue": "ACM Special Interest Group on Data Communication",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tnet.2008.923722",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tnet.2008.923722"
     },
     "BIBREF11": {
       "title": "When Both Transmitting and Receiving Energies Matter: An Application of Network Coding in Wireless Body Area Networks",
@@ -92,8 +86,7 @@
       "year": "2010",
       "venue": "arXiv: Networking and Internet Architecture",
       "arxiv_link": "https://arxiv.org/abs/1008.0143",
-      "doi_link": "https://doi.org/10.1007/978-3-642-23041-7_12",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-23041-7_12"
     },
     "BIBREF12": {
       "title": "On Coding for Reliable Communication over Packet Networks",
@@ -106,8 +99,7 @@
       "year": "2005",
       "venue": "arXiv: Information Theory",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

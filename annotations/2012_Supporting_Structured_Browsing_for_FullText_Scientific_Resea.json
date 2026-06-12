@@ -10,8 +10,7 @@
       "year": "1973",
       "venue": "Journal of the Association for Information Science and Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/asi.4630240406",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/asi.4630240406"
     },
     "BIBREF3": {
       "title": "Highly structured scientific publications",
@@ -21,8 +20,7 @@
       "year": "2007",
       "venue": "ACM/IEEE Joint Conference on Digital Libraries",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1255175.1255271",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1255175.1255271"
     },
     "BIBREF4": {
       "title": "Model-Oriented Scientific Research Reports",
@@ -32,8 +30,7 @@
       "year": "2011",
       "venue": "D-lib Magazine",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1045/may2011-allen",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1045/may2011-allen"
     },
     "BIBREF7": {
       "title": "ScholOnto: an ontology-based digital library server for research documents and discourse",
@@ -45,8 +42,7 @@
       "year": "2000",
       "venue": "International Journal on Digital Libraries",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s007990000034",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s007990000034"
     },
     "BIBREF9": {
       "title": "The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 1 Core",
@@ -63,8 +59,7 @@
       "year": "2010",
       "venue": "Nature Precedings",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1038/npre.2010.4959.1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1038/npre.2010.4959.1"
     },
     "BIBREF10": {
       "title": "Qualitative Reasoning",
@@ -74,8 +69,7 @@
       "year": "1987",
       "venue": "ACAI '87 Advanced Topics in Artificial Intelligence, 2nd Advanced Course, ACAI '87, Oslo, Norway, July 28 - August 7, 1987",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-60286-0_122",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-60286-0_122"
     }
   }
 }

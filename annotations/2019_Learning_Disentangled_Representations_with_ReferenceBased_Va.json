@@ -13,8 +13,7 @@
       "year": "2015",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Disentangling Factors of Variation via Generative Entangling",
@@ -26,8 +25,7 @@
       "year": "2012",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Auto-Encoding Variational Bayes",
@@ -38,8 +36,7 @@
       "year": "2014",
       "venue": "International Conference on Learning Representations",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Discriminative learning for differing training and test distributions",
@@ -51,8 +48,7 @@
       "year": "2007",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1273496.1273507",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1273496.1273507"
     },
     "BIBREF4": {
       "title": "Generative Adversarial Nets",
@@ -69,8 +65,7 @@
       "year": "2014",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-1-4842-3679-6_8",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-1-4842-3679-6_8"
     },
     "BIBREF5": {
       "title": "Semi-supervised Learning with Deep Generative Models",
@@ -83,8 +78,7 @@
       "year": "2014",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Deep multi-scale video prediction beyond mean square error",
@@ -96,8 +90,7 @@
       "year": "2015",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets",
@@ -112,8 +105,7 @@
       "year": "2016",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Variational Inference using Implicit Distributions.",
@@ -123,8 +115,7 @@
       "year": "2017",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Semantically Decomposing the Latent Spaces of Generative Adversarial Networks",
@@ -137,8 +128,7 @@
       "year": "2017",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF14": {
       "title": "Learning Disentangled Representations with Semi-Supervised Deep Generative Models",
@@ -155,8 +145,7 @@
       "year": "2017",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": "https://arxiv.org/abs/1706.00400",
-      "doi_link": "https://doi.org/10.17863/cam.42159",
-      "other_link": null
+      "doi_link": "https://doi.org/10.17863/cam.42159"
     },
     "BIBREF15": {
       "title": "Variational Approaches for Auto-Encoding Generative Adversarial Networks.",
@@ -169,8 +158,7 @@
       "year": "2017",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild",
@@ -182,8 +170,7 @@
       "year": "2019",
       "venue": "IEEE Transactions on Affective Computing",
       "arxiv_link": "https://arxiv.org/abs/1708.03985",
-      "doi_link": "https://doi.org/10.1109/taffc.2017.2740923",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/taffc.2017.2740923"
     },
     "BIBREF17": {
       "title": "Towards Understanding Adversarial Learning for Joint Distribution Matching",
@@ -199,8 +186,7 @@
       "year": "2017",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "Symmetric Variational Autoencoder and Connections to Adversarial Learning",
@@ -215,8 +201,7 @@
       "year": "2017",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF20": {
       "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation.",
@@ -229,8 +214,7 @@
       "year": "2017",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF22": {
       "title": "Disentangling by Factorising.",
@@ -241,8 +225,7 @@
       "year": "2018",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF23": {
       "title": "Variational Autoencoder for Deep Learning of Images, Labels and Captions",
@@ -258,8 +241,7 @@
       "year": "2016",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF25": {
       "title": "Representation Learning: A Review and New Perspectives",
@@ -271,8 +253,7 @@
       "year": "2012",
       "venue": "arXiv: Learning",
       "arxiv_link": "https://arxiv.org/abs/1206.5538",
-      "doi_link": "https://doi.org/10.1109/tpami.2013.50",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpami.2013.50"
     },
     "BIBREF26": {
       "title": "Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks",
@@ -284,8 +265,7 @@
       "year": "2017",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF27": {
       "title": "Multi-Level Variational Autoencoder: Learning Disentangled Representations from Grouped Observations",
@@ -297,8 +277,7 @@
       "year": "2018",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF28": {
       "title": "Stochastic Backpropagation and Approximate Inference in Deep Generative Models",
@@ -310,8 +289,7 @@
       "year": "2014",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF29": {
       "title": "Unsupervised Learning of Disentangled Representations from Video",
@@ -322,8 +300,7 @@
       "year": "2017",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF31": {
       "title": "Attribute2Image: Conditional Image Generation from Visual Attributes",
@@ -336,8 +313,7 @@
       "year": "2016",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1512.00570",
-      "doi_link": "https://doi.org/10.1007/978-3-319-46493-0_47",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-46493-0_47"
     },
     "BIBREF32": {
       "title": "Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data",
@@ -349,8 +325,7 @@
       "year": "2017",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF33": {
       "title": "Isolating Sources of Disentanglement in Variational Autoencoders",
@@ -363,8 +338,7 @@
       "year": "2018",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

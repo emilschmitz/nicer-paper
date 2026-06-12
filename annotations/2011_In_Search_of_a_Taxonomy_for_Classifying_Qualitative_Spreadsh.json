@@ -11,8 +11,7 @@
       "year": "2001",
       "venue": "Journal of the Association for Information Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "New Guidelines for Spreadsheets",
@@ -22,8 +21,7 @@
       "year": "2003",
       "venue": "International journal of business and economics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Revising the Panko-Halverson taxonomy of spreadsheet errors",
@@ -34,8 +32,7 @@
       "year": "2010",
       "venue": "Decision Support Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/hicss.2009.373",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/hicss.2009.373"
     },
     "BIBREF4": {
       "title": "Spreadsheets on trial: a survey of research on spreadsheet risks",
@@ -46,8 +43,7 @@
       "year": "1996",
       "venue": "Hawaii International Conference on System Sciences",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/hicss.1996.495416",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/hicss.1996.495416"
     },
     "BIBREF5": {
       "title": "Hitting the wall: errors in developing and debugging a \"simple\" spreadsheet model",
@@ -57,8 +53,7 @@
       "year": "1996",
       "venue": "Hawaii International Conference on System Sciences",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/hicss.1996.495419",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/hicss.1996.495419"
     },
     "BIBREF6": {
       "title": "A critical review of the literature on spreadsheet errors",
@@ -70,8 +65,7 @@
       "year": "2008",
       "venue": "Decision Support Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Does an awareness of differing types of spreadsheet errors aid end-users in identifying spreadsheets errors?",
@@ -82,8 +76,7 @@
       "year": "2008",
       "venue": "arXiv: Human-Computer Interaction",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

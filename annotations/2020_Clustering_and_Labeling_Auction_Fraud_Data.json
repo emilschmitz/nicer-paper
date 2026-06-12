@@ -12,8 +12,7 @@
       "year": "2015",
       "venue": "Computer and Information Science",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Survey: Combating online in-auction fraud: Clues, techniques and challenges",
@@ -25,8 +24,7 @@
       "year": "2009",
       "venue": "Computer Science Review",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.cosrev.2009.09.001",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.cosrev.2009.09.001"
     },
     "BIBREF4": {
       "title": "An automatic method to determine the number of clusters using decision-theoretic rough set",
@@ -38,8 +36,7 @@
       "year": "2014",
       "venue": "International Journal of Approximate Reasoning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Analysis of fraudulent behavior strategies in online auctions for detecting latent fraudsters",
@@ -50,8 +47,7 @@
       "year": "2014",
       "venue": "Electronic Commerce Research and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.elerap.2013.10.004",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.elerap.2013.10.004"
     },
     "BIBREF7": {
       "title": "A Real-Time Self-Adaptive Classifier for Identifying Suspicious Bidders in Online Auctions",
@@ -63,8 +59,7 @@
       "year": "2013",
       "venue": "The Computer Journal",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Detection of financial statement fraud and feature selection using data mining techniques",
@@ -77,8 +72,7 @@
       "year": "2011",
       "venue": "Decision Support Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.dss.2010.11.006",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.dss.2010.11.006"
     },
     "BIBREF12": {
       "title": "Classification of Imbalanced Auction Fraud Data",
@@ -89,8 +83,7 @@
       "year": "2017",
       "venue": "Canadian Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-319-57351-9_11",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-57351-9_11"
     }
   }
 }

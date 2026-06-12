@@ -11,8 +11,7 @@
       "year": "1999",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1006/jsco.1999.0321",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/jsco.1999.0321"
     },
     "BIBREF1": {
       "title": "A Mathematica version of Zeilberger's algorithm for proving binomial coefficient identities",
@@ -23,8 +22,7 @@
       "year": "1995",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Application of unspecified sequences in symbolic summation",
@@ -35,8 +33,7 @@
       "year": "2006",
       "venue": "International Symposium on Symbolic and Algebraic Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1145768.1145800",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1145768.1145800"
     },
     "BIBREF3": {
       "title": "A Streamlined Difference Ring Theory: Indefinite Nested Sums, the Alternating Sign, and the Parameterized Telescoping Problem",
@@ -46,8 +43,7 @@
       "year": "2014",
       "venue": "Symbolic and Numeric Algorithms for Scientific Computing",
       "arxiv_link": "https://arxiv.org/abs/1412.2782",
-      "doi_link": "https://doi.org/10.1109/synasc.2014.12",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/synasc.2014.12"
     },
     "BIBREF4": {
       "title": "Theory of Summation in Finite Terms",
@@ -57,8 +53,7 @@
       "year": "1985",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-15984-3_340",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-15984-3_340"
     },
     "BIBREF5": {
       "title": "A refined difference field theory for symbolic summation",
@@ -68,8 +63,7 @@
       "year": "2008",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": "https://arxiv.org/abs/0808.2543",
-      "doi_link": "https://doi.org/10.1016/j.jsc.2008.01.001",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.jsc.2008.01.001"
     },
     "BIBREF6": {
       "title": "Indefinite summation with unspecified summands",
@@ -80,8 +74,7 @@
       "year": "2006",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.disc.2006.04.005",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.disc.2006.04.005"
     },
     "BIBREF7": {
       "title": "A fast algorithm for proving terminating hypergeometric identities",
@@ -91,8 +84,7 @@
       "year": "1990",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "A difference ring theory for symbolic summation",
@@ -102,8 +94,7 @@
       "year": "2016",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Structural theorems for symbolic summation",
@@ -113,8 +104,7 @@
       "year": "2010",
       "venue": "Applicable Algebra in Engineering, Communication and Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s00200-009-0115-3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s00200-009-0115-3"
     },
     "BIBREF10": {
       "title": "Fast Algorithms for Refined Parameterized Telescoping in Difference Fields",
@@ -124,8 +114,7 @@
       "year": "2015",
       "venue": "Computer Algebra and Polynomials",
       "arxiv_link": "https://arxiv.org/abs/1307.7887",
-      "doi_link": "https://doi.org/10.1007/978-3-319-15081-9_10",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-15081-9_10"
     },
     "BIBREF11": {
       "title": "Summation Theory II: Characterizations of RΠΣ⁎-extensions and algorithmic aspects☆",
@@ -135,8 +124,7 @@
       "year": "2017",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": "https://arxiv.org/abs/1603.04285",
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Representing ($$varvec{}$$–)Hypergeometric Products and Mixed Versions in Difference Rings",
@@ -147,8 +135,7 @@
       "year": "2016",
       "venue": "Waterloo Workshop on Computer Algebra",
       "arxiv_link": "https://arxiv.org/abs/1705.01368",
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Iterated Elliptic and Hypergeometric Integrals for Feynman Diagrams",
@@ -165,8 +152,7 @@
       "year": "2018",
       "venue": "Journal of Mathematical Physics",
       "arxiv_link": "https://arxiv.org/abs/1706.01299",
-      "doi_link": "https://doi.org/10.1063/1.4986417",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1063/1.4986417"
     }
   }
 }

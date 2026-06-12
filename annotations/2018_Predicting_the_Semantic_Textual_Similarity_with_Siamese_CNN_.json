@@ -14,8 +14,7 @@
       "year": "2017",
       "venue": "IEEE Transactions on Neural Networks",
       "arxiv_link": "https://arxiv.org/abs/1503.04069",
-      "doi_link": "https://doi.org/10.1109/tnnls.2016.2582924",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tnnls.2016.2582924"
     },
     "BIBREF2": {
       "title": "ECNU: One Stone Two Birds: Ensemble of Heterogenous Measures for Semantic Relatedness and Textual Entailment",
@@ -27,8 +26,7 @@
       "year": "2014",
       "venue": "International Conference on Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/v1/s14-2044",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/s14-2044"
     },
     "BIBREF3": {
       "title": "The Meaning Factory: Formal Semantics for Recognizing Textual Entailment and Determining Semantic Similarity",
@@ -41,8 +39,7 @@
       "year": "2014",
       "venue": "International Conference on Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/v1/s14-2114",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/s14-2114"
     },
     "BIBREF4": {
       "title": "Natural Language Processing (Almost) from Scratch",
@@ -57,8 +54,7 @@
       "year": "2011",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "A SICK cure for the evaluation of compositional distributional semantic models",
@@ -73,8 +69,7 @@
       "year": "2014",
       "venue": "Language Resources and Evaluation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks",
@@ -86,8 +81,7 @@
       "year": "2015",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.18653/v1/d15-1181",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/d15-1181"
     },
     "BIBREF8": {
       "title": "Illinois-LH: A Denotational and Distributional Approach to Semantics",
@@ -98,8 +92,7 @@
       "year": "2014",
       "venue": "International Conference on Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/v1/s14-2055",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/s14-2055"
     },
     "BIBREF9": {
       "title": "Samsung Poland NLP Team at SemEval-2016 Task 1: Necessity for diversity; combining recursive autoencoders, WordNet and ensemble methods to measure semantic similarity.",
@@ -113,8 +106,7 @@
       "year": "2016",
       "venue": "North American Chapter of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.18653/v1/s16-1091",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/s16-1091"
     },
     "BIBREF10": {
       "title": "Siamese recurrent architectures for learning sentence similarity",
@@ -125,8 +117,7 @@
       "year": "2016",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Non-linear similarity learning for compositionality",
@@ -139,8 +130,7 @@
       "year": "2016",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Query Expansion by Local Context Analysis",
@@ -151,8 +141,7 @@
       "year": "2016",
       "venue": "CORIA-CIFED",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "GRAM-CNN: a deep learning approach with local context for named entity recognition in biomedical text",
@@ -165,8 +154,7 @@
       "year": "2018",
       "venue": "Bioinformatics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1093/bioinformatics/btx815",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1093/bioinformatics/btx815"
     },
     "BIBREF14": {
       "title": "Skip-Thought Vectors",
@@ -182,8 +170,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

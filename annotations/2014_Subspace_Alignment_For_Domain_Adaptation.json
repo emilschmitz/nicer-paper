@@ -12,8 +12,7 @@
       "year": "2011",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995702",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995702"
     },
     "BIBREF12": {
       "title": "Unsupervised Visual Domain Adaptation Using Subspace Alignment",
@@ -26,8 +25,7 @@
       "year": "2013",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2013.368",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2013.368"
     }
   }
 }

@@ -11,8 +11,7 @@
       "year": "1999",
       "venue": "Embedded and Real-Time Computing Systems and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/rtcsa.1999.811193",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/rtcsa.1999.811193"
     },
     "BIBREF1": {
       "title": "A survey of hard real-time scheduling for multiprocessor systems",
@@ -23,8 +22,7 @@
       "year": "2011",
       "venue": "ACM Computing Surveys",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Exact schedulability tests for real-time scheduling of periodic tasks on unrelated multiprocessor platforms",
@@ -35,8 +33,7 @@
       "year": "2011",
       "venue": "Journal of Systems Architecture",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.sysarc.2011.02.007",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.sysarc.2011.02.007"
     },
     "BIBREF4": {
       "title": "Exact and approximate supply bound function for multiprocessor periodic resource model: unsynchronized servers",
@@ -48,8 +45,7 @@
       "year": "2013",
       "venue": "ACM Sigbed Review",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2544350.2544351",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2544350.2544351"
     },
     "BIBREF5": {
       "title": "A note on preemptive scheduling of periodic, real-time tasks☆",
@@ -60,8 +56,7 @@
       "year": "1980",
       "venue": "Information Processing Letters",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "A semi-partitioned approach for parallel real-time scheduling",
@@ -74,8 +69,7 @@
       "year": "2012",
       "venue": "Proceedings of the 20th International Conference on Real-Time and Network Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "On the complexity of fixed-priority scheduling of periodic, real-time tasks",
@@ -86,8 +80,7 @@
       "year": "1982",
       "venue": "Performance Evaluation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Algorithms and complexity concerning the preemptive scheduling of periodic, real-time tasks on one processor",
@@ -99,8 +92,7 @@
       "year": "1990",
       "venue": "Real-time Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/bf01995675",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/bf01995675"
     },
     "BIBREF9": {
       "title": "Minimal schedulability interval for real-time systems of periodic tasks with offsets",
@@ -111,8 +103,7 @@
       "year": "2004",
       "venue": "Theoretical Computer Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s0304-3975(03)00362-1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s0304-3975(03)00362-1"
     },
     "BIBREF10": {
       "title": "Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment",
@@ -123,8 +114,7 @@
       "year": "1973",
       "venue": "Journal of the ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/321738.321743",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/321738.321743"
     },
     "BIBREF11": {
       "title": "Scheduling Dependent Periodic Tasks without Synchronization Mechanisms",
@@ -138,8 +128,7 @@
       "year": "2010",
       "venue": "Real Time Technology and Applications Symposium",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/rtas.2010.26",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/rtas.2010.26"
     },
     "BIBREF12": {
       "title": "Static-priority scheduling on multiprocessors",
@@ -151,8 +140,7 @@
       "year": "2001",
       "venue": "Real-Time Systems Symposium",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/real.2001.990610",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/real.2001.990610"
     },
     "BIBREF13": {
       "title": "Fixed priority scheduling of periodic task sets with arbitrary deadlines",
@@ -162,8 +150,7 @@
       "year": "1990",
       "venue": "Real-Time Systems Symposium",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/real.1990.128748",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/real.1990.128748"
     },
     "BIBREF15": {
       "title": "Accounting for interrupt handling costs in dynamic priority task systems",
@@ -174,8 +161,7 @@
       "year": "1993",
       "venue": "Real-Time Systems Symposium",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/real.1993.393497",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/real.1993.393497"
     },
     "BIBREF16": {
       "title": "A Categorization of Real-Time Multiprocessor Scheduling Problems and Algorithms.",
@@ -190,8 +176,7 @@
       "year": "2004",
       "venue": "Handbook of Scheduling",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

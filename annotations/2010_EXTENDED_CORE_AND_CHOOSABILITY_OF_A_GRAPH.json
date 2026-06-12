@@ -12,8 +12,7 @@
       "year": "2011",
       "venue": "arXiv: Combinatorics",
       "arxiv_link": "https://arxiv.org/abs/1005.5602",
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Some results on (a: b)-choosability",
@@ -24,8 +23,7 @@
       "year": "2009",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.disc.2008.04.061",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.disc.2008.04.061"
     },
     "BIBREF2": {
       "title": "Choosability of the square of planar subcubic graphs with large girth",
@@ -35,8 +33,7 @@
       "year": "2009",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.disc.2007.12.100",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.disc.2007.12.100"
     },
     "BIBREF3": {
       "title": "Choosability of planar graphs",
@@ -46,8 +43,7 @@
       "year": "1996",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0012-365x(95)00216-j",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0012-365x(95)00216-j"
     },
     "BIBREF4": {
       "title": "Every 2-choosable graph is (2 m, m )-choosable",
@@ -58,8 +54,7 @@
       "year": "1996",
       "venue": "Journal of Graph Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/(sici)1097-0118(199607)22:3<245::aid-jgt5>3.3.co;2-5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/(sici)1097-0118(199607)22:3<245::aid-jgt5>3.3.co;2-5"
     },
     "BIBREF5": {
       "title": "A Hajo´s-like theorem for list coloring",
@@ -69,8 +64,7 @@
       "year": "1996",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "Channel assignment and multicolouring of the induced subgraphs of the triangular lattice",
@@ -80,8 +74,7 @@
       "year": "2001",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s0012-365x(00)00241-7",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s0012-365x(00)00241-7"
     },
     "BIBREF7": {
       "title": "Channel assignment and weighted coloring",
@@ -92,8 +85,7 @@
       "year": "2000",
       "venue": "Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/1097-0037(200009)36:2<114::aid-net6>3.0.co;2-g",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/1097-0037(200009)36:2<114::aid-net6>3.0.co;2-g"
     },
     "BIBREF8": {
       "title": "Every Planar Graph Is 5-Choosable",
@@ -103,8 +95,7 @@
       "year": "1994",
       "venue": "Journal of Combinatorial Theory, Series B",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1006/jctb.1994.1062",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/jctb.1994.1062"
     }
   }
 }

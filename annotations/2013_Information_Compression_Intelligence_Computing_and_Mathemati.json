@@ -11,8 +11,7 @@
       "year": "1993",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Computing, Cognition and Information Compression",
@@ -22,8 +21,7 @@
       "year": "1993",
       "venue": "Ai Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3233/aic-1993-6203",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3233/aic-1993-6203"
     },
     "BIBREF2": {
       "title": "The SP Theory of Intelligence: An Overview",
@@ -34,8 +32,7 @@
       "year": "2013",
       "venue": "Information-an International Interdisciplinary Journal",
       "arxiv_link": "https://arxiv.org/abs/1306.3888",
-      "doi_link": "https://doi.org/10.3390/info4030283",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3390/info4030283"
     },
     "BIBREF3": {
       "title": "Pi in the sky",
@@ -45,8 +42,7 @@
       "year": "1992",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "The Philosophical Roots of Ernst Mach's Economy of Thought",
@@ -56,8 +52,7 @@
       "year": "2004",
       "venue": "Synthese",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1023/b:synt.0000021306.66850.a3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1023/b:synt.0000021306.66850.a3"
     },
     "BIBREF5": {
       "title": "Towards an intelligent database system founded on the SP theory of computing and cognition",
@@ -67,8 +62,7 @@
       "year": "2007",
       "venue": "Data and Knowledge Engineering",
       "arxiv_link": "https://arxiv.org/abs/cs/0311031",
-      "doi_link": "https://doi.org/10.1016/j.datak.2006.04.003",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.datak.2006.04.003"
     },
     "BIBREF6": {
       "title": "The Mathematical Theory of Communication",
@@ -78,8 +72,7 @@
       "year": "1949",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "The Discovery of Algorithmic Probability",
@@ -89,8 +82,7 @@
       "year": "1997",
       "venue": "Conference on Learning Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1006/jcss.1997.1500",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/jcss.1997.1500"
     },
     "BIBREF8": {
       "title": "Deep learning in neural networks",
@@ -100,8 +92,7 @@
       "year": "2015",
       "venue": "Neural Networks",
       "arxiv_link": "https://arxiv.org/abs/1804.08150",
-      "doi_link": "https://doi.org/10.1016/j.neunet.2018.12.002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.neunet.2018.12.002"
     },
     "BIBREF9": {
       "title": "Medical diagnosis as pattern recognition in a framework of information compression by multiple alignment, unification and search",
@@ -111,8 +102,7 @@
       "year": "2006",
       "venue": "Decision Support Systems",
       "arxiv_link": "https://arxiv.org/abs/1409.8053",
-      "doi_link": "https://doi.org/10.1016/j.dss.2005.02.005",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.dss.2005.02.005"
     },
     "BIBREF10": {
       "title": "A Formal Theory of Inductive Inference. Part II",
@@ -122,8 +112,7 @@
       "year": "1964",
       "venue": "Information & Computation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Application of the SP theory of intelligence to the understanding of natural vision and the development of computer vision",
@@ -133,8 +122,7 @@
       "year": "2014",
       "venue": "SpringerPlus",
       "arxiv_link": "https://arxiv.org/abs/1303.2071",
-      "doi_link": "https://doi.org/10.1186/2193-1801-3-552",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1186/2193-1801-3-552"
     },
     "BIBREF12": {
       "title": "Autonomous Robots and the SP Theory of Intelligence",
@@ -144,8 +132,7 @@
       "year": "2014",
       "venue": "IEEE Access",
       "arxiv_link": "https://arxiv.org/abs/1409.8027",
-      "doi_link": "https://doi.org/10.1109/access.2014.2382753",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/access.2014.2382753"
     },
     "BIBREF13": {
       "title": "Big Data and the SP Theory of Intelligence",
@@ -155,8 +142,7 @@
       "year": "2014",
       "venue": "IEEE Access",
       "arxiv_link": "https://arxiv.org/abs/1306.3890",
-      "doi_link": "https://doi.org/10.1109/access.2014.2315297",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/access.2014.2315297"
     },
     "BIBREF14": {
       "title": "Grammar Compression: Grammatical Inference by Compression and Its Application to Real Data",
@@ -166,8 +152,7 @@
       "year": "2014",
       "venue": "International Colloquium on Grammatical Inference",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "Unifying Computing and Cognition: The SP Theory and its Applications",
@@ -177,8 +162,7 @@
       "year": "2004",
       "venue": "arXiv: Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

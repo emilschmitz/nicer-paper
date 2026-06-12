@@ -16,8 +16,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1404.5068",
-      "doi_link": "https://doi.org/10.1109/twc.2015.2457921",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2015.2457921"
     },
     "BIBREF1": {
       "title": "Steering with eyes closed: Mm-Wave beam steering without in-band measurement",
@@ -30,8 +29,7 @@
       "year": "2015",
       "venue": "International Conference on Computer Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/infocom.2015.7218630",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/infocom.2015.7218630"
     },
     "BIBREF2": {
       "title": "Wideband Millimeter-Wave Propagation Measurements and Channel Models for Future Wireless Communication System Design",
@@ -44,8 +42,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tcomm.2015.2434384",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tcomm.2015.2434384"
     },
     "BIBREF3": {
       "title": "Millimeter Wave Cellular Networks: A MAC Layer Perspective",
@@ -59,8 +56,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": "https://arxiv.org/abs/1503.00697",
-      "doi_link": "https://doi.org/10.1109/tcomm.2015.2456093",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tcomm.2015.2456093"
     },
     "BIBREF4": {
       "title": "Handover Scheme for 5G C/U Plane Split Heterogeneous Network in High-Speed Railway",
@@ -72,8 +68,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Vehicular Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tvt.2014.2315231",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tvt.2014.2315231"
     },
     "BIBREF5": {
       "title": "Handoff Rate and Coverage Analysis in Multi-Tier Heterogeneous Networks",
@@ -84,8 +79,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1501.01668",
-      "doi_link": "https://doi.org/10.1109/twc.2015.2390224",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2015.2390224"
     },
     "BIBREF6": {
       "title": "Handoff Rates for Millimeterwave 5G Systems",
@@ -97,8 +91,7 @@
       "year": "2014",
       "venue": "Vehicular Technology Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/vtcspring.2014.7022933",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/vtcspring.2014.7022933"
     },
     "BIBREF7": {
       "title": "Initial beamforming for mmWave communications",
@@ -113,8 +106,7 @@
       "year": "2014",
       "venue": "Asilomar Conference on Signals, Systems and Computers",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/acssc.2014.7094805",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/acssc.2014.7094805"
     },
     "BIBREF8": {
       "title": "Millimeter Wave Channel Modeling and Cellular Capacity Evaluation",
@@ -129,8 +121,7 @@
       "year": "2014",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": "https://arxiv.org/abs/1312.4921",
-      "doi_link": "https://doi.org/10.1109/jsac.2014.2328154",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jsac.2014.2328154"
     },
     "BIBREF9": {
       "title": "mm Wave Initial Cell Search Analysis under UE Rotational Motion",
@@ -143,8 +134,7 @@
       "year": "2015",
       "venue": "IEEE International Conference on Ubiquitous Wireless Broadband",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Coverage and Rate Analysis for Millimeter-Wave Cellular Networks",
@@ -155,8 +145,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1402.6430",
-      "doi_link": "https://doi.org/10.1109/twc.2014.2364267",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2014.2364267"
     },
     "BIBREF11": {
       "title": "Dual connectivity in LTE HetNets with split control- and user-plane",
@@ -169,8 +158,7 @@
       "year": "2013",
       "venue": "Global Communications Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/glocomw.2013.6825019",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/glocomw.2013.6825019"
     },
     "BIBREF12": {
       "title": "Mimo for millimeter-wave wireless communications: beamforming, spatial multiplexing, or both?",
@@ -184,8 +172,7 @@
       "year": "2014",
       "venue": "IEEE Communications Magazine",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/mcom.2014.6979962",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mcom.2014.6979962"
     },
     "BIBREF13": {
       "title": "Mobile association problem in heterogenous wireless networks with mobility",
@@ -197,8 +184,7 @@
       "year": "2013",
       "venue": "Personal, Indoor and Mobile Radio Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/pimrc.2013.6666684",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/pimrc.2013.6666684"
     },
     "BIBREF14": {
       "title": "Millimeter-Wave Cellular Wireless Networks: Potentials and Challenges",
@@ -210,8 +196,7 @@
       "year": "2014",
       "venue": "arXiv: Networking and Internet Architecture",
       "arxiv_link": "https://arxiv.org/abs/1401.2560",
-      "doi_link": "https://doi.org/10.1109/jproc.2014.2299397",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jproc.2014.2299397"
     },
     "BIBREF15": {
       "title": "A survey of vertical handover decision algorithms in Fourth Generation heterogeneous wireless networks",
@@ -223,8 +208,7 @@
       "year": "2010",
       "venue": "Computer Networks",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "Performance Evaluation of an Advanced Energy-Aware Client-Based Handover Solution in Heterogeneous LTE and WiFi Networks",
@@ -235,8 +219,7 @@
       "year": "2014",
       "venue": "Vehicular Technology Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/vtcspring.2014.7023048",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/vtcspring.2014.7023048"
     },
     "BIBREF17": {
       "title": "Initial Access in 5G mmWave Cellular Networks",
@@ -248,8 +231,7 @@
       "year": "2016",
       "venue": "IEEE Communications Magazine",
       "arxiv_link": "https://arxiv.org/abs/1602.07731",
-      "doi_link": "https://doi.org/10.1109/mcom.2016.1600193cm",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mcom.2016.1600193cm"
     },
     "BIBREF18": {
       "title": "Directional Initial Access for Millimeter Wave Cellular Systems",
@@ -265,8 +247,7 @@
       "year": "2015",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1511.06483",
-      "doi_link": "https://doi.org/10.1109/twc.2016.2609384",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2016.2609384"
     },
     "BIBREF19": {
       "title": "Mobility Modeling and Performance Evaluation of Multi-Connectivity in 5G Intra-Frequency Networks",
@@ -280,8 +261,7 @@
       "year": "2015",
       "venue": "Global Communications Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/glocomw.2015.7414142",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/glocomw.2015.7414142"
     },
     "BIBREF20": {
       "title": "Towards an Appropriate Receiver Beamforming Scheme for Millimeter Wave Communication: A Power Consumption Based Comparison",
@@ -292,8 +272,7 @@
       "year": "2016",
       "venue": "arXiv: Information Theory",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF21": {
       "title": "Comparative analysis of initial access techniques in 5G mmWave cellular networks",
@@ -307,8 +286,7 @@
       "year": "2016",
       "venue": "Conference on Information Sciences and Systems",
       "arxiv_link": "https://arxiv.org/abs/1605.00101",
-      "doi_link": "https://doi.org/10.1109/ciss.2016.7460513",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ciss.2016.7460513"
     },
     "BIBREF22": {
       "title": "Towards an Appropriate Beamforming Scheme for Initial Cell Discovery in mmW 5G Cellular Networks.",
@@ -319,8 +297,7 @@
       "year": "2016",
       "venue": "arXiv: Information Theory",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF23": {
       "title": "Multi-connectivity in 5G mmWave cellular networks",
@@ -333,8 +310,7 @@
       "year": "2016",
       "venue": "Annual Mediterranean Ad Hoc Networking Workshop",
       "arxiv_link": "https://arxiv.org/abs/1605.00105",
-      "doi_link": "https://doi.org/10.1109/medhocnet.2016.7528494",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/medhocnet.2016.7528494"
     },
     "BIBREF24": {
       "title": "Millimeter wave communication in vehicular networks: Challenges and opportunities",
@@ -346,8 +322,7 @@
       "year": "2017",
       "venue": "International Conference on Modern Circuits and Systems Technologies",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/mocast.2017.7937682",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mocast.2017.7937682"
     },
     "BIBREF25": {
       "title": "3-D Statistical Channel Model for Millimeter-Wave Outdoor Mobile Broadband Communications",
@@ -358,8 +333,7 @@
       "year": "2015",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1503.05619",
-      "doi_link": "https://doi.org/10.1109/icc.2015.7248689",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icc.2015.7248689"
     }
   }
 }

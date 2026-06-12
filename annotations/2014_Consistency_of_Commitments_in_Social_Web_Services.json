@@ -13,8 +13,7 @@
       "year": "2005",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Specifying and implementing a persuasion dialogue game using commitments and arguments",
@@ -26,8 +25,7 @@
       "year": "2004",
       "venue": "ArgMAS'04 Proceedings of the First international conference on Argumentation in Multi-Agent Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-540-32261-0_9",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-32261-0_9"
     },
     "BIBREF2": {
       "title": "Towards a Social Network Based Approach for Services Composition",
@@ -40,8 +38,7 @@
       "year": "2010",
       "venue": "International Conference on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icc.2010.5502385",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icc.2010.5502385"
     },
     "BIBREF3": {
       "title": "Specifying and implementing social Web services operation using commitments",
@@ -54,8 +51,7 @@
       "year": "2012",
       "venue": "ACM Symposium on Applied Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2245276.2232099",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2245276.2232099"
     },
     "BIBREF4": {
       "title": "Commitment-Based Service-Oriented Architecture",
@@ -67,8 +63,7 @@
       "year": "2009",
       "venue": "IEEE Computer",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/mc.2009.347",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mc.2009.347"
     },
     "BIBREF5": {
       "title": "A framework for ensuring consistency of Web Services Transactions",
@@ -84,8 +79,7 @@
       "year": "2008",
       "venue": "Information & Software Technology",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "Why Web Services Need Social Networks",
@@ -97,8 +91,7 @@
       "year": "2011",
       "venue": "IEEE Internet Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/mic.2011.49",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mic.2011.49"
     },
     "BIBREF7": {
       "title": "Commitments to Regulate Social Web Services Operation",
@@ -112,8 +105,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Services Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tsc.2013.29",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tsc.2013.29"
     },
     "BIBREF8": {
       "title": "SweetDeal: representing agent contracts with exceptions using XML rules, ontologies, and process descriptions",
@@ -124,8 +116,7 @@
       "year": "2003",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1080/10864415.2004.11044305",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1080/10864415.2004.11044305"
     },
     "BIBREF9": {
       "title": "Verifiable semantic model for agent interactions using social commitments",
@@ -137,8 +128,7 @@
       "year": "2009",
       "venue": "LADS'09 Proceedings of the Second international conference on Languages, Methodologies, and Development Tools for Multi-Agent Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-13338-1_8",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-13338-1_8"
     },
     "BIBREF10": {
       "title": "Generating Correct Protocols from Contracts: A Commitment-Based Approach",
@@ -148,8 +138,7 @@
       "year": "2008",
       "venue": "IEEE Congress on Services",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/services-1.2008.29",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/services-1.2008.29"
     },
     "BIBREF11": {
       "title": "Operational specification of a commitment-based agent communication language",
@@ -160,8 +149,7 @@
       "year": "2002",
       "venue": "Adaptive Agents and Multi-Agents Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/544862.544868",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/544862.544868"
     },
     "BIBREF12": {
       "title": "Social Engineering of Communities of Web Services",
@@ -174,8 +162,7 @@
       "year": "2011",
       "venue": "Symposium on Applications and the Internet",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/saint.2011.23",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/saint.2011.23"
     }
   }
 }

@@ -11,8 +11,7 @@
       "year": "2005",
       "venue": "International Conference on Artificial Intelligence and Statistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Modelling input texts: from Tree Kernels to Deep Learning",
@@ -22,8 +21,7 @@
       "year": "2015",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Probabilistic Graphical Models: Principles and Techniques",
@@ -34,8 +32,7 @@
       "year": "2009",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions",
@@ -46,8 +43,7 @@
       "year": "2010",
       "venue": "North American Chapter of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Adam: A Method for Stochastic Optimization",
@@ -58,8 +54,7 @@
       "year": "2014",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "End-to-end continuous speech recognition using attention-based recurrent nn: First results",
@@ -72,8 +67,7 @@
       "year": "2014",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "A Neural Conversational Model",
@@ -84,8 +78,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Recurrent Neural Network Regularization",
@@ -97,8 +90,7 @@
       "year": "2014",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Deep learning for answer sentence selection",
@@ -111,8 +103,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Learning to transduce with unbounded memory",
@@ -125,8 +116,7 @@
       "year": "2015",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Efficient Estimation of Word Representations in Vector Space",
@@ -139,8 +129,7 @@
       "year": "2013",
       "venue": "International Conference on Learning Representations",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Supervised Learning of Complete Morphological Paradigms",
@@ -151,8 +140,7 @@
       "year": "2013",
       "venue": "North American Chapter of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Recurrent Continuous Translation Models",
@@ -163,8 +151,7 @@
       "year": "2013",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Generating Sequences With Recurrent Neural Networks.",
@@ -174,8 +161,7 @@
       "year": "2013",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF14": {
       "title": "Sequence Transduction with Recurrent Neural Networks",
@@ -185,8 +171,7 @@
       "year": "2012",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "A Neural Attention Model for Abstractive Sentence Summarization",
@@ -198,8 +183,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces",
@@ -212,8 +196,7 @@
       "year": "2012",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF17": {
       "title": "Computation of optical flow using a neural network",
@@ -224,8 +207,7 @@
       "year": "1988",
       "venue": "IEEE 1988 International Conference on Neural Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icnn.1988.23914",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icnn.1988.23914"
     },
     "BIBREF18": {
       "title": "Deep Speech: Scaling up end-to-end speech recognition",
@@ -245,8 +227,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF19": {
       "title": "A Semantic Approach To Textual Entailment: System Evaluation and Task Analysis",
@@ -259,8 +240,7 @@
       "year": "2007",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF20": {
       "title": "The mathematics of statistical machine translation: parameter estimation",
@@ -273,8 +253,7 @@
       "year": "1993",
       "venue": "Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF21": {
       "title": "Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies",
@@ -285,8 +264,7 @@
       "year": "2006",
       "venue": "Workshop on Statistical Machine Translation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/1654650.1654655",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/1654650.1654655"
     },
     "BIBREF23": {
       "title": "An efficient gradient-based algorithm for on-line training of recurrent network trajectories",
@@ -297,8 +275,7 @@
       "year": "1990",
       "venue": "Neural Computation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF24": {
       "title": "An improved error model for noisy channel spelling correction",
@@ -309,8 +286,7 @@
       "year": "2000",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF25": {
       "title": "A statistical approach to machine translation",
@@ -327,8 +303,7 @@
       "year": "1990",
       "venue": "Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF26": {
       "title": "Polarity Inducing Latent Semantic Analysis",
@@ -340,8 +315,7 @@
       "year": "2012",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF27": {
       "title": "Learning long-term dependencies in NARX recurrent neural networks",
@@ -354,8 +328,7 @@
       "year": "1996",
       "venue": "IEEE Transactions on Neural Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-540-28647-9_61",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-28647-9_61"
     },
     "BIBREF28": {
       "title": "Conditional structure versus conditional estimation in NLP models",
@@ -366,8 +339,7 @@
       "year": "2002",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/1118693.1118695",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/1118693.1118695"
     },
     "BIBREF29": {
       "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks",
@@ -379,8 +351,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1503.00075",
-      "doi_link": "https://doi.org/10.3115/v1/p15-1150",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/p15-1150"
     },
     "BIBREF30": {
       "title": "Finding Structure in Time",
@@ -390,8 +361,7 @@
       "year": "1990",
       "venue": "Cognitive Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1207/s15516709cog1402_1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1207/s15516709cog1402_1"
     },
     "BIBREF31": {
       "title": "Probabilistic Tree-Edit Models with Structured Latent Variables for Textual Entailment and Question Answering",
@@ -402,8 +372,7 @@
       "year": "2010",
       "venue": "International Conference on Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF32": {
       "title": "A unified architecture for natural language processing: deep neural networks with multitask learning",
@@ -414,8 +383,7 @@
       "year": "2008",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF33": {
       "title": "A Noisy-Channel Approach to Question Answering",
@@ -426,8 +394,7 @@
       "year": "2003",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF34": {
       "title": "A Convolutional Neural Network for Modelling Sentences",
@@ -439,8 +406,7 @@
       "year": "2014",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF35": {
       "title": "Finding Predominant Word Senses in Untagged Text",
@@ -453,8 +419,7 @@
       "year": "2004",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/1218955.1218991",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/1218955.1218991"
     },
     "BIBREF36": {
       "title": "Answer Extraction as Sequence Tagging with Tree Edit Distance",
@@ -467,8 +432,7 @@
       "year": "2013",
       "venue": "North American Chapter of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF37": {
       "title": "The Role of Syntax in Vector Space Models of Compositional Semantics",
@@ -479,8 +443,7 @@
       "year": "2013",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF38": {
       "title": "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks",
@@ -493,8 +456,7 @@
       "year": "2006",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1143844.1143891",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1143844.1143891"
     },
     "BIBREF39": {
       "title": "Bidirectional recurrent neural networks",
@@ -505,8 +467,7 @@
       "year": "1997",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/78.650093",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/78.650093"
     },
     "BIBREF40": {
       "title": "A neural probabilistic language model",
@@ -519,8 +480,7 @@
       "year": "2003",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF41": {
       "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
@@ -532,8 +492,7 @@
       "year": "2011",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF42": {
       "title": "Backpropagation applied to handwritten zip code recognition",
@@ -549,8 +508,7 @@
       "year": "1989",
       "venue": "Neural Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1162/neco.1989.1.4.541",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1162/neco.1989.1.4.541"
     },
     "BIBREF43": {
       "title": "A DP-based Search Using Monotone Alignments in Statistical Translation",
@@ -563,8 +521,7 @@
       "year": "1997",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF44": {
       "title": "Neural Responding Machine for Short-Text Conversation",
@@ -576,8 +533,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1503.02364",
-      "doi_link": "https://doi.org/10.3115/v1/p15-1152",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/p15-1152"
     },
     "BIBREF45": {
       "title": "On the Properties of Neural Machine Translation: Encoder-Decoder Approaches",
@@ -590,8 +546,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF46": {
       "title": "ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs",
@@ -604,8 +559,7 @@
       "year": "2016",
       "venue": "Transactions of the Association for Computational Linguistics",
       "arxiv_link": "https://arxiv.org/abs/1512.05193",
-      "doi_link": "https://doi.org/10.1162/tacl_a_00097",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1162/tacl_a_00097"
     },
     "BIBREF47": {
       "title": "MultiGranCNN: An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity",
@@ -616,8 +570,7 @@
       "year": "2015",
       "venue": "International Joint Conference on Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/v1/p15-1007",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/p15-1007"
     },
     "BIBREF48": {
       "title": "Automatic Feature Engineering for Answer Selection and Extraction",
@@ -628,8 +581,7 @@
       "year": "2013",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF49": {
       "title": "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks",
@@ -641,8 +593,7 @@
       "year": "2016",
       "venue": "North American Chapter of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.18653/v1/n16-1012",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/n16-1012"
     },
     "BIBREF50": {
       "title": "Weighting Finite-State Transductions With Neural Context",
@@ -654,8 +605,7 @@
       "year": "2016",
       "venue": "North American Chapter of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.18653/v1/n16-1076",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/n16-1076"
     },
     "BIBREF51": {
       "title": "Alignment-Based Neural Machine Translation",
@@ -670,8 +620,7 @@
       "year": "2016",
       "venue": "Proceedings of the First Conference on Machine Translation: Volume 1,#N#      Research Papers",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.18653/v1/w16-2206",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/w16-2206"
     },
     "BIBREF52": {
       "title": "Online Segment to Segment Neural Transduction",
@@ -683,8 +632,7 @@
       "year": "2016",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1609.08194",
-      "doi_link": "https://doi.org/10.18653/v1/d16-1138",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/d16-1138"
     },
     "BIBREF53": {
       "title": "Learning to Compose Words into Sentences with Reinforcement Learning",
@@ -698,8 +646,7 @@
       "year": "2016",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF54": {
       "title": "Memory Networks",
@@ -711,8 +658,7 @@
       "year": "2015",
       "venue": "International Conference on Learning Representations",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF55": {
       "title": "Moses: Open Source Toolkit for Statistical Machine Translation",
@@ -735,8 +681,7 @@
       "year": "2007",
       "venue": "The Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/1557769.1557821",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/1557769.1557821"
     },
     "BIBREF56": {
       "title": "Effective Approaches to Attention-based Neural Machine Translation",
@@ -748,8 +693,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1508.04025",
-      "doi_link": "https://doi.org/10.18653/v1/d15-1166",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/d15-1166"
     },
     "BIBREF58": {
       "title": "Sequence to Sequence Learning with Neural Networks",
@@ -761,8 +705,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF60": {
       "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
@@ -779,8 +722,7 @@
       "year": "2015",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF61": {
       "title": "Speech Recognition with Deep Recurrent Neural Networks",
@@ -792,8 +734,7 @@
       "year": "2013",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": "https://arxiv.org/abs/1303.5778",
-      "doi_link": "https://doi.org/10.1109/icassp.2013.6638947",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2013.6638947"
     },
     "BIBREF62": {
       "title": "Computational Complexity of Probabilistic Disambiguation by means of Tree-Grammars",
@@ -803,8 +744,7 @@
       "year": "1996",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/993268.993392",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/993268.993392"
     },
     "BIBREF63": {
       "title": "A Noisy-Channel Model for Document Compression",
@@ -815,8 +755,7 @@
       "year": "2009",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF64": {
       "title": "Online and Linear-Time Attention by Enforcing Monotonic Alignments",
@@ -830,8 +769,7 @@
       "year": "2017",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF65": {
       "title": "Language as a Latent Variable: Discrete Generative Models for Sentence Compression",
@@ -842,8 +780,7 @@
       "year": "2016",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1609.07317",
-      "doi_link": "https://doi.org/10.18653/v1/d16-1031",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/d16-1031"
     },
     "BIBREF66": {
       "title": "Visualizing and Understanding Convolutional Networks",
@@ -854,8 +791,7 @@
       "year": "2013",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1311.2901",
-      "doi_link": "https://doi.org/10.1007/978-3-319-10590-1_53",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-10590-1_53"
     },
     "BIBREF67": {
       "title": "Open Question Answering with Weakly Supervised Embedding Models",
@@ -867,8 +803,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1404.4326",
-      "doi_link": "https://doi.org/10.1007/978-3-662-44848-9_11",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-662-44848-9_11"
     },
     "BIBREF68": {
       "title": "A large annotated corpus for learning natural language inference",
@@ -881,8 +816,7 @@
       "year": "2015",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF69": {
       "title": "Improving Neural Machine Translation Models with Monolingual Data",
@@ -894,8 +828,7 @@
       "year": "2016",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": "https://arxiv.org/abs/1511.06709",
-      "doi_link": "https://doi.org/10.18653/v1/p16-1009",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/p16-1009"
     }
   }
 }

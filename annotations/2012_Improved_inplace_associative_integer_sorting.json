@@ -13,8 +13,7 @@
       "year": "2009",
       "venue": "Symposium on Discrete Algorithms",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Algorithms in C",
@@ -24,8 +23,7 @@
       "year": "1990",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Radix sorting with no extra space",
@@ -37,8 +35,7 @@
       "year": "2007",
       "venue": "European Symposium on Algorithms",
       "arxiv_link": "https://arxiv.org/abs/0706.4107",
-      "doi_link": "https://doi.org/10.1007/978-3-540-75520-3_19",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-75520-3_19"
     },
     "BIBREF4": {
       "title": "Sorting in Linear Time",
@@ -51,8 +48,7 @@
       "year": "1998",
       "venue": "Journal of Computer and System Sciences",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1006/jcss.1998.1580",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/jcss.1998.1580"
     },
     "BIBREF5": {
       "title": "Sorting multisets stably in minimum space",
@@ -63,8 +59,7 @@
       "year": "1994",
       "venue": "Acta Informatica",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-55706-7_37",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-55706-7_37"
     },
     "BIBREF6": {
       "title": "Sorting by Address Calculation",
@@ -75,8 +70,7 @@
       "year": "1956",
       "venue": "Journal of the ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/320831.320834",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/320831.320834"
     },
     "BIBREF7": {
       "title": "A high-speed sorting procedure",
@@ -86,8 +80,7 @@
       "year": "1959",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Sorting by hashing and inserting",
@@ -97,8 +90,7 @@
       "year": "1989",
       "venue": "Proceedings of the 17th conference on ACM Annual Computer Science Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/75427.1030231",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/75427.1030231"
     },
     "BIBREF9": {
       "title": "Content-Addressable and Associative Memory Systems a Survey",
@@ -108,8 +100,7 @@
       "year": "1966",
       "venue": "IEEE Transactions on Electronic Computers",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s0065-2458(08)60326-5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s0065-2458(08)60326-5"
     },
     "BIBREF10": {
       "title": "Stable minimum space partitioning in linear time",
@@ -120,8 +111,7 @@
       "year": "1992",
       "venue": "Bit Numerical Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/bf01994842",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/bf01994842"
     },
     "BIBREF11": {
       "title": "Computer Time for Address Calculation Sorting",
@@ -131,8 +121,7 @@
       "year": "1960",
       "venue": "Journal of the ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/321043.321051",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/321043.321051"
     },
     "BIBREF12": {
       "title": "A variation on sorting by address calculation",
@@ -142,8 +131,7 @@
       "year": "1970",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "An analysis and implementation of an efficient in-place bucket sort",
@@ -155,8 +143,7 @@
       "year": "1997",
       "venue": "Acta Informatica",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF14": {
       "title": "Analysis of a modified address calculation sorting algorithm",
@@ -167,8 +154,7 @@
       "year": "1988",
       "venue": "The Computer Journal",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1093/comjnl/31.6.561",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1093/comjnl/31.6.561"
     },
     "BIBREF15": {
       "title": "In-place associative integer sorting",
@@ -178,8 +164,7 @@
       "year": "2012",
       "venue": "arXiv: Data Structures and Algorithms",
       "arxiv_link": "https://arxiv.org/abs/1209.0572",
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "Radix Sorting With No Extra Space",
@@ -191,8 +176,7 @@
       "year": "2007",
       "venue": "arXiv: Data Structures and Algorithms",
       "arxiv_link": "https://arxiv.org/abs/0706.4107",
-      "doi_link": "https://doi.org/10.1007/978-3-540-75520-3_19",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-75520-3_19"
     }
   }
 }

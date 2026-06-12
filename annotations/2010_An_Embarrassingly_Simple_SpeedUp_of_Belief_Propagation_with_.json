@@ -11,8 +11,7 @@
       "year": "2006",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/11744085_35",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/11744085_35"
     },
     "BIBREF1": {
       "title": "Finding Deformable Shapes Using Loopy Belief Propagation",
@@ -23,8 +22,7 @@
       "year": "2002",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-47977-5_30",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-47977-5_30"
     },
     "BIBREF2": {
       "title": "Super-human multi-talker speech recognition: A graphical modeling approach",
@@ -37,8 +35,7 @@
       "year": "2010",
       "venue": "Computer Speech & Language",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.csl.2008.11.001",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.csl.2008.11.001"
     },
     "BIBREF3": {
       "title": "Learning Conditional Random Fields for Stereo",
@@ -49,8 +46,7 @@
       "year": "2007",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2007.383191",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2007.383191"
     },
     "BIBREF4": {
       "title": "Sparse Forward-Backward Using Minimum Divergence Beams for Fast Training Of Conditional Random Fields",
@@ -62,8 +58,7 @@
       "year": "2006",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2006.1661342",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2006.1661342"
     },
     "BIBREF5": {
       "title": "Approximate Inference and Protein-Folding",
@@ -74,8 +69,7 @@
       "year": "2002",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms",
@@ -87,8 +81,7 @@
       "year": "2001",
       "venue": "International Journal of Computer Vision",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "A Comparative Study of Energy Minimization Methods for Markov Random Fields with Smoothness-Based Priors",
@@ -105,8 +98,7 @@
       "year": "2008",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Efficient belief propagation for higher-order cliques using linear constraint nodes",
@@ -117,8 +109,7 @@
       "year": "2008",
       "venue": "Computer Vision and Image Understanding",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.cviu.2008.05.007",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.cviu.2008.05.007"
     },
     "BIBREF10": {
       "title": "Fast Algorithms for Large-State-Space HMMs with Applications to Web Usage Analysis",
@@ -130,8 +121,7 @@
       "year": "2003",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
@@ -143,8 +133,7 @@
       "year": "2001",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Learning Low-Level Vision",
@@ -156,8 +145,7 @@
       "year": "2000",
       "venue": "International Journal of Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.1999.790414",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.1999.790414"
     },
     "BIBREF13": {
       "title": "Stereo matching using belief propagation",
@@ -169,8 +157,7 @@
       "year": "2003",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tpami.2003.1206509",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpami.2003.1206509"
     },
     "BIBREF14": {
       "title": "Distributed Occlusion Reasoning for Tracking with Nonparametric Belief Propagation",
@@ -183,8 +170,7 @@
       "year": "2004",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "Very loopy belief propagation for unwrapping phase images",
@@ -196,8 +182,7 @@
       "year": "2001",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "Information Theory, Inference and Learning Algorithms",
@@ -207,8 +192,7 @@
       "year": "2003",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF17": {
       "title": "Efficient Belief Propagation for Early Vision",
@@ -219,8 +203,7 @@
       "year": "2006",
       "venue": "International Journal of Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2004.1315041",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2004.1315041"
     },
     "BIBREF18": {
       "title": "Dynamic quantization for belief propagation in sparse spaces",
@@ -231,8 +214,7 @@
       "year": "2007",
       "venue": "Computer Vision and Image Understanding",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.cviu.2005.09.008",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.cviu.2005.09.008"
     },
     "BIBREF19": {
       "title": "Representation and detection of deformable shapes",
@@ -242,8 +224,7 @@
       "year": "2005",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2003.1211343",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2003.1211343"
     }
   }
 }

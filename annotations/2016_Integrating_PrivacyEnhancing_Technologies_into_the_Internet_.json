@@ -12,8 +12,7 @@
       "year": "2012",
       "venue": "European Symposium on Research in Computer Security",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-33167-1_28",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-33167-1_28"
     },
     "BIBREF1": {
       "title": "EncDNS: A Lightweight Privacy-Preserving Name Resolution Service",
@@ -26,8 +25,7 @@
       "year": "2014",
       "venue": "European Symposium on Research in Computer Security",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-319-11203-9_3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-11203-9_3"
     },
     "BIBREF2": {
       "title": "Improving tor using a TCP-over-DTLS tunnel",
@@ -38,8 +36,7 @@
       "year": "2009",
       "venue": "USENIX Security Symposium",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "On the Optimal Placement of Mix Zones",
@@ -51,8 +48,7 @@
       "year": "2009",
       "venue": "Privacy Enhancing Technologies",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Distributed Performance Measurement and Usability Assessment of the Tor Anonymization Network",
@@ -66,8 +62,7 @@
       "year": "2012",
       "venue": "Future Internet",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3390/fi4020488",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3390/fi4020488"
     },
     "BIBREF5": {
       "title": "PCTCP: per-circuit TCP-over-IPsec transport for anonymous communication overlay networks",
@@ -78,8 +73,7 @@
       "year": "2013",
       "venue": "Computer and Communications Security",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2508859.2516715",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2508859.2516715"
     },
     "BIBREF6": {
       "title": "Vehicular ad hoc networks (VANETS): status, results, and challenges",
@@ -93,8 +87,7 @@
       "year": "2012",
       "venue": "Telecommunication Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11235-010-9400-5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11235-010-9400-5"
     },
     "BIBREF7": {
       "title": "Privacy and rationality in individual decision making",
@@ -105,8 +98,7 @@
       "year": "2005",
       "venue": "IEEE Symposium on Security and Privacy",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/msp.2005.22",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/msp.2005.22"
     },
     "BIBREF8": {
       "title": "Location privacy in pervasive computing",
@@ -117,8 +109,7 @@
       "year": "2003",
       "venue": "IEEE Pervasive Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/mprv.2003.1186725",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mprv.2003.1186725"
     },
     "BIBREF9": {
       "title": "A Toolkit for Managing Enterprise Privacy Policies",
@@ -130,8 +121,7 @@
       "year": "2003",
       "venue": "European Symposium on Research in Computer Security",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Privacy by Sustainable Identity Management Enablers",
@@ -144,8 +134,7 @@
       "year": "2011",
       "venue": "Privacy and Identity Management for Life",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-20317-6_23",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-20317-6_23"
     }
   }
 }

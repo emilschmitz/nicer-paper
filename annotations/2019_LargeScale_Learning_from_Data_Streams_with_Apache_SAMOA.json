@@ -10,8 +10,7 @@
       "year": "2013",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2487788.2488042",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2487788.2488042"
     },
     "BIBREF1": {
       "title": "6 million spam tweets: A large ground truth for timely Twitter spam detection",
@@ -25,8 +24,7 @@
       "year": "2015",
       "venue": "International Conference on Communications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Online bagging and boosting",
@@ -37,8 +35,7 @@
       "year": "2005",
       "venue": "Systems, Man and Cybernetics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icsmc.2005.1571498",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icsmc.2005.1571498"
     },
     "BIBREF3": {
       "title": "From chatter to headlines: harnessing the real-time web for personalized news recommendation",
@@ -50,8 +47,7 @@
       "year": "2012",
       "venue": "Web Search and Data Mining",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2124295.2124315",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2124295.2124315"
     },
     "BIBREF4": {
       "title": "Stock trade volume prediction with Yahoo Finance user browsing behavior",
@@ -64,8 +60,7 @@
       "year": "2014",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icde.2014.6816733",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2014.6816733"
     },
     "BIBREF6": {
       "title": "Distributed Adaptive Model Rules for mining big data streams",
@@ -78,8 +73,7 @@
       "year": "2014",
       "venue": "International Conference on Big Data",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/bigdata.2014.7004251",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/bigdata.2014.7004251"
     },
     "BIBREF7": {
       "title": "Mining high-speed data streams",
@@ -90,8 +84,7 @@
       "year": "2000",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/347090.347107",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/347090.347107"
     },
     "BIBREF8": {
       "title": "The pathologies of big data",
@@ -101,8 +94,7 @@
       "year": "2009",
       "venue": "ACM Queue",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1536616.1536632",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1536616.1536632"
     },
     "BIBREF9": {
       "title": "On evaluating stream learning algorithms",
@@ -114,8 +106,7 @@
       "year": "2013",
       "venue": "Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Scalable Online Betweenness Centrality in Evolving Graphs",
@@ -127,8 +118,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/1401.6981",
-      "doi_link": "https://doi.org/10.1109/tkde.2015.2419666",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tkde.2015.2419666"
     },
     "BIBREF11": {
       "title": "Dynamic Matrix Factorization with Priors on Unknown Values",
@@ -140,8 +130,7 @@
       "year": "2015",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": "https://arxiv.org/abs/1507.06452",
-      "doi_link": "https://doi.org/10.1145/2783258.2783346",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2783258.2783346"
     },
     "BIBREF13": {
       "title": "Learning model trees from evolving data streams",
@@ -153,8 +142,7 @@
       "year": "2011",
       "venue": "Data Mining and Knowledge Discovery",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-540-88411-8_8",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-88411-8_8"
     },
     "BIBREF14": {
       "title": "A survey on concept drift adaptation",
@@ -168,8 +156,7 @@
       "year": "2014",
       "venue": "ACM Computing Surveys",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "SAMOA: scalable advanced massive online analysis",
@@ -180,8 +167,7 @@
       "year": "2015",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "The power of both choices: Practical load balancing for distributed stream processing engines",
@@ -195,8 +181,7 @@
       "year": "2015",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/1504.00788",
-      "doi_link": "https://doi.org/10.1109/icde.2015.7113279",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2015.7113279"
     },
     "BIBREF17": {
       "title": "MOA: Massive Online Analysis",
@@ -209,8 +194,7 @@
       "year": "2010",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "A Streaming Parallel Decision Tree Algorithm",
@@ -221,8 +205,7 @@
       "year": "2010",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF19": {
       "title": "MapReduce: simplified data processing on large clusters",
@@ -232,8 +215,7 @@
       "year": "2008",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1327452.1327492",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1327452.1327492"
     },
     "BIBREF20": {
       "title": "Online Bagging and Boosting.",
@@ -244,8 +226,7 @@
       "year": "2001",
       "venue": "International Conference on Artificial Intelligence and Statistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF21": {
       "title": "Mean Birds: Detecting Aggression and Bullying on Twitter",
@@ -260,8 +241,7 @@
       "year": "2017",
       "venue": "Web Science",
       "arxiv_link": "https://arxiv.org/abs/1702.06877",
-      "doi_link": "https://doi.org/10.1145/3091478.3091487",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/3091478.3091487"
     },
     "BIBREF22": {
       "title": "BoostVHT: Boosting Distributed Streaming Decision Trees",
@@ -273,8 +253,7 @@
       "year": "2017",
       "venue": "Conference on Information and Knowledge Management",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/3132847.3132974",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/3132847.3132974"
     },
     "BIBREF23": {
       "title": "VHT: Vertical hoeffding tree",
@@ -287,8 +266,7 @@
       "year": "2016",
       "venue": "International Conference on Big Data",
       "arxiv_link": "https://arxiv.org/abs/1607.08325",
-      "doi_link": "https://doi.org/10.1109/bigdata.2016.7840687",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/bigdata.2016.7840687"
     },
     "BIBREF24": {
       "title": "When two choices are not enough: Balancing at scale in Distributed Stream Processing",
@@ -301,8 +279,7 @@
       "year": "2016",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/1510.05714",
-      "doi_link": "https://doi.org/10.1109/icde.2016.7498273",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2016.7498273"
     }
   }
 }

@@ -13,8 +13,7 @@
       "year": "2014",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2567948.2579273",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2567948.2579273"
     },
     "BIBREF1": {
       "title": "Validating models for disease detection using twitter",
@@ -25,8 +24,7 @@
       "year": "2013",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2487788.2488027",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2487788.2488027"
     },
     "BIBREF2": {
       "title": "Introducing Patient and Dentist Profiling and Crowdsourcing to Improve Trust in Dental Care Recommendation Systems",
@@ -37,8 +35,7 @@
       "year": "2014",
       "venue": "International Conference on Trust Management",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-662-43813-8_16",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-662-43813-8_16"
     },
     "BIBREF3": {
       "title": "Crowdsourcing the Verification of Relationships in Biomedical Ontologies",
@@ -50,8 +47,7 @@
       "year": "2013",
       "venue": "American Medical Informatics Association Annual Symposium",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Crowdsourcing health literacy: the case of an online community",
@@ -61,8 +57,7 @@
       "year": "2013",
       "venue": "ASIST '13 Proceedings of the 76th ASIS&T Annual Meeting: Beyond the Cloud: Rethinking Information Boundaries",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/meet.14505001119",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/meet.14505001119"
     },
     "BIBREF6": {
       "title": "A Computational Model of Crowds for Collective Intelligence",
@@ -74,8 +69,7 @@
       "year": "2014",
       "venue": "arXiv: Computers and Society",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Comparison of Association Rule Mining and Crowdsourcing for Automated Generation of a Problem-Medication Knowledge Base",
@@ -87,8 +81,7 @@
       "year": "2012",
       "venue": "IEEE International Conference on Healthcare Informatics, Imaging and Systems Biology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/hisb.2012.50",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/hisb.2012.50"
     },
     "BIBREF8": {
       "title": "Provider impressions of the use of a mobile crowdsourcing app in medical practice",
@@ -101,8 +94,7 @@
       "year": "2016",
       "venue": "Health Informatics Journal",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1177/1460458214545896",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1177/1460458214545896"
     },
     "BIBREF9": {
       "title": "Facebook for health: opportunities and challenges for driving behavior change",
@@ -117,8 +109,7 @@
       "year": "2011",
       "venue": "Human Factors in Computing Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1979742.1979489",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1979742.1979489"
     },
     "BIBREF10": {
       "title": "From Conservation to Crowdsourcing: A Typology of Citizen Science",
@@ -129,8 +120,7 @@
       "year": "2011",
       "venue": "Hawaii International Conference on System Sciences",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/hicss.2011.207",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/hicss.2011.207"
     },
     "BIBREF11": {
       "title": "Collaborative health care plan support",
@@ -143,8 +133,7 @@
       "year": "2013",
       "venue": "Adaptive Agents and Multi-Agents Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Platemate: crowdsourcing nutritional analysis from food photographs",
@@ -157,8 +146,7 @@
       "year": "2011",
       "venue": "User Interface Software and Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2047196.2047198",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2047196.2047198"
     },
     "BIBREF13": {
       "title": "Online labor markets",
@@ -168,8 +156,7 @@
       "year": "2010",
       "venue": "Workshop on Internet and Network Economics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.2139/ssrn.1689743",
-      "other_link": null
+      "doi_link": "https://doi.org/10.2139/ssrn.1689743"
     },
     "BIBREF14": {
       "title": "Terse Message Amplification in the Boston Bombing Response",
@@ -184,8 +171,7 @@
       "year": "2014",
       "venue": "International Conference on Information Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "A theoretical model of user engagement in crowdsourcing",
@@ -200,8 +186,7 @@
       "year": "2013",
       "venue": "Post-Print",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

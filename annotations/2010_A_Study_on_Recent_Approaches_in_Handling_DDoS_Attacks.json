@@ -12,8 +12,7 @@
       "year": "2003",
       "venue": "International Conference on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icc.2003.1204223",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icc.2003.1204223"
     },
     "BIBREF1": {
       "title": "StackPi: New Packet Marking and Filtering Mechanisms for DDoS and IP Spoofing Defense",
@@ -25,8 +24,7 @@
       "year": "2006",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/jsac.2006.877138",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jsac.2006.877138"
     },
     "BIBREF3": {
       "title": "On IP traceback",
@@ -37,8 +35,7 @@
       "year": "2003",
       "venue": "IEEE Communications Magazine",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "IFTS: intrusion forecast and traceback based on union defense environment",
@@ -50,8 +47,7 @@
       "year": "2005",
       "venue": "International Conference on Parallel and Distributed Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icpads.2005.170",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icpads.2005.170"
     },
     "BIBREF6": {
       "title": "Cooperative Defence against DDoS Attacks",
@@ -62,8 +58,7 @@
       "year": "2006",
       "venue": "Journal of Research and Practice in Information Technology",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "SIFF: a stateless Internet flow filter to mitigate DDoS flooding attacks",
@@ -75,8 +70,7 @@
       "year": "2004",
       "venue": "IEEE Symposium on Security and Privacy",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/secpri.2004.1301320",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/secpri.2004.1301320"
     },
     "BIBREF8": {
       "title": "A Defense System against DDoS Attacks by Large-Scale IP Traceback",
@@ -87,8 +81,7 @@
       "year": "2005",
       "venue": "International Conference on Information Technology and Applications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "You can run, but you can't hide: an effective statistical methodology to trace back DDoS attackers",
@@ -100,8 +93,7 @@
       "year": "2005",
       "venue": "IEEE Transactions on Parallel and Distributed Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tpds.2005.114",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpds.2005.114"
     },
     "BIBREF10": {
       "title": "Space-time encoding scheme for DDoS attack traceback",
@@ -112,8 +104,7 @@
       "year": "2005",
       "venue": "Global Communications Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/glocom.2005.1577967",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/glocom.2005.1577967"
     },
     "BIBREF11": {
       "title": "Single-packet IP traceback",
@@ -130,8 +121,7 @@
       "year": "2002",
       "venue": "IEEE ACM Transactions on Networking",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tnet.2002.804827",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tnet.2002.804827"
     },
     "BIBREF12": {
       "title": "EFFECTIVENESS OF RATE-LIMITING IN MITIGATING FLOODING DOS ATTACKS",
@@ -141,8 +131,7 @@
       "year": "2004",
       "venue": "Communications, Internet, and Information Technology",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Filtering of shrew DDoS attacks in frequency domain",
@@ -154,8 +143,7 @@
       "year": "2005",
       "venue": "Local Computer Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/lcn.2005.70",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lcn.2005.70"
     },
     "BIBREF14": {
       "title": "Efficient probabilistic packet marking",
@@ -168,8 +156,7 @@
       "year": "2005",
       "venue": "International Conference on Network Protocols",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icnp.2005.15",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icnp.2005.15"
     },
     "BIBREF15": {
       "title": "Novel hybrid schemes employing packet marking and logging for IP traceback",
@@ -180,8 +167,7 @@
       "year": "2006",
       "venue": "IEEE Transactions on Parallel and Distributed Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tpds.2006.63",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpds.2006.63"
     },
     "BIBREF16": {
       "title": "Vulnerability analysis of IP traceback schemes",
@@ -193,8 +179,7 @@
       "year": "2005",
       "venue": "Global Communications Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/glocom.2005.1577960",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/glocom.2005.1577960"
     },
     "BIBREF17": {
       "title": "Architecture for multi-stage network attack traceback",
@@ -208,8 +193,7 @@
       "year": "2005",
       "venue": "Local Computer Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/lcn.2005.33",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lcn.2005.33"
     },
     "BIBREF18": {
       "title": "O2-DN: An Overlay-based Distributed Rate Limit Framework to Defeat DDoS Attacks",
@@ -222,8 +206,7 @@
       "year": "2006",
       "venue": "International Conference on Networking",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icniconsmcl.2006.159",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icniconsmcl.2006.159"
     },
     "BIBREF19": {
       "title": "Controlling high bandwidth aggregates in the network",
@@ -238,8 +221,7 @@
       "year": "2002",
       "venue": "ACM Special Interest Group on Data Communication",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/571697.571724",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/571697.571724"
     },
     "BIBREF20": {
       "title": "Adaptive distributed traffic control service for DDoS attack mitigation",
@@ -251,8 +233,7 @@
       "year": "2005",
       "venue": "International Parallel and Distributed Processing Symposium",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/ipdps.2005.76",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ipdps.2005.76"
     },
     "BIBREF21": {
       "title": "An analysis of using reflectors for distributed denial-of-service attacks",
@@ -262,8 +243,7 @@
       "year": "2001",
       "venue": "ACM Special Interest Group on Data Communication",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF22": {
       "title": "A Distributed-Log-based IP Traceback Scheme to Defeat DDoS Attacks",
@@ -277,8 +257,7 @@
       "year": "2006",
       "venue": "Advanced Information Networking and Applications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

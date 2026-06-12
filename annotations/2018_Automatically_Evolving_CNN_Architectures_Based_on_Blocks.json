@@ -12,8 +12,7 @@
       "year": "2013",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Going deeper with convolutions",
@@ -31,8 +30,7 @@
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1409.4842",
-      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298594",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298594"
     },
     "BIBREF7": {
       "title": "Deep Residual Learning for Image Recognition",
@@ -45,8 +43,7 @@
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1605.07648",
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Neural Architecture Search with Reinforcement Learning",
@@ -57,8 +54,7 @@
       "year": "2016",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Practical Network Blocks Design with Q-Learning.",
@@ -70,8 +66,7 @@
       "year": "2017",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "Genetic CNN",
@@ -82,8 +77,7 @@
       "year": "2017",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "Sequence to Sequence Learning with Neural Networks",
@@ -95,8 +89,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF19": {
       "title": "Skip Connections Eliminate Singularities.",
@@ -107,8 +100,7 @@
       "year": "2017",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

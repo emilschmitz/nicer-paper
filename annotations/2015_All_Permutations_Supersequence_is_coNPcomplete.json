@@ -10,8 +10,7 @@
       "year": "2012",
       "venue": "Electronic Journal of Combinatorics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Short permutation strings",
@@ -21,8 +20,7 @@
       "year": "1974",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0012-365x(74)90116-2",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0012-365x(74)90116-2"
     },
     "BIBREF2": {
       "title": "The Complexity of Some Problems on Subsequences and Supersequences",
@@ -32,8 +30,7 @@
       "year": "1978",
       "venue": "Journal of the ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/322063.322075",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/322063.322075"
     },
     "BIBREF3": {
       "title": "The shortest common supersequence problem over binary alphabet is NP-complete",
@@ -44,8 +41,7 @@
       "year": "1981",
       "venue": "Theoretical Computer Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0304-3975(81)90075-x",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0304-3975(81)90075-x"
     },
     "BIBREF4": {
       "title": "Shortest string containing all permutations",
@@ -55,8 +51,7 @@
       "year": "1980",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0012-365x(80)90177-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0012-365x(80)90177-6"
     },
     "BIBREF5": {
       "title": "On computing the length of longest increasing subsequences",
@@ -66,8 +61,7 @@
       "year": "1975",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "Shortest string containing all permutations",
@@ -78,8 +72,7 @@
       "year": "1975",
       "venue": "Discrete Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0012-365x(80)90177-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0012-365x(80)90177-6"
     },
     "BIBREF7": {
       "title": "Minimizing Makespan in a Two-Machine Flow Shop with Delays and Unit-Time Operations is NP-Hard",
@@ -91,8 +84,7 @@
       "year": "2004",
       "venue": "Journal of Scheduling",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1023/b:josh.0000036858.59787.c2",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1023/b:josh.0000036858.59787.c2"
     },
     "BIBREF8": {
       "title": "A lower bound on the length of a sequence containing all permutations as subsequences",
@@ -103,8 +95,7 @@
       "year": "1976",
       "venue": "Journal of Combinatorial Theory, Series A",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "An optimal algorithm for the maximum alignment of terminals",
@@ -115,8 +106,7 @@
       "year": "1985",
       "venue": "Information Processing Letters",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Universal traversal sequences with backtracking",
@@ -126,8 +116,7 @@
       "year": "2001",
       "venue": "Conference on Computational Complexity",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s0022-0000(02)00023-5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s0022-0000(02)00023-5"
     },
     "BIBREF11": {
       "title": "Random walks, universal traversal sequences, and the complexity of maze problems",
@@ -141,8 +130,7 @@
       "year": "1979",
       "venue": "Foundations of Computer Science",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/sfcs.1979.34",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/sfcs.1979.34"
     },
     "BIBREF12": {
       "title": "Permutation Reconstruction from Differences",
@@ -152,8 +140,7 @@
       "year": "2014",
       "venue": "Electronic Journal of Combinatorics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

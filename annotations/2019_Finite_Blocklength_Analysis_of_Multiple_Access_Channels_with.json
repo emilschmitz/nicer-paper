@@ -10,8 +10,7 @@
       "year": "2010",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "The Third-Order Term in the Normal Approximation for the AWGN Channel",
@@ -22,8 +21,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1311.2337",
-      "doi_link": "https://doi.org/10.1109/tit.2015.2411256",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2015.2411256"
     },
     "BIBREF2": {
       "title": "Quasi-Static Multiple-Antenna Fading Channels at Finite Blocklength",
@@ -36,8 +34,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1311.2012",
-      "doi_link": "https://doi.org/10.1109/tit.2014.2318726",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2014.2318726"
     },
     "BIBREF3": {
       "title": "Coding and Decoding for the Dynamic Decode and Forward Relay Protocol",
@@ -48,8 +45,7 @@
       "year": "2009",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/0801.2588",
-      "doi_link": "https://doi.org/10.1109/tit.2009.2021320",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2009.2021320"
     },
     "BIBREF4": {
       "title": "Finite Block-Length Analysis of the Incremental Redundancy HARQ",
@@ -61,8 +57,7 @@
       "year": "2014",
       "venue": "IEEE Wireless Communications Letters",
       "arxiv_link": "https://arxiv.org/abs/1409.3330",
-      "doi_link": "https://doi.org/10.1109/lwc.2014.2353059",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lwc.2014.2353059"
     },
     "BIBREF5": {
       "title": "Finite-blocklength analysis of the ARQ-protocol throughput over the Gaussian collision channel",
@@ -75,8 +70,7 @@
       "year": "2014",
       "venue": "International Symposium on Communications, Control and Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/isccsp.2014.6877843",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/isccsp.2014.6877843"
     },
     "BIBREF6": {
       "title": "Relay-Assisted Multiple Access With Full-Duplex Multi-Packet Reception",
@@ -89,8 +83,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1310.2773",
-      "doi_link": "https://doi.org/10.1109/twc.2015.2408319",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2015.2408319"
     },
     "BIBREF7": {
       "title": "An Improved Approximation for the Gaussian Q-Function",
@@ -101,8 +94,7 @@
       "year": "2007",
       "venue": "IEEE Communications Letters",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Channel Coding Rate in the Finite Blocklength Regime",
@@ -114,8 +106,7 @@
       "year": "2010",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tit.2010.2043769",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2010.2043769"
     },
     "BIBREF9": {
       "title": "Stable Throughput of Cognitive Radios With and Without Relaying Capability",
@@ -127,8 +118,7 @@
       "year": "2007",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tcomm.2007.910699",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tcomm.2007.910699"
     },
     "BIBREF10": {
       "title": "Protocol design and throughput analysis for multi-user cognitive cooperative systems",
@@ -141,8 +131,7 @@
       "year": "2009",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/twc.2009.081310",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2009.081310"
     },
     "BIBREF11": {
       "title": "Feedback in the Non-Asymptotic Regime",
@@ -154,8 +143,7 @@
       "year": "2011",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tit.2011.2158476",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2011.2158476"
     },
     "BIBREF12": {
       "title": "Single-input two-way SIMO channel: diversity-multiplexing tradeoff with two-way training",
@@ -166,8 +154,7 @@
       "year": "2008",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/t-wc.2008.070303",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/t-wc.2008.070303"
     },
     "BIBREF13": {
       "title": "One-shot capacity of discrete channels",
@@ -179,8 +166,7 @@
       "year": "2010",
       "venue": "International Symposium on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1006.0334",
-      "doi_link": "https://doi.org/10.1109/isit.2010.5513244",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/isit.2010.5513244"
     },
     "BIBREF14": {
       "title": "Cognitive multiple access via cooperation: Protocol design and performance analysis",
@@ -192,8 +178,7 @@
       "year": "2007",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tit.2007.904784",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2007.904784"
     },
     "BIBREF15": {
       "title": "Information theory and communication networks: an unconsummated union",
@@ -204,8 +189,7 @@
       "year": "1998",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/18.720543",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/18.720543"
     },
     "BIBREF16": {
       "title": "Toward Massive, Ultrareliable, and Low-Latency Wireless Communication With Short Packets",
@@ -217,8 +201,7 @@
       "year": "2016",
       "venue": "Proceedings of the IEEE",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/jproc.2016.2537298",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jproc.2016.2537298"
     },
     "BIBREF17": {
       "title": "A Survey on Buffer-Aided Relay Selection",
@@ -234,8 +217,7 @@
       "year": "2016",
       "venue": "IEEE Communications Surveys and Tutorials",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "On short-length error-correcting codes for 5G-NR",
@@ -248,8 +230,7 @@
       "year": "2018",
       "venue": "Ad Hoc Networks",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF19": {
       "title": "Finite Blocklength Analysis of the Multiple Access Relay Channel with Batch-and-Forward Strategy",
@@ -261,8 +242,7 @@
       "year": "2019",
       "venue": "International Conference on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icc.2019.8761215",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icc.2019.8761215"
     },
     "BIBREF20": {
       "title": "Stability of a TDMA Network Subject to Finite Blocklength Constraints",
@@ -274,8 +254,7 @@
       "year": "2019",
       "venue": "International Conference on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icc.2019.8761053",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icc.2019.8761053"
     },
     "BIBREF21": {
       "title": "Finite-blocklength bounds for wiretap channels",
@@ -287,8 +266,7 @@
       "year": "2016",
       "venue": "International Symposium on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1601.06055",
-      "doi_link": "https://doi.org/10.1109/isit.2016.7541867",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/isit.2016.7541867"
     },
     "BIBREF22": {
       "title": "Ultra-Reliable Short-Packet Communications: Half-Duplex or Full-Duplex Relaying?",
@@ -301,8 +279,7 @@
       "year": "2018",
       "venue": "IEEE Wireless Communications Letters",
       "arxiv_link": "https://arxiv.org/abs/1711.08199",
-      "doi_link": "https://doi.org/10.1109/lwc.2017.2777857",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lwc.2017.2777857"
     }
   }
 }

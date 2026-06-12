@@ -11,8 +11,7 @@
       "year": "2009",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206621",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206621"
     },
     "BIBREF6": {
       "title": "Privacy preserving crowd monitoring: Counting people without people models or tracking",
@@ -24,8 +23,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587569",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587569"
     },
     "BIBREF7": {
       "title": "Density-aware person detection and tracking in crowds",
@@ -38,8 +36,7 @@
       "year": "2011",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2011.6126526",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126526"
     }
   }
 }

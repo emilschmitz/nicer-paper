@@ -11,8 +11,7 @@
       "year": "2004",
       "venue": "Ambient Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-540-30473-9_1",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-30473-9_1"
     },
     "BIBREF1": {
       "title": "Finding and Navigating to Household Objects with UHF RFID Tags by Optimizing RF Signal Strength",
@@ -24,8 +23,7 @@
       "year": "2014",
       "venue": "Intelligent Robots and Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iros.2014.6942914",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iros.2014.6942914"
     },
     "BIBREF2": {
       "title": "In-hand radio frequency identification (RFID) for robotic manipulation",
@@ -38,8 +36,7 @@
       "year": "2013",
       "venue": "International Conference on Robotics and Automation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icra.2013.6630729",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icra.2013.6630729"
     },
     "BIBREF3": {
       "title": "Older adults' medication management in the home: how can robots help?",
@@ -56,8 +53,7 @@
       "year": "2013",
       "venue": "Human-Robot Interaction",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/hri.2013.6483600",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/hri.2013.6483600"
     },
     "BIBREF4": {
       "title": "Report from the field: results from an agricultural wireless sensor network",
@@ -69,8 +65,7 @@
       "year": "2004",
       "venue": "Local Computer Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/lcn.2004.105",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lcn.2004.105"
     },
     "BIBREF5": {
       "title": "Mobile robot localization in indoor environment using RFID and sonar fusion system",
@@ -81,8 +76,7 @@
       "year": "2009",
       "venue": "Intelligent Robots and Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iros.2009.5354104",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iros.2009.5354104"
     },
     "BIBREF6": {
       "title": "A Review of Wireless Sensor Technologies and Applications in Agriculture and Food Industry: State of the Art and Current Trends",
@@ -95,8 +89,7 @@
       "year": "2009",
       "venue": "Sensors",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "RFID Technology-based Exploration and SLAM for Search And Rescue",
@@ -108,8 +101,7 @@
       "year": "2006",
       "venue": "Intelligent Robots and Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iros.2006.281867",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iros.2006.281867"
     },
     "BIBREF8": {
       "title": "Modeling RFID signal strength and tag detection for localization and mapping",
@@ -121,8 +113,7 @@
       "year": "2009",
       "venue": "International Conference on Robotics and Automation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/robot.2009.5152372",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/robot.2009.5152372"
     },
     "BIBREF10": {
       "title": "Revisiting Smart Dust with RFID Sensor Networks.",
@@ -136,8 +127,7 @@
       "year": "2008",
       "venue": "HotNets",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

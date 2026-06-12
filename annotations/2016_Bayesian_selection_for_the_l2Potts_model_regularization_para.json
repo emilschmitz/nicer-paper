@@ -12,8 +12,7 @@
       "year": "2016",
       "venue": "SIAM Journal on Scientific Computing",
       "arxiv_link": "https://arxiv.org/abs/1504.00499",
-      "doi_link": "https://doi.org/10.1137/15m101796x",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1137/15m101796x"
     },
     "BIBREF1": {
       "title": "Jump-Sparse and Sparse Recovery Using Potts Functionals",
@@ -25,8 +24,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": "https://arxiv.org/abs/1304.4373",
-      "doi_link": "https://doi.org/10.1109/tsp.2014.2329263",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tsp.2014.2329263"
     },
     "BIBREF2": {
       "title": "Unbiased risk estimation for sparse analysis regularization",
@@ -40,8 +38,7 @@
       "year": "2012",
       "venue": "International Conference on Image Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icip.2012.6467544",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icip.2012.6467544"
     },
     "BIBREF3": {
       "title": "Convex 1-D Total Variation Denoising with Non-convex Regularization",
@@ -53,8 +50,7 @@
       "year": "2015",
       "venue": "IEEE Signal Processing Letters",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/lsp.2014.2349356",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lsp.2014.2349356"
     },
     "BIBREF4": {
       "title": "A Direct Algorithm for 1-D Total Variation Denoising",
@@ -64,8 +60,7 @@
       "year": "2013",
       "venue": "IEEE Signal Processing Letters",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Review: Adaptive total variation image deblurring: A majorization-minimization approach",
@@ -77,8 +72,7 @@
       "year": "2009",
       "venue": "Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.sigpro.2009.03.018",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.sigpro.2009.03.018"
     },
     "BIBREF6": {
       "title": "An application of MCMC methods for the multiple change-points problem",
@@ -89,8 +83,7 @@
       "year": "2001",
       "venue": "Signal Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "A SURE Approach for Digital Signal/Image Deconvolution Problems",
@@ -102,8 +95,7 @@
       "year": "2009",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Joint segmentation of wind speed and direction using a hierarchical model",
@@ -114,8 +106,7 @@
       "year": "2007",
       "venue": "Computational Statistics & Data Analysis",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.csda.2007.04.016",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.csda.2007.04.016"
     },
     "BIBREF9": {
       "title": "Bayesian curve fitting using MCMC with applications to signal segmentation",
@@ -128,8 +119,7 @@
       "year": "2002",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/78.984776",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/78.984776"
     },
     "BIBREF10": {
       "title": "Estimating the Granularity Coefficient of a Potts-Markov Random Field Within a Markov Chain Monte Carlo Algorithm",
@@ -142,8 +132,7 @@
       "year": "2013",
       "venue": "IEEE Transactions on Image Processing",
       "arxiv_link": "https://arxiv.org/abs/1207.5355",
-      "doi_link": "https://doi.org/10.1109/tip.2013.2249076",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tip.2013.2249076"
     },
     "BIBREF11": {
       "title": "Blind Deconvolution of Sparse Pulse Sequences Under a Minimum Distance Constraint: A Partially Collapsed Gibbs Sampler Method",
@@ -156,8 +145,7 @@
       "year": "2012",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tsp.2012.2190066",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tsp.2012.2190066"
     },
     "BIBREF12": {
       "title": "Fast Partitioning of Vector-Valued Images ∗",
@@ -168,8 +156,7 @@
       "year": "2014",
       "venue": "Siam Journal on Imaging Sciences",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1137/130950367",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1137/130950367"
     },
     "BIBREF13": {
       "title": "Joint Segmentation of Piecewise Constant Autoregressive Processes by Using a Hierarchical Model and a Bayesian Sampling Approach",
@@ -181,8 +168,7 @@
       "year": "2007",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2006.1660575",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2006.1660575"
     },
     "BIBREF14": {
       "title": "Building robust wavelet estimators for multicomponent images using Stein's principle",
@@ -193,8 +179,7 @@
       "year": "2005",
       "venue": "IEEE Transactions on Image Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tip.2005.857247",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tip.2005.857247"
     },
     "BIBREF15": {
       "title": "Joint Segmentation of Multivariate Astronomical Time Series: Bayesian Sampling With a Hierarchical Model",
@@ -206,8 +191,7 @@
       "year": "2007",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tsp.2006.885768",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tsp.2006.885768"
     },
     "BIBREF16": {
       "title": "Iterative methods for total variation denoising",
@@ -218,8 +202,7 @@
       "year": "1996",
       "venue": "SIAM Journal on Scientific Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1137/0917016",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1137/0917016"
     },
     "BIBREF17": {
       "title": "Optimal segmentation of random processes",
@@ -229,8 +212,7 @@
       "year": "1998",
       "venue": "IEEE Transactions on Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/78.668798",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/78.668798"
     },
     "BIBREF18": {
       "title": "Maximum-a-posteriori estimation with unknown regularisation parameters",
@@ -242,8 +224,7 @@
       "year": "2015",
       "venue": "European Signal Processing Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/eusipco.2015.7362379",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/eusipco.2015.7362379"
     },
     "BIBREF19": {
       "title": "Relabelling vertices according to the network structure by minimizing the cyclic bandwidth sum",
@@ -256,8 +237,7 @@
       "year": "2016",
       "venue": "Journal of Complex Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1093/comnet/cnw006",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1093/comnet/cnw006"
     }
   }
 }

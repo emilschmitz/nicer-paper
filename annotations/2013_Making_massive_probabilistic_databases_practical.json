@@ -12,8 +12,7 @@
       "year": "2002",
       "venue": "Intelligent Information Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1023/a:1020197923385",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1023/a:1020197923385"
     },
     "BIBREF1": {
       "title": "Managing and Mining Uncertain Data",
@@ -23,8 +22,7 @@
       "year": "2009",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-0-387-09690-2",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-0-387-09690-2"
     },
     "BIBREF2": {
       "title": "Scalable probabilistic databases with factor graphs and MCMC",
@@ -36,8 +34,7 @@
       "year": "2010",
       "venue": "Very Large Data Bases",
       "arxiv_link": "https://arxiv.org/abs/1005.1934",
-      "doi_link": "https://doi.org/10.14778/1920841.1920942",
-      "other_link": null
+      "doi_link": "https://doi.org/10.14778/1920841.1920942"
     },
     "BIBREF3": {
       "title": "The trichotomy of HAVING queries on a probabilistic database",
@@ -48,8 +45,7 @@
       "year": "2009",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s00778-009-0151-4",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s00778-009-0151-4"
     },
     "BIBREF4": {
       "title": "The DataPath system: a data-centric analytic processing engine for large data warehouses",
@@ -63,8 +59,7 @@
       "year": "2010",
       "venue": "International Conference on Management of Data",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1807167.1807224",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1807167.1807224"
     },
     "BIBREF5": {
       "title": "Incomplete Information in Relational Databases",
@@ -75,8 +70,7 @@
       "year": "1984",
       "venue": "Journal of the ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1634.1886",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1634.1886"
     },
     "BIBREF6": {
       "title": "GLADE: a scalable framework for efficient analytics",
@@ -87,8 +81,7 @@
       "year": "2012",
       "venue": "Operating Systems Review",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2146382.2146386",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2146382.2146386"
     },
     "BIBREF7": {
       "title": "Generalizing database relational algebra for the treatment of incomplete or uncertain information and vague queries",
@@ -99,8 +92,7 @@
       "year": "1984",
       "venue": "Information Sciences",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0020-0255(84)90020-3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0020-0255(84)90020-3"
     },
     "BIBREF8": {
       "title": "Efficient query evaluation on probabilistic databases",
@@ -111,8 +103,7 @@
       "year": "2004",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icde.2007.367934",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2007.367934"
     },
     "BIBREF9": {
       "title": "Probabilistic databases: diamonds in the dirt",
@@ -124,8 +115,7 @@
       "year": "2009",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1538788.1538810",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1538788.1538810"
     },
     "BIBREF10": {
       "title": "Aggregation in probabilistic databases via knowledge compilation",
@@ -137,8 +127,7 @@
       "year": "2012",
       "venue": "Very Large Data Bases",
       "arxiv_link": "https://arxiv.org/abs/1201.6569",
-      "doi_link": "https://doi.org/10.14778/2140436.2140445",
-      "other_link": null
+      "doi_link": "https://doi.org/10.14778/2140436.2140445"
     },
     "BIBREF11": {
       "title": "The management of probabilistic data",
@@ -150,8 +139,7 @@
       "year": "1992",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/69.166990",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/69.166990"
     },
     "BIBREF13": {
       "title": "Fast and Simple Relational Processing of Uncertain Data",
@@ -164,8 +152,7 @@
       "year": "2008",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/0707.1644",
-      "doi_link": "https://doi.org/10.1109/icde.2008.4497507",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2008.4497507"
     },
     "BIBREF14": {
       "title": "Probabilistic ranking of database query results",
@@ -178,8 +165,7 @@
       "year": "2004",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/b978-012088469-8.50078-4",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/b978-012088469-8.50078-4"
     },
     "BIBREF15": {
       "title": "Automated Ranking of Database Query Results",
@@ -192,8 +178,7 @@
       "year": "2003",
       "venue": "Conference on Innovative Data Systems Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "SPROUT: Lazy vs. Eager Query Plans for Tuple-Independent Probabilistic Databases",
@@ -205,8 +190,7 @@
       "year": "2009",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icde.2009.123",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2009.123"
     },
     "BIBREF17": {
       "title": "A fast Fourier transform compiler",
@@ -216,8 +200,7 @@
       "year": "1999",
       "venue": "Programming Language Design and Implementation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "Models for incomplete and probabilistic information",
@@ -228,8 +211,7 @@
       "year": "2006",
       "venue": "Extending Database Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-0-387-09690-2_2",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-0-387-09690-2_2"
     },
     "BIBREF19": {
       "title": "Provenance semirings",
@@ -241,8 +223,7 @@
       "year": "2007",
       "venue": "Symposium on Principles of Database Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1265530.1265535",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1265530.1265535"
     },
     "BIBREF20": {
       "title": "Probabilistic Databases",
@@ -252,8 +233,7 @@
       "year": "2011",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

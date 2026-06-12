@@ -12,8 +12,7 @@
       "year": "2006",
       "venue": "ACM Multimedia",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1180639.1180654",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1180639.1180654"
     },
     "BIBREF4": {
       "title": "Supervised reranking for web image search",
@@ -24,8 +23,7 @@
       "year": "2010",
       "venue": "ACM Multimedia",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1873951.1873977",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1873951.1873977"
     },
     "BIBREF6": {
       "title": "Decomposition, discovery and detection of visual categories using topic models",
@@ -36,8 +34,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587803",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587803"
     },
     "BIBREF7": {
       "title": "OPTIMOL: automatic Online Picture collecTion via Incremental MOdel Learning",
@@ -49,8 +46,7 @@
       "year": "2007",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11263-009-0265-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11263-009-0265-6"
     },
     "BIBREF8": {
       "title": "Learning object categories from Google's image search",
@@ -63,8 +59,7 @@
       "year": "2005",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2005.142",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2005.142"
     }
   }
 }

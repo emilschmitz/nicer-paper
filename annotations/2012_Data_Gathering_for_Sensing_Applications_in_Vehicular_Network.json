@@ -15,8 +15,7 @@
       "year": "2004",
       "venue": "International Conference on Information Networking",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "A Dominating-Set-Based Routing Scheme in Ad Hoc Wireless Networks",
@@ -27,8 +26,7 @@
       "year": "2001",
       "venue": "Telecommunication Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "On the Broadcast Storm Problem in Ad hoc Wireless Networks",
@@ -43,8 +41,7 @@
       "year": "2006",
       "venue": "Broadband Communications, Networks and Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "A study on the feasibility of mobile gateways for vehicular ad-hoc networks",
@@ -56,8 +53,7 @@
       "year": "2004",
       "venue": "Ad Hoc Networks",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF6": {
       "title": "Contextual Communications Congestion Control for Cooperative Vehicular Networks",
@@ -70,8 +66,7 @@
       "year": "2011",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/twc.2010.120610.100079",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/twc.2010.120610.100079"
     },
     "BIBREF10": {
       "title": "Dissemination and Harvesting of Urban Data Using Vehicular Sensing Platforms",
@@ -85,8 +80,7 @@
       "year": "2009",
       "venue": "IEEE Transactions on Vehicular Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tvt.2008.928899",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tvt.2008.928899"
     },
     "BIBREF12": {
       "title": "Contention-Based Forwarding for Mobile Ad-Hoc Networks",
@@ -100,8 +94,7 @@
       "year": "2003",
       "venue": "Ad Hoc Networks",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/s1570-8705(03)00038-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/s1570-8705(03)00038-6"
     },
     "BIBREF13": {
       "title": "Location-Aware Services over Vehicular Ad-Hoc Networks using Car-to-Car Communication",
@@ -114,8 +107,7 @@
       "year": "2007",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/jsac.2007.071008",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jsac.2007.071008"
     },
     "BIBREF14": {
       "title": "Adaptive clustering for mobile wireless networks",
@@ -126,8 +118,7 @@
       "year": "1997",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/49.622910",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/49.622910"
     },
     "BIBREF15": {
       "title": "CarTel: a distributed mobile sensor computing system",
@@ -145,8 +136,7 @@
       "year": "2006",
       "venue": "International Conference on Embedded Networked Sensor Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1182807.1182821",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1182807.1182821"
     }
   }
 }

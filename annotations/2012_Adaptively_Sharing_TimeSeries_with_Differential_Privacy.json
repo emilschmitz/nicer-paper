@@ -13,8 +13,7 @@
       "year": "2009",
       "venue": "",
       "arxiv_link": "https://arxiv.org/abs/0904.0942",
-      "doi_link": "https://doi.org/10.14778/1920841.1920970",
-      "other_link": null
+      "doi_link": "https://doi.org/10.14778/1920841.1920970"
     },
     "BIBREF1": {
       "title": "Private and Continual Release of Statistics",
@@ -26,8 +25,7 @@
       "year": "2011",
       "venue": "ACM Transactions on Information and System Security",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2043621.2043626",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2043621.2043626"
     },
     "BIBREF3": {
       "title": "Privacy integrated queries: an extensible platform for privacy-preserving data analysis",
@@ -37,8 +35,7 @@
       "year": "2009",
       "venue": "International Conference on Management of Data",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1810891.1810916",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1810891.1810916"
     },
     "BIBREF4": {
       "title": "Differentially private aggregation of distributed time-series with transformation and encryption",
@@ -49,8 +46,7 @@
       "year": "2010",
       "venue": "International Conference on Management of Data",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1807167.1807247",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1807167.1807247"
     },
     "BIBREF5": {
       "title": "Differentially private data release through multidimensional partitioning",
@@ -62,8 +58,7 @@
       "year": "2010",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-15546-8_11",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-15546-8_11"
     },
     "BIBREF6": {
       "title": "Time series compressibility and privacy",
@@ -76,8 +71,7 @@
       "year": "2007",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "A learning theory approach to non-interactive database privacy",
@@ -89,8 +83,7 @@
       "year": "2008",
       "venue": "Symposium on the Theory of Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Releasing search queries and clicks privately",
@@ -103,8 +96,7 @@
       "year": "2009",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1526709.1526733",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1526709.1526733"
     }
   }
 }

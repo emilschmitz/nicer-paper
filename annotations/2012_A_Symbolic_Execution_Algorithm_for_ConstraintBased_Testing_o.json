@@ -11,8 +11,7 @@
       "year": "1999",
       "venue": "Database Systems for Advanced Applications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Towards a framework for constraint-based test case generation",
@@ -24,8 +23,7 @@
       "year": "2009",
       "venue": "Logic-based Program Synthesis and Transformation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-12592-8_10",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-12592-8_10"
     },
     "BIBREF2": {
       "title": "Symbolic Query Exploration",
@@ -38,8 +36,7 @@
       "year": "2009",
       "venue": "International Conference on Formal Engineering Methods",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-10373-5_3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-10373-5_3"
     },
     "BIBREF4": {
       "title": "Generating program inputs for database application testing",
@@ -51,8 +48,7 @@
       "year": "2011",
       "venue": "Automated Software Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/ase.2011.6100152",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ase.2011.6100152"
     },
     "BIBREF5": {
       "title": "Test input generation for database programs using relational constraints",
@@ -64,8 +60,7 @@
       "year": "2012",
       "venue": "International Workshop on Testing Database Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2304510.2304518",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2304510.2304518"
     },
     "BIBREF6": {
       "title": "Static checking of dynamically generated queries in database applications",
@@ -78,8 +73,7 @@
       "year": "2007",
       "venue": "ACM Transactions on Software Engineering and Methodology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1276933.1276935",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1276933.1276935"
     },
     "BIBREF7": {
       "title": "ATGen: automatic test data generation using constraint logic programming and symbolic execution†",
@@ -89,8 +83,7 @@
       "year": "2001",
       "venue": "Software Testing, Verification & Reliability",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/stvr.225",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/stvr.225"
     },
     "BIBREF8": {
       "title": "A relational symbolic execution algorithm for constraint-based testing of database programs",
@@ -102,8 +95,7 @@
       "year": "2013",
       "venue": "Source Code Analysis and Manipulation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Automatic test data generation using constraint solving techniques",
@@ -115,8 +107,7 @@
       "year": "1998",
       "venue": "International Symposium on Software Testing and Analysis",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/271771.271790",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/271771.271790"
     },
     "BIBREF10": {
       "title": "Constraint-based test database generation for SQL queries",
@@ -128,8 +119,7 @@
       "year": "2010",
       "venue": "Automation of Software Test",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1808266.1808276",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1808266.1808276"
     },
     "BIBREF11": {
       "title": "Mapping between Alloy Specifications and Database Implementations",
@@ -140,8 +130,7 @@
       "year": "2009",
       "venue": "Software Engineering and Formal Methods",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/sefm.2009.27",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/sefm.2009.27"
     },
     "BIBREF12": {
       "title": "Symbolic execution and program testing",
@@ -151,8 +140,7 @@
       "year": "1976",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/360248.360252",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/360248.360252"
     },
     "BIBREF13": {
       "title": "MODA: automated test generation for database applications via mock objects",
@@ -164,8 +152,7 @@
       "year": "2010",
       "venue": "Automated Software Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1858996.1859053",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1858996.1859053"
     },
     "BIBREF14": {
       "title": "Structural Coverage Criteria for Testing SQL Queries",
@@ -176,8 +163,7 @@
       "year": "2009",
       "venue": "Journal of Universal Computer Science",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "Command-Form Coverage for Testing Database Applications",
@@ -188,8 +174,7 @@
       "year": "2006",
       "venue": "Automated Software Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/ase.2006.27",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ase.2006.27"
     },
     "BIBREF16": {
       "title": "A System to Generate Test Data and Symbolically Execute Programs",
@@ -199,8 +184,7 @@
       "year": "1976",
       "venue": "IEEE Transactions on Software Engineering",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF17": {
       "title": "Dynamic test input generation for database applications",
@@ -212,8 +196,7 @@
       "year": "2007",
       "venue": "International Symposium on Software Testing and Analysis",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1390630.1390661",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1390630.1390661"
     },
     "BIBREF18": {
       "title": "Database state generation via dynamic symbolic execution for coverage criteria",
@@ -225,8 +208,7 @@
       "year": "2011",
       "venue": "International Workshop on Testing Database Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1988842.1988846",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1988842.1988846"
     },
     "BIBREF19": {
       "title": "Constraint-based automatic test data generation",
@@ -237,8 +219,7 @@
       "year": "1991",
       "venue": "IEEE Transactions on Software Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-319-03602-1_13",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-03602-1_13"
     },
     "BIBREF20": {
       "title": "On automated prepared statement generation to remove SQL injection vulnerabilities",
@@ -250,8 +231,7 @@
       "year": "2009",
       "venue": "Information & Software Technology",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF21": {
       "title": "Economic perspectives in test automation: balancing automated and manual testing with opportunity cost",
@@ -262,8 +242,7 @@
       "year": "2006",
       "venue": "Automation of Software Test",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1138929.1138946",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1138929.1138946"
     },
     "BIBREF22": {
       "title": "A family of test adequacy criteria for database-driven applications",
@@ -274,8 +253,7 @@
       "year": "2003",
       "venue": "Foundations of Software Engineering",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF23": {
       "title": "EXE: automatically generating inputs of death",
@@ -289,8 +267,7 @@
       "year": "2006",
       "venue": "Computer and Communications Security",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1455518.1455522",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1455518.1455522"
     },
     "BIBREF24": {
       "title": "The dynamic domain reduction procedure for test data generation",
@@ -302,8 +279,7 @@
       "year": "1999",
       "venue": "Software - Practice and Experience",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/(sici)1097-024x(199902)29:2<167::aid-spe225>3.3.co;2-m",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/(sici)1097-024x(199902)29:2<167::aid-spe225>3.3.co;2-m"
     },
     "BIBREF25": {
       "title": "An Introduction to Database Systems",
@@ -313,8 +289,7 @@
       "year": "1975",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF26": {
       "title": "Dynamic symbolic database application testing",
@@ -325,8 +300,7 @@
       "year": "2010",
       "venue": "International Workshop on Testing Database Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1838126.1838133",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1838126.1838133"
     },
     "BIBREF27": {
       "title": "Mutation Testing for Java Database Applications",
@@ -337,8 +311,7 @@
       "year": "2009",
       "venue": "International Conference on Software Testing, Verification, and Validation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icst.2009.43",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icst.2009.43"
     },
     "BIBREF28": {
       "title": "Software unit test coverage and adequacy",
@@ -350,8 +323,7 @@
       "year": "1997",
       "venue": "ACM Computing Surveys",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/267580.267590",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/267580.267590"
     },
     "BIBREF29": {
       "title": "Using an SQL coverage measurement for testing database applications",
@@ -362,8 +334,7 @@
       "year": "2004",
       "venue": "Foundations of Software Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1029894.1029929",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1029894.1029929"
     },
     "BIBREF30": {
       "title": "Finding bugs with a constraint solver",
@@ -374,8 +345,7 @@
       "year": "2000",
       "venue": "International Symposium on Software Testing and Analysis",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/347324.383378",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/347324.383378"
     },
     "BIBREF31": {
       "title": "Reverse Query Processing",
@@ -387,8 +357,7 @@
       "year": "2007",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icde.2007.367896",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icde.2007.367896"
     },
     "BIBREF32": {
       "title": "Query-Aware Test Generation Using a Relational Constraint Solver",
@@ -401,8 +370,7 @@
       "year": "2008",
       "venue": "Automated Software Engineering",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/ase.2008.34",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ase.2008.34"
     },
     "BIBREF33": {
       "title": "Generating Consistent Test Data for a Variable Set of General Consistency Constraints",
@@ -414,8 +382,7 @@
       "year": "1993",
       "venue": "Very Large Data Bases",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

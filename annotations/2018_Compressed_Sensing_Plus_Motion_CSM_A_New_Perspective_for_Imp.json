@@ -12,8 +12,7 @@
       "year": "2015",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2015.7178099",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2015.7178099"
     },
     "BIBREF2": {
       "title": "About Direct Methods",
@@ -24,8 +23,7 @@
       "year": "1999",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-44480-7_18",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-44480-7_18"
     },
     "BIBREF10": {
       "title": "Compressed sensing",
@@ -35,8 +33,7 @@
       "year": "2004",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2008.4517908",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2008.4517908"
     }
   }
 }

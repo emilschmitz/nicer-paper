@@ -11,8 +11,7 @@
       "year": "2014",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Deep Networks With Large Output Spaces",
@@ -25,8 +24,7 @@
       "year": "2014",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Speeding up the Xbox recommender system using a euclidean transformation for inner-product spaces",
@@ -42,8 +40,7 @@
       "year": "2014",
       "venue": "Conference on Recommender Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2645710.2645741",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2645710.2645741"
     },
     "BIBREF4": {
       "title": "Efficient retrieval of recommendations in a matrix factorization framework",
@@ -55,8 +52,7 @@
       "year": "2012",
       "venue": "Conference on Information and Knowledge Management",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2396761.2396831",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2396761.2396831"
     },
     "BIBREF5": {
       "title": "Maximum inner-product search using cone trees",
@@ -67,8 +63,7 @@
       "year": "2012",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": "https://arxiv.org/abs/1202.6101",
-      "doi_link": "https://doi.org/10.1145/2339530.2339677",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2339530.2339677"
     },
     "BIBREF6": {
       "title": "Improved Asymmetric Locality Sensitive Hashing (ALSH) for Maximum Inner Product Search (MIPS)",
@@ -79,8 +74,7 @@
       "year": "2014",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "A Scalable Hierarchical Distributed Language Model",
@@ -91,8 +85,7 @@
       "year": "2008",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Locality-sensitive hashing scheme based on p-stable distributions",
@@ -105,8 +98,7 @@
       "year": "2004",
       "venue": "Symposium on Computational Geometry",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/997817.997857",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/997817.997857"
     },
     "BIBREF14": {
       "title": "Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)",
@@ -117,8 +109,7 @@
       "year": "2014",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF15": {
       "title": "Distributed Representations of Words and Phrases and their Compositionality",
@@ -132,8 +123,7 @@
       "year": "2013",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

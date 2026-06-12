@@ -12,8 +12,7 @@
       "year": "2012",
       "venue": "Asian Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Improving the fisher kernel for large-scale image classification",
@@ -25,8 +24,7 @@
       "year": "2010",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-15561-1_11",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-15561-1_11"
     },
     "BIBREF2": {
       "title": "Supervised translation-invariant sparse coding",
@@ -38,8 +36,7 @@
       "year": "2010",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2010.5539958",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2010.5539958"
     },
     "BIBREF3": {
       "title": "Evaluation of local spatio-temporal features for action recognition",
@@ -53,8 +50,7 @@
       "year": "2009",
       "venue": "British Machine Vision Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.neucom.2015.07.105",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.neucom.2015.07.105"
     },
     "BIBREF4": {
       "title": "Locality-constrained Linear Coding for image classification",
@@ -69,8 +65,7 @@
       "year": "2010",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2010.5540018",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2010.5540018"
     },
     "BIBREF5": {
       "title": "Recognizing human actions: a local SVM approach",
@@ -82,8 +77,7 @@
       "year": "2004",
       "venue": "International Conference on Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icpr.2004.747",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icpr.2004.747"
     },
     "BIBREF6": {
       "title": "Learning a discriminative dictionary for sparse coding via label consistent K-SVD",
@@ -95,8 +89,7 @@
       "year": "2011",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995354",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995354"
     },
     "BIBREF7": {
       "title": "Linear spatial pyramid matching using sparse coding for image classification",
@@ -109,8 +102,7 @@
       "year": "2009",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1504.06897",
-      "doi_link": "https://doi.org/10.1109/chinasip.2015.7230388",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/chinasip.2015.7230388"
     },
     "BIBREF8": {
       "title": "Efficient sparse coding algorithms",
@@ -123,8 +115,7 @@
       "year": "2006",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "In defense of soft-assignment coding",
@@ -136,8 +127,7 @@
       "year": "2011",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "HMDB: A large video database for human motion recognition",
@@ -151,8 +141,7 @@
       "year": "2011",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2011.6126543",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126543"
     },
     "BIBREF11": {
       "title": "Supervised Dictionary Learning",
@@ -166,8 +155,7 @@
       "year": "2008",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Video Google: a text retrieval approach to object matching in videos",
@@ -178,8 +166,7 @@
       "year": "2003",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2003.1238663",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2003.1238663"
     },
     "BIBREF13": {
       "title": "Graph Regularized Sparse Coding for Image Representation",
@@ -195,8 +182,7 @@
       "year": "2011",
       "venue": "IEEE Transactions on Image Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tip.2010.2090535",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tip.2010.2090535"
     },
     "BIBREF14": {
       "title": "Learning realistic human actions from movies",
@@ -209,8 +195,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587756",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587756"
     },
     "BIBREF15": {
       "title": "Representations of Keypoint-Based Semantic Concept Detection: A Comprehensive Study",
@@ -223,8 +208,7 @@
       "year": "2010",
       "venue": "IEEE Transactions on Multimedia",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tmm.2009.2036235",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tmm.2009.2036235"
     },
     "BIBREF16": {
       "title": "Visual Word Ambiguity",
@@ -237,8 +221,7 @@
       "year": "2010",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tpami.2009.132",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpami.2009.132"
     },
     "BIBREF17": {
       "title": "Fisher Discrimination Dictionary Learning for sparse representation",
@@ -251,8 +234,7 @@
       "year": "2011",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2011.6126286",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126286"
     },
     "BIBREF18": {
       "title": "The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization",
@@ -263,8 +245,7 @@
       "year": "2011",
       "venue": "International Conference on Machine Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     }
   }
 }

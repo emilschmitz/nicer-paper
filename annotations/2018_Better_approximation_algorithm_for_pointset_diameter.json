@@ -10,8 +10,7 @@
       "year": "2001",
       "venue": "Discrete and Computational Geometry",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "On computing the diameter of a point set in high dimensional Euclidean space",
@@ -22,8 +21,7 @@
       "year": "2002",
       "venue": "Theoretical Computer Science",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Computational Geometry: An Introduction",
@@ -34,8 +32,7 @@
       "year": "1978",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Approximating the diameter of a set of points in the Euclidean space",
@@ -48,8 +45,7 @@
       "year": "1989",
       "venue": "Information Processing Letters",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0020-0190(89)90045-8",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0020-0190(89)90045-8"
     },
     "BIBREF4": {
       "title": "A practical approach for computing the diameter of a point set",
@@ -59,8 +55,7 @@
       "year": "2001",
       "venue": "Symposium on Computational Geometry",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Efficiently approximating the minimum-volume bounding box of a point set in three dimensions",
@@ -71,8 +66,7 @@
       "year": "1999",
       "venue": "Symposium on Discrete Algorithms",
       "arxiv_link": "https://arxiv.org/abs/2512.12391",
-      "doi_link": "https://doi.org/10.1006/jagm.2000.1127",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/jagm.2000.1127"
     },
     "BIBREF7": {
       "title": "Farthest Neighbors, Maximum Spanning Trees and Related Problems in Higher Dimensions",
@@ -84,8 +78,7 @@
       "year": "1991",
       "venue": "Computational Geometry: Theory and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0925-7721(92)90001-9",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0925-7721(92)90001-9"
     },
     "BIBREF8": {
       "title": "COMPUTING THE DIAMETER OF A POINT SET",
@@ -96,8 +89,7 @@
       "year": "2002",
       "venue": "International Journal of Computational Geometry and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-45986-3_18",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-45986-3_18"
     },
     "BIBREF9": {
       "title": "Near-Optimal epsilon-Kernel Construction and Related Problems.",
@@ -109,8 +101,7 @@
       "year": "2017",
       "venue": "Symposium on Computational Geometry",
       "arxiv_link": "https://arxiv.org/abs/1703.10868",
-      "doi_link": "https://doi.org/10.4230/lipics.socg.2017.10",
-      "other_link": null
+      "doi_link": "https://doi.org/10.4230/lipics.socg.2017.10"
     },
     "BIBREF10": {
       "title": "Applications of Chebyshev Polynomials to Low-Dimensional Computational Geometry.",
@@ -120,8 +111,7 @@
       "year": "2017",
       "venue": "Symposium on Computational Geometry",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.4230/lipics.socg.2017.26",
-      "other_link": null
+      "doi_link": "https://doi.org/10.4230/lipics.socg.2017.26"
     }
   }
 }

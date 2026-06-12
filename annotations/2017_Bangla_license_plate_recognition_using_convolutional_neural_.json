@@ -14,8 +14,7 @@
       "year": "2012",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Acoustic Modeling Using Deep Belief Networks",
@@ -27,8 +26,7 @@
       "year": "2012",
       "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tasl.2011.2109382",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tasl.2011.2109382"
     },
     "BIBREF2": {
       "title": "Lessons from the Netflix prize challenge",
@@ -39,8 +37,7 @@
       "year": "2007",
       "venue": "Sigkdd Explorations",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1345448.1345465",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1345448.1345465"
     },
     "BIBREF4": {
       "title": "Inception Recurrent Convolutional Neural Network for Object Recognition.",
@@ -53,8 +50,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "Improved Inception-Residual Convolutional Neural Network for Object Recognition",
@@ -68,8 +64,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1712.09888",
-      "doi_link": "https://doi.org/10.1007/s00521-018-3627-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s00521-018-3627-6"
     },
     "BIBREF8": {
       "title": "Random Forests",
@@ -79,8 +74,7 @@
       "year": "2001",
       "venue": "Machine Learning archive",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1023/a:1010933404324",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1023/a:1010933404324"
     },
     "BIBREF9": {
       "title": "Multi-Column Deep Neural Networks for Offline Handwritten Chinese Character Classification",
@@ -91,8 +85,7 @@
       "year": "2013",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/ijcnn.2015.7280516",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ijcnn.2015.7280516"
     },
     "BIBREF10": {
       "title": "Multi-column Deep Neural Networks for Image Classification",
@@ -104,8 +97,7 @@
       "year": "2012",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1202.2745",
-      "doi_link": "https://doi.org/10.1109/cvpr.2012.6248110",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2012.6248110"
     }
   }
 }

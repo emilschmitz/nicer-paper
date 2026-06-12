@@ -15,8 +15,7 @@
       "year": "2012",
       "venue": "Networked Systems Design and Implementation",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "HighSpeed TCP for Large Congestion Windows",
@@ -26,8 +25,7 @@
       "year": "2003",
       "venue": "RFC 3649",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Sliding Mode Congestion Control for data center Ethernet networks",
@@ -40,8 +38,7 @@
       "year": "2012",
       "venue": "International Conference on Computer Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/infcom.2012.6195505",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/infcom.2012.6195505"
     },
     "BIBREF5": {
       "title": "Scalable TCP: improving performance in highspeed wide area networks",
@@ -51,8 +48,7 @@
       "year": "2003",
       "venue": "ACM Special Interest Group on Data Communication",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/956981.956989",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/956981.956989"
     },
     "BIBREF9": {
       "title": "Analysis of the increase and decrease algorithms for congestion avoidance in computer networks",
@@ -63,8 +59,7 @@
       "year": "1989",
       "venue": "Computer Networks and Isdn Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/0169-7552(89)90019-6",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/0169-7552(89)90019-6"
     }
   }
 }

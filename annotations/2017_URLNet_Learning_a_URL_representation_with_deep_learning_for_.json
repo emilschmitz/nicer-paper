@@ -12,8 +12,7 @@
       "year": "2010",
       "venue": "USENIX conference on Large-scale exploits and emergent threats",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Adam: A Method for Stochastic Optimization",
@@ -24,8 +23,7 @@
       "year": "2014",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Convolutional Neural Networks for Sentence Classification",
@@ -35,8 +33,7 @@
       "year": "2014",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": "https://arxiv.org/abs/1408.5882",
-      "doi_link": "https://doi.org/10.3115/v1/d14-1181",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/d14-1181"
     },
     "BIBREF6": {
       "title": "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks",
@@ -47,8 +44,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1412.1058",
-      "doi_link": "https://doi.org/10.3115/v1/n15-1011",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/n15-1011"
     },
     "BIBREF12": {
       "title": "PhishDef: URL names say it all",
@@ -60,8 +56,7 @@
       "year": "2011",
       "venue": "International Conference on Computer Communications",
       "arxiv_link": "https://arxiv.org/abs/1009.2275",
-      "doi_link": "https://doi.org/10.1109/infcom.2011.5934995",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/infcom.2011.5934995"
     },
     "BIBREF13": {
       "title": "The state of phishing attacks",
@@ -71,8 +66,7 @@
       "year": "2012",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2063176.2063197",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2063176.2063197"
     },
     "BIBREF15": {
       "title": "Long short-term memory",
@@ -83,8 +77,7 @@
       "year": "1997",
       "venue": "Neural Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1162/neco.1997.9.8.1735",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1162/neco.1997.9.8.1735"
     },
     "BIBREF16": {
       "title": "Deep learning in neural networks",
@@ -94,8 +87,7 @@
       "year": "2015",
       "venue": "Neural Networks",
       "arxiv_link": "https://arxiv.org/abs/1804.08150",
-      "doi_link": "https://doi.org/10.1016/j.neunet.2018.12.002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.neunet.2018.12.002"
     },
     "BIBREF19": {
       "title": "Beyond blacklists: learning to detect malicious web sites from suspicious URLs",
@@ -108,8 +100,7 @@
       "year": "2009",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1557019.1557153",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1557019.1557153"
     },
     "BIBREF20": {
       "title": "Cost-sensitive online active learning with application to malicious URL detection",
@@ -120,8 +111,7 @@
       "year": "2013",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/2487575.2487647",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2487575.2487647"
     },
     "BIBREF21": {
       "title": "Prophiler: a fast filter for the large-scale detection of malicious web pages",
@@ -134,8 +124,7 @@
       "year": "2011",
       "venue": "The Web Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/1963405.1963436",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/1963405.1963436"
     },
     "BIBREF23": {
       "title": "Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts",
@@ -146,8 +135,7 @@
       "year": "2014",
       "venue": "International Conference on Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/access.2017.2776930",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/access.2017.2776930"
     },
     "BIBREF24": {
       "title": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems",
@@ -196,8 +184,7 @@
       "year": "2015",
       "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF26": {
       "title": "WarningBird: Detecting Suspicious URLs in Twitter Stream.",
@@ -208,8 +195,7 @@
       "year": "2012",
       "venue": "Network and Distributed System Security Symposium",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF27": {
       "title": "Deep Learning",
@@ -221,8 +207,7 @@
       "year": "2016",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF29": {
       "title": "eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys.",
@@ -233,8 +218,7 @@
       "year": "2017",
       "venue": "arXiv: Cryptography and Security",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF30": {
       "title": "ImageNet classification with deep convolutional neural networks",
@@ -246,8 +230,7 @@
       "year": "2017",
       "venue": "Communications of The ACM",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1145/3065386",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/3065386"
     },
     "BIBREF31": {
       "title": "Deep Residual Learning for Image Recognition",
@@ -260,8 +243,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.03385",
-      "doi_link": "https://doi.org/10.1109/cvpr.2016.90",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.90"
     }
   }
 }

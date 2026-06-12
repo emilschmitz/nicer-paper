@@ -12,8 +12,7 @@
       "year": "2004",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Mapping Information Flows on Twitter.",
@@ -23,8 +22,7 @@
       "year": "2011",
       "venue": "International Conference on Weblogs and Social Media",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Multi-level Dialogue Act Tags",
@@ -35,8 +33,7 @@
       "year": "2004",
       "venue": "Annual Meeting of the Special Interest Group on Discourse and Dialogue",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Recurrent Convolutional Neural Networks for Discourse Compositionality",
@@ -47,8 +44,7 @@
       "year": "2013",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Supervised and Unsupervised Methods in Employing Discourse Relations for Improving Opinion Polarity Classification",
@@ -61,8 +57,7 @@
       "year": "2009",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/1699510.1699533",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/1699510.1699533"
     },
     "BIBREF5": {
       "title": "Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network",
@@ -75,8 +70,7 @@
       "year": "2010",
       "venue": "International Conference on Social Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/socialcom.2010.33",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/socialcom.2010.33"
     },
     "BIBREF6": {
       "title": "Long short-term memory",
@@ -87,8 +81,7 @@
       "year": "1997",
       "venue": "Neural Computation",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1162/neco.1997.9.8.1735",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1162/neco.1997.9.8.1735"
     },
     "BIBREF8": {
       "title": "From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series",
@@ -101,8 +94,7 @@
       "year": "2010",
       "venue": "International Conference on Weblogs and Social Media",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Sequence to Sequence Learning with Neural Networks",
@@ -114,8 +106,7 @@
       "year": "2014",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "User-level sentiment analysis incorporating social networks",
@@ -130,8 +121,7 @@
       "year": "2011",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": "https://arxiv.org/abs/1109.6018",
-      "doi_link": "https://doi.org/10.1145/2020408.2020614",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/2020408.2020614"
     },
     "BIBREF11": {
       "title": "Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums",
@@ -144,8 +134,7 @@
       "year": "2008",
       "venue": "Meeting of the Association for Computational Linguistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Why are You Taking this Stance? Identifying and Classifying Reasons in Ideological Debates",
@@ -156,8 +145,7 @@
       "year": "2014",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.3115/v1/d14-1083",
-      "other_link": null
+      "doi_link": "https://doi.org/10.3115/v1/d14-1083"
     },
     "BIBREF13": {
       "title": "Distributed Representations of Words and Phrases and their Compositionality",
@@ -171,8 +159,7 @@
       "year": "2013",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF14": {
       "title": "Identifying the role of individual user messages in an online discussion and its use in thread retrieval",
@@ -184,8 +171,7 @@
       "year": "2016",
       "venue": "Association for Information Science and Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1002/asi.23373",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1002/asi.23373"
     },
     "BIBREF15": {
       "title": "Twitter mood predicts the stock market",
@@ -197,8 +183,7 @@
       "year": "2011",
       "venue": "Journal of Computational Science",
       "arxiv_link": "https://arxiv.org/abs/1010.3003",
-      "doi_link": "https://doi.org/10.1016/j.jocs.2010.12.007",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.jocs.2010.12.007"
     },
     "BIBREF16": {
       "title": "Predicting speech acts in MOOC forum posts",
@@ -209,8 +194,7 @@
       "year": "2015",
       "venue": "National Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF17": {
       "title": "Topic Independent Identification of Agreement and Disagreement in Social Media Dialogue",
@@ -221,8 +205,7 @@
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "LSTM Neural Networks for Language Modeling.",
@@ -234,8 +217,7 @@
       "year": "2012",
       "venue": "Conference of the International Speech Communication Association",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF19": {
       "title": "Attention-based LSTM for Aspect-level Sentiment Classification",
@@ -248,8 +230,7 @@
       "year": "2016",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.18653/v1/d16-1058",
-      "other_link": null
+      "doi_link": "https://doi.org/10.18653/v1/d16-1058"
     },
     "BIBREF20": {
       "title": "Friends and Enemies of Clinton and Trump: Using Context for Detecting Stance in Political Tweets",
@@ -262,8 +243,7 @@
       "year": "2016",
       "venue": "Mexican International Conference on Artificial Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1702.08021",
-      "doi_link": "https://doi.org/10.1007/978-3-319-62434-1_13",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-62434-1_13"
     },
     "BIBREF21": {
       "title": "Dialogue Modelling in Multi-party Social Media Conversation",
@@ -274,8 +254,7 @@
       "year": "2017",
       "venue": "Text, Speech and Dialogue",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-319-64206-2_25",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-64206-2_25"
     },
     "BIBREF22": {
       "title": "Long Short Term Memory Networks for Anomaly Detection in Time Series.",
@@ -288,8 +267,7 @@
       "year": "2015",
       "venue": "The European Symposium on Artificial Neural Networks",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF23": {
       "title": "Distributed Representations of Sentences and Documents",
@@ -300,8 +278,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF24": {
       "title": "Metrics for Community Analysis: A Survey",
@@ -314,8 +291,7 @@
       "year": "2017",
       "venue": "ACM Computing Surveys",
       "arxiv_link": "https://arxiv.org/abs/1604.03512",
-      "doi_link": "https://doi.org/10.1145/3091106",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1145/3091106"
     }
   }
 }

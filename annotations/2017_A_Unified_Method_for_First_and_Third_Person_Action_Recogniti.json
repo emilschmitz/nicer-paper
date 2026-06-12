@@ -11,8 +11,7 @@
       "year": "2010",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-642-15549-9_36",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-642-15549-9_36"
     },
     "BIBREF1": {
       "title": "Beyond short snippets: Deep networks for video classification",
@@ -27,8 +26,7 @@
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1503.08909",
-      "doi_link": "https://doi.org/10.1109/cvpr.2015.7299101",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7299101"
     },
     "BIBREF2": {
       "title": "Large-Scale Video Classification with Convolutional Neural Networks",
@@ -43,8 +41,7 @@
       "year": "2014",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2014.223",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2014.223"
     },
     "BIBREF3": {
       "title": "A Spatio-Temporal Descriptor Based on 3D-Gradients",
@@ -56,8 +53,7 @@
       "year": "2008",
       "venue": "British Machine Vision Conference",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Robust action recognition using local motion and group sparsity",
@@ -70,8 +66,7 @@
       "year": "2014",
       "venue": "Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.patcog.2013.12.004",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.patcog.2013.12.004"
     },
     "BIBREF5": {
       "title": "First-Person Animal Activity Recognition from Egocentric Videos",
@@ -84,8 +79,7 @@
       "year": "2014",
       "venue": "International Conference on Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icpr.2014.739",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icpr.2014.739"
     },
     "BIBREF6": {
       "title": "Action Recognition with Improved Trajectories",
@@ -96,8 +90,7 @@
       "year": "2013",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2013.441",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2013.441"
     },
     "BIBREF7": {
       "title": "A Database and Evaluation Methodology for Optical Flow",
@@ -112,8 +105,7 @@
       "year": "2011",
       "venue": "International Journal of Computer Vision",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF9": {
       "title": "Action Recognition using Visual Attention",
@@ -125,8 +117,7 @@
       "year": "2015",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "Two Stream LSTM: A Deep Fusion Framework for Human Action Recognition",
@@ -139,8 +130,7 @@
       "year": "2017",
       "venue": "Workshop on Applications of Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1704.01194",
-      "doi_link": "https://doi.org/10.1109/wacv.2017.27",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/wacv.2017.27"
     },
     "BIBREF11": {
       "title": "Deep appearance and motion learning for egocentric activity recognition",
@@ -155,8 +145,7 @@
       "year": "2018",
       "venue": "Neurocomputing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.neucom.2017.08.063",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.neucom.2017.08.063"
     },
     "BIBREF12": {
       "title": "Two-Stream Convolutional Networks for Action Recognition in Videos",
@@ -167,8 +156,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/ijcnn.2019.8851702",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/ijcnn.2019.8851702"
     }
   }
 }

@@ -11,8 +11,7 @@
       "year": "2010",
       "venue": "Dagstuhl Seminar Proceedings",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Covering a laminar family by leaf to leaf links",
@@ -23,8 +22,7 @@
       "year": "2010",
       "venue": "Discrete Applied Mathematics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.dam.2010.04.002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.dam.2010.04.002"
     },
     "BIBREF2": {
       "title": "Improved approximation algorithms for network design problems",
@@ -39,8 +37,7 @@
       "year": "1994",
       "venue": "Symposium on Discrete Algorithms",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Shorter tours by nicer ears: 7/5-Approximation for the graph-TSP, 3/2 for the path version, and 4/3 for two-edge-connected subgraphs",
@@ -51,8 +48,7 @@
       "year": "2014",
       "venue": "Combinatorica",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s00493-014-2960-3",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s00493-014-2960-3"
     },
     "BIBREF4": {
       "title": "A General Approximation Technique for Constrained Forest Problems",
@@ -63,8 +59,7 @@
       "year": "1995",
       "venue": "SIAM Journal on Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Approximation algorithms for graph augmentation",
@@ -75,8 +70,7 @@
       "year": "1993",
       "venue": "Journal of Algorithms",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/3-540-55719-9_85",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/3-540-55719-9_85"
     },
     "BIBREF6": {
       "title": "On the integrality ratio for tree augmentation",
@@ -89,8 +83,7 @@
       "year": "2008",
       "venue": "Operations Research Letters",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF7": {
       "title": "On the relationship between the biconnectivity augmentation and travelling salesman problems",
@@ -101,8 +94,7 @@
       "year": "1982",
       "venue": "Theoretical Computer Science",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Approximation Algorithms for Several Graph Augmentation Problems",
@@ -113,8 +105,7 @@
       "year": "1981",
       "venue": "SIAM Journal on Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1006/jagm.1993.1010",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/jagm.1993.1010"
     },
     "BIBREF9": {
       "title": "A 1.8 approximation algorithm for augmenting edge-connectivity of a graph from 1 to 2",
@@ -127,8 +118,7 @@
       "year": "2009",
       "venue": "ACM Transactions on Algorithms",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "A Factor 2 Approximation Algorithm for the Generalized Steiner Network Problem",
@@ -138,8 +128,7 @@
       "year": "2001",
       "venue": "Combinatorica",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "A Simplified 1.5-Approximation Algorithm for Augmenting Edge-Connectivity of a Graph from 1 to 2",
@@ -150,8 +139,7 @@
       "year": "2016",
       "venue": "ACM Transactions on Algorithms",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "A (1+ln2)-approximation algorithm for minimum-cost 2-edge-connectivity augmentation of trees with constant radius",
@@ -162,8 +150,7 @@
       "year": "2013",
       "venue": "Theoretical Computer Science",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF13": {
       "title": "Iterative Methods in Combinatorial Optimization",
@@ -175,8 +162,7 @@
       "year": "2011",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.4230/lipics.stacs.2012.24",
-      "other_link": null
+      "doi_link": "https://doi.org/10.4230/lipics.stacs.2012.24"
     }
   }
 }

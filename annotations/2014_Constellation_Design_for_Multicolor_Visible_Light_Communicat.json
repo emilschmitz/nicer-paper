@@ -12,8 +12,7 @@
       "year": "2000",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2000.861120",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2000.861120"
     },
     "BIBREF1": {
       "title": "Constellation design for color-shift keying using interior point methods",
@@ -24,8 +23,7 @@
       "year": "2012",
       "venue": "Global Communications Conference",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/glocomw.2012.6477755",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/glocomw.2012.6477755"
     },
     "BIBREF2": {
       "title": "Peak-to-average power ratio and illumination-to-communication efficiency considerations in visible light OFDM systems",
@@ -37,8 +35,7 @@
       "year": "2013",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2013.6638694",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2013.6638694"
     },
     "BIBREF3": {
       "title": "Optimizing Constellations for Single-Subcarrier Intensity-Modulated Optical Systems",
@@ -51,8 +48,7 @@
       "year": "2012",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1106.2819",
-      "doi_link": "https://doi.org/10.1109/tit.2012.2193374",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2012.2193374"
     },
     "BIBREF4": {
       "title": "Designing Good Multi-Dimensional Constellations",
@@ -63,8 +59,7 @@
       "year": "2012",
       "venue": "IEEE Wireless Communications Letters",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/wcl.2012.032312.120203",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/wcl.2012.032312.120203"
     },
     "BIBREF5": {
       "title": "Optimization of symbol mappings for bit-interleaved coded Modulation with iterative decoding",
@@ -77,8 +72,7 @@
       "year": "2003",
       "venue": "IEEE Communications Letters",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/lcomm.2003.821325",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/lcomm.2003.821325"
     },
     "BIBREF6": {
       "title": "Pseudo-Gray coding",
@@ -89,8 +83,7 @@
       "year": "1990",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/26.64657",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/26.64657"
     },
     "BIBREF7": {
       "title": "High data rate multiple input multiple output (MIMO) optical wireless communications using white led lighting",
@@ -107,8 +100,7 @@
       "year": "2009",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/jsac.2009.091215",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/jsac.2009.091215"
     }
   }
 }

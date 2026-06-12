@@ -11,8 +11,7 @@
       "year": "2011",
       "venue": "arXiv: Information Theory",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Rényi Information Dimension: Fundamental Limits of Almost Lossless Analog Compression",
@@ -23,8 +22,7 @@
       "year": "2010",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tit.2010.2050803",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2010.2050803"
     },
     "BIBREF2": {
       "title": "Sampling theory for not necessarily band-limited functions: a historical overview",
@@ -35,8 +33,7 @@
       "year": "1992",
       "venue": "Siam Review",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1137/1034002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1137/1034002"
     },
     "BIBREF3": {
       "title": "Recurrent networks for compressive sampling",
@@ -48,8 +45,7 @@
       "year": "2014",
       "venue": "Neurocomputing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.neucom.2013.09.028",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.neucom.2013.09.028"
     },
     "BIBREF4": {
       "title": "Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit",
@@ -60,8 +56,7 @@
       "year": "2007",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tsp.2015.2413384",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tsp.2015.2413384"
     },
     "BIBREF5": {
       "title": "Near-Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?",
@@ -72,8 +67,7 @@
       "year": "2006",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/math/0410542",
-      "doi_link": "https://doi.org/10.1109/tit.2006.885507",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2006.885507"
     },
     "BIBREF6": {
       "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
@@ -85,8 +79,7 @@
       "year": "2006",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/math/0409186",
-      "doi_link": "https://doi.org/10.1109/tit.2005.862083",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2005.862083"
     },
     "BIBREF7": {
       "title": "Signal Reconstruction From Noisy Random Projections",
@@ -97,8 +90,7 @@
       "year": "2006",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tit.2006.880031",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tit.2006.880031"
     },
     "BIBREF8": {
       "title": "Algorithms for the solution of systems of linear diophantine equations",
@@ -109,8 +101,7 @@
       "year": "1979",
       "venue": "SIAM Journal on Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1137/0211057",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1137/0211057"
     },
     "BIBREF9": {
       "title": "Compressed sensing",
@@ -120,8 +111,7 @@
       "year": "2004",
       "venue": "",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icassp.2008.4517908",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icassp.2008.4517908"
     },
     "BIBREF10": {
       "title": "On sampling theorem with sparse decimated samples.",
@@ -131,8 +121,7 @@
       "year": "2016",
       "venue": "arXiv: Information Theory",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "Sparsity-based estimation bounds with corrupted measurements",
@@ -143,8 +132,7 @@
       "year": "2018",
       "venue": "Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.sigpro.2017.08.004",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.sigpro.2017.08.004"
     },
     "BIBREF12": {
       "title": "Information-Theoretically Optimal Compressed Sensing via Spatial Coupling and Approximate Message Passing",
@@ -156,8 +144,7 @@
       "year": "2011",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1112.0708",
-      "doi_link": "https://doi.org/10.1109/isit.2012.6283053",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/isit.2012.6283053"
     }
   }
 }

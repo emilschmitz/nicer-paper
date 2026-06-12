@@ -15,8 +15,7 @@
       "year": "2008",
       "venue": "International Symposium on Visual Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-540-89646-3_30",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-89646-3_30"
     },
     "BIBREF1": {
       "title": "A face and gesture recognition system based on an active stereo sensor",
@@ -31,8 +30,7 @@
       "year": "2001",
       "venue": "International Conference on Image Processing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "Real time gestural interface for generic applications",
@@ -44,8 +42,7 @@
       "year": "2005",
       "venue": "European Signal Processing Conference",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Hand gesture recognition with a novel IR time-of-flight range camera: a pilot study",
@@ -57,8 +54,7 @@
       "year": "2007",
       "venue": "Computer Vision/Computer Graphics Collaboration Techniques",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-3-540-71457-6_23",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-540-71457-6_23"
     },
     "BIBREF4": {
       "title": "Time‐of‐Flight Cameras in Computer Graphics",
@@ -71,8 +67,7 @@
       "year": "2010",
       "venue": "Computer Graphics Forum",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1111/j.1467-8659.2009.01583.x",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1111/j.1467-8659.2009.01583.x"
     },
     "BIBREF5": {
       "title": "Gesture-Tracking in Real Time with Dynamic Regional Range Computation",
@@ -82,8 +77,7 @@
       "year": "2002",
       "venue": "Real-time Imaging",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1006/rtim.2001.0260",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1006/rtim.2001.0260"
     },
     "BIBREF6": {
       "title": "GPU-Based Multilevel Clustering",
@@ -94,8 +88,7 @@
       "year": "2011",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tvcg.2010.55",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tvcg.2010.55"
     },
     "BIBREF7": {
       "title": "Dynamic disparity adjustment and histogram-based filtering of range data for fast 3-D hand tracking",
@@ -106,8 +99,7 @@
       "year": "2004",
       "venue": "Digital Signal Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.dsp.2004.04.002",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.dsp.2004.04.002"
     },
     "BIBREF8": {
       "title": "Segmentation of dense range information in complex urban scenes",
@@ -119,8 +111,7 @@
       "year": "2010",
       "venue": "Intelligent Robots and Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iros.2010.5651749",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iros.2010.5651749"
     },
     "BIBREF9": {
       "title": "3-D gesture-based scene navigation in medical imaging applications using Time-of-Flight cameras",
@@ -133,8 +124,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvprw.2008.4563162",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvprw.2008.4563162"
     },
     "BIBREF10": {
       "title": "Fast approximate energy minimization via graph cuts",
@@ -146,8 +136,7 @@
       "year": "2001",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/34.969114",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/34.969114"
     },
     "BIBREF11": {
       "title": "Real-time American sign language recognition using desk and wearable computer based video",
@@ -159,8 +148,7 @@
       "year": "1998",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/34.735811",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/34.735811"
     },
     "BIBREF12": {
       "title": "View invariant gesture recognition using the CSEM SwissRanger SR-2 camera",
@@ -172,8 +160,7 @@
       "year": "2008",
       "venue": "International Journal of Intelligent Systems Technologies and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1504/ijista.2008.021292",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1504/ijista.2008.021292"
     },
     "BIBREF13": {
       "title": "Gesture Recognition: A Survey",
@@ -184,8 +171,7 @@
       "year": "2007",
       "venue": "Systems, Man and Cybernetics",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tsmcc.2007.893280",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tsmcc.2007.893280"
     }
   }
 }

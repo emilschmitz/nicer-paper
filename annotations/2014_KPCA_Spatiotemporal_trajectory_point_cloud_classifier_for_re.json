@@ -13,8 +13,7 @@
       "year": "2009",
       "venue": "Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.patcog.2008.08.033",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.patcog.2008.08.033"
     },
     "BIBREF1": {
       "title": "Human Gait Recognition Based on Kernel PCA Using Projections",
@@ -25,8 +24,7 @@
       "year": "2007",
       "venue": "Journal of Computer Science and Technology",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11390-007-9101-z",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11390-007-9101-z"
     },
     "BIBREF2": {
       "title": "Recognizing human actions: a local SVM approach",
@@ -38,8 +36,7 @@
       "year": "2004",
       "venue": "International Conference on Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/icpr.2004.747",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/icpr.2004.747"
     },
     "BIBREF3": {
       "title": "Particle Swarm Optimization and Differential Evolution for model-based object detection",
@@ -54,8 +51,7 @@
       "year": "2013",
       "venue": "Applied Soft Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.asoc.2012.11.027",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.asoc.2012.11.027"
     },
     "BIBREF4": {
       "title": "A fuzzy K-nearest neighbor algorithm",
@@ -67,8 +63,7 @@
       "year": "1985",
       "venue": "Systems, Man and Cybernetics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Multimedia data mining: state of the art and challenges",
@@ -79,8 +74,7 @@
       "year": "2011",
       "venue": "Multimedia Tools and Applications",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11042-010-0645-5",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11042-010-0645-5"
     },
     "BIBREF6": {
       "title": "Fuzzy rule-based reasoning approach for event detection and annotation of broadcast soccer video",
@@ -91,8 +85,7 @@
       "year": "2013",
       "venue": "Applied Soft Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.asoc.2012.10.007",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.asoc.2012.10.007"
     },
     "BIBREF7": {
       "title": "A novel approach for recognition of human actions with semi-global features",
@@ -105,8 +98,7 @@
       "year": "2008",
       "venue": "Machine Vision Applications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Learning stick-figure models using nonparametric Bayesian priors over trees",
@@ -119,8 +111,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587559",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587559"
     },
     "BIBREF9": {
       "title": "A Biologically Inspired System for Action Recognition",
@@ -133,8 +124,7 @@
       "year": "2007",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF10": {
       "title": "A vision-based analysis system for gait recognition in patients with Parkinson's disease",
@@ -147,8 +137,7 @@
       "year": "2009",
       "venue": "Expert Systems With Applications",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF11": {
       "title": "A Survey on Visual Content-Based Video Indexing and Retrieval",
@@ -162,8 +151,7 @@
       "year": "2011",
       "venue": "Systems, Man and Cybernetics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF12": {
       "title": "Searching for Complex Human Activities with No Visual Examples",
@@ -174,8 +162,7 @@
       "year": "2008",
       "venue": "International Journal of Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/s11263-008-0142-8",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11263-008-0142-8"
     },
     "BIBREF13": {
       "title": "A survey on vision-based human action recognition",
@@ -185,8 +172,7 @@
       "year": "2010",
       "venue": "Image and Vision Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF14": {
       "title": "Recognition of human actions using motion history information extracted from the compressed video",
@@ -197,8 +183,7 @@
       "year": "2004",
       "venue": "Image and Vision Computing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.imavis.2003.11.004",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.imavis.2003.11.004"
     },
     "BIBREF15": {
       "title": "Learning human actions via information maximization",
@@ -209,8 +194,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587723",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587723"
     },
     "BIBREF16": {
       "title": "An iterative image registration technique with an application to stereo vision",
@@ -221,8 +205,7 @@
       "year": "1981",
       "venue": "International Joint Conference on Artificial Intelligence",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF17": {
       "title": "A comparative study of similarity measures for content-based multimedia retrieval",
@@ -234,8 +217,7 @@
       "year": "2010",
       "venue": "International Conference on Multimedia and Expo",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "Human gait recognition by the fusion of motion and static spatio-temporal templates",
@@ -247,8 +229,7 @@
       "year": "2007",
       "venue": "Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1016/j.patcog.2006.11.014",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1016/j.patcog.2006.11.014"
     },
     "BIBREF19": {
       "title": "Action snippets: How many frames does human action recognition require?",
@@ -259,8 +240,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587730",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587730"
     },
     "BIBREF20": {
       "title": "Learning realistic human actions from movies",
@@ -273,8 +253,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587756",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587756"
     },
     "BIBREF21": {
       "title": "Action recognition with motion-appearance vocabulary forest",
@@ -285,8 +264,7 @@
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587628",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587628"
     },
     "BIBREF22": {
       "title": "Gabor-based kernel PCA with doubly nonlinear mapping for face recognition with a single face image",
@@ -297,8 +275,7 @@
       "year": "2006",
       "venue": "IEEE Transactions on Image Processing",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/tip.2006.877435",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tip.2006.877435"
     },
     "BIBREF23": {
       "title": "The recognition of human movement using temporal templates",
@@ -309,8 +286,7 @@
       "year": "2001",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.1997.609439",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.1997.609439"
     },
     "BIBREF24": {
       "title": "Object Detection with Discriminatively Trained Part-Based Models",
@@ -323,8 +299,7 @@
       "year": "2010",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/mc.2014.42",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/mc.2014.42"
     }
   }
 }

@@ -11,8 +11,7 @@
       "year": "2010",
       "venue": "International Conference on Artificial Intelligence and Statistics",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF1": {
       "title": "Learning Activation Functions to Improve Deep Neural Networks",
@@ -25,8 +24,7 @@
       "year": "2014",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF2": {
       "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
@@ -37,8 +35,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF3": {
       "title": "Network In Network",
@@ -50,8 +47,7 @@
       "year": "2013",
       "venue": "arXiv: Neural and Evolutionary Computing",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF4": {
       "title": "Object Detectors Emerge in Deep Scene CNNs",
@@ -65,8 +61,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF5": {
       "title": "Fully convolutional networks for semantic segmentation",
@@ -78,8 +73,7 @@
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1411.4038",
-      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298965",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298965"
     },
     "BIBREF6": {
       "title": "HD-CNN: Hierarchical Deep Convolutional Neural Network for Large Scale Visual Recognition",
@@ -95,8 +89,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2015.314",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2015.314"
     },
     "BIBREF7": {
       "title": "Dropout: a simple way to prevent neural networks from overfitting",
@@ -110,8 +103,7 @@
       "year": "2014",
       "venue": "Journal of Machine Learning Research",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF8": {
       "title": "Generative Adversarial Nets",
@@ -128,8 +120,7 @@
       "year": "2014",
       "venue": "Neural Information Processing Systems",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1007/978-1-4842-3679-6_8",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-1-4842-3679-6_8"
     },
     "BIBREF9": {
       "title": "ImageNet: A large-scale hierarchical image database",
@@ -144,8 +135,7 @@
       "year": "2009",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206848",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206848"
     },
     "BIBREF10": {
       "title": "SSD: Single Shot MultiBox Detector",
@@ -161,8 +151,7 @@
       "year": "2016",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1512.02325",
-      "doi_link": "https://doi.org/10.1007/978-3-319-46448-0_2",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-46448-0_2"
     },
     "BIBREF11": {
       "title": "Wide Residual Networks",
@@ -173,8 +162,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1605.07146",
-      "doi_link": "https://doi.org/10.5244/c.30.87",
-      "other_link": null
+      "doi_link": "https://doi.org/10.5244/c.30.87"
     },
     "BIBREF12": {
       "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
@@ -188,8 +176,7 @@
       "year": "2018",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1606.00915",
-      "doi_link": "https://doi.org/10.1109/tpami.2017.2699184",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpami.2017.2699184"
     },
     "BIBREF13": {
       "title": "Network Dissection: Quantifying Interpretability of Deep Visual Representations",
@@ -203,8 +190,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1704.05796",
-      "doi_link": "https://doi.org/10.1109/cvpr.2017.354",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.354"
     },
     "BIBREF14": {
       "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization",
@@ -219,8 +205,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1610.02391",
-      "doi_link": "https://doi.org/10.1007/s11263-019-01228-7",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/s11263-019-01228-7"
     },
     "BIBREF15": {
       "title": "Self-Normalizing Neural Networks",
@@ -233,8 +218,7 @@
       "year": "2017",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF16": {
       "title": "Dual Path Networks",
@@ -249,8 +233,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF17": {
       "title": "A Downsampled Variant of ImageNet as an Alternative to the CIFAR datasets.",
@@ -262,8 +245,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF18": {
       "title": "DualNet: Learn Complementary Features for Image Recognition",
@@ -275,8 +257,7 @@
       "year": "2017",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": null,
-      "doi_link": "https://doi.org/10.1109/iccv.2017.62",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/iccv.2017.62"
     },
     "BIBREF19": {
       "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
@@ -287,8 +268,7 @@
       "year": "2015",
       "venue": "arXiv: Learning",
       "arxiv_link": null,
-      "doi_link": null,
-      "other_link": null
+      "doi_link": null
     },
     "BIBREF20": {
       "title": "Deep Residual Learning for Image Recognition",
@@ -301,8 +281,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.03385",
-      "doi_link": "https://doi.org/10.1109/cvpr.2016.90",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.90"
     },
     "BIBREF21": {
       "title": "Going Deeper with Convolutions",
@@ -320,8 +299,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1409.4842",
-      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298594",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298594"
     },
     "BIBREF22": {
       "title": "Learning Deep Features for Discriminative Localization",
@@ -335,8 +313,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.04150",
-      "doi_link": "https://doi.org/10.1109/cvpr.2016.319",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.319"
     },
     "BIBREF23": {
       "title": "Visualizing and Understanding Convolutional Networks",
@@ -347,8 +324,7 @@
       "year": "2013",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1311.2901",
-      "doi_link": "https://doi.org/10.1007/978-3-319-10590-1_53",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1007/978-3-319-10590-1_53"
     },
     "BIBREF24": {
       "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
@@ -361,8 +337,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1506.01497",
-      "doi_link": "https://doi.org/10.1109/tpami.2016.2577031",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/tpami.2016.2577031"
     },
     "BIBREF25": {
       "title": "Aggregated Residual Transformations for Deep Neural Networks",
@@ -376,8 +351,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1611.05431",
-      "doi_link": "https://doi.org/10.1109/cvpr.2017.634",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.634"
     },
     "BIBREF26": {
       "title": "Densely Connected Convolutional Networks",
@@ -389,8 +363,7 @@
       "year": "2017",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1608.06993",
-      "doi_link": "https://doi.org/10.1109/cvpr.2017.243",
-      "other_link": null
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.243"
     }
   }
 }
