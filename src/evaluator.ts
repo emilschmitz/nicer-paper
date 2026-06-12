@@ -294,10 +294,6 @@ export function matchAndScorePaper(
         countLink += 1;
         linkScore += doiScore;
       }
-
-      // Normalize linkScore to [0,1] across however many link types were scored
-      const linkTypesScored = (gt.arxiv_link ? 1 : 0) + (gt.doi_link ? 1 : 0);
-      if (linkTypesScored > 1) linkScore /= linkTypesScored;
     } else {
       // Unmatched: present fields get 0
       if (hasGtTitle) {
