@@ -48,7 +48,11 @@ interface SegmentedBlock {
 /**
  * Segments lines of a column into reference blocks based on flush-left start margins and numbering regexes.
  */
-export function segmentColumnIntoBlocks(colLines: Line[], margin: number): SegmentedBlock[] {
+export function segmentColumnIntoBlocks(
+  colLines: Line[], 
+  margin: number, 
+  isNumberedStyle = false
+): SegmentedBlock[] {
   const colBlocks: SegmentedBlock[] = [];
   let currentStartY = 0;
   let currentText = '';
@@ -65,7 +69,7 @@ export function segmentColumnIntoBlocks(colLines: Line[], margin: number): Segme
     const isFlushLeft = l.x <= margin + 3;
     const isNumbered = /^\[\d+\]/.test(l.text.trim()) || /^\d+\.(\s+|$)/.test(l.text.trim());
     
-    const isStart = isFlushLeft || isNumbered;
+    const isStart = isNumberedStyle ? isNumbered : (isFlushLeft || isNumbered);
     
     if (isStart) {
       if (currentText) {

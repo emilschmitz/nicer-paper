@@ -1,5 +1,11 @@
-import { extractCitationsFromPdf, Citation } from './extractor/index';
-import { UrlEquivalenceRules } from './extractor/config';
+import { extractCitationsFromPdf } from './extractor/index';
+import { parseRegexHeuristics } from './extractor/parser';
+import { 
+  matchAndScorePaper, 
+  GroundTruthEntry, 
+  ExtractedEntry, 
+  EntryScore 
+} from './evaluator';
 import path from 'path';
 import fs from 'fs';
 
@@ -7,67 +13,41 @@ import fs from 'fs';
 const PDF_DIR = process.env.PDF_DIR || './pdfs';
 const ANNOTATIONS_DIR = process.env.ANNOTATIONS_DIR || './annotations';
 const OUTPUT_JSON = process.env.OUTPUT_JSON || './eval_results.json';
-const SIMILARITY_THRESHOLD = parseFloat(process.env.SIMILARITY_THRESHOLD || '0.7');
-
-// Helper: Sørensen-Dice coefficient for text similarity (character bigrams)
-function getBigrams(str: string): Set<string> {
-  const s = str.toLowerCase().replace(/\s+/g, '');
-  const bigrams = new Set<string>();
-  for (let i = 0; i < s.length - 1; i++) {
-    bigrams.add(s.substring(i, i + 2));
-  }
-  return bigrams;
-}
-
-function getDiceSimilarity(s1: string, s2: string): number {
-  const b1 = getBigrams(s1);
-  const b2 = getBigrams(s2);
-  if (b1.size === 0 && b2.size === 0) return 1;
-  if (b1.size === 0 || b2.size === 0) return 0;
-  
-  let intersection = 0;
-  for (const val of b1) {
-    if (b2.has(val)) {
-      intersection++;
-    }
-  }
-  return (2 * intersection) / (b1.size + b2.size);
-}
-
-function getCanonicalUrl(url: string): string {
-  const cleanUrl = url.trim().toLowerCase().replace(/\/$/, '');
-  for (const rule of UrlEquivalenceRules) {
-    for (const pattern of rule.patterns) {
-      const match = cleanUrl.match(pattern);
-      if (match) {
-        return rule.canonicalize(match[1]);
-      }
-    }
-  }
-  return cleanUrl;
-}
-
-function areUrlsEquivalent(url1: string | null, url2: string | null): boolean {
-  if (url1 === url2) return true;
-  if (!url1 || !url2) return false;
-  return getCanonicalUrl(url1) === getCanonicalUrl(url2);
-}
+const FAILURES_JSON = process.env.FAILURES_JSON || './eval_failures.json';
 
 async function runEvaluation() {
-  console.log('Starting Citation Link Extraction Evaluation (Modular Extractor - Parallel Mode)...');
+  console.log('========================================================================');
+  console.log('Starting Citation Link & Metadata Extraction Evaluation (New Modular scoring)...');
   console.log(`PDF Directory: ${PDF_DIR}`);
   console.log(`Annotations Directory: ${ANNOTATIONS_DIR}`);
-  console.log(`Similarity Threshold: ${SIMILARITY_THRESHOLD}`);
+  
+  let jsonFiles = fs.readdirSync(ANNOTATIONS_DIR).filter(f => f.endsWith('.json'));
+
+  // Default to 10% sample for quick runs, but allow overriding via environment variable
+  const sampleRatio = parseFloat(process.env.SAMPLE_RATIO || '0.10');
+  if (sampleRatio < 1.0) {
+    console.log(`Sampling ${Math.round(sampleRatio * 100)}% of files randomly...`);
+    // Fisher-Yates shuffle
+    for (let i = jsonFiles.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [jsonFiles[i], jsonFiles[j]] = [jsonFiles[j], jsonFiles[i]];
+    }
+    const sampleSize = Math.max(1, Math.round(jsonFiles.length * sampleRatio));
+    jsonFiles = jsonFiles.slice(0, sampleSize);
+    console.log(`Selected ${jsonFiles.length} files of ${jsonFiles.length / sampleRatio} for evaluation.`);
+  }
 
   const results: any[] = [];
-  const jsonFiles = fs.readdirSync(ANNOTATIONS_DIR).filter(f => f.endsWith('.json'));
+  const failures: any[] = [];
 
   let grandTotalCitations = 0;
-  let grandTotalMatched = 0;
-  let grandTotalCorrectUrls = 0;
-  let grandTotalMissedUrls = 0;
-  let grandTotalMismatchedUrls = 0;
-  let grandTotalNewUrlsFound = 0;
+  
+  // Scoring accumulation
+  let sumTitleScore = 0;
+  let sumYearScore = 0;
+  let sumAuthorScore = 0;
+  let sumLinkScore = 0;
+  let sumTotalScore = 0;
   let totalTimeMs = 0;
 
   const CONCURRENCY_LIMIT = 8;
@@ -90,21 +70,18 @@ async function runEvaluation() {
       }
 
       const bibEntries = data.bib_entries || {};
-      const annotations = Object.values(bibEntries).map((ann: any) => {
-        const authorsStr = Array.isArray(ann.authors) ? ann.authors.join(' and ') : (ann.author || '');
-        const raw = `${authorsStr}. ${ann.title}. ${ann.year || ''}.`;
+      const annotations: GroundTruthEntry[] = Object.values(bibEntries).map((ann: any) => {
         return {
-          raw,
-          url: ann.link || null,
-          author: authorsStr,
           title: ann.title || '',
+          authors: Array.isArray(ann.authors) ? ann.authors : (ann.author ? [ann.author] : []),
           year: ann.year ? String(ann.year) : '',
+          link: ann.link || null,
         };
       });
 
       if (annotations.length === 0) continue;
 
-      console.log(`Processing ${pdfFilename}...`);
+      console.log(`Processing ${pdfFilename} (GT: ${annotations.length} entries)...`);
       const startTime = Date.now();
       
       let extractResult;
@@ -121,86 +98,53 @@ async function runEvaluation() {
       
       const latencyMs = Date.now() - startTime;
       const { citations, inlineLinks, linkCount } = extractResult;
-      console.log(`  Finished ${pdfFilename}: Extracted ${citations.length} refs in ${latencyMs}ms`);
+      
+      // Parse metadata for each extracted block using standard heuristics extractor
+      const extractedEntries: ExtractedEntry[] = citations.map(cit => {
+        const meta = parseRegexHeuristics(cit.text);
+        return {
+          text: cit.text,
+          url: cit.url,
+          authors: meta.authors || [],
+          title: meta.title || '',
+          venue: meta.venue || '',
+          year: meta.year || '',
+        };
+      });
 
-      const paperMatches: any[] = [];
-      let matchedCount = 0;
-      let correctUrls = 0;
-      let missedUrls = 0;
-      let mismatchedUrls = 0;
-      let newUrlsFound = 0;
+      // Match and score
+      const { scores, details } = matchAndScorePaper(annotations, extractedEntries);
 
-      for (const ann of annotations) {
-        let bestBlock: Citation | null = null;
-        let bestScore = 0;
-
-        for (const block of citations) {
-          const score = getDiceSimilarity(ann.raw, block.text);
-          if (score > bestScore) {
-            bestScore = score;
-            bestBlock = block;
-          }
+      // Track failures (unmatched, or score < 0.8)
+      for (const d of details) {
+        if (d.status === 'unmatched' || d.fieldScores.totalScore < 0.8) {
+          failures.push({
+            paper: pdfFilename,
+            status: d.status,
+            ground_truth: d.gt,
+            extracted: d.matchedExt ? {
+              text: d.matchedExt.text,
+              title: d.matchedExt.title,
+              authors: d.matchedExt.authors,
+              year: d.matchedExt.year,
+              url: d.matchedExt.url
+            } : null,
+            scores: d.fieldScores,
+            similarityScore: d.similarityScore
+          });
         }
-
-        const hasMatch = bestScore >= SIMILARITY_THRESHOLD && bestBlock !== null;
-        let status = 'fail';
-        let extractedUrl: string | null = null;
-
-        if (hasMatch && bestBlock) {
-          matchedCount++;
-          extractedUrl = bestBlock.url;
-          
-          const gtUrl = ann.url || null;
-
-          if (areUrlsEquivalent(gtUrl, extractedUrl)) {
-            correctUrls++;
-            status = 'correct';
-          } else if (gtUrl !== null && extractedUrl === null) {
-            missedUrls++;
-            status = 'miss';
-          } else if (gtUrl === null && extractedUrl !== null) {
-            newUrlsFound++;
-            status = 'new_found';
-          } else {
-            mismatchedUrls++;
-            status = 'mismatch';
-          }
-        } else {
-          status = 'unmatched';
-          missedUrls++;
-        }
-
-        paperMatches.push({
-          raw_ground_truth: ann.raw,
-          matched_text: bestBlock ? bestBlock.text : null,
-          ground_truth_url: ann.url || null,
-          extracted_url: extractedUrl,
-          similarity_score: bestScore,
-          status,
-        });
       }
+
+      console.log(`  Finished ${pdfFilename}: Extracted ${citations.length} refs in ${latencyMs}ms | Score: ${(scores.totalScore * 100).toFixed(1)}%`);
 
       results.push({
         paper: pdfFilename,
         annotations_count: annotations.length,
         extracted_blocks_count: citations.length,
-        matched_count: matchedCount,
-        correct_urls: correctUrls,
-        missed_urls: missedUrls,
-        mismatched_urls: mismatchedUrls,
-        new_urls_found: newUrlsFound,
+        scores,
         latency_ms: latencyMs,
         link_stats: { total: linkCount.total, internal: linkCount.internal, external: linkCount.external },
-        details: paperMatches,
-        stats: {
-          annotationsCount: annotations.length,
-          matchedCount,
-          correctUrls,
-          missedUrls,
-          mismatchedUrls,
-          newUrlsFound,
-          latencyMs
-        }
+        details
       });
     }
   }
@@ -209,37 +153,70 @@ async function runEvaluation() {
   await Promise.all(workers);
 
   // Aggregate stats
+  let countTitle = 0;
+  let countYear = 0;
+  let countAuthor = 0;
+  let countLink = 0;
+  let countTotal = 0;
+
   for (const r of results) {
-    grandTotalCitations += r.stats.annotationsCount;
-    grandTotalMatched += r.stats.matchedCount;
-    grandTotalCorrectUrls += r.stats.correctUrls;
-    grandTotalMissedUrls += r.stats.missedUrls;
-    grandTotalMismatchedUrls += r.stats.mismatchedUrls;
-    grandTotalNewUrlsFound += r.stats.newUrlsFound;
-    totalTimeMs += r.stats.latencyMs;
+    grandTotalCitations += r.annotations_count;
+    totalTimeMs += r.latency_ms;
+    
+    for (const d of r.details) {
+      const hasTitle = d.gt.title && d.gt.title.trim() !== "";
+      const hasYear = d.gt.year && d.gt.year.trim() !== "";
+      const hasAuthor = d.gt.authors && d.gt.authors.length > 0;
+      const hasLink = d.gt.link !== null && d.gt.link.trim() !== "";
+
+      if (hasTitle) {
+        sumTitleScore += d.fieldScores.titleScore;
+        countTitle++;
+      }
+      if (hasYear) {
+        sumYearScore += d.fieldScores.yearScore;
+        countYear++;
+      }
+      if (hasAuthor) {
+        sumAuthorScore += d.fieldScores.authorScore;
+        countAuthor++;
+      }
+      if (hasLink) {
+        sumLinkScore += d.fieldScores.linkScore;
+        countLink++;
+      }
+      
+      sumTotalScore += d.fieldScores.totalScore;
+      countTotal++;
+    }
   }
   
   const totalExecutionTimeMs = Date.now() - startTimeTotal;
 
   // Write evaluation results JSON
   fs.writeFileSync(OUTPUT_JSON, JSON.stringify(results, null, 2));
+  // Write failure results JSON
+  fs.writeFileSync(FAILURES_JSON, JSON.stringify(failures, null, 2));
 
   // Print summary to console
-  console.log('\n======================================');
-  console.log('EVALUATION RESULTS SUMMARY');
-  console.log('======================================');
+  console.log('\n========================================================================');
+  console.log('EVALUATION RESULTS SUMMARY (NEW METRIC)');
+  console.log('========================================================================');
   console.log(`Total Papers Evaluated:     ${results.length}`);
-  console.log(`Total Citations:            ${grandTotalCitations}`);
-  console.log(`Successfully Matched:       ${grandTotalMatched} (${((grandTotalMatched / grandTotalCitations) * 100).toFixed(1)}%)`);
-  console.log(`Correct URLs:               ${grandTotalCorrectUrls} (${((grandTotalCorrectUrls / grandTotalCitations) * 100).toFixed(1)}%)`);
-  console.log(`Missed URLs:                ${grandTotalMissedUrls} (${((grandTotalMissedUrls / grandTotalCitations) * 100).toFixed(1)}%)`);
-  console.log(`Mismatched URLs:            ${grandTotalMismatchedUrls} (${((grandTotalMismatchedUrls / grandTotalCitations) * 100).toFixed(1)}%)`);
-  console.log(`New URLs Found (GT was null): ${grandTotalNewUrlsFound}`);
+  console.log(`Total Ground Truth Refs:    ${grandTotalCitations}`);
+  console.log(`Average Title Similarity:   ${countTitle > 0 ? ((sumTitleScore / countTitle) * 100).toFixed(1) : '0.0'}%`);
+  console.log(`Average Year Accuracy:      ${countYear > 0 ? ((sumYearScore / countYear) * 100).toFixed(1) : '0.0'}%`);
+  console.log(`Average Author Score:       ${countAuthor > 0 ? ((sumAuthorScore / countAuthor) * 100).toFixed(1) : '0.0'}%`);
+  console.log(`Average Link Match Score:   ${countLink > 0 ? ((sumLinkScore / countLink) * 100).toFixed(1) : '0.0'}%`);
+  console.log(`------------------------------------------------------------------------`);
+  console.log(`OVERALL PIPELINE SCORE:     ${countTotal > 0 ? ((sumTotalScore / countTotal) * 100).toFixed(1) : '0.0'}%`);
+  console.log(`------------------------------------------------------------------------`);
   console.log(`Total Latency Sum:          ${totalTimeMs} ms`);
   console.log(`Total Real Execution Time:  ${totalExecutionTimeMs} ms`);
   console.log(`Average Latency per Paper:  ${(totalTimeMs / results.length).toFixed(1)} ms`);
   console.log(`Results saved to:           ${OUTPUT_JSON}`);
-  console.log('======================================');
+  console.log(`Traceable failures saved to: ${FAILURES_JSON}`);
+  console.log('========================================================================');
 }
 
 runEvaluation().catch(console.error);

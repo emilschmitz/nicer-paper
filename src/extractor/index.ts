@@ -55,25 +55,58 @@ export async function extractCitationsFromPdf(
   const refBlocks: RefBlock[] = [];
   const columnBoundary = options?.columnSplitBoundary ?? 270;
 
+  // Pre-scan references pages to detect if it's a numbered style (IEEE, ACM, Springer etc.)
+  let totalNumberedLines = 0;
+  const pageLinesCache: { [pageNum: number]: { left: any[]; right: any[]; leftMargin: number; rightMargin: number; numberedCount: number } } = {};
+
   for (let p = refStartPage; p <= numPages; p++) {
     const pageItems = (allTextItems[p] || []).filter(it => it.y > 50 && it.y < 730);
     if (pageItems.length === 0) continue;
 
-    // Partition text items first by column boundary
     const leftColumnItems = pageItems.filter(it => it.x < columnBoundary);
     const rightColumnItems = pageItems.filter(it => it.x >= columnBoundary);
 
-    // Group items into lines
     const leftLines = groupItemsIntoLines(leftColumnItems);
     const rightLines = groupItemsIntoLines(rightColumnItems);
 
-    // Dynamic Margin Detection
     const leftMargin = getColumnMargin(leftLines, 54);
     const rightMargin = getColumnMargin(rightLines, 307);
 
+    let pageNumberedCount = 0;
+    [...leftLines, ...rightLines].forEach(line => {
+      const trimmed = line.text.trim();
+      if (/^\[\d+\]/.test(trimmed) || /^\d+\.(\s+|$)/.test(trimmed)) {
+        pageNumberedCount++;
+      }
+    });
+
+    totalNumberedLines += pageNumberedCount;
+
+    pageLinesCache[p] = {
+      left: leftLines,
+      right: rightLines,
+      leftMargin,
+      rightMargin,
+      numberedCount: pageNumberedCount
+    };
+  }
+
+  // If we find at least 5 numbered reference starts across the pages, it's a numbered style
+  const isNumberedStyle = totalNumberedLines >= 5;
+
+  for (let p = refStartPage; p <= numPages; p++) {
+    const cache = pageLinesCache[p];
+    if (!cache) continue;
+
+    // In a numbered style document, skip pages that have zero numbered reference starts.
+    // This handles cases where appendices or tables are interspersed within the references section pages.
+    if (isNumberedStyle && cache.numberedCount === 0) {
+      continue;
+    }
+
     // Segment lines into reference blocks per column
-    const leftBlocks = leftLines.length > 0 ? segmentColumnIntoBlocks(leftLines, leftMargin) : [];
-    const rightBlocks = rightLines.length > 0 ? segmentColumnIntoBlocks(rightLines, rightMargin) : [];
+    const leftBlocks = cache.left.length > 0 ? segmentColumnIntoBlocks(cache.left, cache.leftMargin, isNumberedStyle) : [];
+    const rightBlocks = cache.right.length > 0 ? segmentColumnIntoBlocks(cache.right, cache.rightMargin, isNumberedStyle) : [];
 
     const pageBlocks = [...leftBlocks, ...rightBlocks];
 

@@ -1,6 +1,7 @@
 import * as pdfjsLib from 'pdfjs-dist/legacy/build/pdf.mjs';
 import { TextItem, LinkAnn, ExtractorOptions } from './types';
 import { ExtractorConfig as ExtConfig } from './config';
+import { groupItemsIntoLines } from './segmenter';
 
 /**
  * Loads the PDF document using pdfjs-dist.
@@ -104,12 +105,31 @@ export function findReferencesStartPage(
   numPages: number
 ): number {
   const ratio = ExtConfig.PDF.REF_START_PAGE_RATIO;
-  let refStartPage = Math.max(1, Math.floor(numPages * ratio));
-  for (let p = Math.max(1, Math.floor(numPages * ratio)); p <= numPages; p++) {
+  const minStartPage = Math.max(1, Math.floor(numPages * ratio));
+  // Default to a safe fallback (the last 3 pages of the document)
+  let refStartPage = Math.max(minStartPage, numPages - 2);
+
+  for (let p = minStartPage; p <= numPages; p++) {
     const pageItems = allTextItems[p] || [];
-    const hasHeader = pageItems.some(it => 
-      /^\s*(\d+[\s\.]*)?(references|bibliography|literature citgled)\s*$/i.test(it.text.trim())
-    );
+    if (pageItems.length === 0) continue;
+
+    // Group text items into lines to handle split tokens (e.g. "R EFERENCES")
+    const lines = groupItemsIntoLines(pageItems);
+
+    const hasHeader = lines.some(line => {
+      const text = line.text.trim().toLowerCase();
+      // Heuristic: headers are usually short
+      if (text.length > 40) return false;
+
+      // Strip spaces, numbers, punctuation
+      const normalized = text.replace(/[\s\d\.\:\-\[\]\(\)]+/g, '');
+      return normalized === 'references' || 
+             normalized === 'bibliography' || 
+             normalized === 'literaturecited' ||
+             normalized === 'referencesandnotes' ||
+             normalized === 'referencesandappendix';
+    });
+
     if (hasHeader) {
       refStartPage = p;
       break;
