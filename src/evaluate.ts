@@ -75,7 +75,8 @@ async function runEvaluation() {
           title: ann.title || '',
           authors: Array.isArray(ann.authors) ? ann.authors : (ann.author ? [ann.author] : []),
           year: ann.year ? String(ann.year) : '',
-          link: ann.link || null,
+          arxiv_link: ann.arxiv_link || null,
+          doi_link: ann.doi_link || null,
         };
       });
 
@@ -167,7 +168,7 @@ async function runEvaluation() {
       const hasTitle = d.gt.title && d.gt.title.trim() !== "";
       const hasYear = d.gt.year && d.gt.year.trim() !== "";
       const hasAuthor = d.gt.authors && d.gt.authors.length > 0;
-      const hasLink = d.gt.link !== null && d.gt.link.trim() !== "";
+      const hasLink = !!(d.gt.arxiv_link || d.gt.doi_link);
 
       if (hasTitle) {
         sumTitleScore += d.fieldScores.titleScore;

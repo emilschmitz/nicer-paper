@@ -66,7 +66,7 @@ export function segmentColumnIntoBlocks(
     // Check if line is a start of a reference entry:
     // 1. Starts flush-left (within tolerance of column margin)
     // 2. Starts with a bracket number like [1] or dot list like 1.
-    const isFlushLeft = l.x <= margin + 3;
+    const isFlushLeft = l.x <= margin + 8;
     const isNumbered = /^\[\d+\]/.test(l.text.trim()) || /^\d+\.(\s+|$)/.test(l.text.trim());
     
     const isStart = isNumberedStyle ? isNumbered : (isFlushLeft || isNumbered);

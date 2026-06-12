@@ -4,7 +4,8 @@ export interface GroundTruthEntry {
   title: string;
   authors: string[];
   year: string;
-  link: string | null;
+  arxiv_link: string | null;
+  doi_link: string | null;
 }
 
 export interface ExtractedEntry {
@@ -180,7 +181,18 @@ export function getCanonicalUrl(url: string): string {
 export function areUrlsEquivalent(url1: string | null, url2: string | null): boolean {
   if (url1 === url2) return true;
   if (!url1 || !url2) return false;
-  return getCanonicalUrl(url1) === getCanonicalUrl(url2);
+  
+  const parts1 = url1.split(/\s*\|\|\s*/);
+  const parts2 = url2.split(/\s*\|\|\s*/);
+  
+  for (const p1 of parts1) {
+    for (const p2 of parts2) {
+      if (getCanonicalUrl(p1) === getCanonicalUrl(p2)) {
+        return true;
+      }
+    }
+  }
+  return false;
 }
 
 export const TITLE_MATCH_THRESHOLD = 0.5;
@@ -219,7 +231,7 @@ export function matchAndScorePaper(
     const hasGtTitle = gt.title && gt.title.trim() !== "";
     const hasGtYear = gt.year && gt.year.trim() !== "";
     const hasGtAuthors = gt.authors && gt.authors.length > 0;
-    const hasGtLink = gt.link !== null && gt.link.trim() !== "";
+    const hasGtLink = !!(gt.arxiv_link || gt.doi_link);
 
     let titleScore = 0;
     let yearScore = 0;
@@ -255,14 +267,37 @@ export function matchAndScorePaper(
         sumAuthor += authorScore;
         countAuthor += 1;
       }
-      if (hasGtLink) {
-        linkScore = areUrlsEquivalent(gt.link, bestExt.url) ? 1 : 0;
-        entryNumerator += linkScore;
+      // Score arXiv link: only when GT has arxiv_link
+      if (gt.arxiv_link) {
+        const extUrl = bestExt.url || '';
+        const canonicalExt = extUrl ? getCanonicalUrl(extUrl) : '';
+        const isExtArxiv = canonicalExt.startsWith('arxiv:');
+        const canonicalGtArxiv = getCanonicalUrl(gt.arxiv_link);
+        const arxivScore = (isExtArxiv && canonicalExt === canonicalGtArxiv) ? 1 : 0;
+        entryNumerator += arxivScore;
         entryDenominator += 1;
-
-        sumLink += linkScore;
+        sumLink += arxivScore;
         countLink += 1;
+        linkScore += arxivScore;
       }
+
+      // Score DOI link: only when GT has doi_link
+      if (gt.doi_link) {
+        const extUrl = bestExt.url || '';
+        const canonicalExt = extUrl ? getCanonicalUrl(extUrl) : '';
+        const isExtDoi = canonicalExt.startsWith('doi:');
+        const canonicalGtDoi = getCanonicalUrl(gt.doi_link);
+        const doiScore = (isExtDoi && canonicalExt === canonicalGtDoi) ? 1 : 0;
+        entryNumerator += doiScore;
+        entryDenominator += 1;
+        sumLink += doiScore;
+        countLink += 1;
+        linkScore += doiScore;
+      }
+
+      // Normalize linkScore to [0,1] across however many link types were scored
+      const linkTypesScored = (gt.arxiv_link ? 1 : 0) + (gt.doi_link ? 1 : 0);
+      if (linkTypesScored > 1) linkScore /= linkTypesScored;
     } else {
       // Unmatched: present fields get 0
       if (hasGtTitle) {
@@ -277,10 +312,8 @@ export function matchAndScorePaper(
         entryDenominator += 1;
         countAuthor += 1;
       }
-      if (hasGtLink) {
-        entryDenominator += 1;
-        countLink += 1;
-      }
+      if (gt.arxiv_link) { entryDenominator += 1; countLink += 1; }
+      if (gt.doi_link)   { entryDenominator += 1; countLink += 1; }
     }
 
     const entryTotalScore = entryDenominator > 0 ? (entryNumerator / entryDenominator) : 0;

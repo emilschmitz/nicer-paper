@@ -125,141 +125,146 @@ export function parseRegexSimple(text: string): ExtractedMetadata {
 
 // ----------------------------------------------------
 // APPROACH 2: Heuristic Regex Parser
+function splitIntoClauses(text: string): string[] {
+  const clauses: string[] = [];
+  let current = '';
+  for (let i = 0; i < text.length; i++) {
+    const char = text[i];
+    if (char === '.') {
+      const prev = i > 0 ? text[i-1] : '';
+      const next = i < text.length - 1 ? text[i+1] : '';
+      // Check if it's an initial (e.g., "A." or "A. B.")
+      const isInitial = /[A-Z]/.test(prev) && (next === '' || /\s/.test(next) || /[A-Z]/.test(next));
+      // Check for common abbreviations
+      const lastWord = current.split(/\s+/).pop()?.toLowerCase() || '';
+      const cleanWord = lastWord.replace(/[^a-z]/g, '');
+      const isAbbrev = ['vol', 'no', 'pp', 'al', 'assoc', 'proc', 'conf', 'dept', 'univ', 'ed', 'eds', 'trans', 'sci', 'comput', 'lett', 'sig', 'commun', 'imag', 'vis'].includes(cleanWord);
+      
+      if (isInitial || isAbbrev) {
+        current += char;
+      } else {
+        clauses.push(current.trim());
+        current = '';
+      }
+    } else {
+      current += char;
+    }
+  }
+  if (current.trim()) {
+    clauses.push(current.trim());
+  }
+  return clauses.filter(Boolean);
+}
+
 export function parseRegexHeuristics(text: string): ExtractedMetadata {
   // Clean up starting index numbers like [1] or 1.
   let cleanText = text.replace(/^\[\d+\]\s*/, "").replace(/^\d+\.\s*/, "").trim();
 
-  // 1. Extract Year (Strict)
+  // 1. Extract Year
   let year = "";
-  let textWithoutYear = cleanText;
-  let yearInParens = false;
-
-  const parenYearMatch = cleanText.match(/\((19\d{2}|20\d{2})\b[a-z]?\)/);
-  if (parenYearMatch) {
-    year = parenYearMatch[1];
-    textWithoutYear = cleanText.replace(parenYearMatch[0], " __YEAR__ ");
-    yearInParens = true;
+  const yearMatches = Array.from(cleanText.matchAll(/\b(19\d{2}|20\d{2})\b/g));
+  
+  // Rank 1: Year in parentheses/brackets e.g. (2016) or [2016]
+  const parenMatch = cleanText.match(/[\(\[](19\d{2}|20\d{2})[\)\]]/);
+  if (parenMatch) {
+    year = parenMatch[1];
   } else {
-    // Scan all 4-digit numbers in the 1900-2099 range
-    const yearMatches = Array.from(cleanText.matchAll(/\b(19\d{2}|20\d{2})\b/g));
-    for (const match of yearMatches) {
-      const candidate = match[1];
-      const matchIdx = match.index!;
-      
-      const beforeStr = cleanText.substring(Math.max(0, matchIdx - 15), matchIdx);
-      const afterStr = cleanText.substring(matchIdx + candidate.length, Math.min(cleanText.length, matchIdx + candidate.length + 10));
-      
-      // Reject if inside page range or volume context
-      if (
-        /\b(vol\.?|volume|pp\.?|pages?|issue|no\.?)\b/i.test(beforeStr) || 
-        /^[-\–\u2013\u2014]\d+/.test(afterStr) || 
-        /\d+[-\–\u2013\u2014]$/.test(beforeStr)
-      ) {
-        continue;
-      }
-      
-      // Enforce clean boundary characters
-      const charBefore = beforeStr.length > 0 ? beforeStr[beforeStr.length - 1] : "";
-      const charAfter = afterStr.length > 0 ? afterStr[0] : "";
-      const validBefore = charBefore === "" || /[\s,.;\(\)\[\]]/.test(charBefore);
-      const validAfter = charAfter === "" || /[\s,.;\(\)\[\]]/.test(charAfter);
-      
-      if (validBefore && validAfter) {
-        year = candidate;
-        textWithoutYear = cleanText.replace(match[0], " __YEAR__ ");
-        break;
-      }
-    }
-  }
-
-  // 2. Extract Authors
-  let authors = "";
-  let remainder = textWithoutYear;
-
-  if (yearInParens) {
-    const yearIdx = textWithoutYear.indexOf("__YEAR__");
-    if (yearIdx !== -1) {
-      authors = textWithoutYear.substring(0, yearIdx).trim();
-      remainder = textWithoutYear.substring(yearIdx + "__YEAR__".length).trim();
-    }
-  } else if (/\bet\s+al\b/i.test(textWithoutYear)) {
-    const etAlMatch = textWithoutYear.match(/(.*?)\bet\s+al\.?\b(,\s*)?/i);
-    if (etAlMatch) {
-      authors = etAlMatch[1] + " et al.";
-      remainder = textWithoutYear.substring(etAlMatch[0].length).trim();
-    }
-  } else {
-    let splitIdx = -1;
-    for (let i = 0; i < textWithoutYear.length; i++) {
-      if (textWithoutYear[i] === '.') {
-        const prevChar = i > 0 ? textWithoutYear[i - 1] : '';
-        const prevPrevChar = i > 1 ? textWithoutYear[i - 2] : '';
-        if (/[A-Z]/.test(prevChar) && (prevPrevChar === '' || /[^A-Za-z]/.test(prevPrevChar))) {
-          continue;
-        }
-        if (i >= 5 && textWithoutYear.substring(i - 5, i + 1).toLowerCase() === 'et al.') {
-          continue;
-        }
-        splitIdx = i;
-        break;
-      }
-    }
-    
-    if (splitIdx !== -1) {
-      authors = textWithoutYear.substring(0, splitIdx).trim();
-      remainder = textWithoutYear.substring(splitIdx + 1).trim();
+    // Rank 2: Year at the end of the text (within last 35 chars)
+    const endMatch = cleanText.match(/\b(19\d{2}|20\d{2})\b[.\s]*$/);
+    if (endMatch) {
+      year = endMatch[1];
     } else {
-      const commaIdx = textWithoutYear.indexOf(',');
-      if (commaIdx !== -1) {
-        authors = textWithoutYear.substring(0, commaIdx).trim();
-        remainder = textWithoutYear.substring(commaIdx + 1).trim();
-      } else {
-        authors = textWithoutYear;
-        remainder = "";
+      // Rank 3: Find any year that is not part of a page range
+      for (const m of yearMatches) {
+        const candidate = m[1];
+        const idx = m.index!;
+        const before = cleanText.substring(Math.max(0, idx - 15), idx).toLowerCase();
+        const after = cleanText.substring(idx + 4, Math.min(cleanText.length, idx + 15)).toLowerCase();
+        
+        const isPageNum = /\b(pp\.?|p\.?|pages?|vol\.?|volume|issue|no\.?)\b/.test(before) || 
+                          /^[-\–\u2013\u2014]\d+/.test(after) || 
+                          /\d+[-\–\u2013\u2014]/.test(before);
+        if (!isPageNum) {
+          year = candidate;
+          break;
+        }
       }
     }
   }
 
-  authors = authors.replace(/^[\s,.;&\(\)\[\]]+|[\s,.;&\(\)\[\]]+$/g, "").trim();
-  remainder = remainder.replace("__YEAR__", "").trim();
-  remainder = remainder.replace(/^[\s,.:;"'“”韵‘’()\[\]]+|[\s,.:;"'“”韵‘’()\[\]]+$/g, "").trim();
+  // Fallback
+  if (!year && yearMatches.length > 0) {
+    for (const m of yearMatches) {
+      const candidate = m[1];
+      const idx = m.index!;
+      const after = cleanText.substring(idx + 4, Math.min(cleanText.length, idx + 10));
+      if (!/^[-\–\u2013\u2014]\d+/.test(after)) {
+        year = candidate;
+        break;
+      }
+    }
+  }
 
+  const textWithoutYear = year ? cleanText.replace(year, " __YEAR__ ") : cleanText;
+  let authors = "";
   let title = "";
   let venue = "";
 
-  const simpleQuoteMatch = remainder.match(/["“‘]([^"制造“”‘’]+)["”’]/) || remainder.match(/["“‘]([^"“”‘’]+)["”’]/);
-  if (simpleQuoteMatch) {
-    title = simpleQuoteMatch[1];
-    venue = remainder.replace(simpleQuoteMatch[0], "").trim();
+  // 2. Extract Title inside quotes if present
+  const quoteMatch = cleanText.match(/["“‘]([^"制造“”‘’]+)["”’]/) || cleanText.match(/["“‘]([^"“”‘’]+)["”’]/);
+  if (quoteMatch) {
+    title = quoteMatch[1];
+    const quotesIndex = cleanText.indexOf(quoteMatch[0]);
+    authors = cleanText.substring(0, quotesIndex).trim();
+    venue = cleanText.substring(quotesIndex + quoteMatch[0].length).trim();
   } else {
-    const inMatch = remainder.match(/(.*?)\b(in|In)\b\s+(.*)/);
-    if (inMatch) {
-      title = inMatch[1];
-      venue = inMatch[3];
+    // 3. Clause-based splitting
+    const clauses = splitIntoClauses(textWithoutYear);
+    if (clauses.length >= 2) {
+      authors = clauses[0];
+      let titleIdx = 1;
+      if (clauses[1].includes("__YEAR__") && clauses[1].replace("__YEAR__", "").trim().length < 5) {
+        titleIdx = 2;
+      }
+      title = clauses[titleIdx] || "";
+      venue = clauses.slice(titleIdx + 1).join(". ") || "";
     } else {
-      const parts = remainder.split(/\.\s+/);
-      title = parts[0] || "";
-      venue = parts.slice(1).join(". ") || "";
+      // Split by comma if only one clause
+      const commaParts = textWithoutYear.split(/,\s+/);
+      if (commaParts.length >= 2) {
+        authors = commaParts[0];
+        title = commaParts[1];
+        venue = commaParts.slice(2).join(", ");
+      } else {
+        authors = textWithoutYear;
+      }
     }
   }
 
-  title = title.replace(/^[\s,.:;"'“”‘’()\[\]]+|[\s,.:;"'“”‘’()\[\]]+$/g, "").trim();
-  venue = venue.replace(/^[\s,.:;"'“”‘’()\[\]]+|[\s,.:;"'“”‘’()\[\]]+$/g, "").trim();
+  // Clean authors
+  authors = authors.replace("__YEAR__", "").trim();
+  authors = authors.replace(/^[\s,.;&\(\)\[\]]+|[\s,.;&\(\)\[\]]+$/g, "").trim();
 
-  // Strict sanitization: reject if it looks like junk parsed text
-  if (
-    title.length < 3 ||
-    /\b(doi|https?|www|vol\.?|volume|pp\.?|pages?)\b/i.test(title) ||
-    /^\d+$/.test(title)
-  ) {
-    title = "";
-  }
+  // Clean title
+  title = title.replace("__YEAR__", "").trim();
+  title = title.replace(/^[\s,.:;"'形“”‘’()\[\]\-\–\—韵]+|[\s,.:;"'形“”‘’()\[\]\-\–\—韵]+$/g, "").trim();
 
+  // Clean venue
+  venue = venue.replace("__YEAR__", "").trim();
   venue = venue.replace(/\b(pp\.?|pages|vol\.?|volume|no\.?|issue)\s*[\d\s\-\–,:]+/gi, "");
   venue = venue.replace(/https?:\/\/\S+/gi, "");
   venue = venue.replace(/doi:\s*\S+/gi, "");
   venue = venue.replace(/,\s*abs\/\S+/gi, "");
   venue = venue.replace(/^[\s,.:;"'“”‘’()\[\]]+|[\s,.:;"'“”‘’()\[\]]+$/g, "").trim();
+
+  // Strict sanitization: reject if it looks like junk parsed text
+  if (
+    title.length < 5 ||
+    /\b(doi|https?|www|vol\.?|volume|pp\.?|pages?)\b/i.test(title) ||
+    /^\d+$/.test(title)
+  ) {
+    title = "";
+  }
 
   if (
     venue.length < 3 ||

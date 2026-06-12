@@ -117,17 +117,20 @@ export function findReferencesStartPage(
     const lines = groupItemsIntoLines(pageItems);
 
     const hasHeader = lines.some(line => {
-      const text = line.text.trim().toLowerCase();
-      // Heuristic: headers are usually short
-      if (text.length > 40) return false;
+      const parts = line.text.split(/\s{2,}/);
+      return parts.some(part => {
+        const text = part.trim().toLowerCase();
+        // Heuristic: headers are usually short
+        if (text.length > 40) return false;
 
-      // Strip spaces, numbers, punctuation
-      const normalized = text.replace(/[\s\d\.\:\-\[\]\(\)]+/g, '');
-      return normalized === 'references' || 
-             normalized === 'bibliography' || 
-             normalized === 'literaturecited' ||
-             normalized === 'referencesandnotes' ||
-             normalized === 'referencesandappendix';
+        // Strip spaces, numbers, punctuation
+        const normalized = text.replace(/[\s\d\.\:\-\[\]\(\)]+/g, '');
+        return normalized === 'references' || 
+               normalized === 'bibliography' || 
+               normalized === 'literaturecited' ||
+               normalized === 'referencesandnotes' ||
+               normalized === 'referencesandappendix';
+      });
     });
 
     if (hasHeader) {

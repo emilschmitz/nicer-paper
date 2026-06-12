@@ -58,19 +58,70 @@ export async function extractCitationsFromPdf(
   // Pre-scan references pages to detect if it's a numbered style (IEEE, ACM, Springer etc.)
   let totalNumberedLines = 0;
   const pageLinesCache: { [pageNum: number]: { left: any[]; right: any[]; leftMargin: number; rightMargin: number; numberedCount: number } } = {};
-
   for (let p = refStartPage; p <= numPages; p++) {
-    const pageItems = (allTextItems[p] || []).filter(it => it.y > 50 && it.y < 730);
+    let pageItems = (allTextItems[p] || []).filter(it => it.y > 50 && it.y < 730);
     if (pageItems.length === 0) continue;
 
-    const leftColumnItems = pageItems.filter(it => it.x < columnBoundary);
-    const rightColumnItems = pageItems.filter(it => it.x >= columnBoundary);
+    // Filter out body text above the references header on the starting page
+    if (p === refStartPage) {
+      const tempLines = groupItemsIntoLines(pageItems);
+      let headerY = -1;
+      for (const line of tempLines) {
+        const parts = line.text.split(/\s{2,}/);
+        let found = false;
+        for (const part of parts) {
+          const text = part.trim().toLowerCase();
+          if (text.length <= 40) {
+            const normalized = text.replace(/[\s\d\.\:\-\[\]\(\)]+/g, '');
+            if (
+              normalized === 'references' || 
+              normalized === 'bibliography' || 
+              normalized === 'literaturecited' ||
+              normalized === 'referencesandnotes' ||
+              normalized === 'referencesandappendix'
+            ) {
+              headerY = line.y;
+              found = true;
+              break;
+            }
+          }
+        }
+        if (found) break;
+      }
+      if (headerY !== -1) {
+        pageItems = pageItems.filter(it => it.y < headerY - 5);
+        if (pageItems.length === 0) continue;
+      }
+    }
 
-    const leftLines = groupItemsIntoLines(leftColumnItems);
-    const rightLines = groupItemsIntoLines(rightColumnItems);
+    // Dynamically detect column layout for the page
+    const allLines = groupItemsIntoLines(pageItems);
+    let crossingItemsCount = 0;
+    pageItems.forEach(it => {
+      if (it.text.trim().length >= 3 && it.x < 260 && it.x + it.w > 290) {
+        crossingItemsCount++;
+      }
+    });
+    const isTwoColumn = crossingItemsCount <= 8;
 
-    const leftMargin = getColumnMargin(leftLines, 54);
-    const rightMargin = getColumnMargin(rightLines, 307);
+    let leftLines: any[] = [];
+    let rightLines: any[] = [];
+    let leftMargin = 54;
+    let rightMargin = 307;
+
+    if (isTwoColumn) {
+      const leftColumnItems = pageItems.filter(it => it.x < columnBoundary);
+      const rightColumnItems = pageItems.filter(it => it.x >= columnBoundary);
+      leftLines = groupItemsIntoLines(leftColumnItems);
+      rightLines = groupItemsIntoLines(rightColumnItems);
+      leftMargin = getColumnMargin(leftLines, 54);
+      rightMargin = getColumnMargin(rightLines, 307);
+    } else {
+      leftLines = allLines;
+      rightLines = [];
+      leftMargin = getColumnMargin(leftLines, 54);
+      rightMargin = 0;
+    }
 
     let pageNumberedCount = 0;
     [...leftLines, ...rightLines].forEach(line => {
