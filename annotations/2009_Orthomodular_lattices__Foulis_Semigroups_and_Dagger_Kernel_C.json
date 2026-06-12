@@ -1,0 +1,102 @@
+{
+  "paper_id": "0902.2355",
+  "title": "Orthomodular lattices, Foulis Semigroups and Dagger Kernel Categories",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Non-Stable Models of Linear Logic",
+      "authors": [
+        "Raymond Hoofman"
+      ],
+      "year": 1992,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BFb0023875"
+    },
+    "BIBREF1": {
+      "title": "Dagger Compact Closed Categories and Completely Positive Maps",
+      "authors": [
+        "Peter Selinger"
+      ],
+      "year": 2007,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2006.12.018"
+    },
+    "BIBREF2": {
+      "title": "Adjunction of semifunctors: categorical structures in nonextensional lambda calculus",
+      "authors": [
+        "Susumu Hayashi"
+      ],
+      "year": 1985,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0304-3975(85)90062-3"
+    },
+    "BIBREF3": {
+      "title": "Quantum Logic in Dagger Kernel Categories",
+      "authors": [
+        "Chris Heunen",
+        "Bart Jacobs"
+      ],
+      "year": 2011,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2011.01.024"
+    },
+    "BIBREF4": {
+      "title": "A remark on the theory of semi-functors",
+      "authors": [
+        "Raymond Hoofman",
+        "Ieke Moerdijk"
+      ],
+      "year": 1995,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S096012950000061X"
+    },
+    "BIBREF5": {
+      "title": "Semantics of the second order lambda calculus",
+      "authors": [
+        "B.P.F. Jacobs"
+      ],
+      "year": 1991,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129500001341"
+    },
+    "BIBREF6": {
+      "title": "A categorical semantics of quantum protocols",
+      "authors": [
+        "S. Abramsky",
+        "B. Coecke"
+      ],
+      "year": 2004,
+      "venue": "Logic in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/LICS.2004.1"
+    },
+    "BIBREF7": {
+      "title": "LQP: the dynamic logic of quantum information",
+      "authors": [
+        "Alexandru Baltag",
+        "Sonja Smets"
+      ],
+      "year": 2006,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129506005299"
+    },
+    "BIBREF8": {
+      "title": "A new description of orthogonal bases",
+      "authors": [
+        "Bob Coecke",
+        "Dusko Pavlovic",
+        "Jamie Vicary"
+      ],
+      "year": 2013,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129512000047"
+    },
+    "BIBREF9": {
+      "title": "Idempotents in Dagger Categories",
+      "authors": [
+        "Peter Selinger"
+      ],
+      "year": 2008,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2008.04.021"
+    }
+  }
+}

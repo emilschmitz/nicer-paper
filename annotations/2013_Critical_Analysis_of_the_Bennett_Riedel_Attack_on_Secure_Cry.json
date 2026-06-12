@@ -1,0 +1,109 @@
+{
+  "paper_id": "1303.7435v1",
+  "title": "Critical Analysis of the Bennett–Riedel Attack on Secure Cryptographic Key Distributions via the Kirchhoff-Law–Johnson-Noise Scheme",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On the security of key distribution based on Johnson-Nyquist noise",
+      "authors": [
+        "Charles H. Bennett",
+        "C. Jess Riedel"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Effective privacy amplification for secure classical communications",
+      "authors": [
+        "Tamás Horváth",
+        "Laszlo B. Kish",
+        "Jacob Scheuer"
+      ],
+      "year": 2011,
+      "venue": "EPL",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1209/0295-5075/94/28002"
+    },
+    "BIBREF2": {
+      "title": "Current and voltage based bit errors and their combined mitigation for the Kirchhoff-law---Johnson-noise secure key exchange",
+      "authors": [
+        "Yessica Saez",
+        "Laszlo B. Kish",
+        "Robert Mingesz",
+        "Zoltan Gingl",
+        "Claes G. Granqvist"
+      ],
+      "year": 2014,
+      "venue": "Journal of Computational Electronics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10825-013-0515-2"
+    },
+    "BIBREF3": {
+      "title": "Information Networks Secured by the Laws of Physics",
+      "authors": [
+        "Laszlo B. Kish",
+        "Ferdinand Peper"
+      ],
+      "year": 2012,
+      "venue": "IEICE Transactions on Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1587/transcom.E95.B.1501"
+    },
+    "BIBREF4": {
+      "title": "Faked states attack using detector efficiency mismatch on SARG04, phase-time, DPSK, and Ekert protocols",
+      "authors": [
+        "V. Makarov",
+        "J. Skaar"
+      ],
+      "year": 2008,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Enhanced Secure Key Exchange Systems Based on the Johnson- Noise Scheme",
+      "authors": [
+        "Laszlo Bela Kish"
+      ],
+      "year": 2013,
+      "venue": "Metrology and Measurement Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.2478/mms-2013-0017"
+    },
+    "BIBREF6": {
+      "title": "On the security of the Kirchhoff-law---Johnson-noise (KLJN) communicator",
+      "authors": [
+        "Laszlo B. Kish",
+        "Claes G. Granqvist"
+      ],
+      "year": 2014,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-014-0729-7"
+    },
+    "BIBREF7": {
+      "title": "CRACKING THE LIU KEY EXCHANGE PROTOCOL IN ITS MOST SECURE STATE WITH LORENTZIAN SPECTRA",
+      "authors": [
+        "Lazar L. Kish",
+        "Bruce Zhang",
+        "Laszlo B. Kish"
+      ],
+      "year": 2010,
+      "venue": "Fluctuation and Noise Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1142/S0219477510000058"
+    },
+    "BIBREF8": {
+      "title": "Notes on recent approaches concerning the Kirchhoff-law―Johnson-noise-based secure key exchange",
+      "authors": [
+        "Laszlo B. Kish",
+        "Tamas Horvath"
+      ],
+      "year": 2009,
+      "venue": "Physics Letters A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.physleta.2009.05.077"
+    },
+    "BIBREF9": {
+      "title": "Reply to recent scepticism about the foundations of quantum cryptography",
+      "authors": [
+        "Renato Renner"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

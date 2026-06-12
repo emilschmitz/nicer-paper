@@ -1,0 +1,87 @@
+{
+  "paper_id": "1610.02260v2",
+  "title": "Information Systems with Witnesses: The Function Space Construction.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Continuous Lattices and Domains",
+      "authors": [
+        "G. Gierz",
+        "K. H. Hofmann",
+        "K. Keimel",
+        "J. D. Lawson",
+        "M. W. Mislove",
+        "D. S. Scott"
+      ],
+      "year": 2003,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Domains for Denotational Semantics",
+      "authors": [
+        "Dana S. Scott"
+      ],
+      "year": 1982,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BFb0012801"
+    },
+    "BIBREF2": {
+      "title": "Semantics of programming languages",
+      "authors": [
+        "R. D. Tennent"
+      ],
+      "year": 1991,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Mathematical Theory of Domains",
+      "authors": [
+        "C. J. van Rijsbergen",
+        "Viggo Stoltenberg-Hansen",
+        "Ingrid Lindström",
+        "Edward R. Griffor"
+      ],
+      "year": 1994,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Categories of embeddings",
+      "authors": [
+        "Thierry Coquand"
+      ],
+      "year": 1989,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0304-3975(89)90161-8"
+    },
+    "BIBREF5": {
+      "title": "A logical approach to stable domains",
+      "authors": [
+        "Yi-Xiang Chen",
+        "Achim Jung"
+      ],
+      "year": 2006,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.tcs.2006.09.005"
+    },
+    "BIBREF6": {
+      "title": "Domain theory in logical form",
+      "authors": [
+        "Samson Abramsky"
+      ],
+      "year": 1991,
+      "venue": "Annals of Pure and Applied Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0168-0072(91)90065-T"
+    },
+    "BIBREF7": {
+      "title": "Generalised Information Systems Capture L-Domains.",
+      "authors": [
+        "Dieter Spreen"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Logic in Computer Science",
+      "link": ""
+    }
+  }
+}

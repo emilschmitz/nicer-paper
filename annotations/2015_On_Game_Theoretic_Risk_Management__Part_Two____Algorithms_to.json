@@ -1,0 +1,36 @@
+{
+  "paper_id": "1506.07368",
+  "title": "On Game-Theoretic Risk Management (Part Two) - Algorithms to Compute Nash-Equilibria in Games with Distributions as Payoffs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Numerical Computation of Multi-goal Security Strategies",
+      "authors": [
+        "Stefan Rass",
+        "Benjamin Rainer"
+      ],
+      "year": 2014,
+      "venue": "Decision and Game Theory for Security",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-12601-2_7"
+    },
+    "BIBREF1": {
+      "title": "On Game-Theoretic Network Security Provisioning",
+      "authors": [
+        "Stefan Rass"
+      ],
+      "year": 2013,
+      "venue": "Journal of Network and Systems Management",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10922-012-9229-1"
+    },
+    "BIBREF2": {
+      "title": "Uncertainty in Games: Using Probability-Distributions as Payoffs",
+      "authors": [
+        "Stefan Rass",
+        "Sandra König",
+        "Stefan Schauer"
+      ],
+      "year": 2015,
+      "venue": "Decision and Game Theory for Security",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-25594-1_20"
+    }
+  }
+}

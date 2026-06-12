@@ -1,0 +1,258 @@
+{
+  "paper_id": "1601.04908",
+  "title": "Graded Entailment for Compositional Distributional Semantics",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Identifying hypernyms in distributional semantic spaces",
+      "authors": [
+        "Alessandro Lenci",
+        "Giulia Benotto"
+      ],
+      "year": 2012,
+      "venue": "Joint Conference on Lexical and Computational Semantics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Entailment above the word level in distributional semantics",
+      "authors": [
+        "Marco Baroni",
+        "Raffaella Bernardi",
+        "Ngoc-Quynh Do",
+        "Chung-chieh Shan"
+      ],
+      "year": 2012,
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Mathematical Foundations for a Compositional Distributional Model of Meaning",
+      "authors": [
+        "Bob Coecke",
+        "Mehrnoosh Sadrzadeh",
+        "Stephen Clark"
+      ],
+      "year": 2010,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "A Unified Sentence Space for Categorical Distributional-Compositional Semantics: Theory and Experiments",
+      "authors": [
+        "Dimitri Kartsaklis",
+        "Mehrnoosh Sadrzadeh",
+        "Stephen Pulman"
+      ],
+      "year": 2012,
+      "venue": "International Conference on Computational Linguistics",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "A Quantum-Theoretic Approach to Distributional Semantics",
+      "authors": [
+        "William Blacoe",
+        "Elham Kashefi",
+        "Mirella Lapata"
+      ],
+      "year": 2013,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Compositional distributional semantics with compact closed categories and Frobenius algebras",
+      "authors": [
+        "Dimitrios Kartsaklis"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Open System Categorical Quantum Semantics in Natural Language Processing",
+      "authors": [
+        "Robin Piedeleu",
+        "Dimitri Kartsaklis",
+        "Bob Coecke",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Characterising measures of lexical distributional similarity",
+      "authors": [
+        "Julie Weeds",
+        "David Weir",
+        "Diana McCarthy"
+      ],
+      "year": 2004,
+      "venue": "International Conference on Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/1220355.1220501"
+    },
+    "BIBREF8": {
+      "title": "A probabilistic PDL",
+      "authors": [
+        "Dexter Kozen"
+      ],
+      "year": 1983,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/800061.808758"
+    },
+    "BIBREF9": {
+      "title": "Dagger Compact Closed Categories and Completely Positive Maps",
+      "authors": [
+        "Peter Selinger"
+      ],
+      "year": 2007,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2006.12.018"
+    },
+    "BIBREF10": {
+      "title": "Composition in Distributional Models of Semantics",
+      "authors": [
+        "Jeff Mitchell",
+        "Mirella Lapata"
+      ],
+      "year": 2010,
+      "venue": "Cognitive Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1111/j.1551-6709.2010.01106.x"
+    },
+    "BIBREF11": {
+      "title": "Bell States and Negative Sentences in the Distributed Model of Meaning",
+      "authors": [
+        "Anne Preller",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2011,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2011.01.028"
+    },
+    "BIBREF12": {
+      "title": "Natural Logic for Textual Inference",
+      "authors": [
+        "Bill MacCartney",
+        "Christopher D. Manning"
+      ],
+      "year": 2007,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/1654536.1654575"
+    },
+    "BIBREF13": {
+      "title": "The Frobenius anatomy of word meanings I: subject and object relative pronouns",
+      "authors": [
+        "Mehrnoosh Sadrzadeh",
+        "Stephen Clark",
+        "Bob Coecke"
+      ],
+      "year": 2013,
+      "venue": "Journal of Logic and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1093/logcom/ext044"
+    },
+    "BIBREF14": {
+      "title": "Quantum weakest preconditions",
+      "authors": [
+        "Ellie D'hondt",
+        "Prakash Panangaden"
+      ],
+      "year": 2006,
+      "venue": "Mathematical Structures in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S0960129506005251"
+    },
+    "BIBREF15": {
+      "title": "Finding Predominant Word Senses in Untagged Text",
+      "authors": [
+        "Diana McCarthy",
+        "Rob Koeling",
+        "Julie Weeds",
+        "John Carroll"
+      ],
+      "year": 2004,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/1218955.1218991"
+    },
+    "BIBREF16": {
+      "title": "Automatic word sense discrimination",
+      "authors": [
+        "Hinrich Schütze"
+      ],
+      "year": 1998,
+      "venue": "Computational Linguistics",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Directional distributional similarity for lexical inference",
+      "authors": [
+        "Lili Kotlerman",
+        "Ido Dagan",
+        "Idan Szpektor",
+        "Maayan Zhitomirsky-geffet"
+      ],
+      "year": 2010,
+      "venue": "Natural Language Engineering",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/S1351324910000124"
+    },
+    "BIBREF18": {
+      "title": "The Distributional Inclusion Hypotheses and Lexical Entailment",
+      "authors": [
+        "Maayan Geffet",
+        "Ido Dagan"
+      ],
+      "year": 2005,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/1219840.1219854"
+    },
+    "BIBREF19": {
+      "title": "Sentence entailment in compositional distributional semantics",
+      "authors": [
+        "Mehrnoosh Sadrzadeh",
+        "Dimitri Kartsaklis",
+        "Esma Balkır"
+      ],
+      "year": 2018,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10472-017-9570-x"
+    },
+    "BIBREF20": {
+      "title": "Exploiting Image Generality for Lexical Entailment Detection",
+      "authors": [
+        "Douwe Kiela",
+        "Laura Rimell",
+        "Ivan Vulić",
+        "Stephen Clark"
+      ],
+      "year": 2015,
+      "venue": "International Joint Conference on Natural Language Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/v1/P15-2020"
+    },
+    "BIBREF21": {
+      "title": "Distributional Lexical Entailment by Topic Coherence",
+      "authors": [
+        "Laura Rimell"
+      ],
+      "year": 2014,
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/v1/E14-1054"
+    },
+    "BIBREF22": {
+      "title": "Experimental Support for a Categorical Compositional Distributional Model of Meaning",
+      "authors": [
+        "Edward Grefenstette",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF23": {
+      "title": "Distributional Sentence Entailment Using Density Matrices",
+      "authors": [
+        "Esma Balkir",
+        "Mehrnoosh Sadrzadeh",
+        "Bob Coecke"
+      ],
+      "year": 2015,
+      "venue": "1st International Conference on Theoretical Computer Science (TTCS)",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-28678-5_1"
+    }
+  }
+}

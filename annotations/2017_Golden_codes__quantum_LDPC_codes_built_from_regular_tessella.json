@@ -1,0 +1,85 @@
+{
+  "paper_id": "1310.5555",
+  "title": "Golden codes: quantum LDPC codes built from regular tessellations of hyperbolic 4-manifolds",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Constructions and Noise Threshold of Hyperbolic Surface Codes",
+      "authors": [
+        "Nikolas P. Breuckmann",
+        "Barbara M. Terhal"
+      ],
+      "year": 2016,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2016.2555700"
+    },
+    "BIBREF1": {
+      "title": "On Cayley Graphs, Surface Codes, and the Limits of Homological Coding for Quantum Error Correction",
+      "authors": [
+        "Gilles Zémor"
+      ],
+      "year": 2009,
+      "venue": "IWCC '09 Proceedings of the 2nd International Workshop on Coding and Cryptology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-01877-0_21"
+    },
+    "BIBREF2": {
+      "title": "Fault-tolerant quantum computation with constant overhead",
+      "authors": [
+        "Daniel Gottesman"
+      ],
+      "year": 2014,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Tradeoffs for reliable quantum information storage in surface codes and color codes",
+      "authors": [
+        "Nicolas Delfosse"
+      ],
+      "year": 2013,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2013.6620360"
+    },
+    "BIBREF4": {
+      "title": "Tradeoffs for Reliable Quantum Information Storage in 2D Systems",
+      "authors": [
+        "Sergey Bravyi",
+        "David Poulin",
+        "Barbara M. Terhal"
+      ],
+      "year": 2010,
+      "venue": "Physical Review Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/PhysRevLett.104.050503"
+    },
+    "BIBREF5": {
+      "title": "Quantum Codes from High-Dimensional Manifolds",
+      "authors": [
+        "M. B. Hastings"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Local Decoders for the 2D and 4D Toric Code",
+      "authors": [
+        "Nikolas P. Breuckmann",
+        "Kasper Duivenvoorden",
+        "Dominik Michels",
+        "Barbara M. Terhal"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Linear-Time Maximum Likelihood Decoding of Surface Codes over the Quantum Erasure Channel",
+      "authors": [
+        "Nicolas Delfosse",
+        "Gilles Zémor"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

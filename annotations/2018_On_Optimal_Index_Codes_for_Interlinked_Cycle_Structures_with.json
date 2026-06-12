@@ -1,0 +1,57 @@
+{
+  "paper_id": "1603.00092v2",
+  "title": "On Optimal Index Codes for Interlinked Cycle Structures with Outer Cycles.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Coding on demand by an informed source (ISCOD) for efficient broadcast of different supplemental data to caching clients",
+      "authors": [
+        "Yitzhak Birk",
+        "Tomer Kol"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2006.874540"
+    },
+    "BIBREF1": {
+      "title": "Interlinked Cycles for Index Coding: Generalizing Cycles and Cliques",
+      "authors": [
+        "Chandra Thapa",
+        "Lawrence Ong",
+        "Sarah J. Johnson"
+      ],
+      "year": 2017,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2017.2662706"
+    },
+    "BIBREF2": {
+      "title": "Optimal Index Codes for a New Class of Interlinked Cycle Structure",
+      "authors": [
+        "Mahesh Babu Vaddi",
+        "B. Sundar Rajan"
+      ],
+      "year": 2018,
+      "venue": "IEEE Communications Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/lcomm.2018.2799202"
+    },
+    "BIBREF3": {
+      "title": "Index Codes for Interlinked Cycle Structures with Outer Cycles",
+      "authors": [
+        "K. Vikas Bharadwaj",
+        "B. Sundar Rajan"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Optimal Index Codes for a Class of Multicast Networks with Receiver Side Information",
+      "authors": [
+        "Lawrence Ong",
+        "Chin Keong Ho"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    }
+  }
+}

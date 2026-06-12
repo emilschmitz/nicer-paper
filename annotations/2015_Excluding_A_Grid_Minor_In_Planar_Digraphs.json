@@ -1,0 +1,18 @@
+{
+  "paper_id": "1411.5681",
+  "title": "Excluding A Grid Minor In Planar Digraphs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Directed Tree-Width",
+      "authors": [
+        "Thor Johnson",
+        "Neil Robertson",
+        "P.D. Seymour",
+        "Robin Thomas"
+      ],
+      "year": 2001,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jctb.2000.2031"
+    }
+  }
+}

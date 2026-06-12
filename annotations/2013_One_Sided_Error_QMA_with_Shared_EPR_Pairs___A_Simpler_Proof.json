@@ -1,0 +1,268 @@
+{
+  "paper_id": "1210.1290v2",
+  "title": "One-Sided Error QMA with Shared EPR Pairs - A Simpler Proof.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "QMA=PP implies that PP contains PH",
+      "authors": [
+        "Mikhail N. Vyalyi"
+      ],
+      "year": 2003,
+      "venue": "Electronic Colloquium on Computational Complexity",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Computational Complexity: A Modern Approach",
+      "authors": [
+        "Sanjeev Arora",
+        "Boaz Barak"
+      ],
+      "year": 2009,
+      "venue": "",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/CBO9780511804090"
+    },
+    "BIBREF2": {
+      "title": "Quantum Interactive Proofs with Short Messages",
+      "authors": [
+        "Salman Beigi",
+        "Peter W. Shor",
+        "John Watrous"
+      ],
+      "year": 2011,
+      "venue": "Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4086/toc.2011.v007a007"
+    },
+    "BIBREF3": {
+      "title": "On perfect completeness for QMA",
+      "authors": [
+        "Scott Aaronson"
+      ],
+      "year": 2009,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "QMA-complete problems",
+      "authors": [
+        "Adam D. Bookatz"
+      ],
+      "year": 2014,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Coding theorems of quantum information theory",
+      "authors": [
+        "Andreas Winter"
+      ],
+      "year": 1999,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Multi-Prover Quantum Merlin-Arthur Proof Systems with Small Gap",
+      "authors": [
+        "Attila Pereszlényi"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "The knowledge complexity of interactive proof systems",
+      "authors": [
+        "S. Goldwasser",
+        "S. Micali",
+        "C. Rackoff"
+      ],
+      "year": 1989,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0218012"
+    },
+    "BIBREF8": {
+      "title": "Private coins versus public coins in interactive proof systems",
+      "authors": [
+        "S Goldwasser",
+        "M Sipser"
+      ],
+      "year": 1986,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/12130.12137"
+    },
+    "BIBREF9": {
+      "title": "Parallelization, amplification, and exponential time simulation of quantum interactive proof systems",
+      "authors": [
+        "Alexei Kitaev",
+        "John Watrous"
+      ],
+      "year": 2000,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/335305.335387"
+    },
+    "BIBREF10": {
+      "title": "Stronger Methods of Making Quantum Interactive Proofs Perfectly Complete",
+      "authors": [
+        "Hirotada Kobayashi",
+        "François Le Gall",
+        "Harumichi Nishimura"
+      ],
+      "year": 2015,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/140971944"
+    },
+    "BIBREF11": {
+      "title": "Probabalistic Quantifiers vs. Distrustful Adversaries",
+      "authors": [
+        "Stathis Zachos",
+        "Martin Furer"
+      ],
+      "year": 1987,
+      "venue": "Foundations of Software Technology and Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-18625-5_67"
+    },
+    "BIBREF12": {
+      "title": "Stabilization of Quantum Computations by Symmetrization",
+      "authors": [
+        "Adriano Barenco",
+        "André Berthiaume",
+        "David Deutsch",
+        "Artur Ekert",
+        "Richard Jozsa",
+        "Chiara Macchiavello"
+      ],
+      "year": 1997,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539796302452"
+    },
+    "BIBREF13": {
+      "title": "PSPACE has constant-round quantum interactive proof systems",
+      "authors": [
+        "John Watrous"
+      ],
+      "year": 2003,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(01)00375-9"
+    },
+    "BIBREF14": {
+      "title": "Quantum 3-SAT Is QMA1-Complete",
+      "authors": [
+        "David Gosset",
+        "Daniel Nagaj"
+      ],
+      "year": 2013,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2013.86"
+    },
+    "BIBREF15": {
+      "title": "Algebraic methods for interactive proof systems",
+      "authors": [
+        "Carsten Lund",
+        "Lance Fortnow",
+        "Howard Karloff",
+        "Noam Nisan"
+      ],
+      "year": 1992,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/146585.146605"
+    },
+    "BIBREF16": {
+      "title": "Trading group theory for randomness",
+      "authors": [
+        "L Babai"
+      ],
+      "year": 1985,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/22145.22192"
+    },
+    "BIBREF17": {
+      "title": "Achieving perfect completeness in classical-witness quantum merlin-arthur proof systems",
+      "authors": [
+        "Stephen P. Jordan",
+        "Hirotada Kobayashi",
+        "Daniel Nagaj",
+        "Harumichi Nishimura"
+      ],
+      "year": 2012,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF18": {
+      "title": "Using Entanglement in Quantum Multi-prover Interactive Proofs",
+      "authors": [
+        "J. Kempe",
+        "H. Kobayashi",
+        "K. Matsumoto",
+        "T. Vidick"
+      ],
+      "year": 2008,
+      "venue": "Conference on Computational Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CCC.2008.6"
+    },
+    "BIBREF19": {
+      "title": "Succinct quantum proofs for properties of finite groups",
+      "authors": [
+        "J. Watrous"
+      ],
+      "year": 2000,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SFCS.2000.892141"
+    },
+    "BIBREF20": {
+      "title": "Fast amplification of QMA",
+      "authors": [
+        "Daniel Nagaj",
+        "Pawel Wocjan",
+        "Yong Zhang"
+      ],
+      "year": 2009,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "The Power of Unentanglement",
+      "authors": [
+        "Scott Aaronson",
+        "Salman Beigi",
+        "Andrew Drucker",
+        "Bill Fefferman",
+        "Peter W. Shor"
+      ],
+      "year": 2009,
+      "venue": "Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4086/toc.2009.v005a001"
+    },
+    "BIBREF22": {
+      "title": "QIP = PSPACE",
+      "authors": [
+        "Rahul Jain",
+        "Zhengfeng Ji",
+        "Sarvagya Upadhyay",
+        "John Watrous"
+      ],
+      "year": 2010,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1806689.1806768"
+    },
+    "BIBREF23": {
+      "title": "A quantum characterization of NP",
+      "authors": [
+        "Hugue Blier",
+        "Alain Tapp"
+      ],
+      "year": 2007,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Quantum Merlin-Arthur Proof Systems: Are Multiple Merlins More Helpful to Arthur?",
+      "authors": [
+        "Hirotada Kobayashi",
+        "Keiji Matsumoto",
+        "Tomoyuki Yamakami"
+      ],
+      "year": 2003,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

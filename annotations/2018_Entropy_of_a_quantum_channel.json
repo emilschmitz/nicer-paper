@@ -1,0 +1,301 @@
+{
+  "paper_id": "1808.02607",
+  "title": "Entropy of a quantum channel.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Tight Uniform Continuity Bounds for Quantum Entropies: Conditional Entropy, Relative Entropy Distance and Energy Constraints",
+      "authors": [
+        "Andreas J. Winter"
+      ],
+      "year": 2016,
+      "venue": "Communications in Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00220-016-2609-8"
+    },
+    "BIBREF1": {
+      "title": "Strong Converse Rates for Quantum Communication",
+      "authors": [
+        "Marco Tomamichel",
+        "Mark M. Wilde",
+        "Andreas Winter"
+      ],
+      "year": 2017,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2016.2615847"
+    },
+    "BIBREF2": {
+      "title": "Correlation detection and an operational interpretation of the Rényi mutual information",
+      "authors": [
+        "Masahito Hayashi",
+        "Marco Tomamichel"
+      ],
+      "year": 2016,
+      "venue": "Journal of Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1063/1.4964755"
+    },
+    "BIBREF3": {
+      "title": "Strong Converse Exponents for a Quantum Channel Discrimination Problem and Quantum-Feedback-Assisted Communication",
+      "authors": [
+        "Tom Cooney",
+        "Milán Mosonyi",
+        "Mark M. Wilde"
+      ],
+      "year": 2016,
+      "venue": "Communications in Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00220-016-2645-4"
+    },
+    "BIBREF4": {
+      "title": "Quantum trade-off coding for bosonic communication",
+      "authors": [
+        "Mark M. Wilde",
+        "Patrick M. Hayden",
+        "Saikat Guha"
+      ],
+      "year": 2012,
+      "venue": "Physical Review A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/physreva.86.062306"
+    },
+    "BIBREF5": {
+      "title": "Fundamental bound on the reliability of quantum information transmission.",
+      "authors": [
+        "Naresh Sharma",
+        "Naqueeb Ahmad Warsi"
+      ],
+      "year": 2013,
+      "venue": "Physical Review Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/PhysRevLett.110.080501"
+    },
+    "BIBREF6": {
+      "title": "Distillation of local purity from quantum states",
+      "authors": [
+        "I. Devetak"
+      ],
+      "year": 2005,
+      "venue": "Physical Review A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/PhysRevA.71.062303"
+    },
+    "BIBREF7": {
+      "title": "Toward a general theory of quantum games",
+      "authors": [
+        "Gus Gutoski",
+        "John Watrous"
+      ],
+      "year": 2007,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1250790.1250873"
+    },
+    "BIBREF8": {
+      "title": "Quantum Hypothesis Testing and the Operational Interpretation of the Quantum Rényi Relative Entropies",
+      "authors": [
+        "Milán Mosonyi",
+        "Tomohiro Ogawa"
+      ],
+      "year": 2015,
+      "venue": "Communications in Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00220-014-2248-x"
+    },
+    "BIBREF9": {
+      "title": "Multiplicativity of Completely Bounded p-Norms Implies a Strong Converse for Entanglement-Assisted Capacity",
+      "authors": [
+        "Manish K. Gupta",
+        "Mark M. Wilde"
+      ],
+      "year": 2015,
+      "venue": "Communications in Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00220-014-2212-9"
+    },
+    "BIBREF10": {
+      "title": "Identifying the information gain of a quantum measurement",
+      "authors": [
+        "Mario Berta",
+        "Joseph M. Renes",
+        "Mark M. Wilde"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2014.2365207"
+    },
+    "BIBREF11": {
+      "title": "Security of quantum key distribution",
+      "authors": [
+        "Renato Renner"
+      ],
+      "year": 2008,
+      "venue": "International Journal of Quantum Information",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3929/ethz-a-005115027"
+    },
+    "BIBREF12": {
+      "title": "The entropy gain of quantum channels",
+      "authors": [
+        "A. S. Holevo"
+      ],
+      "year": 2011,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2011.6034107"
+    },
+    "BIBREF13": {
+      "title": "Min- and Max-Relative Entropies and a New Entanglement Monotone",
+      "authors": [
+        "N. Datta"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2018325"
+    },
+    "BIBREF14": {
+      "title": "A Fully Quantum Asymptotic Equipartition Property",
+      "authors": [
+        "M. Tomamichel",
+        "R. Colbeck",
+        "R. Renner"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2032797"
+    },
+    "BIBREF15": {
+      "title": "Axiomatic Characterizations of Information Measures",
+      "authors": [
+        "Imre Csiszár"
+      ],
+      "year": 2008,
+      "venue": "Entropy",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3390/e10030261"
+    },
+    "BIBREF16": {
+      "title": "Quantum Side Information: Uncertainty Relations, Extractors, Channel Simulations",
+      "authors": [
+        "Mario Andrea Berta"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Quantum Information Processing with Finite Resources: Mathematical Foundations",
+      "authors": [
+        "Marco Tomamichel"
+      ],
+      "year": 2015,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF18": {
+      "title": "On the Quantum Rényi Relative Entropies and Related Capacity Formulas",
+      "authors": [
+        "M Mosonyi",
+        "F Hiai"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2110050"
+    },
+    "BIBREF19": {
+      "title": "Monotonicity of a relative Rényi entropy",
+      "authors": [
+        "Rupert L. Frank",
+        "Elliott H. Lieb"
+      ],
+      "year": 2013,
+      "venue": "Journal of Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1063/1.4838835"
+    },
+    "BIBREF20": {
+      "title": "The Operational Meaning of Min- and Max-Entropy",
+      "authors": [
+        "R. Konig",
+        "R. Renner",
+        "C. Schaffner"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2025545"
+    },
+    "BIBREF21": {
+      "title": "Entanglement Cost of Quantum Channels",
+      "authors": [
+        "Mario Berta",
+        "Fernando G. S. L. Brandao",
+        "Matthias Christandl",
+        "Stephanie Wehner"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2013.2268533"
+    },
+    "BIBREF22": {
+      "title": "Optimal quantum networks and one-shot entropies",
+      "authors": [
+        "Giulio Chiribella",
+        "Daniel Ebler"
+      ],
+      "year": 2016,
+      "venue": "New Journal of Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/1367-2630/18/9/093053"
+    },
+    "BIBREF23": {
+      "title": "Semidefinite Approximations of the Matrix Logarithm",
+      "authors": [
+        "Hamza Fawzi",
+        "James Saunderson",
+        "Pablo A. Parrilo"
+      ],
+      "year": 2019,
+      "venue": "Foundations of Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10208-018-9385-0"
+    },
+    "BIBREF24": {
+      "title": "Amortized entanglement of a quantum channel and approximately teleportation-simulable channels",
+      "authors": [
+        "Eneet Kaur",
+        "Mark M Wilde"
+      ],
+      "year": 2018,
+      "venue": "Journal of Physics A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/1751-8121/aa9da7"
+    },
+    "BIBREF25": {
+      "title": "Entanglement and secret-key-agreement capacities of bipartite quantum interactions and read-only memory devices.",
+      "authors": [
+        "Siddhartha Das",
+        "Stefan Bäuml",
+        "Mark M. Wilde"
+      ],
+      "year": 2017,
+      "venue": "Physical Review Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/PhysRevLett.121.250504"
+    },
+    "BIBREF26": {
+      "title": "Quantum Channel Simulation and the Channel's Smooth Max-Information",
+      "authors": [
+        "Kun Fang",
+        "Xin Wang",
+        "Marco Tomamichel",
+        "Mario Berta"
+      ],
+      "year": 2018,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/isit.2018.8437484"
+    },
+    "BIBREF27": {
+      "title": "Amortized Channel Divergence for Asymptotic Quantum Channel Discrimination.",
+      "authors": [
+        "Mario Berta",
+        "Christoph Hirche",
+        "Eneet Kaur",
+        "Mark M. Wilde"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF28": {
+      "title": "Comparison of Quantum Channels by Superchannels",
+      "authors": [
+        "Gilad Gour"
+      ],
+      "year": 2019,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2019.2907989"
+    }
+  }
+}

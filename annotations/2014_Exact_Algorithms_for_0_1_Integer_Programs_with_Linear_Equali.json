@@ -1,0 +1,159 @@
+{
+  "paper_id": "1401.5512",
+  "title": "Exact Algorithms for 0-1 Integer Programs with Linear Equality Constraints",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Randomized Parallel Algorithm with Run Time $O(n^2)$ for Solving an $n \times n$ System of Linear Equations",
+      "authors": [
+        "Jörg Fliege"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Numerical Analysis",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Exact algorithms for NP-hard problems: a survey",
+      "authors": [
+        "Gerhard J. Woeginger"
+      ],
+      "year": 2003,
+      "venue": "Combinatorial optimization - Eureka, you shrink!",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-36478-1_17"
+    },
+    "BIBREF2": {
+      "title": "0-1 Integer Linear Programming with a Linear Number of Constraints",
+      "authors": [
+        "Russell Impagliazzo",
+        "Shachar Lovett",
+        "Ramamohan Paturi",
+        "Stefan Schneider"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computational Complexity",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "New generic algorithms for hard knapsacks",
+      "authors": [
+        "Nick Howgrave-Graham",
+        "Antoine Joux"
+      ],
+      "year": 2010,
+      "venue": "Theory and Application of Cryptographic Techniques",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-13190-5_12"
+    },
+    "BIBREF4": {
+      "title": "Faster exact solutions for some NP-hard problems",
+      "authors": [
+        "Limor Drori",
+        "David Peleg"
+      ],
+      "year": 2002,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-3975(01)00257-2"
+    },
+    "BIBREF5": {
+      "title": "On the Complexity of k-SAT",
+      "authors": [
+        "Russell Impagliazzo",
+        "Ramamohan Paturi"
+      ],
+      "year": 2001,
+      "venue": "Conference on Computational Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcss.2000.1727"
+    },
+    "BIBREF6": {
+      "title": "Which Problems Have Strongly Exponential Complexity",
+      "authors": [
+        "Russell Impagliazzo",
+        "Ramamohan Paturi",
+        "Francis Zane"
+      ],
+      "year": 2001,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcss.2001.1774"
+    },
+    "BIBREF7": {
+      "title": "Improving Exhaustive Search Implies Superpolynomial Lower Bounds",
+      "authors": [
+        "Ryan Williams"
+      ],
+      "year": 2013,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/10080703X"
+    },
+    "BIBREF8": {
+      "title": "Exact Exponential Algorithms",
+      "authors": [
+        "Fedor V. Fomin",
+        "Petteri Kaski"
+      ],
+      "year": 2010,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Computing Partitions with Applications to the Knapsack Problem",
+      "authors": [
+        "Ellis Horowitz",
+        "Sartaj Sahni"
+      ],
+      "year": 1974,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/321812.321823"
+    },
+    "BIBREF10": {
+      "title": "Linear time bounds for median computations",
+      "authors": [
+        "Manuel Blum",
+        "Robert W. Floyd",
+        "Vaughan Pratt",
+        "Ronald L. Rivest",
+        "Robert E. Tarjan"
+      ],
+      "year": 1972,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/800152.804904"
+    },
+    "BIBREF11": {
+      "title": "A Class of Hard Small 0-1 Programs",
+      "authors": [
+        "Gerard Cornuejols",
+        "Milind Dawande"
+      ],
+      "year": 1999,
+      "venue": "Informs Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1287/ijoc.11.2.205"
+    },
+    "BIBREF12": {
+      "title": "Improved generic algorithms for hard knapsacks",
+      "authors": [
+        "Anja Becker",
+        "Jean-Sébastien Coron",
+        "Antoine Joux"
+      ],
+      "year": 2011,
+      "venue": "International Cryptology Conference",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-20465-4_21"
+    },
+    "BIBREF13": {
+      "title": "Integer programming",
+      "authors": [
+        "G. L. Nemhauser",
+        "L. A. Wolsey"
+      ],
+      "year": 1972,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF14": {
+      "title": "A fast quantum mechanical algorithm for database search",
+      "authors": [
+        "Lov K. Grover"
+      ],
+      "year": 1996,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

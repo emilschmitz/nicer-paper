@@ -1,0 +1,162 @@
+{
+  "paper_id": "1512.00743v1",
+  "title": "Recognizing Semantic Features in Faces using Deep Learning.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+      "authors": [
+        "Pierre Sermanet",
+        "David Eigen",
+        "Xiang Zhang",
+        "Michael Mathieu",
+        "Rob Fergus",
+        "Yann LeCun"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Learning Deep Face Representation",
+      "authors": [
+        "Qi Yin",
+        "Zhimin Cao",
+        "Yuning Jiang",
+        "Haoqiang Fan"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Pylearn2: a machine learning research library.",
+      "authors": [
+        "Ian J. Goodfellow",
+        "David Warde-Farley",
+        "Pascal Lamblin",
+        "Vincent Dumoulin",
+        "Mehdi Mirza",
+        "Razvan Pascanu",
+        "James Bergstra",
+        "Frédéric Bastien",
+        "Yoshua Bengio"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+      "authors": [
+        "Geoffrey E. Hinton",
+        "Nitish Srivastava",
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Ruslan Salakhutdinov"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Convolutional networks and applications in vision",
+      "authors": [
+        "Yann LeCun",
+        "Koray Kavukcuoglu",
+        "Clement Farabet"
+      ],
+      "year": 2010,
+      "venue": "International Symposium on Circuits and Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISCAS.2010.5537907"
+    },
+    "BIBREF5": {
+      "title": "Age estimation from face images: Human vs. machine performance",
+      "authors": [
+        "Hu Han",
+        "Charles Otto",
+        "Anil K. Jain"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Biometrics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICB.2013.6613022"
+    },
+    "BIBREF6": {
+      "title": "ImageNet: A large-scale hierarchical image database",
+      "authors": [
+        "Jia Deng",
+        "Wei Dong",
+        "Richard Socher",
+        "Li-Jia Li",
+        "Kai Li",
+        "Li Fei-Fei"
+      ],
+      "year": 2009,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2009.5206848"
+    },
+    "BIBREF7": {
+      "title": "DeepFace: Closing the Gap to Human-Level Performance in Face Verification",
+      "authors": [
+        "Yaniv Taigman",
+        "Ming Yang",
+        "Marc'Aurelio Ranzato",
+        "Lior Wolf"
+      ],
+      "year": 2014,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2014.220"
+    },
+    "BIBREF8": {
+      "title": "Rapid object detection using a boosted cascade of simple features",
+      "authors": [
+        "P. Viola",
+        "M. Jones"
+      ],
+      "year": 2001,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2001.990517"
+    },
+    "BIBREF9": {
+      "title": "EmoNets: Multimodal deep learning approaches for emotion recognition in video",
+      "authors": [
+        "Samira Ebrahimi Kahou",
+        "Xavier Bouthillier",
+        "Pascal Lamblin",
+        "Caglar Gulcehre",
+        "Vincent Michalski",
+        "Kishore Konda",
+        "Sébastien Jean",
+        "Pierre Froumenty",
+        "Yann Dauphin",
+        "Nicolas Boulanger-Lewandowski",
+        "Raul Chandias Ferrari",
+        "Mehdi Mirza",
+        "David Warde-Farley",
+        "Aaron Courville",
+        "Pascal Vincent",
+        "Roland Memisevic",
+        "Christopher Pal",
+        "Yoshua Bengio"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Building High-level Features Using Large Scale Unsupervised Learning",
+      "authors": [
+        "Quoc V. Le",
+        "Marc'Aurelio Ranzato",
+        "Rajat Monga",
+        "Matthieu Devin",
+        "Kai Chen",
+        "Greg S. Corrado",
+        "Jeff Dean",
+        "Andrew Y. Ng"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Learning",
+      "link": ""
+    }
+  }
+}

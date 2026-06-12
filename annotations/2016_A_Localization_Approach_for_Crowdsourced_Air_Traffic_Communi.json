@@ -1,0 +1,55 @@
+{
+  "paper_id": "1610.06754",
+  "title": "A Localization Approach for Crowdsourced Air Traffic Communication Networks.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Localization algorithms for multilateration (MLAT) systems in airport surface surveillance",
+      "authors": [
+        "Ivan A. Mantilla-Gaviria",
+        "Mauro Leonardi",
+        "Gaspare Galati",
+        "Juan Vicente Balbastre-Tejedor"
+      ],
+      "year": 2015,
+      "venue": "Signal, Image and Video Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11760-013-0608-1"
+    },
+    "BIBREF1": {
+      "title": "Survey of Wireless Indoor Positioning Techniques and Systems",
+      "authors": [
+        "Hui Liu",
+        "H. Darabi",
+        "P. Banerjee",
+        "Jing Liu"
+      ],
+      "year": 2007,
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSMCC.2007.905750"
+    },
+    "BIBREF2": {
+      "title": "Realities and challenges of nextgen air traffic management: the case of ADS-B",
+      "authors": [
+        "Martin Strohmeier",
+        "Matthias Schafer",
+        "Vincent Lenders",
+        "Ivan Martinovic"
+      ],
+      "year": 2014,
+      "venue": "IEEE Communications Magazine",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/MCOM.2014.6815901"
+    },
+    "BIBREF3": {
+      "title": "Bringing up OpenSky: a large-scale ADS-B sensor network for research",
+      "authors": [
+        "Matthias Schäfer",
+        "Martin Strohmeier",
+        "Vincent Lenders",
+        "Ivan Martinovic",
+        "Matthias Wilhelm"
+      ],
+      "year": 2014,
+      "venue": "Information Processing in Sensor Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/IPSN.2014.6846743"
+    }
+  }
+}

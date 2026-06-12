@@ -1,0 +1,294 @@
+{
+  "paper_id": "1502.06177",
+  "title": "Dual Free SDCA for Empirical Risk Minimization with Adaptive Probabilities.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Primal Method for ERM with Flexible Mini-batching Schemes and Non-convex Losses",
+      "authors": [
+        "Dominik Csiba",
+        "Peter Richtárik"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Stochastic Optimization with Importance Sampling.",
+      "authors": [
+        "Peilin Zhao",
+        "Tong Zhang"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Semi-Stochastic Gradient Descent Methods",
+      "authors": [
+        "Jakub Konečný",
+        "Peter Richtárik"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Distributed Mini-Batch SDCA.",
+      "authors": [
+        "Martin Takác",
+        "Peter Richtárik",
+        "Nathan Srebro"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Minimizing Finite Sums with the Stochastic Average Gradient",
+      "authors": [
+        "Mark Schmidt",
+        "Nicolas Le Roux",
+        "Francis Bach"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "SDCA without Duality",
+      "authors": [
+        "Shai Shalev-Shwartz"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "On the Complexity of Parallel Coordinate Descent",
+      "authors": [
+        "Rachael Tappenden",
+        "Martin Takáč",
+        "Peter Richtárik"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Efficiency of Coordinate Descent Methods on Huge-Scale Optimization Problems",
+      "authors": [
+        "Yurii E. Nesterov"
+      ],
+      "year": 2012,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100802001"
+    },
+    "BIBREF8": {
+      "title": "Mini-Batch Semi-Stochastic Gradient Descent in the Proximal Setting",
+      "authors": [
+        "Jakub Konecny",
+        "Jie Liu",
+        "Peter Richtarik",
+        "Martin Takac"
+      ],
+      "year": 2016,
+      "venue": "IEEE Journal of Selected Topics in Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/JSTSP.2015.2505682"
+    },
+    "BIBREF9": {
+      "title": "A Stochastic Gradient Method with an Exponential Convergence _Rate for Finite Training Sets",
+      "authors": [
+        "Nicolas L. Roux",
+        "Mark Schmidt",
+        "Francis R. Bach"
+      ],
+      "year": 2012,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Accelerating Stochastic Gradient Descent using Predictive Variance Reduction",
+      "authors": [
+        "Rie Johnson",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "Stochastic Proximal Gradient Descent with Acceleration Techniques",
+      "authors": [
+        "Atsushi Nitanda"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "Iteration complexity of randomized block-coordinate descent methods for minimizing a composite function",
+      "authors": [
+        "Peter Richtárik",
+        "Martin Takáč"
+      ],
+      "year": 2014,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-012-0614-z"
+    },
+    "BIBREF13": {
+      "title": "Pegasos: primal estimated sub-gradient solver for SVM",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Yoram Singer",
+        "Nathan Srebro",
+        "Andrew Cotter"
+      ],
+      "year": 2011,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-010-0420-4"
+    },
+    "BIBREF14": {
+      "title": "SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives",
+      "authors": [
+        "Aaron Defazio",
+        "Francis Bach",
+        "Simon Lacoste-Julien"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "LIBSVM: A library for support vector machines",
+      "authors": [
+        "Chih-Chung Chang",
+        "Chih-Jen Lin"
+      ],
+      "year": 2011,
+      "venue": "ACM Transactions on Intelligent Systems and Technology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1961189.1961199"
+    },
+    "BIBREF16": {
+      "title": "On optimal probabilities in stochastic coordinate descent methods",
+      "authors": [
+        "Peter Richtárik",
+        "Martin Takáč"
+      ],
+      "year": 2016,
+      "venue": "Optimization Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11590-015-0916-1"
+    },
+    "BIBREF17": {
+      "title": "A dual coordinate descent method for large-scale linear SVM",
+      "authors": [
+        "Cho-Jui Hsieh",
+        "Kai-Wei Chang",
+        "Chih-Jen Lin",
+        "S. Sathiya Keerthi",
+        "S. Sundararajan"
+      ],
+      "year": 2008,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1390156.1390208"
+    },
+    "BIBREF18": {
+      "title": "Quartz: randomized dual coordinate ascent with arbitrary sampling",
+      "authors": [
+        "Zheng Qu",
+        "Peter Richtárik",
+        "Tong Zhang"
+      ],
+      "year": 2015,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "Communication-Efficient Distributed Optimization of Self-concordant Empirical Loss",
+      "authors": [
+        "Yuchen Zhang",
+        "Lin Xiao"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Optimization and Control",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-97478-1_11"
+    },
+    "BIBREF20": {
+      "title": "Parallel Random Coordinate Descent Method for Composite Minimization: Convergence Analysis and Error Bounds",
+      "authors": [
+        "Ion Necoara",
+        "Dragos N. Clipici"
+      ],
+      "year": 2016,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/130950288"
+    },
+    "BIBREF21": {
+      "title": "Stochastic Dual Coordinate Ascent with Adaptive Probabilities",
+      "authors": [
+        "Dominik Csiba",
+        "Zheng Qu",
+        "Peter Richtárik"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF22": {
+      "title": "A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets",
+      "authors": [
+        "Nicolas Le Roux",
+        "Mark Schmidt",
+        "Francis Bach"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF23": {
+      "title": "Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss Minimization",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Coordinate descent with arbitrary sampling II: expected separable overapproximation",
+      "authors": [
+        "Zheng Qu",
+        "Peter Richtárik"
+      ],
+      "year": 2016,
+      "venue": "Optimization Methods & Software",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1080/10556788.2016.1190361"
+    },
+    "BIBREF25": {
+      "title": "Non-Uniform Stochastic Average Gradient Method for Training Conditional Random Fields",
+      "authors": [
+        "Mark W. Schmidt",
+        "Reza Babanezhad",
+        "Mohamed Osama Ahmed",
+        "Aaron Defazio",
+        "Ann Clifton",
+        "Anoop Sarkar"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": ""
+    },
+    "BIBREF26": {
+      "title": "Mini-Batch Primal and Dual Methods for SVMs",
+      "authors": [
+        "Martin Takac",
+        "Avleen Bijral",
+        "Peter Richtarik",
+        "Nati Srebro"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    }
+  }
+}

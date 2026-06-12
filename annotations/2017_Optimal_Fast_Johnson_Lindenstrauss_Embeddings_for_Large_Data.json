@@ -1,0 +1,84 @@
+{
+  "paper_id": "1009.0744",
+  "title": "Optimal Fast Johnson-Lindenstrauss Embeddings for Large Data Sets.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On the asymptotic complexity of rectangular matrix multiplication",
+      "authors": [
+        "Grazia Lotti",
+        "Francesco Romani"
+      ],
+      "year": 1983,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0304-3975(83)90054-3"
+    },
+    "BIBREF1": {
+      "title": "Database-friendly random projections: Johnson-Lindenstrauss with binary coins",
+      "authors": [
+        "Dimitris Achlioptas"
+      ],
+      "year": 2003,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0022-0000(03)00025-4"
+    },
+    "BIBREF2": {
+      "title": "Improved Approximation Algorithms for Large Matrices via Random Projections",
+      "authors": [
+        "T. Sarlos"
+      ],
+      "year": 2006,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2006.37"
+    },
+    "BIBREF3": {
+      "title": "Fast dimension reduction using Rademacher series on dual BCH codes",
+      "authors": [
+        "Nir Ailon",
+        "Edo Liberty"
+      ],
+      "year": 2008,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00454-008-9110-x"
+    },
+    "BIBREF4": {
+      "title": "Approximate nearest neighbors and the fast Johnson-Lindenstrauss transform",
+      "authors": [
+        "Nir Ailon",
+        "Bernard Chazelle"
+      ],
+      "year": 2006,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1132516.1132597"
+    },
+    "BIBREF5": {
+      "title": "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering",
+      "authors": [
+        "Mikhail Belkin",
+        "Partha Niyogi"
+      ],
+      "year": 2001,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "The Restricted Isometry Property of Subsampled Fourier Matrices",
+      "authors": [
+        "Ishay Haviv",
+        "Oded Regev"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "New and Improved Johnson–Lindenstrauss Embeddings via the Restricted Isometry Property",
+      "authors": [
+        "Felix Krahmer",
+        "Rachel A Ward"
+      ],
+      "year": 2011,
+      "venue": "Siam Journal on Mathematical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100810447"
+    }
+  }
+}

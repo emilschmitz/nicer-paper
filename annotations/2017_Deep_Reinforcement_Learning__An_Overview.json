@@ -1,0 +1,4522 @@
+{
+  "paper_id": "1810.06339",
+  "title": "Deep Reinforcement Learning: An Overview.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions",
+      "authors": [
+        "Richard Socher",
+        "Jeffrey Pennington",
+        "Eric H. Huang",
+        "Andrew Y. Ng",
+        "Christopher D. Manning"
+      ],
+      "year": 2011,
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Intrinsically motivated model learning for developing curious robots",
+      "authors": [
+        "Todd Hester",
+        "Peter Stone"
+      ],
+      "year": 2017,
+      "venue": "Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.artint.2015.05.002"
+    },
+    "BIBREF2": {
+      "title": "Universal Value Function Approximators",
+      "authors": [
+        "Tom Schaul",
+        "Daniel Horgan",
+        "Karol Gregor",
+        "David Silver"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models.",
+      "authors": [
+        "Bradly C. Stadie",
+        "Sergey Levine",
+        "Pieter Abbeel"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images",
+      "authors": [
+        "Manuel Watter",
+        "Jost Tobias Springenberg",
+        "Joschka Boedecker",
+        "Martin Riedmiller"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Multiple Object Recognition with Visual Attention",
+      "authors": [
+        "Jimmy Ba",
+        "Volodymyr Mnih",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Integrated architecture for learning, planning, and reacting based on approximating dynamic programming",
+      "authors": [
+        "Richard S. Sutton"
+      ],
+      "year": 1990,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/B978-1-55860-141-3.50030-4"
+    },
+    "BIBREF7": {
+      "title": "Machine Learning: A Probabilistic Perspective",
+      "authors": [
+        "Kevin P. Murphy"
+      ],
+      "year": 2012,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations",
+      "authors": [
+        "Yoav Shoham",
+        "Kevin Leyton-Brown"
+      ],
+      "year": 2008,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Introduction to Information Retrieval",
+      "authors": [
+        "Christopher D. Manning",
+        "Prabhakar Raghavan",
+        "Hinrich Schütze"
+      ],
+      "year": 2008,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "An emphatic approach to the problem of off-policy temporal-difference learning",
+      "authors": [
+        "Richard S. Sutton",
+        "A. Rupam Mahmood",
+        "Martha White"
+      ],
+      "year": 2016,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "Reinforcement learning improves behaviour from evaluative feedback",
+      "authors": [
+        "Michael L. Littman"
+      ],
+      "year": 2015,
+      "venue": "Nature",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1038/nature14540"
+    },
+    "BIBREF12": {
+      "title": "Recent Advances in Hierarchical Reinforcement Learning",
+      "authors": [
+        "Andrew G. Barto",
+        "Sridhar Mahadevan"
+      ],
+      "year": 2003,
+      "venue": "Discrete Event Dynamic Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1022140919877"
+    },
+    "BIBREF13": {
+      "title": "Approximate Dynamic Programming: Solving the Curses of Dimensionality",
+      "authors": [
+        "Warren Buckler Powell"
+      ],
+      "year": 2007,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF14": {
+      "title": "Efficient Estimation of Word Representations in Vector Space",
+      "authors": [
+        "Tomas Mikolov",
+        "Kai Chen",
+        "Greg S. Corrado",
+        "Jeffrey Dean"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "Residual algorithms: reinforcement learning with function approximation",
+      "authors": [
+        "Leemon C. Baird"
+      ],
+      "year": 1995,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/B978-1-55860-377-6.50013-X"
+    },
+    "BIBREF16": {
+      "title": "Massively Parallel Methods for Deep Reinforcement Learning",
+      "authors": [
+        "Arun Nair",
+        "Praveen Srinivasan",
+        "Sam Blackwell",
+        "Cagdas Alcicek",
+        "Rory Fearon",
+        "Alessandro De Maria",
+        "Vedavyas Panneershelvam",
+        "Mustafa Suleyman",
+        "Charles Beattie",
+        "Stig Petersen",
+        "Shane Legg",
+        "Volodymyr Mnih",
+        "Koray Kavukcuoglu",
+        "David Silver"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Domain-adversarial training of neural networks",
+      "authors": [
+        "Yaroslav Ganin",
+        "Evgeniya Ustinova",
+        "Hana Ajakan",
+        "Pascal Germain",
+        "Hugo Larochelle",
+        "François Laviolette",
+        "Mario Marchand",
+        "Victor Lempitsky"
+      ],
+      "year": 2016,
+      "venue": "Journal of Machine Learning Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-58347-1_10"
+    },
+    "BIBREF18": {
+      "title": "Recurrent Continuous Translation Models",
+      "authors": [
+        "Nal Kalchbrenner",
+        "Phil Blunsom"
+      ],
+      "year": 2013,
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "A comprehensive survey on safe reinforcement learning",
+      "authors": [
+        "Javier García",
+        "Fernando Fernández"
+      ],
+      "year": 2015,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "DRAW: A Recurrent Neural Network For Image Generation",
+      "authors": [
+        "Karol Gregor",
+        "Ivo Danihelka",
+        "Alex Graves",
+        "Danilo Jimenez Rezende",
+        "Daan Wierstra"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "The IBM 2016 English Conversational Telephone Speech Recognition System",
+      "authors": [
+        "George Saon",
+        "Tom Sercu",
+        "Steven Rennie",
+        "Hong-Kwang J. Kuo"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF22": {
+      "title": "Object Detectors Emerge in Deep Scene CNNs",
+      "authors": [
+        "Bolei Zhou",
+        "Aditya Khosla",
+        "Agata Lapedriza",
+        "Aude Oliva",
+        "Antonio Torralba"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF23": {
+      "title": "Empirical evaluation of gated recurrent neural networks on sequence modeling",
+      "authors": [
+        "Junyoung Chung",
+        "Çaglar Gülçehre",
+        "KyungHyun Cho",
+        "Yoshua Bengio"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Explaining and Harnessing Adversarial Examples",
+      "authors": [
+        "Ian J. Goodfellow",
+        "Jonathon Shlens",
+        "Christian Szegedy"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF25": {
+      "title": "Visualizing and Understanding Recurrent Networks",
+      "authors": [
+        "Andrej Karpathy",
+        "Justin Johnson",
+        "Fei-Fei Li"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF26": {
+      "title": "Big data in manufacturing: a systematic mapping study",
+      "authors": [
+        "Peter O’Donovan",
+        "Kevin Leahy",
+        "Ken Bruton",
+        "Dominic T. J. O’Sullivan"
+      ],
+      "year": 2015,
+      "venue": "Journal of Big Data",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1186/s40537-015-0028-x"
+    },
+    "BIBREF27": {
+      "title": "POMDP-Based Statistical Spoken Dialog Systems: A Review",
+      "authors": [
+        "S. Young",
+        "M. Gasic",
+        "B. Thomson",
+        "J. D. Williams"
+      ],
+      "year": 2013,
+      "venue": "Proceedings of the IEEE",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/JPROC.2012.2225812"
+    },
+    "BIBREF28": {
+      "title": "Reinforcement learning in robotics: A survey",
+      "authors": [
+        "Jens Kober",
+        "J. Andrew Bagnell",
+        "Jan Peters"
+      ],
+      "year": 2013,
+      "venue": "The International Journal of Robotics Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1177/0278364913495721"
+    },
+    "BIBREF29": {
+      "title": "A survey of robot learning from demonstration",
+      "authors": [
+        "Brenna D. Argall",
+        "Sonia Chernova",
+        "Manuela Veloso",
+        "Brett Browning"
+      ],
+      "year": 2009,
+      "venue": "Robotics and Autonomous Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.robot.2008.10.024"
+    },
+    "BIBREF30": {
+      "title": "Introduction to Semi-Supervised Learning",
+      "authors": [
+        "Xiaojin Zhu",
+        "Andrew B. Goldberg",
+        "Ronald Brachman",
+        "Thomas Dietterich"
+      ],
+      "year": 2009,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF31": {
+      "title": "Is object localization for free? - Weakly-supervised learning with convolutional neural networks",
+      "authors": [
+        "Maxime Oquab",
+        "Leon Bottou",
+        "Ivan Laptev",
+        "Josef Sivic"
+      ],
+      "year": 2015,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2015.7298668"
+    },
+    "BIBREF32": {
+      "title": "Apprenticeship learning via inverse reinforcement learning",
+      "authors": [
+        "Pieter Abbeel",
+        "Andrew Y. Ng"
+      ],
+      "year": 2004,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1015330.1015430"
+    },
+    "BIBREF33": {
+      "title": "Heads-up limit hold’em poker is solved",
+      "authors": [
+        "Michael Bowling",
+        "Neil Burch",
+        "Michael Johanson",
+        "Oskari Tammelin"
+      ],
+      "year": 2015,
+      "venue": "Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1126/science.1259433"
+    },
+    "BIBREF34": {
+      "title": "Smart Grid — The New and Improved Power Grid: A Survey",
+      "authors": [
+        "Xi Fang",
+        "Satyajayant Misra",
+        "Guoliang Xue",
+        "Dejun Yang"
+      ],
+      "year": 2012,
+      "venue": "IEEE Communications Surveys and Tutorials",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SURV.2011.101911.00087"
+    },
+    "BIBREF35": {
+      "title": "A Survey on Policy Search for Robotics",
+      "authors": [
+        "Marc Peter Deisenroth",
+        "Gerhard Neumann",
+        "Jan Peters"
+      ],
+      "year": 2013,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF36": {
+      "title": "Optimal Demand Response Using Device-Based Reinforcement Learning",
+      "authors": [
+        "Zheng Wen",
+        "Daniel O'Neill",
+        "Hamid Maei"
+      ],
+      "year": 2015,
+      "venue": "IEEE Transactions on Smart Grid",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSG.2015.2396993"
+    },
+    "BIBREF37": {
+      "title": "A Survey of Real-Time Strategy Game AI Research and Competition in StarCraft",
+      "authors": [
+        "Santiago Ontanon",
+        "Gabriel Synnaeve",
+        "Alberto Uriarte",
+        "Florian Richoux",
+        "David Churchill",
+        "Mike Preuss"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Computational Intelligence and AI in Games",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TCIAIG.2013.2286295"
+    },
+    "BIBREF38": {
+      "title": "Internet of Things in Industries: A Survey",
+      "authors": [
+        "Li Da Xu",
+        "Wu He",
+        "Shancang Li"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Industrial Informatics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TII.2014.2300753"
+    },
+    "BIBREF39": {
+      "title": "TD-Gammon, a self-teaching backgammon program, achieves master-level play",
+      "authors": [
+        "Gerald Tesauro"
+      ],
+      "year": 1994,
+      "venue": "Neural Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1162/neco.1994.6.2.215"
+    },
+    "BIBREF40": {
+      "title": "The grand challenge of computer Go: Monte Carlo tree search and extensions",
+      "authors": [
+        "Sylvain Gelly",
+        "Levente Kocsis",
+        "Marc Schoenauer",
+        "Michèle Sebag",
+        "David Silver",
+        "Csaba Szepesvári",
+        "Olivier Teytaud"
+      ],
+      "year": 2012,
+      "venue": "Communications of The ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2093548.2093574"
+    },
+    "BIBREF41": {
+      "title": "Algorithms for Inverse Reinforcement Learning",
+      "authors": [
+        "Andrew Y. Ng",
+        "Stuart J. Russell"
+      ],
+      "year": 2000,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.2460/ajvr.67.2.323"
+    },
+    "BIBREF42": {
+      "title": "Adaptive Stochastic Control for the Smart Grid",
+      "authors": [
+        "R N Anderson",
+        "A Boulanger",
+        "W B Powell",
+        "W Scott"
+      ],
+      "year": 2011,
+      "venue": "Proceedings of the IEEE",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/JPROC.2011.2109671"
+    },
+    "BIBREF43": {
+      "title": "Long short-term memory",
+      "authors": [
+        "Sepp Hochreiter",
+        "Jürgen Schmidhuber"
+      ],
+      "year": 1997,
+      "venue": "Neural Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1162/neco.1997.9.8.1735"
+    },
+    "BIBREF44": {
+      "title": "Cognitive radio: brain-empowered wireless communications",
+      "authors": [
+        "S. Haykin"
+      ],
+      "year": 2005,
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/JSAC.2004.839380"
+    },
+    "BIBREF45": {
+      "title": "A $3 Trillion Challenge to Computational Scientists: Transforming Healthcare Delivery",
+      "authors": [
+        "Suchi Saria"
+      ],
+      "year": 2014,
+      "venue": "IEEE Intelligent Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/MIS.2014.58"
+    },
+    "BIBREF46": {
+      "title": "Learning Deep Architectures for AI",
+      "authors": [
+        "Yoshua Bengio"
+      ],
+      "year": 2009,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF47": {
+      "title": "Linear least-squares algorithms for temporal difference learning",
+      "authors": [
+        "Steven J. Bradtke",
+        "Andrew G. Barto"
+      ],
+      "year": 1996,
+      "venue": "Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF00114723"
+    },
+    "BIBREF48": {
+      "title": "Algorithms for Reinforcement Learning",
+      "authors": [
+        "Csaba Szepesvari"
+      ],
+      "year": 2010,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF49": {
+      "title": "Fast gradient-descent methods for temporal-difference learning with linear function approximation",
+      "authors": [
+        "Richard S. Sutton",
+        "Hamid Reza Maei",
+        "Doina Precup",
+        "Shalabh Bhatnagar",
+        "David Silver",
+        "Csaba Szepesvári",
+        "Eric Wiewiora"
+      ],
+      "year": 2009,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1553374.1553501"
+    },
+    "BIBREF50": {
+      "title": "Deep learning in neural networks",
+      "authors": [
+        "Jürgen Schmidhuber"
+      ],
+      "year": 2015,
+      "venue": "Neural Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.neunet.2014.09.003"
+    },
+    "BIBREF51": {
+      "title": "Continual curiosity-driven skill acquisition from high-dimensional video inputs for humanoid robots",
+      "authors": [
+        "Varun Raj Kompella",
+        "Marijn F. Stollenga",
+        "Matthew D. Luciw",
+        "Jürgen Schmidhuber"
+      ],
+      "year": 2017,
+      "venue": "Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.artint.2015.02.001"
+    },
+    "BIBREF52": {
+      "title": "Speech-Centric Information Processing: An Optimization-Oriented Approach",
+      "authors": [
+        "Xiaodong He",
+        "Li Deng"
+      ],
+      "year": 2013,
+      "venue": "Proceedings of the IEEE",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/JPROC.2012.2236631"
+    },
+    "BIBREF53": {
+      "title": "Multiagent Reinforcement Learning for Integrated Network of Adaptive Traffic Signal Controllers (MARLIN-ATSC): Methodology and Large-Scale Application on Downtown Toronto",
+      "authors": [
+        "Samah El-Tantawy",
+        "Baher Abdulhai",
+        "Hossam Abdelgawad"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TITS.2013.2255286"
+    },
+    "BIBREF54": {
+      "title": "Dropout: a simple way to prevent neural networks from overfitting",
+      "authors": [
+        "Nitish Srivastava",
+        "Geoffrey Hinton",
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Ruslan Salakhutdinov"
+      ],
+      "year": 2014,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF55": {
+      "title": "Transfer Learning for Reinforcement Learning Domains: A Survey",
+      "authors": [
+        "Matthew E. Taylor",
+        "Peter Stone"
+      ],
+      "year": 2009,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF56": {
+      "title": "Generative Adversarial Nets",
+      "authors": [
+        "Ian Goodfellow",
+        "Jean Pouget-Abadie",
+        "Mehdi Mirza",
+        "Bing Xu",
+        "David Warde-Farley",
+        "Sherjil Ozair",
+        "Aaron Courville",
+        "Yoshua Bengio"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF57": {
+      "title": "A Comprehensive Survey of Multiagent Reinforcement Learning",
+      "authors": [
+        "L. Busoniu",
+        "R. Babuska",
+        "B. De Schutter"
+      ],
+      "year": 2008,
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSMCC.2007.913919"
+    },
+    "BIBREF58": {
+      "title": "Learning to Predict by the Methods of Temporal Differences",
+      "authors": [
+        "Richard S. Sutton"
+      ],
+      "year": 1988,
+      "venue": "Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1022633531479"
+    },
+    "BIBREF59": {
+      "title": "A survey of multi-objective sequential decision-making",
+      "authors": [
+        "Diederik M. Roijers",
+        "Peter Vamplew",
+        "Shimon Whiteson",
+        "Richard Dazeley"
+      ],
+      "year": 2013,
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1613/jair.3987"
+    },
+    "BIBREF60": {
+      "title": "Learning and Reasoning in Cognitive Radio Networks",
+      "authors": [
+        "Liljana Gavrilovska",
+        "Vladimir Atanasovski",
+        "Irene Macaluso",
+        "Luiz A. DaSilva"
+      ],
+      "year": 2013,
+      "venue": "IEEE Communications Surveys and Tutorials",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SURV.2013.030713.00113"
+    },
+    "BIBREF61": {
+      "title": "Learning Exercise Policies for American Options",
+      "authors": [
+        "Yuxi Li",
+        "Csaba Szepesvari",
+        "Dale Schuurmans"
+      ],
+      "year": 2009,
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": ""
+    },
+    "BIBREF62": {
+      "title": "Reinforcement learning: a survey",
+      "authors": [
+        "Leslie Pack Kaelbling",
+        "Michael L. Littman",
+        "Andrew W. Moore"
+      ],
+      "year": 1996,
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1613/jair.301"
+    },
+    "BIBREF63": {
+      "title": "Weighted importance sampling for off-policy learning with linear function approximation",
+      "authors": [
+        "A. Rupam Mahmood",
+        "Hado P van Hasselt",
+        "Richard S Sutton"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF64": {
+      "title": "Sentiment Analysis and Opinion Mining",
+      "authors": [
+        "Bing Liu"
+      ],
+      "year": 2012,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF65": {
+      "title": "Between MDPs and semi-MDPs: a framework for temporal abstraction in reinforcement learning",
+      "authors": [
+        "Richard S. Sutton",
+        "Doina Precup",
+        "Satinder Singh"
+      ],
+      "year": 1999,
+      "venue": "Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0004-3702(99)00052-1"
+    },
+    "BIBREF66": {
+      "title": "Essentials of Game Theory: A Concise, Multidisciplinary Introduction",
+      "authors": [
+        "Kevin Leyton-Brown",
+        "Yoav Shoham"
+      ],
+      "year": 2008,
+      "venue": "Synthesis Lectures on Artificial Intelligence and Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.2200/S00108ED1V01Y200802AIM003"
+    },
+    "BIBREF67": {
+      "title": "A contextual-bandit approach to personalized news article recommendation",
+      "authors": [
+        "Lihong Li",
+        "Wei Chu",
+        "John Langford",
+        "Robert E. Schapire"
+      ],
+      "year": 2010,
+      "venue": "The Web Conference",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1772690.1772758"
+    },
+    "BIBREF68": {
+      "title": "Game-theoretic security patrolling with dynamic execution uncertainty and a case study on a real transit system",
+      "authors": [
+        "Francesco M. Delle Fave",
+        "Albert Xin Jiang",
+        "Zhengyu Yin",
+        "Chao Zhang",
+        "Milind Tambe",
+        "Sarit Kraus",
+        "John P. Sullivan"
+      ],
+      "year": 2014,
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1613/jair.4317"
+    },
+    "BIBREF69": {
+      "title": "Action-Conditional Video Prediction using Deep Networks in Atari Games",
+      "authors": [
+        "Junhyuk Oh",
+        "Xiaoxiao Guo",
+        "Honglak Lee",
+        "Richard Lewis",
+        "Satinder Singh"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF70": {
+      "title": "Adapting bias by gradient descent: an incremental version of delta-bar-delta",
+      "authors": [
+        "Richard S. Sutton"
+      ],
+      "year": 1992,
+      "venue": "National Conference on Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF71": {
+      "title": "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding",
+      "authors": [
+        "Song Han",
+        "Huizi Mao",
+        "William J. Dally"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF72": {
+      "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+      "authors": [
+        "Ronald J. Williams"
+      ],
+      "year": 1992,
+      "venue": "Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF00992696"
+    },
+    "BIBREF73": {
+      "title": "Tree-Based Batch Mode Reinforcement Learning",
+      "authors": [
+        "Damien Ernst",
+        "Pierre Geurts",
+        "Louis Wehenkel"
+      ],
+      "year": 2005,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF74": {
+      "title": "Deep Recurrent Q-Learning for Partially Observable MDPs",
+      "authors": [
+        "Matthew Hausknecht",
+        "Peter Stone"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF75": {
+      "title": "Hierarchical reinforcement learning with the MAXQ value function decomposition",
+      "authors": [
+        "Thomas G. Dietterich"
+      ],
+      "year": 2000,
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1613/jair.639"
+    },
+    "BIBREF76": {
+      "title": "Reinforcement Learning: An Introduction",
+      "authors": [
+        "R.S. Sutton",
+        "A.G. Barto"
+      ],
+      "year": 1988,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF77": {
+      "title": "A Survey of Monte Carlo Tree Search Methods",
+      "authors": [
+        "C. B. Browne",
+        "E. Powley",
+        "D. Whitehouse",
+        "S. M. Lucas",
+        "P. I. Cowling",
+        "P. Rohlfshagen",
+        "S. Tavener",
+        "D. Perez",
+        "S. Samothrakis",
+        "S. Colton"
+      ],
+      "year": 2012,
+      "venue": "IEEE Transactions on Computational Intelligence and AI in Games",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TCIAIG.2012.2186810"
+    },
+    "BIBREF78": {
+      "title": "Machine Learning in Wireless Sensor Networks: Algorithms, Strategies, and Applications",
+      "authors": [
+        "Mohammad Abu Alsheikh",
+        "Shaowei Lin",
+        "Dusit Niyato",
+        "Hwee-Pink Tan"
+      ],
+      "year": 2014,
+      "venue": "IEEE Communications Surveys and Tutorials",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/COMST.2014.2320099"
+    },
+    "BIBREF79": {
+      "title": "Least-squares policy iteration",
+      "authors": [
+        "Michail G. Lagoudakis",
+        "Ronald Parr"
+      ],
+      "year": 2003,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF80": {
+      "title": "A Natural Policy Gradient",
+      "authors": [
+        "Sham M Kakade"
+      ],
+      "year": 2001,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF81": {
+      "title": "RLPy: a value-function-based reinforcement learning framework for education and research",
+      "authors": [
+        "Alborz Geramifard",
+        "Christoph Dann",
+        "Robert H. Klein",
+        "William Dabney",
+        "Jonathan P. How"
+      ],
+      "year": 2015,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF82": {
+      "title": "Learning from Limited Demonstrations",
+      "authors": [
+        "Beomjoon Kim",
+        "Amir massoud Farahmand",
+        "Joelle Pineau",
+        "Doina Precup"
+      ],
+      "year": 2013,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF83": {
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+      "authors": [
+        "Dzmitry Bahdanau",
+        "Kyunghyun Cho",
+        "Yoshua Bengio"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF84": {
+      "title": "PILCO: A Model-Based and Data-Efficient Approach to Policy Search",
+      "authors": [
+        "Marc Deisenroth",
+        "Carl E. Rasmussen"
+      ],
+      "year": 2011,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF85": {
+      "title": "Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching",
+      "authors": [
+        "Long-Ji Lin"
+      ],
+      "year": 1992,
+      "venue": "Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF00992699"
+    },
+    "BIBREF86": {
+      "title": "Concurrent Reinforcement Learning from Customer Interactions",
+      "authors": [
+        "David Silver",
+        "Leonard Newnham",
+        "David Barker",
+        "Suzanne Weller",
+        "Jason McFall"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF87": {
+      "title": "Random Features for Large-Scale Kernel Machines",
+      "authors": [
+        "Ali Rahimi",
+        "Benjamin Recht"
+      ],
+      "year": 2007,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF88": {
+      "title": "Human-level control through deep reinforcement learning",
+      "authors": [
+        "Volodymyr Mnih",
+        "Koray Kavukcuoglu",
+        "David Silver",
+        "Andrei A. Rusu",
+        "Joel Veness",
+        "Marc G. Bellemare",
+        "Alex Graves",
+        "Martin Riedmiller",
+        "Andreas K. Fidjeland",
+        "Georg Ostrovski",
+        "Stig Petersen",
+        "Charles Beattie",
+        "Amir Sadik",
+        "Ioannis Antonoglou",
+        "Helen King",
+        "Dharshan Kumaran",
+        "Daan Wierstra",
+        "Shane Legg",
+        "Demis Hassabis"
+      ],
+      "year": 2015,
+      "venue": "Nature",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1038/nature14236"
+    },
+    "BIBREF89": {
+      "title": "Multiagent Systems: A Survey from a Machine Learning Perspective",
+      "authors": [
+        "Peter Stone",
+        "Manuela Veloso"
+      ],
+      "year": 2000,
+      "venue": "Autonomous Robots",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1008942012299"
+    },
+    "BIBREF90": {
+      "title": "Deep Learning: Methods and Applications",
+      "authors": [
+        "Li Deng",
+        "Dong Yu"
+      ],
+      "year": 2014,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF91": {
+      "title": "The arcade learning environment: an evaluation platform for general agents",
+      "authors": [
+        "Marc G. Bellemare",
+        "Yavar Naddaf",
+        "Joel Veness",
+        "Michael Bowling"
+      ],
+      "year": 2013,
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1613/jair.3912"
+    },
+    "BIBREF92": {
+      "title": "Informing sequential clinical decision-making through reinforcement learning: an empirical study",
+      "authors": [
+        "Susan M. Shortreed",
+        "Eric Laber",
+        "Daniel J. Lizotte",
+        "T. Scott Stroup",
+        "Joelle Pineau",
+        "Susan A. Murphy"
+      ],
+      "year": 2011,
+      "venue": "Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10994-010-5229-0"
+    },
+    "BIBREF93": {
+      "title": "A General Projection Property for Distribution Families",
+      "authors": [
+        "Yao-liang Yu",
+        "Yuxi Li",
+        "Dale Schuurmans",
+        "Csaba Szepesvári"
+      ],
+      "year": 2009,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF94": {
+      "title": "Regression methods for pricing complex American-style options",
+      "authors": [
+        "J.N. Tsitsiklis",
+        "B. Van Roy"
+      ],
+      "year": 2001,
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/72.935083"
+    },
+    "BIBREF95": {
+      "title": "Policy Gradient Methods for Reinforcement Learning with Function Approximation",
+      "authors": [
+        "Richard S Sutton",
+        "David A. McAllester",
+        "Satinder P. Singh",
+        "Yishay Mansour"
+      ],
+      "year": 1999,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF96": {
+      "title": "Enhancing Q-Learning for Optimal Asset Allocation",
+      "authors": [
+        "Ralph Neuneier"
+      ],
+      "year": 1997,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF97": {
+      "title": "If multi-agent learning is the answer, what is the question?",
+      "authors": [
+        "Yoav Shoham",
+        "Rob Powers",
+        "Trond Grenager"
+      ],
+      "year": 2007,
+      "venue": "Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.artint.2006.02.006"
+    },
+    "BIBREF98": {
+      "title": "Universal Option Models",
+      "authors": [
+        "hengshuai yao",
+        "Csaba Szepesvari",
+        "Richard S Sutton",
+        "Joseph Modayil",
+        "Shalabh Bhatnagar"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF99": {
+      "title": "A few useful things to know about machine learning",
+      "authors": [
+        "Pedro Domingos"
+      ],
+      "year": 2012,
+      "venue": "Communications of The ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2347736.2347755"
+    },
+    "BIBREF100": {
+      "title": "Machine Learning Paradigms for Speech Recognition: An Overview",
+      "authors": [
+        "Li Deng",
+        "Xiao Li"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TASL.2013.2244083"
+    },
+    "BIBREF101": {
+      "title": "Deterministic Policy Gradient Algorithms",
+      "authors": [
+        "David Silver",
+        "Guy Lever",
+        "Nicolas Heess",
+        "Thomas Degris",
+        "Daan Wierstra",
+        "Martin Riedmiller"
+      ],
+      "year": 2014,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF102": {
+      "title": "A Survey on Transfer Learning",
+      "authors": [
+        "Sinno Jialin Pan",
+        "Qiang Yang"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TKDE.2009.191"
+    },
+    "BIBREF103": {
+      "title": "Learning to trade via direct reinforcement",
+      "authors": [
+        "J. Moody",
+        "M. Saffell"
+      ],
+      "year": 2001,
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/72.935097"
+    },
+    "BIBREF104": {
+      "title": "A Tutorial on Linear Function Approximators for Dynamic Programming and Reinforcement Learning",
+      "authors": [
+        "Alborz Geramifard",
+        "Thomas J. Walsh",
+        "Stefanie Tellex",
+        "Girish Chowdhary",
+        "Nicholas Roy",
+        "Jonathan P. How"
+      ],
+      "year": 2013,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF105": {
+      "title": "Continuous control with deep reinforcement learning",
+      "authors": [
+        "Timothy P. Lillicrap",
+        "Jonathan J. Hunt",
+        "Alexander Pritzel",
+        "Nicolas Heess",
+        "Tom Erez",
+        "Yuval Tassa",
+        "David Silver",
+        "Daan Wierstra"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF106": {
+      "title": "Dueling network architectures for deep reinforcement learning",
+      "authors": [
+        "Ziyu Wang",
+        "Tom Schaul",
+        "Matteo Hessel",
+        "Hado Van Hasselt",
+        "Marc Lanctot",
+        "Nando De Freitas"
+      ],
+      "year": 2016,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF107": {
+      "title": "Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning",
+      "authors": [
+        "Emilio Parisotto",
+        "Jimmy Lei Ba",
+        "Ruslan Salakhutdinov"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF108": {
+      "title": "Sequence Level Training with Recurrent Neural Networks",
+      "authors": [
+        "Marc'Aurelio Ranzato",
+        "Sumit Chopra",
+        "Michael Auli",
+        "Wojciech Zaremba"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF109": {
+      "title": "Active Object Localization with Deep Reinforcement Learning",
+      "authors": [
+        "Juan C. Caicedo",
+        "Svetlana Lazebnik"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICCV.2015.286"
+    },
+    "BIBREF110": {
+      "title": "Galileo: perceiving physical object properties by integrating a physics engine with deep learning",
+      "authors": [
+        "Jiajun Wu",
+        "Ilker Yildirim",
+        "Joseph J. Lim",
+        "William T. Freeman",
+        "Joshua B. Tenenbaum"
+      ],
+      "year": 2015,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF111": {
+      "title": "Neural Programmer-Interpreters",
+      "authors": [
+        "Scott Reed",
+        "Nando de Freitas"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF112": {
+      "title": "Prioritized Experience Replay",
+      "authors": [
+        "Tom Schaul",
+        "John Quan",
+        "Ioannis Antonoglou",
+        "David Silver"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF113": {
+      "title": "Cumulative Prospect Theory Meets Reinforcement Learning: Prediction and Control",
+      "authors": [
+        "Prashanth L. A.",
+        "Cheng Jie",
+        "Michael Fu",
+        "Steve Marcus",
+        "Csaba Szepesvári"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF114": {
+      "title": "Reinforcement Learning in Large Discrete Action Spaces.",
+      "authors": [
+        "Gabriel Dulac-Arnold",
+        "Richard Evans",
+        "Peter Sunehag",
+        "Ben Coppin"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF115": {
+      "title": "Bayesian Reinforcement Learning: A Survey",
+      "authors": [
+        "Mohammad Ghavamzadeh",
+        "Shie Mannor",
+        "Joelle Pineau",
+        "Aviv Tamar"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1561/2200000049"
+    },
+    "BIBREF116": {
+      "title": "Multi-Task Learning for Multiple Language Translation",
+      "authors": [
+        "Daxiang Dong",
+        "Hua Wu",
+        "Wei He",
+        "Dianhai Yu",
+        "Haifeng Wang"
+      ],
+      "year": 2015,
+      "venue": "International Joint Conference on Natural Language Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/v1/P15-1166"
+    },
+    "BIBREF117": {
+      "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+      "authors": [
+        "Richard Socher",
+        "Alex Perelygin",
+        "Jean Wu",
+        "Jason Chuang",
+        "Christopher D. Manning",
+        "Andrew Ng",
+        "Christopher Potts"
+      ],
+      "year": 2013,
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": ""
+    },
+    "BIBREF118": {
+      "title": "Deep Reinforcement Learning in Parameterized Action Space",
+      "authors": [
+        "Matthew Hausknecht",
+        "Peter Stone"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF119": {
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": [
+        "David Silver",
+        "Aja Huang",
+        "Christopher J. Maddison",
+        "Arthur Guez",
+        "Laurent Sifre",
+        "George van den Driessche",
+        "Julian Schrittwieser",
+        "Ioannis Antonoglou",
+        "Veda Panneershelvam",
+        "Marc Lanctot",
+        "Sander Dieleman",
+        "Dominik Grewe",
+        "John Nham",
+        "Nal Kalchbrenner",
+        "Ilya Sutskever",
+        "Timothy Lillicrap",
+        "Madeleine Leach",
+        "Koray Kavukcuoglu",
+        "Thore Graepel",
+        "Demis Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1038/nature16961"
+    },
+    "BIBREF120": {
+      "title": "Value Iteration Networks",
+      "authors": [
+        "Aviv Tamar",
+        "Yi Wu",
+        "Garrett Thomas",
+        "Sergey Levine",
+        "Pieter Abbeel"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF121": {
+      "title": "Asynchronous Methods for Deep Reinforcement Learning",
+      "authors": [
+        "Volodymyr Mnih",
+        "Adrià Puigdomènech Badia",
+        "Mehdi Mirza",
+        "Alex Graves",
+        "Timothy P. Lillicrap",
+        "Tim Harley",
+        "David Silver",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF122": {
+      "title": "Personalized ad recommendation systems for life-time value optimization with guarantees",
+      "authors": [
+        "Georgios Theocharous",
+        "Philip S. Thomas",
+        "Mohammad Ghavamzadeh"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF123": {
+      "title": "Residential Demand Response of Thermostatically Controlled Loads Using Batch Reinforcement Learning",
+      "authors": [
+        "Frederik Ruelens",
+        "Bert J. Claessens",
+        "Stijn Vandael",
+        "Bart De Schutter",
+        "Robert Babuska",
+        "Ronnie Belmans"
+      ],
+      "year": 2017,
+      "venue": "IEEE Transactions on Smart Grid",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSG.2016.2517211"
+    },
+    "BIBREF124": {
+      "title": "Scalable and Sustainable Deep Learning via Randomized Hashing",
+      "authors": [
+        "Ryan Spring",
+        "Anshumali Shrivastava"
+      ],
+      "year": 2017,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/3097983.3098035"
+    },
+    "BIBREF125": {
+      "title": "Deep Exploration via Bootstrapped DQN",
+      "authors": [
+        "Ian Osband",
+        "Charles Blundell",
+        "Alexander Pritzel",
+        "Benjamin Van Roy"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF126": {
+      "title": "\"Why Should I Trust You?\": Explaining the Predictions of Any Classifier",
+      "authors": [
+        "Marco Tulio Ribeiro",
+        "Sameer Singh",
+        "Carlos Guestrin"
+      ],
+      "year": 2016,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2939672.2939778"
+    },
+    "BIBREF127": {
+      "title": "Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization",
+      "authors": [
+        "Chelsea Finn",
+        "Sergey Levine",
+        "Pieter Abbeel"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF128": {
+      "title": "Investigating practical linear temporal difference learning",
+      "authors": [
+        "Adam White",
+        "Martha White"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF129": {
+      "title": "Differentially Private Policy Evaluation",
+      "authors": [
+        "Borja Balle",
+        "Maziar Gomrokchi",
+        "Doina Precup"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF130": {
+      "title": "Curriculum learning",
+      "authors": [
+        "Yoshua Bengio",
+        "Jérôme Louradour",
+        "Ronan Collobert",
+        "Jason Weston"
+      ],
+      "year": 2009,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1553374.1553380"
+    },
+    "BIBREF131": {
+      "title": "Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning",
+      "authors": [
+        "Karthik Rajagopal Narasimhan",
+        "Adam Yala",
+        "Regina Barzilay"
+      ],
+      "year": 2016,
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.18653/v1/D16-1261"
+    },
+    "BIBREF132": {
+      "title": "Attend, Infer, Repeat: Fast Scene Understanding with Generative Models",
+      "authors": [
+        "S. M. Ali Eslami",
+        "Nicolas Heess",
+        "Theophane Weber",
+        "Yuval Tassa",
+        "David Szepesvari",
+        "Koray Kavukcuoglu",
+        "Geoffrey E. Hinton"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF133": {
+      "title": "Interactive Perception: Leveraging Action in Perception and Perception in Action",
+      "authors": [
+        "Jeannette Bohg",
+        "Karol Hausman",
+        "Bharath Sankaran",
+        "Oliver Brock",
+        "Danica Kragic",
+        "Stefan Schaal",
+        "Gaurav S. Sukhatme"
+      ],
+      "year": 2017,
+      "venue": "IEEE Transactions on Robotics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TRO.2017.2721939"
+    },
+    "BIBREF134": {
+      "title": "A Network-based End-to-End Trainable Task-oriented Dialogue System",
+      "authors": [
+        "Tsung-Hsien Wen",
+        "David Vandyke",
+        "Nikola Mrksic",
+        "Milica Gasic",
+        "Lina M. Rojas-Barahona",
+        "Pei-Hao Su",
+        "Stefan Ultes",
+        "Steve Young"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF135": {
+      "title": "A Deep Hierarchical Approach to Lifelong Learning in Minecraft",
+      "authors": [
+        "Chen Tessler",
+        "Shahar Givony",
+        "Tom Zahavy",
+        "Daniel J. Mankowitz",
+        "Shie Mannor"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF136": {
+      "title": "ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning",
+      "authors": [
+        "Michał Kempka",
+        "Marek Wydmuch",
+        "Grzegorz Runc",
+        "Jakub Toczek",
+        "Wojciech Jaśkowski"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF137": {
+      "title": "Learning to Communicate with Deep Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Jakob N. Foerster",
+        "Yannis M. Assael",
+        "Nando de Freitas",
+        "Shimon Whiteson"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF138": {
+      "title": "A survey of transfer learning",
+      "authors": [
+        "Karl R. Weiss",
+        "Taghi M. Khoshgoftaar",
+        "Dingding Wang"
+      ],
+      "year": 2016,
+      "venue": "Journal of Big Data",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1186/s40537-016-0043-6"
+    },
+    "BIBREF139": {
+      "title": "On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems",
+      "authors": [
+        "Pei-Hao Su",
+        "Milica Gasic",
+        "Nikola Mrksic",
+        "Lina Rojas-Barahona",
+        "Stefan Ultes",
+        "David Vandyke",
+        "Tsung-Hsien Wen",
+        "Steve Young"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF140": {
+      "title": "Model-Free Imitation Learning with Policy Optimization",
+      "authors": [
+        "Jonathan Ho",
+        "Jayesh K. Gupta",
+        "Stefano Ermon"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF141": {
+      "title": "Learning Multiagent Communication with Backpropagation",
+      "authors": [
+        "Sainbayar Sukhbaatar",
+        "Arthur Szlam",
+        "Rob Fergus"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF142": {
+      "title": "Learning End-to-End Goal-Oriented Dialog",
+      "authors": [
+        "Antoine Bordes",
+        "Y-Lan Boureau",
+        "Jason Weston"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF143": {
+      "title": "Cooperative Inverse Reinforcement Learning",
+      "authors": [
+        "Dylan Hadfield-Menell",
+        "Anca Dragan",
+        "Pieter Abbeel",
+        "Stuart Russell"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF144": {
+      "title": "Deep Reinforcement Learning for Dialogue Generation",
+      "authors": [
+        "Jiwei Li",
+        "Will Monroe",
+        "Alan Ritter",
+        "Michel Galley",
+        "Jianfeng Gao",
+        "Dan Jurafsky"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF145": {
+      "title": "Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning",
+      "authors": [
+        "Tiancheng Zhao",
+        "Maxine Eskenazi"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF146": {
+      "title": "Algorithmic safety measures for intelligent industrial co-robots",
+      "authors": [
+        "Changliu Liu",
+        "Masayoshi Tomizuka"
+      ],
+      "year": 2016,
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICRA.2016.7487476"
+    },
+    "BIBREF147": {
+      "title": "Natural Language Comprehension with the EpiReader",
+      "authors": [
+        "Adam Trischler",
+        "Zheng Ye jeff.ye",
+        "Xingdi Yuan eric.yuan",
+        "Kaheer Suleman"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF148": {
+      "title": "VIME: Variational Information Maximizing Exploration",
+      "authors": [
+        "Rein Houthooft",
+        "Xi Chen",
+        "Yan Duan",
+        "John Schulman",
+        "Filip De Turck",
+        "Pieter Abbeel"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF149": {
+      "title": "Unifying Count-Based Exploration and Intrinsic Motivation",
+      "authors": [
+        "Marc G. Bellemare",
+        "Sriram Srinivasan",
+        "Georg Ostrovski",
+        "Tom Schaul",
+        "David Saxton",
+        "Remi Munos"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF150": {
+      "title": "Semi-Supervised Learning for Neural Machine Translation",
+      "authors": [
+        "Yong Cheng",
+        "Wei Xu",
+        "Zhongjun He",
+        "Wei He",
+        "Hua Wu",
+        "Maosong Sun",
+        "Yang Liu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF151": {
+      "title": "Matching Networks for One Shot Learning",
+      "authors": [
+        "Oriol Vinyals",
+        "Charles Blundell",
+        "Timothy Lillicrap",
+        "Koray Kavukcuoglu",
+        "Daan Wierstra"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF152": {
+      "title": "Generative Adversarial Imitation Learning",
+      "authors": [
+        "Jonathan Ho",
+        "Stefano Ermon"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF153": {
+      "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets",
+      "authors": [
+        "Xi Chen",
+        "Yan Duan",
+        "Rein Houthooft",
+        "John Schulman",
+        "Ilya Sutskever",
+        "Pieter Abbeel"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF154": {
+      "title": "Rationalizing Neural Predictions",
+      "authors": [
+        "Tao Lei",
+        "Regina Barzilay",
+        "Tommi Jaakkola"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF155": {
+      "title": "Successor Features for Transfer in Reinforcement Learning",
+      "authors": [
+        "André Barreto",
+        "Will Dabney",
+        "Rémi Munos",
+        "Jonathan J. Hunt",
+        "Tom Schaul",
+        "Hado van Hasselt",
+        "David Silver"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF156": {
+      "title": "Strategic Attentive Writer for Learning Macro-Actions",
+      "authors": [
+        "Alexander",
+        "Vezhnevets",
+        "Volodymyr Mnih",
+        "John Agapiou",
+        "Simon Osindero",
+        "Alex Graves",
+        "Oriol Vinyals",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF157": {
+      "title": "Deep Reinforcement Learning with a Natural Language Action Space",
+      "authors": [
+        "Ji He",
+        "Jianshu Chen",
+        "Xiaodong He",
+        "Jianfeng Gao",
+        "Lihong Li",
+        "Li Deng",
+        "Mari Ostendorf"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF158": {
+      "title": "A Sequence-to-Sequence Model for User Simulation in Spoken Dialogue Systems",
+      "authors": [
+        "Layla El Asri",
+        "Jing He",
+        "Kaheer Suleman"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF159": {
+      "title": "Reinforcement Learning for Visual Object Detection",
+      "authors": [
+        "Stefan Mathe",
+        "Aleksis Pirinen",
+        "Cristian Sminchisescu"
+      ],
+      "year": 2016,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2016.316"
+    },
+    "BIBREF160": {
+      "title": "Learning to Poke by Poking: Experiential Learning of Intuitive Physics",
+      "authors": [
+        "Pulkit Agrawal",
+        "Ashvin Nair",
+        "Pieter Abbeel",
+        "Jitendra Malik",
+        "Sergey Levine"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF161": {
+      "title": "Deep Learning with Differential Privacy",
+      "authors": [
+        "Martin Abadi",
+        "Andy Chu",
+        "Ian Goodfellow",
+        "H. Brendan McMahan",
+        "Ilya Mironov",
+        "Kunal Talwar",
+        "Li Zhang"
+      ],
+      "year": 2016,
+      "venue": "Computer and Communications Security",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2976749.2978318"
+    },
+    "BIBREF162": {
+      "title": "End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding.",
+      "authors": [
+        "Yun-Nung Chen",
+        "Dilek Hakkani-Tür",
+        "Gökhan Tür",
+        "Jianfeng Gao",
+        "Li Deng"
+      ],
+      "year": 2016,
+      "venue": "Conference of the International Speech Communication Association",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.21437/Interspeech.2016-312"
+    },
+    "BIBREF163": {
+      "title": "An Actor-Critic Algorithm for Sequence Prediction",
+      "authors": [
+        "Dzmitry Bahdanau",
+        "Philemon Brakel",
+        "Kelvin Xu",
+        "Anirudh Goyal",
+        "Ryan Lowe",
+        "Joelle Pineau",
+        "Aaron Courville",
+        "Yoshua Bengio"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF164": {
+      "title": "Pointer networks",
+      "authors": [
+        "Oriol Vinyals",
+        "Meire Fortunato",
+        "Navdeep Jaitly"
+      ],
+      "year": 2015,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF165": {
+      "title": "Learning values across many orders of magnitude",
+      "authors": [
+        "Hado van Hasselt",
+        "Arthur Guez",
+        "Matteo Hessel",
+        "Volodymyr Mnih",
+        "David Silver"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF166": {
+      "title": "Deep learning games",
+      "authors": [
+        "Dale Schuurmans",
+        "Martin Zinkevich"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF167": {
+      "title": "Densely Connected Convolutional Networks",
+      "authors": [
+        "Gao Huang",
+        "Zhuang Liu",
+        "Kilian Q. Weinberger",
+        "Laurens van der Maaten"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF168": {
+      "title": "Reinforcement renaissance",
+      "authors": [
+        "Marina Krakovsky"
+      ],
+      "year": 2016,
+      "venue": "Communications of The ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2949662"
+    },
+    "BIBREF169": {
+      "title": "Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access",
+      "authors": [
+        "Bhuwan Dhingra",
+        "Lihong Li",
+        "Xiujun Li",
+        "Jianfeng Gao",
+        "Yun-Nung Chen",
+        "Faisal Ahmed",
+        "Li Deng"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF170": {
+      "title": "Towards Evaluating the Robustness of Neural Networks",
+      "authors": [
+        "Nicholas Carlini",
+        "David Wagner"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Cryptography and Security",
+      "link": ""
+    },
+    "BIBREF171": {
+      "title": "Towards End-to-End Speech Recognition with Deep Convolutional Neural Networks",
+      "authors": [
+        "Ying Zhang",
+        "Mohammad Pezeshki",
+        "Philemon Brakel",
+        "Saizheng Zhang",
+        "Cesar Laurent Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF172": {
+      "title": "Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks.",
+      "authors": [
+        "Nicolas Usunier",
+        "Gabriel Synnaeve",
+        "Zeming Lin",
+        "Soumith Chintala"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF173": {
+      "title": "The microsoft 2016 conversational speech recognition system",
+      "authors": [
+        "W. Xiong",
+        "J. Droppo",
+        "X. Huang",
+        "F. Seide",
+        "M. Seltzer",
+        "A. Stolcke",
+        "D. Yu",
+        "G. Zweig"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICASSP.2017.7953159"
+    },
+    "BIBREF174": {
+      "title": "Deep Reinforcement Learning with a Combinatorial Action Space for Predicting Popular Reddit Threads",
+      "authors": [
+        "Ji He",
+        "Mari Ostendorf",
+        "Xiaodong He",
+        "Jianshu Chen",
+        "Jianfeng Gao",
+        "Lihong Li",
+        "Li Deng"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF175": {
+      "title": "ReasoNet: Learning to Stop Reading in Machine Comprehension",
+      "authors": [
+        "Yelong Shen",
+        "Po-Sen Huang",
+        "Jianfeng Gao",
+        "Weizhu Chen"
+      ],
+      "year": 2017,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/3097983.3098177"
+    },
+    "BIBREF176": {
+      "title": "Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning",
+      "authors": [
+        "Yuke Zhu",
+        "Roozbeh Mottaghi",
+        "Eric Kolve",
+        "Joseph J. Lim",
+        "Abhinav Gupta",
+        "Li Fei-Fei",
+        "Ali Farhadi"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF177": {
+      "title": "Playing FPS Games with Deep Reinforcement Learning",
+      "authors": [
+        "Guillaume Lample",
+        "Devendra Singh Chaplot"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF178": {
+      "title": "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient",
+      "authors": [
+        "Lantao Yu",
+        "Weinan Zhang",
+        "Jun Wang",
+        "Yong Yu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF179": {
+      "title": "The Option-Critic Architecture",
+      "authors": [
+        "Pierre-Luc Bacon",
+        "Jean Harb",
+        "Doina Precup"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF180": {
+      "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+      "authors": [
+        "Yonghui Wu",
+        "Mike Schuster",
+        "Zhifeng Chen",
+        "Quoc V. Le",
+        "Mohammad Norouzi",
+        "Wolfgang Macherey",
+        "Maxim Krikun",
+        "Yuan Cao",
+        "Qin Gao",
+        "Klaus Macherey",
+        "Jeff Klingner",
+        "Apurva Shah",
+        "Melvin Johnson",
+        "Xiaobing Liu",
+        "Łukasz Kaiser",
+        "Stephan Gouws",
+        "Yoshikiyo Kato",
+        "Taku Kudo",
+        "Hideto Kazawa",
+        "Keith Stevens",
+        "George Kurian",
+        "Nishant Patil",
+        "Wei Wang",
+        "Cliff Young",
+        "Jason Smith",
+        "Jason Riesa",
+        "Alex Rudnick",
+        "Oriol Vinyals",
+        "Greg Corrado",
+        "Macduff Hughes",
+        "Jeffrey Dean"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF181": {
+      "title": "Deep visual foresight for planning robot motion",
+      "authors": [
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICRA.2017.7989324"
+    },
+    "BIBREF182": {
+      "title": "Hybrid computing using a neural network with dynamic external memory",
+      "authors": [
+        "Alex Graves",
+        "Greg Wayne",
+        "Malcolm Reynolds",
+        "Tim Harley",
+        "Ivo Danihelka",
+        "Agnieszka Grabska-Barwińska",
+        "Sergio Gómez Colmenarejo",
+        "Edward Grefenstette",
+        "Tiago Ramalho",
+        "John Agapiou",
+        "Adrià Puigdomènech Badia",
+        "Karl Moritz Hermann",
+        "Yori Zwols",
+        "Georg Ostrovski",
+        "Adam Cain",
+        "Helen King",
+        "Christopher Summerfield",
+        "Phil Blunsom",
+        "Koray Kavukcuoglu",
+        "Demis Hassabis"
+      ],
+      "year": 2016,
+      "venue": "Nature",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1038/nature20101"
+    },
+    "BIBREF183": {
+      "title": "Can Active Memory Replace Attention",
+      "authors": [
+        "Lukasz Kaiser",
+        "Samy Bengio"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF184": {
+      "title": "Resource Management with Deep Reinforcement Learning",
+      "authors": [
+        "Hongzi Mao",
+        "Mohammad Alizadeh",
+        "Ishai Menache",
+        "Srikanth Kandula"
+      ],
+      "year": 2016,
+      "venue": "Hot Topics in Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/3005745.3005750"
+    },
+    "BIBREF185": {
+      "title": "Dual learning for machine translation",
+      "authors": [
+        "Di He",
+        "Yingce Xia",
+        "Tao Qin",
+        "Liwei Wang",
+        "Nenghai Yu",
+        "Tie-Yan Liu",
+        "Wei-Ying Ma"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF186": {
+      "title": "Trading Off Scientific Knowledge and User Learning with Multi-Armed Bandits",
+      "authors": [
+        "Yun-En Liu",
+        "Travis Mandel",
+        "Emma Brunskill",
+        "Zoran Popovic"
+      ],
+      "year": 2014,
+      "venue": "Educational Data Mining",
+      "link": ""
+    },
+    "BIBREF187": {
+      "title": "Learning to reinforcement learn",
+      "authors": [
+        "Jane X Wang",
+        "Zeb Kurth-Nelson",
+        "Dhruva Tirumala",
+        "Hubert Soyer",
+        "Joel Z Leibo",
+        "Remi Munos",
+        "Charles Blundell",
+        "Dharshan Kumaran",
+        "Matt Botvinick"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF188": {
+      "title": "Dynamic Coattention Networks For Question Answering",
+      "authors": [
+        "Caiming Xiong",
+        "Victor Zhong",
+        "Richard Socher"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF189": {
+      "title": "Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening",
+      "authors": [
+        "Frank S. He",
+        "Yang Liu",
+        "Alexander G. Schwing",
+        "Jian Peng"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF190": {
+      "title": "Neural Architecture Search with Reinforcement Learning",
+      "authors": [
+        "Barret Zoph",
+        "Quoc V. Le"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF191": {
+      "title": "Learning to Perform Physics Experiments via Deep Reinforcement Learning",
+      "authors": [
+        "Misha Denil",
+        "Pulkit Agrawal",
+        "Tejas D Kulkarni",
+        "Tom Erez",
+        "Peter Battaglia",
+        "Nando de Freitas"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF192": {
+      "title": "PGQ: Combining policy gradient and Q-learning",
+      "authors": [
+        "Brendan O'Donoghue",
+        "Remi Munos",
+        "Koray Kavukcuoglu",
+        "Volodymyr Mnih"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF193": {
+      "title": "Designing Neural Network Architectures using Reinforcement Learning",
+      "authors": [
+        "Bowen Baker",
+        "Otkrist Gupta",
+        "Nikhil Naik",
+        "Ramesh Raskar"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF194": {
+      "title": "Deep Learning",
+      "authors": [
+        "Ian Goodfellow",
+        "Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "year": 2016,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF195": {
+      "title": "Learning to Compose Words into Sentences with Reinforcement Learning",
+      "authors": [
+        "Dani Yogatama",
+        "Phil Blunsom",
+        "Chris Dyer",
+        "Edward Grefenstette",
+        "Wang Ling"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF196": {
+      "title": "Generalizing Skills with Semi-Supervised Reinforcement Learning",
+      "authors": [
+        "Chelsea Finn",
+        "Tianhe Yu",
+        "Justin Fu",
+        "Pieter Abbeel",
+        "Sergey Levine"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF197": {
+      "title": "Overcoming catastrophic forgetting in neural networks",
+      "authors": [
+        "James Kirkpatrick",
+        "Razvan Pascanu",
+        "Neil C. Rabinowitz",
+        "Joel Veness",
+        "Guillaume Desjardins",
+        "Andrei A. Rusu",
+        "Kieran Milan",
+        "John Quan",
+        "Tiago Ramalho",
+        "Agnieszka Grabska-Barwinska",
+        "Demis Hassabis",
+        "Claudia Clopath",
+        "Dharshan Kumaran",
+        "Raia Hadsell"
+      ],
+      "year": 2017,
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1073/pnas.1611835114"
+    },
+    "BIBREF198": {
+      "title": "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer",
+      "authors": [
+        "Sergey Zagoruyko",
+        "Nikos Komodakis"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF199": {
+      "title": "A New Softmax Operator for Reinforcement Learning.",
+      "authors": [
+        "Kavosh Asadi",
+        "Michael L. Littman"
+      ],
+      "year": 2016,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF200": {
+      "title": "Tuning Recurrent Neural Networks with Reinforcement Learning",
+      "authors": [
+        "Natasha Jaques",
+        "Shixiang Gu",
+        "Richard E. Turner",
+        "Douglas Eck"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF201": {
+      "title": "Learning from Simulated and Unsupervised Images through Adversarial Training",
+      "authors": [
+        "Ashish Shrivastava",
+        "Tomas Pfister",
+        "Oncel Tuzel",
+        "Josh Susskind",
+        "Wenda Wang",
+        "Russ Webb"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF202": {
+      "title": "Deep Probabilistic Programming",
+      "authors": [
+        "Dustin Tran",
+        "Matthew D. Hoffman",
+        "Rif A. Saurous",
+        "Eugene Brevdo",
+        "Kevin Murphy",
+        "David M. Blei"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF203": {
+      "title": "Memory Networks",
+      "authors": [
+        "Jason Weston",
+        "Sumit Chopra",
+        "Antoine Bordes"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF204": {
+      "title": "Semi-Supervised QA with Generative Domain-Adaptive Nets",
+      "authors": [
+        "Zhilin Yang",
+        "Junjie Hu",
+        "Ruslan Salakhutdinov",
+        "William W. Cohen"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF205": {
+      "title": "Third-Person Imitation Learning",
+      "authors": [
+        "Bradly C. Stadie",
+        "Pieter Abbeel",
+        "Ilya Sutskever"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF206": {
+      "title": "Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning",
+      "authors": [
+        "Sahil Sharma",
+        "Aravind S. Lakshminarayanan",
+        "Balaraman Ravindran"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF207": {
+      "title": "Multi-step Reinforcement Learning: A Unifying Algorithm",
+      "authors": [
+        "Kristopher De Asis",
+        "J. Fernando Hernandez-Garcia",
+        "G. Zacharias Holland",
+        "Richard S. Sutton"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF208": {
+      "title": "Collaborative Deep Reinforcement Learning for Joint Object Search",
+      "authors": [
+        "Xiangyu Kong",
+        "Bo Xin",
+        "Yizhou Wang",
+        "Gang Hua"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.748"
+    },
+    "BIBREF209": {
+      "title": "Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning",
+      "authors": [
+        "Jason D Williams",
+        "Kavosh Asadi",
+        "Geoffrey Zweig"
+      ],
+      "year": 2017,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.18653/v1/P17-1062"
+    },
+    "BIBREF210": {
+      "title": "Improving Interpretability of Deep Neural Networks with Semantic Information",
+      "authors": [
+        "Yinpeng Dong",
+        "Hang Su",
+        "Jun Zhu",
+        "Bo Zhang"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.110"
+    },
+    "BIBREF211": {
+      "title": "A Hierarchical Framework of Cloud Resource Allocation and Power Management Using Deep Reinforcement Learning",
+      "authors": [
+        "Ning Liu",
+        "Zhe Li",
+        "Jielong Xu",
+        "Zhiyuan Xu",
+        "Sheng Lin",
+        "Qinru Qiu",
+        "Jian Tang",
+        "Yanzhi Wang"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Distributed Computing Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/icdcs.2017.123"
+    },
+    "BIBREF212": {
+      "title": "Mask R-CNN",
+      "authors": [
+        "Kaiming He",
+        "Georgia Gkioxari",
+        "Piotr Dollár",
+        "Ross Girshick"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF213": {
+      "title": "Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics",
+      "authors": [
+        "Jeffrey Mahler",
+        "Jacky Liang",
+        "Sherdil Niyaz",
+        "Michael Laskey",
+        "Richard Doan",
+        "Xinyu Liu",
+        "Juan Aparicio",
+        "Ken Goldberg"
+      ],
+      "year": 2017,
+      "venue": "Robotics: Science and Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.15607/RSS.2017.XIII.058"
+    },
+    "BIBREF214": {
+      "title": "One-Shot Imitation Learning",
+      "authors": [
+        "Yan Duan",
+        "Marcin Andrychowicz",
+        "Bradly C. Stadie",
+        "Jonathan Ho",
+        "Jonas Schneider",
+        "Ilya Sutskever",
+        "Pieter Abbeel",
+        "Wojciech Zaremba"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF215": {
+      "title": "Combining model-based and model-free updates for trajectory-centric reinforcement learning",
+      "authors": [
+        "Yevgen Chebotar",
+        "Karol Hausman",
+        "Marvin Zhang",
+        "Gaurav Sukhatme",
+        "Stefan Schaal",
+        "Sergey Levine"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF216": {
+      "title": "Minimax Regret Bounds for Reinforcement Learning",
+      "authors": [
+        "Mohammad Gheshlaghi Azar",
+        "Ian Osband",
+        "Rémi Munos"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF217": {
+      "title": "Improved Training of Wasserstein GANs",
+      "authors": [
+        "Ishaan Gulrajani",
+        "Faruk Ahmed",
+        "Martin Arjovsky",
+        "Vincent Dumoulin",
+        "Aaron Courville"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF218": {
+      "title": "Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning",
+      "authors": [
+        "Abhishek Gupta",
+        "Coline Devin",
+        "YuXuan Liu",
+        "Pieter Abbeel",
+        "Sergey Levine"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF219": {
+      "title": "The intelligent industry of the future: A survey on emerging trends, research challenges and opportunities in Industry 4.0",
+      "authors": [
+        "Davy Preuveneers",
+        "Elisabeth Ilie-Zudor"
+      ],
+      "year": 2017,
+      "venue": "Journal of Ambient Intelligence and Smart Environments",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3233/AIS-170432"
+    },
+    "BIBREF220": {
+      "title": "Composite Task-Completion Dialogue System via Hierarchical Deep Reinforcement Learning.",
+      "authors": [
+        "Baolin Peng",
+        "Xiujun Li",
+        "Lihong Li",
+        "Jianfeng Gao",
+        "Asli Çelikyilmaz",
+        "Sungjin Lee",
+        "Kam-Fai Wong"
+      ],
+      "year": 2017,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF221": {
+      "title": "Stochastic Neural Networks for Hierarchical Reinforcement Learning",
+      "authors": [
+        "Carlos Florensa",
+        "Yan Duan",
+        "Pieter Abbeel"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF222": {
+      "title": "Making Neural Programming Architectures Generalize via Recursion",
+      "authors": [
+        "Jonathon Cai",
+        "Richard Shin",
+        "Dawn Song"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF223": {
+      "title": "Deep learning for healthcare: review, opportunities and challenges",
+      "authors": [
+        "Riccardo Miotto",
+        "Fei Wang",
+        "Shuang Wang",
+        "Xiaoqian Jiang",
+        "Joel T Dudley"
+      ],
+      "year": 2018,
+      "venue": "Briefings in Bioinformatics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1093/bib/bbx044"
+    },
+    "BIBREF224": {
+      "title": "From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood",
+      "authors": [
+        "Kelvin Guu",
+        "Panupong Pasupat",
+        "Evan Zheran Liu",
+        "Percy Liang"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF225": {
+      "title": "Federated Multi-Task Learning",
+      "authors": [
+        "Virginia Smith",
+        "Chao-Kai Chiang",
+        "Maziar Sanjabi",
+        "Ameet Talwalkar"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF226": {
+      "title": "Predictive State Recurrent Neural Networks",
+      "authors": [
+        "Carlton Downey",
+        "Ahmed Hefny",
+        "Boyue Li",
+        "Byron Boots",
+        "Geoffrey Gordon"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF227": {
+      "title": "Neural Optimizer Search with Reinforcement Learning",
+      "authors": [
+        "Irwan Bello",
+        "Barret Zoph",
+        "Vijay Vasudevan",
+        "Quoc V. Le"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF228": {
+      "title": "Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods",
+      "authors": [
+        "Nicholas Carlini",
+        "David Wagner"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF229": {
+      "title": "Deep learning takes on translation",
+      "authors": [
+        "Don Monroe"
+      ],
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/3077229"
+    },
+    "BIBREF230": {
+      "title": "Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement Learning",
+      "authors": [
+        "El Mahdi El Mhamdi",
+        "Rachid Guerraoui",
+        "Hadrien Hendrikx",
+        "Alexandre Maurer"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF231": {
+      "title": "Repeated Inverse Reinforcement Learning",
+      "authors": [
+        "Kareem Amin",
+        "Nan Jiang",
+        "Satinder P. Singh"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF232": {
+      "title": "Failures of Gradient-Based Deep Learning",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Ohad Shamir",
+        "Shaked Shammah"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF233": {
+      "title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+      "authors": [
+        "Ryan Lowe",
+        "Yi Wu",
+        "Aviv Tamar",
+        "Jean Harb",
+        "Pieter Abbeel",
+        "Igor Mordatch"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF234": {
+      "title": "Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics",
+      "authors": [
+        "Ken Kansky",
+        "Tom Silver",
+        "David A. Mély",
+        "Mohamed Eldawy",
+        "Miguel Lázaro-Gredilla",
+        "Xinghua Lou",
+        "Nimrod Dorfman",
+        "Szymon Sidor",
+        "Scott Phoenix",
+        "Dileep George"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF235": {
+      "title": "Deal or No Deal? End-to-End Learning for Negotiation Dialogues",
+      "authors": [
+        "Mike Lewis",
+        "Denis Yarats",
+        "Yann N. Dauphin",
+        "Devi Parikh",
+        "Dhruv Batra"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF236": {
+      "title": "Attention Is All You Need",
+      "authors": [
+        "Ashish Vaswani",
+        "Noam Shazeer",
+        "Niki Parmar",
+        "Jakob Uszkoreit",
+        "Llion Jones",
+        "Aidan N. Gomez",
+        "Lukasz Kaiser",
+        "Illia Polosukhin"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF237": {
+      "title": "Deep reinforcement learning from human preferences",
+      "authors": [
+        "Paul Christiano",
+        "Jan Leike",
+        "Tom B. Brown",
+        "Miljan Martic",
+        "Shane Legg",
+        "Dario Amodei"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF238": {
+      "title": "Towards Deep Learning Models Resistant to Adversarial Attacks.",
+      "authors": [
+        "Aleksander Madry",
+        "Aleksandar Makelov",
+        "Ludwig Schmidt",
+        "Dimitris Tsipras",
+        "Adrian Vladu"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF239": {
+      "title": "VAIN: Attentional Multi-agent Predictive Modeling",
+      "authors": [
+        "Yedid Hoshen"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF240": {
+      "title": "Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog",
+      "authors": [
+        "Satwik Kottur",
+        "José M. F. Moura",
+        "Stefan Lee",
+        "Dhruv Batra"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF241": {
+      "title": "Hindsight Experience Replay",
+      "authors": [
+        "Marcin Andrychowicz",
+        "Filip Wolski",
+        "Alex Ray",
+        "Jonas Schneider",
+        "Rachel Fong",
+        "Peter Welinder",
+        "Bob McGrew",
+        "Josh Tobin",
+        "Pieter Abbeel",
+        "Wojciech Zaremba"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF242": {
+      "title": "Learning Macromanagement in StarCraft from Replays using Deep Learning",
+      "authors": [
+        "Niels Justesen",
+        "Sebastian Risi"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF243": {
+      "title": "Value Prediction Network",
+      "authors": [
+        "Junhyuk Oh",
+        "Satinder Singh",
+        "Honglak Lee"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF244": {
+      "title": "Distral: Robust Multitask Reinforcement Learning",
+      "authors": [
+        "Yee Whye Teh",
+        "Victor Bapst",
+        "Wojciech Marian Czarnecki",
+        "John Quan",
+        "James Kirkpatrick",
+        "Raia Hadsell",
+        "Nicolas Heess",
+        "Razvan Pascanu"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF245": {
+      "title": "C-LEARN: Learning geometric constraints from demonstrations for multi-step manipulation in shared autonomy",
+      "authors": [
+        "Claudia Perez-D'Arpino",
+        "Julie A. Shah"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/icra.2017.7989466"
+    },
+    "BIBREF246": {
+      "title": "Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning",
+      "authors": [
+        "Sangdoo Yun",
+        "Jongwon Choi",
+        "Youngjoon Yoo",
+        "Kimin Yun",
+        "Jin Young Choi"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.148"
+    },
+    "BIBREF247": {
+      "title": "3DCNN-DQN-RNN: A Deep Reinforcement Learning Framework for Semantic Parsing of Large-scale 3D Point Clouds",
+      "authors": [
+        "Fangyu Liu",
+        "Shuaipeng Li",
+        "Liqiang Zhang",
+        "Chenghu Zhou",
+        "Rongtian Ye",
+        "Yuebin Wang",
+        "Jiwen Lu"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF248": {
+      "title": "DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning",
+      "authors": [
+        "Wenhan Xiong",
+        "Thien Hoang",
+        "William Yang Wang"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF249": {
+      "title": "Attention-Aware Face Hallucination via Deep Reinforcement Learning",
+      "authors": [
+        "Qingxing Cao",
+        "Liang Lin",
+        "Yukai Shi",
+        "Xiaodan Liang",
+        "Guanbin Li"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF250": {
+      "title": "Imagination-Augmented Agents for Deep Reinforcement Learning",
+      "authors": [
+        "Théophane Weber",
+        "Sébastien Racanière",
+        "David P. Reichert",
+        "Lars Buesing",
+        "Arthur Guez",
+        "Danilo Jimenez Rezende",
+        "Adria Puigdomènech Badia",
+        "Oriol Vinyals",
+        "Nicolas Heess",
+        "Yujia Li",
+        "Razvan Pascanu",
+        "Peter Battaglia",
+        "David Silver",
+        "Daan Wierstra"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF251": {
+      "title": "Neural Scene De-rendering",
+      "authors": [
+        "Jiajun Wu",
+        "Joshua B. Tenenbaum",
+        "Pushmeet Kohli"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.744"
+    },
+    "BIBREF252": {
+      "title": "Tracking as Online Decision-Making: Learning a Policy from Streaming Videos with Reinforcement Learning",
+      "authors": [
+        "James Steven Supancic Iii",
+        "Deva Ramanan"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF253": {
+      "title": "A Distributional Perspective on Reinforcement Learning",
+      "authors": [
+        "Marc G. Bellemare",
+        "Will Dabney",
+        "Rémi Munos"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF254": {
+      "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering",
+      "authors": [
+        "Wenhui Wang",
+        "Nan Yang",
+        "Furu Wei",
+        "Baobao Chang",
+        "Ming Zhou"
+      ],
+      "year": 2017,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.18653/v1/P17-1018"
+    },
+    "BIBREF255": {
+      "title": "Deep Semantic Role Labeling: What Works and What’s Next",
+      "authors": [
+        "Luheng He",
+        "Kenton Lee",
+        "Mike Lewis",
+        "Luke Zettlemoyer"
+      ],
+      "year": 2017,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.18653/v1/P17-1044"
+    },
+    "BIBREF256": {
+      "title": "Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards.",
+      "authors": [
+        "Matej Vecerík",
+        "Todd Hester",
+        "Jonathan Scholz",
+        "Fumin Wang",
+        "Olivier Pietquin",
+        "Bilal Piot",
+        "Nicolas Heess",
+        "Thomas Rothörl",
+        "Thomas Lampe",
+        "Martin A. Riedmiller"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF257": {
+      "title": "Learning how to Active Learn: A Deep Reinforcement Learning Approach",
+      "authors": [
+        "Meng Fang",
+        "Yuan Li",
+        "Trevor Cohn"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF258": {
+      "title": "STARDATA: A StarCraft AI Research Dataset",
+      "authors": [
+        "Zeming Lin",
+        "Jonas Gehring",
+        "Vasil Khalidov",
+        "Gabriel Synnaeve"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF259": {
+      "title": "Reinforced Video Captioning with Entailment Rewards",
+      "authors": [
+        "Ramakanth Pasunuru",
+        "Mohit Bansal"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF260": {
+      "title": "Science and data science",
+      "authors": [
+        "David M. Blei",
+        "Padhraic Smyth"
+      ],
+      "year": 2017,
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1073/pnas.1702076114"
+    },
+    "BIBREF261": {
+      "title": "Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control",
+      "authors": [
+        "Riashat Islam",
+        "Peter Henderson",
+        "Maziar Gomrokchi",
+        "Doina Precup"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF262": {
+      "title": "Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation",
+      "authors": [
+        "Yuhuai Wu",
+        "Elman Mansimov",
+        "Shun Liao",
+        "Roger Grosse",
+        "Jimmy Ba"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF263": {
+      "title": "Inverse Reward Design",
+      "authors": [
+        "Dylan Hadfield-Menell",
+        "Smitha Milli",
+        "Pieter Abbeel",
+        "Stuart Russell",
+        "Anca Dragan"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF264": {
+      "title": "Predictive-State Decoders: Encoding the Future into Recurrent Networks",
+      "authors": [
+        "Arun Venkatraman",
+        "Nicholas Rhinehart",
+        "Wen Sun",
+        "Lerrel Pinto",
+        "Martial Hebert",
+        "Byron Boots",
+        "Kris M. Kitani",
+        "J. Andrew Bagnell"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF265": {
+      "title": "Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning",
+      "authors": [
+        "Yuxin Wu",
+        "Yuandong Tian"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF266": {
+      "title": "Dynamic Routing Between Capsules",
+      "authors": [
+        "Sara Sabour",
+        "Nicholas Frosst",
+        "Geoffrey E Hinton"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF267": {
+      "title": "Optimization as a Model for Few-Shot Learning",
+      "authors": [
+        "Sachin Ravi",
+        "Hugo Larochelle"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF268": {
+      "title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+      "authors": [
+        "Irina Higgins",
+        "Loic Matthey",
+        "Arka Pal",
+        "Christopher Burgess",
+        "Xavier Glorot",
+        "Matthew Botvinick",
+        "Shakir Mohamed",
+        "Alexander Lerchner"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF269": {
+      "title": "Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems",
+      "authors": [
+        "Stefano V. Albrecht",
+        "Peter Stone"
+      ],
+      "year": 2018,
+      "venue": "Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.artint.2018.01.002"
+    },
+    "BIBREF270": {
+      "title": "Learning with Options that Terminate Off-Policy",
+      "authors": [
+        "Anna Harutyunyan",
+        "Peter Vrancx",
+        "Pierre-Luc Bacon",
+        "Doina Precup",
+        "Ann Nowe"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF271": {
+      "title": "Learning to See Physics via Visual De-animation",
+      "authors": [
+        "Jiajun Wu",
+        "Erika Lu",
+        "Pushmeet Kohli",
+        "Bill Freeman",
+        "Josh Tenenbaum"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF272": {
+      "title": "Visual Interaction Networks: Learning a Physics Simulator from Video",
+      "authors": [
+        "Nicholas Watters",
+        "Daniel Zoran",
+        "Theophane Weber",
+        "Peter W. Battaglia",
+        "Razvan Pascanu",
+        "Andrea Tacchetti"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF273": {
+      "title": "Teaching a Machine to Read Maps with Deep Reinforcement Learning",
+      "authors": [
+        "Gino Brunner",
+        "Oliver Richter",
+        "Yuyi Wang",
+        "Roger Wattenhofer"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Robotics",
+      "link": ""
+    },
+    "BIBREF274": {
+      "title": "Attention-Aware Deep Reinforcement Learning for Video Face Recognition",
+      "authors": [
+        "Yongming Rao",
+        "Jiwen Lu",
+        "Jie Zhou"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/iccv.2017.424"
+    },
+    "BIBREF275": {
+      "title": "A Berkeley View of Systems Challenges for AI.",
+      "authors": [
+        "Ion Stoica",
+        "Dawn Song",
+        "Raluca Ada Popa",
+        "David A. Patterson",
+        "Michael W. Mahoney",
+        "Randy H. Katz",
+        "Anthony D. Joseph",
+        "Michael I. Jordan",
+        "Joseph M. Hellerstein",
+        "Joseph E. Gonzalez",
+        "Ken Goldberg",
+        "Ali Ghodsi",
+        "David Culler",
+        "Pieter Abbeel"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF276": {
+      "title": "First-Person Activity Forecasting with Online Inverse Reinforcement Learning",
+      "authors": [
+        "Nicholas Rhinehart",
+        "Kris M. Kitani"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/iccv.2017.399"
+    },
+    "BIBREF277": {
+      "title": "Ray RLlib: A Composable and Scalable Reinforcement Learning Library",
+      "authors": [
+        "Eric Liang",
+        "Richard Liaw",
+        "Robert Nishihara",
+        "Philipp Moritz",
+        "Roy Fox",
+        "Joseph Gonzalez",
+        "Ken Goldberg",
+        "Ion Stoica"
+      ],
+      "year": 2017,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF278": {
+      "title": "Deep Q-learning from Demonstrations",
+      "authors": [
+        "Todd Hester",
+        "Matej Vecerik",
+        "Olivier Pietquin",
+        "Marc Lanctot",
+        "Tom Schaul",
+        "Bilal Piot",
+        "Dan Horgan",
+        "John Quan",
+        "Andrew Sendonaris",
+        "Gabriel Dulac-Arnold",
+        "Ian Osband",
+        "John Agapiou",
+        "Joel Z. Leibo",
+        "Audrunas Gruslys"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF279": {
+      "title": "Diagnostic Inferencing via Improving Clinical Concept Extraction with Deep Reinforcement Learning: A Preliminary Study",
+      "authors": [
+        "Yuan Ling",
+        "Sadid A. Hasan",
+        "Vivek V. Datla",
+        "Ashequl Qadir",
+        "Kathy Lee",
+        "Joey Liu",
+        "Oladimeji Farri"
+      ],
+      "year": 2017,
+      "venue": "Machine Learning for Healthcare Conference",
+      "link": ""
+    },
+    "BIBREF280": {
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "authors": [
+        "Sergey Ioffe",
+        "Christian Szegedy"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF281": {
+      "title": "Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Jakob Foerster",
+        "Nantas Nardelli",
+        "Gregory Farquhar",
+        "Triantafyllos Afouras",
+        "Philip H. S. Torr",
+        "Pushmeet Kohli",
+        "Shimon Whiteson"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF282": {
+      "title": "FeUdal Networks for Hierarchical Reinforcement Learning",
+      "authors": [
+        "Alexander Sasha Vezhnevets",
+        "Simon Osindero",
+        "Tom Schaul",
+        "Nicolas Heess",
+        "Max Jaderberg",
+        "David Silver",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF283": {
+      "title": "Learning through Dialogue Interactions by Asking Questions",
+      "authors": [
+        "Jiwei Li",
+        "Alexander H. Miller",
+        "Sumit Chopra",
+        "Marc'Aurelio Ranzato",
+        "Jason Weston"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF284": {
+      "title": "PoseAgent: Budget-Constrained 6D Object Pose Estimation via Reinforcement Learning",
+      "authors": [
+        "Alexander Krull",
+        "Eric Brachmann",
+        "Sebastian Nowozin",
+        "Frank Michel",
+        "Jamie Shotton",
+        "Carsten Rother"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF285": {
+      "title": "Semi-Supervised Learning with Deep Generative Models",
+      "authors": [
+        "Diederik P. Kingma",
+        "Danilo J. Rezende",
+        "Shakir Mohamed",
+        "Max Welling"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF286": {
+      "title": "#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning",
+      "authors": [
+        "Haoran Tang",
+        "Rein Houthooft",
+        "Davis Foote",
+        "Adam Stooke",
+        "Xi Chen",
+        "Yan Duan",
+        "John Schulman",
+        "Filip De Turck",
+        "Pieter Abbeel"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF287": {
+      "title": "Trust Region Policy Optimization",
+      "authors": [
+        "John Schulman",
+        "Sergey Levine",
+        "Philipp Moritz",
+        "Michael I. Jordan",
+        "Pieter Abbeel"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF288": {
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": [
+        "Kaiming He",
+        "Xiangyu Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF289": {
+      "title": "How transferable are features in deep neural networks",
+      "authors": [
+        "Jason Yosinski",
+        "Jeff Clune",
+        "Yoshua Bengio",
+        "Hod Lipson"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF290": {
+      "title": "Deep Forest: Towards An Alternative to Deep Neural Networks",
+      "authors": [
+        "Zhi-Hua Zhou",
+        "Ji Feng"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF291": {
+      "title": "Language Understanding for Text-based Games Using Deep Reinforcement Learning",
+      "authors": [
+        "Karthik Narasimhan",
+        "Tejas Kulkarni",
+        "Regina Barzilay"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF292": {
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "authors": [
+        "Ilya Sutskever",
+        "Oriol Vinyals",
+        "Quoc V. Le"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF293": {
+      "title": "A Laplacian Framework for Option Discovery in Reinforcement Learning",
+      "authors": [
+        "Marlos C. Machado",
+        "Marc G. Bellemare",
+        "Michael Bowling"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF294": {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "authors": [
+        "Kelvin Xu",
+        "Jimmy Ba",
+        "Ryan Kiros",
+        "Kyunghyun Cho",
+        "Aaron Courville",
+        "Ruslan Salakhutdinov",
+        "Richard Zemel",
+        "Yoshua Bengio"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF295": {
+      "title": "Modular Multitask Reinforcement Learning with Policy Sketches",
+      "authors": [
+        "Jacob Andreas",
+        "Dan Klein",
+        "Sergey Levine"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF296": {
+      "title": "Understanding deep learning requires rethinking generalization",
+      "authors": [
+        "Chiyuan Zhang",
+        "Samy Bengio",
+        "Moritz Hardt",
+        "Benjamin Recht",
+        "Oriol Vinyals"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF297": {
+      "title": "Dialogue Learning With Human-In-The-Loop",
+      "authors": [
+        "Jiwei Li",
+        "Alexander H. Miller",
+        "Sumit Chopra",
+        "Marc'Aurelio Ranzato",
+        "Jason Weston"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF298": {
+      "title": "Unsupervised Domain Adaptation with Residual Transfer Networks",
+      "authors": [
+        "Mingsheng Long",
+        "Han Zhu",
+        "Jianmin Wang",
+        "Michael I. Jordan"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF299": {
+      "title": "Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU",
+      "authors": [
+        "Mohammad Babaeizadeh",
+        "Iuri Frosio",
+        "Stephen Tyree",
+        "Jason Clemons",
+        "Jan Kautz"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF300": {
+      "title": "Associative Long Short-Term Memory",
+      "authors": [
+        "Ivo Danihelka",
+        "Greg Wayne",
+        "Benigno Uria",
+        "Nal Kalchbrenner",
+        "Alex Graves"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": ""
+    },
+    "BIBREF301": {
+      "title": "Continuous Deep Q-Learning with Model-based Acceleration",
+      "authors": [
+        "Shixiang Gu",
+        "Timothy Lillicrap",
+        "Ilya Sutskever",
+        "Sergey Levine"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF302": {
+      "title": "State of the Art Control of Atari Games Using Shallow Reinforcement Learning",
+      "authors": [
+        "Yitao Liang",
+        "Marlos C. Machado",
+        "Erik Talvitie",
+        "Michael Bowling"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF303": {
+      "title": "Stochastic Variance Reduction Methods for Policy Evaluation",
+      "authors": [
+        "Simon S. Du",
+        "Jianshu Chen",
+        "Lihong Li",
+        "Lin Xiao",
+        "Dengyong Zhou"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF304": {
+      "title": "Control of Memory, Active Perception, and Action in Minecraft",
+      "authors": [
+        "Junhyuk Oh",
+        "Valliappa Chockalingam",
+        "Satinder Singh",
+        "Honglak Lee"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF305": {
+      "title": "Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data",
+      "authors": [
+        "Nicolas Papernot",
+        "Martín Abadi",
+        "Úlfar Erlingsson",
+        "Ian Goodfellow",
+        "Kunal Talwar"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF306": {
+      "title": "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision",
+      "authors": [
+        "Chen Liang",
+        "Jonathan Berant",
+        "Quoc Le",
+        "Kenneth D. Forbus",
+        "Ni Lao"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF307": {
+      "title": "Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation",
+      "authors": [
+        "Kyunghyun Cho",
+        "Bart van Merrienboer",
+        "Caglar Gulcehre",
+        "Dzmitry Bahdanau",
+        "Fethi Bougares",
+        "Holger Schwenk",
+        "Yoshua Bengio"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF308": {
+      "title": "Building High-level Features Using Large Scale Unsupervised Learning",
+      "authors": [
+        "Quoc V. Le",
+        "Marc'Aurelio Ranzato",
+        "Rajat Monga",
+        "Matthieu Devin",
+        "Kai Chen",
+        "Greg S. Corrado",
+        "Jeff Dean",
+        "Andrew Y. Ng"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF309": {
+      "title": "EX2: Exploration with Exemplar Models for Deep Reinforcement Learning",
+      "authors": [
+        "Justin Fu",
+        "John D. Co-Reyes",
+        "Sergey Levine"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF310": {
+      "title": "Reinforcement Learning with Unsupervised Auxiliary Tasks",
+      "authors": [
+        "Max Jaderberg",
+        "Volodymyr Mnih",
+        "Wojciech Marian Czarnecki",
+        "Tom Schaul",
+        "Joel Z Leibo",
+        "David Silver",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF311": {
+      "title": "Hybrid Reward Architecture for Reinforcement Learning",
+      "authors": [
+        "Harm van Seijen",
+        "Mehdi Fatemi",
+        "Joshua Romoff",
+        "Romain Laroche",
+        "Tavian Barnes",
+        "Jeffrey Tsang"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF312": {
+      "title": "Spatial Transformer Networks",
+      "authors": [
+        "Max Jaderberg",
+        "Karen Simonyan",
+        "Andrew Zisserman",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF313": {
+      "title": "End-To-End Memory Networks",
+      "authors": [
+        "Sainbayar Sukhbaatar",
+        "Arthur Szlam",
+        "Jason Weston",
+        "Rob Fergus"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": ""
+    },
+    "BIBREF314": {
+      "title": "Professor Forcing: A New Algorithm for Training Recurrent Networks",
+      "authors": [
+        "Alex Lamb",
+        "Anirudh Goyal",
+        "Ying Zhang",
+        "Saizheng Zhang",
+        "Aaron Courville",
+        "Yoshua Bengio"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF315": {
+      "title": "Learning Multiple Tasks with Multilinear Relationship Networks",
+      "authors": [
+        "Mingsheng Long",
+        "Zhangjie Cao",
+        "Jianmin Wang",
+        "Philip S. Yu"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF316": {
+      "title": "Tree-Structured Reinforcement Learning for Sequential Object Localization",
+      "authors": [
+        "Zequn Jie",
+        "Xiaodan Liang",
+        "Jiashi Feng",
+        "Xiaojie Jin",
+        "Wen Feng Lu",
+        "Shuicheng Yan"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF317": {
+      "title": "Learning Combinatorial Optimization Algorithms over Graphs",
+      "authors": [
+        "Hanjun Dai",
+        "Elias B. Khalil",
+        "Yuyu Zhang",
+        "Bistra Dilkina",
+        "Le Song"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF318": {
+      "title": "Bridging the Gap Between Value and Policy Based Reinforcement Learning",
+      "authors": [
+        "Ofir Nachum",
+        "Mohammad Norouzi",
+        "Kelvin Xu",
+        "Dale Schuurmans"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF319": {
+      "title": "Recurrent Models of Visual Attention",
+      "authors": [
+        "Volodymyr Mnih",
+        "Nicolas Heess",
+        "Alex Graves",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF320": {
+      "title": "Fast R-CNN",
+      "authors": [
+        "Ross Girshick"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF321": {
+      "title": "Learning Transferable Features with Deep Adaptation Networks",
+      "authors": [
+        "Mingsheng Long",
+        "Yue Cao",
+        "Jianmin Wang",
+        "Michael I. Jordan"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF322": {
+      "title": "Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability",
+      "authors": [
+        "Shayegan Omidshafiei",
+        "Jason Pazis",
+        "Christopher Amato",
+        "Jonathan P. How",
+        "John Vian"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF323": {
+      "title": "Batch Policy Gradient Methods for Improving Neural Conversation Models",
+      "authors": [
+        "Kirthevasan Kandasamy",
+        "Yoram Bachrach",
+        "Ryota Tomioka",
+        "Daniel Tarlow",
+        "David Carter"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF324": {
+      "title": "Using Fast Weights to Attend to the Recent Past",
+      "authors": [
+        "Jimmy Ba",
+        "Geoffrey Hinton",
+        "Volodymyr Mnih",
+        "Joel Z. Leibo",
+        "Catalin Ionescu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF325": {
+      "title": "Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems",
+      "authors": [
+        "Tsung-Hsien Wen",
+        "Milica Gasic",
+        "Nikola Mrksic",
+        "Pei-Hao Su",
+        "David Vandyke",
+        "Steve Young"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF326": {
+      "title": "Learning to Act by Predicting the Future",
+      "authors": [
+        "Alexey Dosovitskiy",
+        "Vladlen Koltun"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF327": {
+      "title": "Deep Reinforcement Learning-based Image Captioning with Embedding Reward",
+      "authors": [
+        "Zhou Ren",
+        "Xiaoyu Wang",
+        "Ning Zhang",
+        "Xutao Lv",
+        "Li-Jia Li"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF328": {
+      "title": "Robust Adversarial Reinforcement Learning",
+      "authors": [
+        "Lerrel Pinto",
+        "James Davidson",
+        "Rahul Sukthankar",
+        "Abhinav Gupta"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF329": {
+      "title": "Learning to Navigate in Complex Environments",
+      "authors": [
+        "Piotr Mirowski",
+        "Razvan Pascanu",
+        "Fabio Viola",
+        "Hubert Soyer",
+        "Andrew J. Ballard",
+        "Andrea Banino",
+        "Misha Denil",
+        "Ross Goroshin",
+        "Laurent Sifre",
+        "Koray Kavukcuoglu",
+        "Dharshan Kumaran",
+        "Raia Hadsell"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF330": {
+      "title": "DeepCoder: Learning to Write Programs",
+      "authors": [
+        "Matej Balog",
+        "Alexander L. Gaunt",
+        "Marc Brockschmidt",
+        "Sebastian Nowozin",
+        "Daniel Tarlow"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF331": {
+      "title": "Safe Model-based Reinforcement Learning with Stability Guarantees",
+      "authors": [
+        "Felix Berkenkamp",
+        "Matteo Turchetta",
+        "Angela P. Schoellig",
+        "Andreas Krause"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF332": {
+      "title": "Interaction Networks for Learning about Objects, Relations and Physics",
+      "authors": [
+        "Peter W. Battaglia",
+        "Razvan Pascanu",
+        "Matthew Lai",
+        "Danilo Rezende",
+        "Koray Kavukcuoglu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF333": {
+      "title": "Device Placement Optimization with Reinforcement Learning",
+      "authors": [
+        "Azalia Mirhoseini",
+        "Hieu Pham",
+        "Quoc V. Le",
+        "Benoit Steiner",
+        "Rasmus Larsen",
+        "Yuefeng Zhou",
+        "Naveen Kumar",
+        "Mohammad Norouzi",
+        "Samy Bengio",
+        "Jeff Dean"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF334": {
+      "title": "Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning",
+      "authors": [
+        "Shixiang Gu",
+        "Timothy Lillicrap",
+        "Zoubin Ghahramani",
+        "Richard E. Turner",
+        "Bernhard Schölkopf",
+        "Sergey Levine"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF335": {
+      "title": "Learning to Remember Rare Events",
+      "authors": [
+        "Łukasz Kaiser",
+        "Ofir Nachum",
+        "Aurko Roy",
+        "Samy Bengio"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF336": {
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+      "authors": [
+        "Shaoqing Ren",
+        "Kaiming He",
+        "Ross Girshick",
+        "Jian Sun"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF337": {
+      "title": "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning",
+      "authors": [
+        "Abhishek Das",
+        "Satwik Kottur",
+        "José M. F. Moura",
+        "Stefan Lee",
+        "Dhruv Batra"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF338": {
+      "title": "Improving Policy Gradient by Exploring Under-appreciated Rewards",
+      "authors": [
+        "Ofir Nachum",
+        "Mohammad Norouzi",
+        "Dale Schuurmans"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF339": {
+      "title": "Deep Convolutional Inverse Graphics Network",
+      "authors": [
+        "Tejas D. Kulkarni",
+        "Will Whitney",
+        "Pushmeet Kohli",
+        "Joshua B. Tenenbaum"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF340": {
+      "title": "Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning",
+      "authors": [
+        "Oron Anschel",
+        "Nir Baram",
+        "Nahum Shimkin"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF341": {
+      "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks",
+      "authors": [
+        "Jun-Yan Zhu",
+        "Taesung Park",
+        "Phillip Isola",
+        "Alexei A. Efros"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/iccv.2017.244"
+    },
+    "BIBREF342": {
+      "title": "Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity",
+      "authors": [
+        "Amit Daniely",
+        "Roy Frostig",
+        "Yoram Singer"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF343": {
+      "title": "A benchmark environment motivated by industrial control problems",
+      "authors": [
+        "Daniel Hein",
+        "Stefan Depeweg",
+        "Michel Tokic",
+        "Steffen Udluft",
+        "Alexander Hentschel",
+        "Thomas A. Runkler",
+        "Volkmar Sterzing"
+      ],
+      "year": 2017,
+      "venue": "IEEE Symposium Series on Computational Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ssci.2017.8280935"
+    },
+    "BIBREF344": {
+      "title": "Self-Critical Sequence Training for Image Captioning",
+      "authors": [
+        "Steven J. Rennie",
+        "Etienne Marcheret",
+        "Youssef Mroueh",
+        "Jerret Ross",
+        "Vaibhava Goel"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.131"
+    },
+    "BIBREF345": {
+      "title": "Hierarchical deep reinforcement learning: integrating temporal abstraction and intrinsic motivation",
+      "authors": [
+        "Tejas D. Kulkarni",
+        "Karthik R. Narasimhan",
+        "Ardavan Saeedi",
+        "Joshua B. Tenenbaum"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF346": {
+      "title": "InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations",
+      "authors": [
+        "Yunzhu Li",
+        "Jiaming Song",
+        "Stefano Ermon"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF347": {
+      "title": "Visual interpretability for deep learning: a survey",
+      "authors": [
+        "Quan-shi Zhang",
+        "Song-chun Zhu"
+      ],
+      "year": 2018,
+      "venue": "Journal of Zhejiang University Science C",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1631/FITEE.1700808"
+    },
+    "BIBREF348": {
+      "title": "Saliency-based Sequential Image Attention with Multiset Prediction",
+      "authors": [
+        "Sean Welleck",
+        "Jialin Mao",
+        "Kyunghyun Cho",
+        "Zheng Zhang"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF349": {
+      "title": "The Predictron: End-To-End Learning and Planning",
+      "authors": [
+        "David Silver",
+        "Hado van Hasselt",
+        "Matteo Hessel",
+        "Tom Schaul",
+        "Arthur Guez",
+        "Tim Harley",
+        "Gabriel Dulac-Arnold",
+        "David Reichert",
+        "Neil Rabinowitz",
+        "Andre Barreto",
+        "Thomas Degris"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF350": {
+      "title": "Benchmarking deep reinforcement learning for continuous control",
+      "authors": [
+        "Yan Duan",
+        "Xi Chen",
+        "Rein Houthooft",
+        "John Schulman",
+        "Pieter Abbeel"
+      ],
+      "year": 2016,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF351": {
+      "title": "Deep Variation-Structured Reinforcement Learning for Visual Relationship and Attribute Detection",
+      "authors": [
+        "Xiaodan Liang",
+        "Lisa Lee",
+        "Eric P. Xing"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.469"
+    },
+    "BIBREF352": {
+      "title": "A multi-agent reinforcement learning model of common-pool resource appropriation",
+      "authors": [
+        "Julien Pérolat",
+        "Joel Z. Leibo",
+        "Vinícius Flores Zambaldi",
+        "Charles Beattie",
+        "Karl Tuyls",
+        "Thore Graepel"
+      ],
+      "year": 2017,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF353": {
+      "title": "Learning to learn by gradient descent by gradient descent",
+      "authors": [
+        "Marcin Andrychowicz",
+        "Misha Denil",
+        "Sergio Gomez",
+        "Matthew W. Hoffman",
+        "David Pfau",
+        "Tom Schaul",
+        "Brendan Shillingford",
+        "Nando de Freitas"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF354": {
+      "title": "A Reinforcement Learning Approach to the View Planning Problem",
+      "authors": [
+        "Mustafa Devrim Kaba",
+        "Mustafa Gokhan Uzunbas",
+        "Ser Nam Lim"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF355": {
+      "title": "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments",
+      "authors": [
+        "Maruan Al-Shedivat",
+        "Trapit Bansal",
+        "Yura Burda",
+        "Ilya Sutskever",
+        "Igor Mordatch",
+        "Pieter Abbeel"
+      ],
+      "year": 2018,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF356": {
+      "title": "Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain",
+      "authors": [
+        "Janarthanan Rajendran",
+        "Aravind Lakshminarayanan",
+        "Mitesh M. Khapra",
+        "Prasanna P",
+        "Balaraman Ravindran"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF357": {
+      "title": "Learning Language Games through Interaction",
+      "authors": [
+        "Sida I. Wang",
+        "Percy Liang",
+        "Christopher D. Manning"
+      ],
+      "year": 2016,
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.18653/v1/P16-1224"
+    },
+    "BIBREF358": {
+      "title": "Learning representations for counterfactual inference",
+      "authors": [
+        "Fredrik D. Johansson",
+        "Uri Shalit",
+        "David Sontag"
+      ],
+      "year": 2016,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF359": {
+      "title": "Multi-agent Reinforcement Learning in Sequential Social Dilemmas",
+      "authors": [
+        "Joel Z. Leibo",
+        "Vinicius Zambaldi",
+        "Marc Lanctot",
+        "Janusz Marecki",
+        "Thore Graepel"
+      ],
+      "year": 2017,
+      "venue": "Adaptive Agents and Multi-Agents Systems",
+      "link": ""
+    },
+    "BIBREF360": {
+      "title": "Hierarchical multi-agent reinforcement learning",
+      "authors": [
+        "Mohammad Ghavamzadeh",
+        "Sridhar Mahadevan",
+        "Rajbala Makar"
+      ],
+      "year": 2006,
+      "venue": "Autonomous Agents and Multi-Agent Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10458-006-7035-4"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "paper_id": "1506.05025",
+  "title": "A Bestiary of Sets and Relations",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Relational Hidden Variables and Non-Locality",
+      "authors": [
+        "Samson Abramsky"
+      ],
+      "year": 2013,
+      "venue": "Studia Logica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11225-013-9477-4"
+    },
+    "BIBREF1": {
+      "title": "Models of Quantum Algorithms in Sets and Relations.",
+      "authors": [
+        "William Zeng"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Quantum and Classical Structures in Nondeterminstic Computation",
+      "authors": [
+        "Dusko Pavlovic"
+      ],
+      "year": 2009,
+      "venue": "QI '09 Proceedings of the 3rd International Symposium on Quantum Interaction",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-00834-4_13"
+    },
+    "BIBREF3": {
+      "title": "Open System Categorical Quantum Semantics in Natural Language Processing",
+      "authors": [
+        "Robin Piedeleu",
+        "Dimitri Kartsaklis",
+        "Bob Coecke",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Dagger Compact Closed Categories and Completely Positive Maps",
+      "authors": [
+        "Peter Selinger"
+      ],
+      "year": 2007,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2006.12.018"
+    },
+    "BIBREF5": {
+      "title": "Interacting Quantum Observables",
+      "authors": [
+        "Bob Coecke",
+        "Ross Duncan"
+      ],
+      "year": 2008,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-70583-3_25"
+    },
+    "BIBREF6": {
+      "title": "A Graph Theoretic Perspective on CPM(Rel)",
+      "authors": [
+        "Daniel Marsden"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Logic in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4204/EPTCS.195.20"
+    },
+    "BIBREF7": {
+      "title": "Environment and classical channels in categorical quantum mechanics",
+      "authors": [
+        "Bob Coecke",
+        "Simon Perdrix"
+      ],
+      "year": 2012,
+      "venue": "Logical Methods in Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.2168/LMCS-8(4:14)2012"
+    },
+    "BIBREF8": {
+      "title": "Categories of Quantum and Classical Channels",
+      "authors": [
+        "Bob Coecke",
+        "Chris Heunen",
+        "Aleks Kissinger"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    }
+  }
+}

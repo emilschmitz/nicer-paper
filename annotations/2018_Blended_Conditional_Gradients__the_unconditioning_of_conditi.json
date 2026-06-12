@@ -1,0 +1,108 @@
+{
+  "paper_id": "1410.8816",
+  "title": "Blended Conditional Gradients: the unconditioning of conditional gradients",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization",
+      "authors": [
+        "Martin Jaggi"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "An extension of the frank and Wolfe method of feasible directions",
+      "authors": [
+        "Charles A. Holloway"
+      ],
+      "year": 1974,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01580219"
+    },
+    "BIBREF2": {
+      "title": "Some comments of Wolfe's `away step'",
+      "authors": [
+        "J Guélat",
+        "P Marcotte"
+      ],
+      "year": 1986,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01589445"
+    },
+    "BIBREF3": {
+      "title": "New analysis and results for the Frank---Wolfe method",
+      "authors": [
+        "Robert M. Freund",
+        "Paul Grigas"
+      ],
+      "year": 2016,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-014-0841-6"
+    },
+    "BIBREF4": {
+      "title": "On the Global Linear Convergence of Frank-Wolfe Optimization Variants",
+      "authors": [
+        "Simon Lacoste-Julien",
+        "Martin Jaggi"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Linear-memory and Decomposition-invariant Linearly Convergent Conditional Gradient Algorithm for Structured Polytopes",
+      "authors": [
+        "Dan Garber",
+        "Ofer Meshi"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Fast Generalized Conditional Gradient Method with Applications to Matrix Recovery Problems.",
+      "authors": [
+        "Dan Garber",
+        "Shoham Sabach",
+        "Atara Kaplan"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Frank-Wolfe with Subsampling Oracle.",
+      "authors": [
+        "Thomas Kerdreux",
+        "Fabian Pedregosa",
+        "Alexandre d'Aspremont"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Lazifying Conditional Gradient Algorithms",
+      "authors": [
+        "Gábor Braun",
+        "Sebastian Pokutta",
+        "Daniel Zink"
+      ],
+      "year": 2017,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Restarting Frank-Wolfe",
+      "authors": [
+        "Thomas Kerdreux",
+        "Alexandre d'Aspremont",
+        "Sebastian Pokutta"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    }
+  }
+}

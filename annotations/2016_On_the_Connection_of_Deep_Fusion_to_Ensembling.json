@@ -1,0 +1,93 @@
+{
+  "paper_id": "1611.07718",
+  "title": "On the Connection of Deep Fusion to Ensembling.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Dropout: a simple way to prevent neural networks from overfitting",
+      "authors": [
+        "Nitish Srivastava",
+        "Geoffrey Hinton",
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Ruslan Salakhutdinov"
+      ],
+      "year": 2014,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Going deeper with convolutions",
+      "authors": [
+        "Christian Szegedy",
+        "Wei Liu",
+        "Yangqing Jia",
+        "Pierre Sermanet",
+        "Scott Reed",
+        "Dragomir Anguelov",
+        "Dumitru Erhan",
+        "Vincent Vanhoucke",
+        "Andrew Rabinovich"
+      ],
+      "year": 2015,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2015.7298594"
+    },
+    "BIBREF2": {
+      "title": "ImageNet: A large-scale hierarchical image database",
+      "authors": [
+        "Jia Deng",
+        "Wei Dong",
+        "Richard Socher",
+        "Li-Jia Li",
+        "Kai Li",
+        "Li Fei-Fei"
+      ],
+      "year": 2009,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2009.5206848"
+    },
+    "BIBREF3": {
+      "title": "Rethinking the Inception Architecture for Computer Vision",
+      "authors": [
+        "Christian Szegedy",
+        "Vincent Vanhoucke",
+        "Sergey Ioffe",
+        "Jon Shlens",
+        "Zbigniew Wojna"
+      ],
+      "year": 2016,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2016.308"
+    },
+    "BIBREF4": {
+      "title": "MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems",
+      "authors": [
+        "Tianqi Chen",
+        "Mu Li",
+        "Yutian Li",
+        "Min Lin",
+        "Naiyan Wang",
+        "Minjie Wang",
+        "Tianjun Xiao",
+        "Bing Xu",
+        "Chiyuan Zhang",
+        "Zheng Zhang"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",
+      "authors": [
+        "Christian Szegedy",
+        "Sergey Ioffe",
+        "Vincent Vanhoucke",
+        "Alex Alemi"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    }
+  }
+}

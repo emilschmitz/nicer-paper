@@ -1,0 +1,202 @@
+{
+  "paper_id": "1302.0561",
+  "title": "Structure dependent sampling in compressed sensing: theoretical guarantees for tight frames",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Localized Frames Are Finite Unions of Riesz Sequences",
+      "authors": [
+        "Karlheinz Gröchenig"
+      ],
+      "year": 2003,
+      "venue": "Advances in Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1021368609918"
+    },
+    "BIBREF1": {
+      "title": "Generalized Sampling and Infinite-Dimensional Compressed Sensing",
+      "authors": [
+        "Ben Adcock",
+        "Anders C. Hansen"
+      ],
+      "year": 2016,
+      "venue": "Foundations of Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10208-015-9276-6"
+    },
+    "BIBREF2": {
+      "title": "On asymptotic structure in compressed sensing.",
+      "authors": [
+        "Bogdan Roman",
+        "Anders C. Hansen",
+        "Ben Adcock"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Functional Analysis",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "THE UNCERTAINTY PRINCIPLE ASSOCIATED WITH THE CONTINUOUS SHEARLET TRANSFORM",
+      "authors": [
+        "Stephan Dahlke",
+        "Gitta Kutyniok",
+        "Peter Maass",
+        "Chen Sagiv",
+        "Hans-Georg Stark",
+        "Gerd Teschke"
+      ],
+      "year": 2008,
+      "venue": "International Journal of Wavelets, Multiresolution and Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1142/S021969130800229X"
+    },
+    "BIBREF4": {
+      "title": "Stability and Instance Optimality for Gaussian Measurements in Compressed Sensing",
+      "authors": [
+        "P. Wojtaszczyk"
+      ],
+      "year": 2010,
+      "venue": "Foundations of Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10208-009-9046-4"
+    },
+    "BIBREF5": {
+      "title": "Compressed sensing with coherent and redundant dictionaries",
+      "authors": [
+        "Emmanuel J. Candès",
+        "Yonina C. Eldar",
+        "Deanna Needell",
+        "Paige Randall"
+      ],
+      "year": 2011,
+      "venue": "Applied and Computational Harmonic Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.acha.2010.10.002"
+    },
+    "BIBREF6": {
+      "title": "Compressed Sensing and Redundant Dictionaries",
+      "authors": [
+        "H. Rauhut",
+        "K. Schnass",
+        "P. Vandergheynst"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.920190"
+    },
+    "BIBREF7": {
+      "title": "On the role of total variation in compressed sensing",
+      "authors": [
+        "Clarice Poon"
+      ],
+      "year": 2015,
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/140978569"
+    },
+    "BIBREF8": {
+      "title": "User-Friendly Tail Bounds for Sums of Random Matrices",
+      "authors": [
+        "Joel A. Tropp"
+      ],
+      "year": 2012,
+      "venue": "Foundations of Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10208-011-9099-z"
+    },
+    "BIBREF9": {
+      "title": "Analysis versus synthesis in signal priors",
+      "authors": [
+        "Michael Elad",
+        "Peyman Milanfar",
+        "Ron Rubinstein"
+      ],
+      "year": 2007,
+      "venue": "Inverse Problems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/0266-5611/23/3/007"
+    },
+    "BIBREF10": {
+      "title": "The contourlet transform: an efficient directional multiresolution image representation",
+      "authors": [
+        "M.N. Do",
+        "M. Vetterli"
+      ],
+      "year": 2005,
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIP.2005.859376"
+    },
+    "BIBREF11": {
+      "title": "On Variable Density Compressive Sampling",
+      "authors": [
+        "Gilles Puy",
+        "Pierre Vandergheynst",
+        "Yves Wiaux"
+      ],
+      "year": 2011,
+      "venue": "IEEE Signal Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/LSP.2011.2163712"
+    },
+    "BIBREF12": {
+      "title": "Wavelet-based statistical signal processing using hidden Markov models",
+      "authors": [
+        "M.S. Crouse",
+        "R.D. Nowak",
+        "R.G. Baraniuk"
+      ],
+      "year": 1998,
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/78.668544"
+    },
+    "BIBREF13": {
+      "title": "A Probabilistic and RIPless Theory of Compressed Sensing",
+      "authors": [
+        "E. J. Candes",
+        "Y. Plan"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2161794"
+    },
+    "BIBREF14": {
+      "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+      "authors": [
+        "E.J. Candes",
+        "J. Romberg",
+        "T. Tao"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2005.862083"
+    },
+    "BIBREF15": {
+      "title": "Recovering Low-Rank Matrices From Few Coefficients in Any Basis",
+      "authors": [
+        "D Gross"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2104999"
+    },
+    "BIBREF16": {
+      "title": "Compressed sensing",
+      "authors": [
+        "D.L. Donoho"
+      ],
+      "year": 2004,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "New and Improved Johnson–Lindenstrauss Embeddings via the Restricted Isometry Property",
+      "authors": [
+        "Felix Krahmer",
+        "Rachel A Ward"
+      ],
+      "year": 2011,
+      "venue": "Siam Journal on Mathematical Analysis",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100810447"
+    },
+    "BIBREF18": {
+      "title": "Stable and Robust Sampling Strategies for Compressive Imaging",
+      "authors": [
+        "Felix Krahmer",
+        "Rachel Ward"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIP.2013.2288004"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "paper_id": "1508.06576",
+  "title": "Exploring the Neural Algorithm of Artistic Style",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
+      "authors": [
+        "Karen Simonyan",
+        "Andrew Zisserman"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A Neural Algorithm of Artistic Style",
+      "authors": [
+        "Leon A. Gatys",
+        "Alexander S. Ecker",
+        "Matthias Bethge"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Visual Pattern Discrimination",
+      "authors": [
+        "B. Julesz"
+      ],
+      "year": 1962,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1962.1057698"
+    },
+    "BIBREF3": {
+      "title": "A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients",
+      "authors": [
+        "Javier Portilla",
+        "Eero P. Simoncelli"
+      ],
+      "year": 2000,
+      "venue": "International Journal of Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1026553619983"
+    },
+    "BIBREF4": {
+      "title": "Texture Synthesis Using Convolutional Neural Networks",
+      "authors": [
+        "Leon A. Gatys",
+        "Alexander S. Ecker",
+        "Matthias Bethge"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Content Aware Neural Style Transfer.",
+      "authors": [
+        "Rujie Yin"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks.",
+      "authors": [
+        "Alex J. Champandard"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+      "authors": [
+        "Yangqing Jia",
+        "Evan Shelhamer",
+        "Jeff Donahue",
+        "Sergey Karayev",
+        "Jonathan Long",
+        "Ross Girshick",
+        "Sergio Guadarrama",
+        "Trevor Darrell"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Going Deeper with Convolutions",
+      "authors": [
+        "Christian Szegedy",
+        "Wei Liu",
+        "Yangqing Jia",
+        "Pierre Sermanet",
+        "Scott Reed",
+        "Dragomir Anguelov",
+        "Dumitru Erhan",
+        "Vincent Vanhoucke",
+        "Andrew Rabinovich"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis",
+      "authors": [
+        "Chuan Li",
+        "Michael Wand"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images",
+      "authors": [
+        "Dmitry Ulyanov",
+        "Vadim Lebedev",
+        "Andrea Vedaldi",
+        "Victor Lempitsky"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    }
+  }
+}

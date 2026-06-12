@@ -1,0 +1,39 @@
+{
+  "paper_id": "1605.04148",
+  "title": "Online Barycenter Estimation of Large Weighted Graphs.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Evolution and Structure of the Internet: A Statistical Physics Approach",
+      "authors": [
+        "Romualdo Pastor-Satorras",
+        "Alessandro Vespignani"
+      ],
+      "year": 2004,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A Survey of Statistical Network Models",
+      "authors": [
+        "Anna Goldenberg",
+        "Alice X. Zheng",
+        "Stephen E. Fienberg",
+        "Edoardo M. Airoldi"
+      ],
+      "year": 2010,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "How to compute the barycenter of a weighted graph",
+      "authors": [
+        "Sébastien Gadat",
+        "Ioana Gavra",
+        "Laurent Risser"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Probability",
+      "link": ""
+    }
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "paper_id": "1603.07485v2",
+  "title": "Towards Closing the Gap in Weakly Supervised Semantic Segmentation with DCNNs: Combining Local and Global Models.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Interactive multi-label segmentation",
+      "authors": [
+        "Jakob Santner",
+        "Thomas Pock",
+        "Horst Bischof"
+      ],
+      "year": 2010,
+      "venue": "Asian Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-19315-6_31"
+    },
+    "BIBREF1": {
+      "title": "Decoupled deep neural network for semi-supervised semantic segmentation",
+      "authors": [
+        "Seunghoon Hong",
+        "Hyeonwoo Noh",
+        "Bohyung Han"
+      ],
+      "year": 2015,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "What’s the Point: Semantic Segmentation with Point Supervision",
+      "authors": [
+        "Amy Bearman",
+        "Olga Russakovsky",
+        "Vittorio Ferrari",
+        "Li Fei-Fei"
+      ],
+      "year": 2016,
+      "venue": "European Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-46478-7_34"
+    },
+    "BIBREF3": {
+      "title": "Finding Pictures of Objects in Large Collections of Images",
+      "authors": [
+        "David A. Forsyth",
+        "Jitendra Malik",
+        "Margaret M. Fleck",
+        "Hayit Greenspan",
+        "Thomas K. Leung",
+        "Serge Belongie",
+        "Chad Carson",
+        "Chris Bregler"
+      ],
+      "year": 1996,
+      "venue": "ECCV '96 Proceedings of the International Workshop on Object Representation in Computer Vision II",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-61750-7_36"
+    },
+    "BIBREF4": {
+      "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
+      "authors": [
+        "Karen Simonyan",
+        "Andrew Zisserman"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Graph cut based inference with co-occurrence statistics",
+      "authors": [
+        "Lubor Ladicky",
+        "Chris Russell",
+        "Pushmeet Kohli",
+        "Philip H. S. Torr"
+      ],
+      "year": 2010,
+      "venue": "European Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-15555-0_18"
+    },
+    "BIBREF6": {
+      "title": "Visualizing and Understanding Convolutional Networks",
+      "authors": [
+        "Matthew D. Zeiler",
+        "Rob Fergus"
+      ],
+      "year": 2014,
+      "venue": "European Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-319-10590-1_53"
+    },
+    "BIBREF7": {
+      "title": "Fully Convolutional Multi-Class Multiple Instance Learning",
+      "authors": [
+        "Deepak Pathak",
+        "Evan Shelhamer",
+        "Jonathan Long",
+        "Trevor Darrell"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Interactive Texture Segmentation using Random Forests and Total Variation",
+      "authors": [
+        "Jakob Santner",
+        "Markus Unger",
+        "Thomas Pock",
+        "Christian Leistner",
+        "Amir Saffari",
+        "Horst Bischof"
+      ],
+      "year": 2009,
+      "venue": "British Machine Vision Conference",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.5244/C.23.66"
+    },
+    "BIBREF9": {
+      "title": "The Pascal Visual Object Classes (VOC) Challenge",
+      "authors": [
+        "Mark Everingham",
+        "Luc Gool",
+        "Christopher K. Williams",
+        "John Winn",
+        "Andrew Zisserman"
+      ],
+      "year": 2010,
+      "venue": "International Journal of Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11263-009-0275-4"
+    },
+    "BIBREF10": {
+      "title": "Spatially Varying Color Distributions for Interactive Multilabel Segmentation",
+      "authors": [
+        "C. Nieuwenhuis",
+        "D. Cremers"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TPAMI.2012.183"
+    },
+    "BIBREF11": {
+      "title": "TVSeg - Interactive Total Variation Based Image Segmentation",
+      "authors": [
+        "Markus Unger",
+        "Thomas Pock",
+        "Werner Trobin",
+        "Daniel Cremers",
+        "Horst Bischof"
+      ],
+      "year": 2008,
+      "venue": "British Machine Vision Conference",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.5244/C.22.40"
+    },
+    "BIBREF12": {
+      "title": "A Survey and Comparison of Discrete and Continuous Multi-label Optimization Approaches for the Potts Model",
+      "authors": [
+        "Claudia Nieuwenhuis",
+        "Eno Töppe",
+        "Daniel Cremers"
+      ],
+      "year": 2013,
+      "venue": "International Journal of Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11263-013-0619-y"
+    },
+    "BIBREF13": {
+      "title": "ImageNet Large Scale Visual Recognition Challenge",
+      "authors": [
+        "Olga Russakovsky",
+        "Jia Deng",
+        "Hao Su",
+        "Jonathan Krause",
+        "Sanjeev Satheesh",
+        "Sean Ma",
+        "Zhiheng Huang",
+        "Andrej Karpathy",
+        "Aditya Khosla",
+        "Michael Bernstein",
+        "Alexander C. Berg",
+        "Li Fei-Fei"
+      ],
+      "year": 2015,
+      "venue": "International Journal of Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11263-015-0816-y"
+    },
+    "BIBREF14": {
+      "title": "\"GrabCut\": interactive foreground extraction using iterated graph cuts",
+      "authors": [
+        "Carsten Rother",
+        "Vladimir Kolmogorov",
+        "Andrew Blake"
+      ],
+      "year": 2004,
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1015706.1015720"
+    },
+    "BIBREF15": {
+      "title": "Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials",
+      "authors": [
+        "Philipp Krähenbühl",
+        "Vladlen Koltun"
+      ],
+      "year": 2011,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF16": {
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+      "authors": [
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Geoffrey E. Hinton"
+      ],
+      "year": 2012,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Weakly-and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation",
+      "authors": [
+        "George Papandreou",
+        "Liang-Chieh Chen",
+        "Kevin P. Murphy",
+        "Alan L. Yuille"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICCV.2015.203"
+    },
+    "BIBREF18": {
+      "title": "ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation",
+      "authors": [
+        "Di Lin",
+        "Jifeng Dai",
+        "Jiaya Jia",
+        "Kaiming He",
+        "Jian Sun"
+      ],
+      "year": 2016,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/cvpr.2016.344"
+    },
+    "BIBREF19": {
+      "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+      "authors": [
+        "Liang-Chieh Chen",
+        "George Papandreou",
+        "Iasonas Kokkinos",
+        "Kevin Murphy",
+        "Alan L. Yuille"
+      ],
+      "year": 2018,
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TPAMI.2017.2699184"
+    },
+    "BIBREF20": {
+      "title": "An alternating split Bregman algorithm for multi-region segmentation",
+      "authors": [
+        "Gregory Paul",
+        "Janick Cardinale",
+        "Ivo F. Sbalzarini"
+      ],
+      "year": 2011,
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ACSSC.2011.6190034"
+    },
+    "BIBREF21": {
+      "title": "Simple Does It: Weakly Supervised Instance and Semantic Segmentation",
+      "authors": [
+        "Anna Khoreva",
+        "Rodrigo Benenson",
+        "Jan Hosang",
+        "Matthias Hein",
+        "Bernt Schiele"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.181"
+    },
+    "BIBREF22": {
+      "title": "Pyramid Scene Parsing Network",
+      "authors": [
+        "Hengshuang Zhao",
+        "Jianping Shi",
+        "Xiaojuan Qi",
+        "Xiaogang Wang",
+        "Jiaya Jia"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.660"
+    },
+    "BIBREF23": {
+      "title": "A Review on Deep Learning Techniques Applied to Semantic Segmentation.",
+      "authors": [
+        "Alberto Garcia-Garcia",
+        "Sergio Orts-Escolano",
+        "Sergiu Oprea",
+        "Victor Villena-Martinez",
+        "José García Rodríguez"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Weakly Supervised Learning with Deep Convolutional Neural Networks for Semantic Segmentation Understanding semantic layout of images with minimum human supervision",
+      "authors": [
+        "Seunghoon Hong",
+        "Suha Kwak",
+        "Bohyung Han"
+      ],
+      "year": 2017,
+      "venue": "IEEE Signal Processing Magazine",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/MSP.2017.2742558"
+    },
+    "BIBREF25": {
+      "title": "Learning Random-Walk Label Propagation for Weakly-Supervised Semantic Segmentation",
+      "authors": [
+        "Paul Vernaza",
+        "Manmohan Chandraker"
+      ],
+      "year": 2017,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2017.315"
+    },
+    "BIBREF26": {
+      "title": "Explicit Inductive Bias for Transfer Learning with Convolutional Networks",
+      "authors": [
+        "Xuhong Li",
+        "Yves Grandvalet",
+        "Franck Davoine"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF27": {
+      "title": "Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing",
+      "authors": [
+        "Zilong Huang",
+        "Xinggang Wang",
+        "Jiasi Wang",
+        "Wenyu Liu",
+        "Jingdong Wang"
+      ],
+      "year": 2018,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/cvpr.2018.00733"
+    },
+    "BIBREF28": {
+      "title": "Smoothed Dilated Convolutions for Improved Dense Prediction",
+      "authors": [
+        "Zhengyang Wang",
+        "Shuiwang Ji"
+      ],
+      "year": 2018,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/3219819.3219944"
+    },
+    "BIBREF29": {
+      "title": "Random Forests",
+      "authors": [
+        "Leo Breiman"
+      ],
+      "year": 2001,
+      "venue": "Machine Learning archive",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1010933404324"
+    },
+    "BIBREF30": {
+      "title": "Microsoft COCO: Common Objects in Context",
+      "authors": [
+        "Tsung-Yi Lin",
+        "Michael Maire",
+        "Serge Belongie",
+        "Lubomir Bourdev",
+        "Ross Girshick",
+        "James Hays",
+        "Pietro Perona",
+        "Deva Ramanan",
+        "C. Lawrence Zitnick",
+        "Piotr Dollár"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF31": {
+      "title": "Normalized Cut Loss for Weakly-Supervised CNN Segmentation",
+      "authors": [
+        "Meng Tang",
+        "Abdelaziz Djelouah",
+        "Federico Perazzi",
+        "Yuri Boykov",
+        "Christopher Schroers"
+      ],
+      "year": 2018,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/cvpr.2018.00195"
+    },
+    "BIBREF32": {
+      "title": "On Regularized Losses for Weakly-supervised CNN Segmentation",
+      "authors": [
+        "Meng Tang",
+        "Federico Perazzi",
+        "Abdelaziz Djelouah",
+        "Ismail Ben Ayed",
+        "Christopher Schroers",
+        "Yuri Boykov"
+      ],
+      "year": 2018,
+      "venue": "European Conference on Computer Vision",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-030-01270-0_31"
+    }
+  }
+}

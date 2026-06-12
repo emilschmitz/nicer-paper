@@ -1,0 +1,106 @@
+{
+  "paper_id": "1603.08362",
+  "title": "A parallel to the null ideal for inaccessible $$lambda $$ź: Part I",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Cardinal invariants above the continuum",
+      "authors": [
+        "James Cummings",
+        "Saharon Shelah"
+      ],
+      "year": 1995,
+      "venue": "Annals of Pure and Applied Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0168-0072(95)00003-Y"
+    },
+    "BIBREF1": {
+      "title": "Generating ultrafilters in a reasonable way",
+      "authors": [
+        "Andrzej Roslanowski",
+        "Saharon Shelah"
+      ],
+      "year": 2008,
+      "venue": "Mathematical Logic Quarterly",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/malq.200610055"
+    },
+    "BIBREF2": {
+      "title": "How much sweetness is there in the universe",
+      "authors": [
+        "Andrzej Rosłanowski",
+        "Saharon Shelah"
+      ],
+      "year": 2006,
+      "venue": "Mathematical Logic Quarterly",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/malq.200410056"
+    },
+    "BIBREF3": {
+      "title": "Consistently There Is No Non Trivial CCC Forcing Notion with the Sacks or Laver Property",
+      "authors": [
+        "Saharon Shelah"
+      ],
+      "year": 2001,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s004930100027"
+    },
+    "BIBREF4": {
+      "title": "More about λ-support iterations of (<λ)-complete forcing notions",
+      "authors": [
+        "Andrzej Rosłanowski",
+        "Saharon Shelah"
+      ],
+      "year": 2013,
+      "venue": "Archive for Mathematical Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00153-013-0334-y"
+    },
+    "BIBREF5": {
+      "title": "On nice equivalence relations on λ2",
+      "authors": [
+        "Saharon Shelah"
+      ],
+      "year": 2004,
+      "venue": "Archive for Mathematical Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00153-003-0183-1"
+    },
+    "BIBREF6": {
+      "title": "Reasonable Ultrafilters, Again",
+      "authors": [
+        "Andrzej Rosłanowski",
+        "Saharon Shelah"
+      ],
+      "year": 2011,
+      "venue": "Notre Dame Journal of Formal Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1215/00294527-1306154"
+    },
+    "BIBREF7": {
+      "title": "Countably decomposable admissible sets",
+      "authors": [
+        "Menachem Magidor",
+        "Saharon Shelah",
+        "Jonathan Stavi"
+      ],
+      "year": 1984,
+      "venue": "Annals of Pure and Applied Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0168-0072(84)90006-X"
+    },
+    "BIBREF8": {
+      "title": "Sweet & sour and other flavours of ccc forcing notions",
+      "authors": [
+        "Andrzej Rosłanowski",
+        "Saharon Shelah"
+      ],
+      "year": 2004,
+      "venue": "Archive for Mathematical Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00153-004-0213-7"
+    },
+    "BIBREF9": {
+      "title": "On the standard part of nonstandard models of set theory",
+      "authors": [
+        "Menachem Magidor",
+        "Saharon Shelah",
+        "Jonathan Stavi"
+      ],
+      "year": 1983,
+      "venue": "Journal of Symbolic Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.2307/2273317"
+    }
+  }
+}

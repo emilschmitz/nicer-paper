@@ -1,0 +1,29 @@
+{
+  "paper_id": "1502.06200",
+  "title": "A $(p,\nu)$-extension of Srivastava's triple hypergeometric function and its properties",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Some results on the extended beta and extended hypergeometric functions",
+      "authors": [
+        "Min-Jie Luo",
+        "Gradimir V. Milovanovic",
+        "Praveen Agarwal"
+      ],
+      "year": 2014,
+      "venue": "Applied Mathematics and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.amc.2014.09.110"
+    },
+    "BIBREF1": {
+      "title": "Extended hypergeometric and confluent hypergeometric functions",
+      "authors": [
+        "M.Aslam Chaudhry",
+        "Asghar Qadir",
+        "H. M. Srivastava",
+        "R. B. Paris"
+      ],
+      "year": 2004,
+      "venue": "Applied Mathematics and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.amc.2003.09.017"
+    }
+  }
+}

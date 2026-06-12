@@ -1,0 +1,58 @@
+{
+  "paper_id": "1402.2709v2",
+  "title": "Do Electromagnetic Waves Exist in a Short Cable at Low Frequencies? What Does Physics Say?",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A directional coupler attack against the Kish key distribution system.",
+      "authors": [
+        "Lachlan J. Gunn",
+        "Andrew Allison",
+        "Derek Abbott"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Cryptography and Security",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Secure communications using the KLJN scheme",
+      "authors": [
+        "Derek Abbott",
+        "Gabor Schmera"
+      ],
+      "year": 2013,
+      "venue": "Scholarpedia",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4249/scholarpedia.31157"
+    },
+    "BIBREF2": {
+      "title": "On the security of the Kirchhoff-law---Johnson-noise (KLJN) communicator",
+      "authors": [
+        "Laszlo B. Kish",
+        "Claes G. Granqvist"
+      ],
+      "year": 2014,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-014-0729-7"
+    },
+    "BIBREF3": {
+      "title": "Notes on recent approaches concerning the Kirchhoff-law―Johnson-noise-based secure key exchange",
+      "authors": [
+        "Laszlo B. Kish",
+        "Tamas Horvath"
+      ],
+      "year": 2009,
+      "venue": "Physics Letters A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.physleta.2009.05.077"
+    },
+    "BIBREF4": {
+      "title": "Critical Analysis of the Bennett–Riedel Attack on Secure Cryptographic Key Distributions via the Kirchhoff-Law–Johnson-Noise Scheme",
+      "authors": [
+        "Laszlo B. Kish",
+        "Derek Abbott",
+        "Claes-Goran Granqvist"
+      ],
+      "year": 2013,
+      "venue": "PLOS ONE",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1371/journal.pone.0081810"
+    }
+  }
+}

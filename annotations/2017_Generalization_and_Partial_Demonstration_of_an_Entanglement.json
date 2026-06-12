@@ -1,0 +1,71 @@
+{
+  "paper_id": "1706.09489",
+  "title": "Generalization and Partial Demonstration of an Entanglement Based Deutsch-Jozsa Like Algorithm Using a 5-Qubit Quantum Computer",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Teleportation of a qubit using entangled non-orthogonal states: a comparative study",
+      "authors": [
+        "Mitali Sisodia",
+        "Vikram Verma",
+        "Kishore Thapliyal",
+        "Anirban Pathak"
+      ],
+      "year": 2017,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-017-1526-x"
+    },
+    "BIBREF1": {
+      "title": "Experimental comparison of two quantum computing architectures",
+      "authors": [
+        "Norbert M. Linke",
+        "Dmitri Maslov",
+        "Martin Roetteler",
+        "Shantanu Debnath",
+        "Caroline Figgatt",
+        "Kevin A. Landsman",
+        "Kenneth Wright",
+        "Christopher R. Monroe"
+      ],
+      "year": 2017,
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1073/pnas.1618020114"
+    },
+    "BIBREF2": {
+      "title": "Design and experimental realization of an optimal scheme for teleportation of an n-qubit quantum state",
+      "authors": [
+        "Mitali Sisodia",
+        "Abhishek Shukla",
+        "Kishore Thapliyal",
+        "Anirban Pathak"
+      ],
+      "year": 2017,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-017-1744-2"
+    },
+    "BIBREF3": {
+      "title": "Automated error correction in IBM quantum computer and explicit generalization",
+      "authors": [
+        "Debjit Ghosh",
+        "Pratik Agarwal",
+        "Pratyush Pandey",
+        "Bikash K. Behera",
+        "Prasanta K. Panigrahi"
+      ],
+      "year": 2018,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-018-1920-z"
+    },
+    "BIBREF4": {
+      "title": "Experimental demonstration of non-local controlled-unitary quantum gates using a five-qubit quantum computer",
+      "authors": [
+        "P. K. Vishnu",
+        "Dintomon Joy",
+        "Bikash K. Behera",
+        "Prasanta K. Panigrahi"
+      ],
+      "year": 2018,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-018-2051-2"
+    }
+  }
+}

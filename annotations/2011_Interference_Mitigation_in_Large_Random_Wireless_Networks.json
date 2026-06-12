@@ -1,0 +1,529 @@
+{
+  "paper_id": "0907.5165",
+  "title": "Interference Mitigation in Large Random Wireless Networks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Modern Coding Theory",
+      "authors": [
+        "Tom Richardson",
+        "Ruediger Urbanke"
+      ],
+      "year": 2008,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Compressed Neighbor Discovery for Wireless Networks",
+      "authors": [
+        "Dongning Guo",
+        "Jun Luo",
+        "Lei Zhang",
+        "Kai Shen"
+      ],
+      "year": 2010,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "A tractable framework for coverage and outage in heterogeneous cellular networks",
+      "authors": [
+        "Harpreet S. Dhillon",
+        "Radha Krishna Ganti",
+        "Jeffrey G. Andrews"
+      ],
+      "year": 2011,
+      "venue": "Information Theory and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ITA.2011.5743604"
+    },
+    "BIBREF3": {
+      "title": "Interference Alignment and Degrees of Freedom of the $K$ -User Interference Channel",
+      "authors": [
+        "V.R. Cadambe",
+        "S.A. Jafar"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.926344"
+    },
+    "BIBREF4": {
+      "title": "A simple derivation of the coding theorem and some applications",
+      "authors": [
+        "R. Gallager"
+      ],
+      "year": 1965,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1965.1053730"
+    },
+    "BIBREF5": {
+      "title": "Hierarchical Cooperation Achieves Optimal Capacity Scaling in Ad Hoc Networks",
+      "authors": [
+        "A. Ozgur",
+        "O. Leveque",
+        "D.N.C. Tse"
+      ],
+      "year": 2007,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2007.905002"
+    },
+    "BIBREF6": {
+      "title": "Matchings in random regular bipartite digraphs",
+      "authors": [
+        "David W. Walkup"
+      ],
+      "year": 1980,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(80)90172-7"
+    },
+    "BIBREF7": {
+      "title": "The Mathematical Theory of Communication",
+      "authors": [
+        "C. E. Shannon"
+      ],
+      "year": 1949,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Interference Alignment-Based Sum Capacity Bounds for Random Dense Gaussian Interference Networks",
+      "authors": [
+        "O Johnson",
+        "M Aldridge",
+        "R Piechocki"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2090242"
+    },
+    "BIBREF9": {
+      "title": "Channels with side information at the transmitter",
+      "authors": [
+        "C. E. Shannon"
+      ],
+      "year": 1958,
+      "venue": "Ibm Journal of Research and Development",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1147/rd.24.0289"
+    },
+    "BIBREF10": {
+      "title": "A new achievable rate region for the interference channel",
+      "authors": [
+        "Te Han",
+        "K. Kobayashi"
+      ],
+      "year": 1981,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1981.1056307"
+    },
+    "BIBREF11": {
+      "title": "Throughput-delay trade-off for hierarchical cooperation in ad hoc wireless networks",
+      "authors": [
+        "A. Ozgur",
+        "O. Leveque"
+      ],
+      "year": 2008,
+      "venue": "International Conference on Telecommunications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICTEL.2008.4652688"
+    },
+    "BIBREF12": {
+      "title": "The multiplexing gain of wireless networks",
+      "authors": [
+        "A. Host-Madsen",
+        "A. Nosratinia"
+      ],
+      "year": 2005,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2005.1523709"
+    },
+    "BIBREF13": {
+      "title": "Fading channels: information-theoretic and communications aspects",
+      "authors": [
+        "E. Biglieri",
+        "J. Proakis",
+        "S. Shamai"
+      ],
+      "year": 1998,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.720551"
+    },
+    "BIBREF14": {
+      "title": "Neighbor Discovery for Wireless Networks via Compressed Sensing",
+      "authors": [
+        "Lei Zhang",
+        "Jun Luo",
+        "Dongning Guo"
+      ],
+      "year": 2010,
+      "venue": "arXiv: Networking and Internet Architecture",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "Ergodic interference alignment",
+      "authors": [
+        "Bobak Nazer",
+        "Michael Gastpar",
+        "Syed Ali Jafar",
+        "Sriram Vishwanath"
+      ],
+      "year": 2009,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2009.5205270"
+    },
+    "BIBREF16": {
+      "title": "Boolean Compressed Sensing and Noisy Group Testing",
+      "authors": [
+        "G. K. Atia",
+        "V. Saligrama"
+      ],
+      "year": 2012,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2178156"
+    },
+    "BIBREF17": {
+      "title": "On distances in uniformly random networks",
+      "authors": [
+        "M. Haenggi"
+      ],
+      "year": 2005,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2005.855610"
+    },
+    "BIBREF18": {
+      "title": "Capacity of fading channels with channel side information",
+      "authors": [
+        "A.J. Goldsmith",
+        "P.P. Varaiya"
+      ],
+      "year": 1997,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.641562"
+    },
+    "BIBREF19": {
+      "title": "Degrees of Freedom of Wireless Networks With Relays, Feedback, Cooperation, and Full Duplex Operation",
+      "authors": [
+        "V.R. Cadambe",
+        "S.A. Jafar"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2016061"
+    },
+    "BIBREF20": {
+      "title": "Wireless Network Information Flow: A Deterministic Approach",
+      "authors": [
+        "A S Avestimehr",
+        "S N Diggavi",
+        "D N C Tse"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2110110"
+    },
+    "BIBREF21": {
+      "title": "A New Outer Bound and the Noisy-Interference Sum–Rate Capacity for Gaussian Interference Channels",
+      "authors": [
+        "Xiaohu Shang",
+        "G. Kramer",
+        "Biao Chen"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.2009793"
+    },
+    "BIBREF22": {
+      "title": "Comments on broadcast channels",
+      "authors": [
+        "T.M. Cover"
+      ],
+      "year": 1998,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.720547"
+    },
+    "BIBREF23": {
+      "title": "Interference Alignment in Dense Wireless Networks",
+      "authors": [
+        "U Niesen"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2119690"
+    },
+    "BIBREF24": {
+      "title": "A Geometric Interpretation of Fading in Wireless Networks: Theory and Applications",
+      "authors": [
+        "M. Haenggi"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.2006376"
+    },
+    "BIBREF25": {
+      "title": "Random Multiple-Access Communication and Group Testing",
+      "authors": [
+        "T. Berger",
+        "N. Mehravari",
+        "D. Towsley",
+        "J. Wolf"
+      ],
+      "year": 1984,
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TCOM.1984.1096146"
+    },
+    "BIBREF26": {
+      "title": "Achieving linear scaling with interference alignment",
+      "authors": [
+        "Ayfer Ozgur",
+        "David Tse"
+      ],
+      "year": 2009,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2009.5205265"
+    },
+    "BIBREF27": {
+      "title": "The Feasibility of Interference Alignment Over Measured MIMO-OFDM Channels",
+      "authors": [
+        "O El Ayach",
+        "S W Peters",
+        "R W Heath"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TVT.2010.2082005"
+    },
+    "BIBREF28": {
+      "title": "On the capacity of some channels with channel state information",
+      "authors": [
+        "G. Caire",
+        "S. Shamai"
+      ],
+      "year": 1998,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.782125"
+    },
+    "BIBREF29": {
+      "title": "Real Interference Alignment: Exploiting the Potential of Single Antenna Systems",
+      "authors": [
+        "Abolfazl Seyed Motahari",
+        "Shahab Oveis Gharan",
+        "Mohammad Ali Maddah-Ali",
+        "Amir Keyvan Khandani"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2014.2329865"
+    },
+    "BIBREF30": {
+      "title": "Interference in Large Wireless Networks",
+      "authors": [
+        "Martin Haenggi",
+        "Radha Krishna Ganti"
+      ],
+      "year": 2009,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF31": {
+      "title": "An achievable rate region for the broadcast channel",
+      "authors": [
+        "T. Cover"
+      ],
+      "year": 1975,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1975.1055418"
+    },
+    "BIBREF32": {
+      "title": "Interference Alignment With Asymmetric Complex Signaling—Settling the Høst-Madsen–Nosratinia Conjecture",
+      "authors": [
+        "V R Cadambe",
+        "S A Jafar",
+        "Chenwei Wang"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2053895"
+    },
+    "BIBREF33": {
+      "title": "Communication Over MIMO X Channels: Interference Alignment, Decomposition, and Performance Analysis",
+      "authors": [
+        "M.A. Maddah-Ali",
+        "A.S. Motahari",
+        "A.K. Khandani"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.926460"
+    },
+    "BIBREF34": {
+      "title": "The capacity of wireless networks",
+      "authors": [
+        "P. Gupta",
+        "P.R. Kumar"
+      ],
+      "year": 2000,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.825799"
+    },
+    "BIBREF35": {
+      "title": "Computation Over Multiple-Access Channels",
+      "authors": [
+        "B.. Nazer",
+        "M.. Gastpar"
+      ],
+      "year": 2007,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2007.904785"
+    },
+    "BIBREF36": {
+      "title": "On The Han–Kobayashi Region for theInterference Channel",
+      "authors": [
+        "Hon-Fah Chong",
+        "M. Motani",
+        "H.K. Garg",
+        "H. El Gamal"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.924720"
+    },
+    "BIBREF37": {
+      "title": "Delay-rate tradeoff for ergodic interference alignment in the Gaussian case",
+      "authors": [
+        "Joseph C. Koo",
+        "William Wu",
+        "John T. Gill"
+      ],
+      "year": 2010,
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ALLERTON.2010.5707028"
+    },
+    "BIBREF38": {
+      "title": "The Approximate Capacity of the Many-to-One and One-to-Many Gaussian Interference Channels",
+      "authors": [
+        "G Bresler",
+        "A Parekh",
+        "D N C Tse"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2054590"
+    },
+    "BIBREF39": {
+      "title": "Gaussian Interference Channel Capacity to Within One Bit",
+      "authors": [
+        "R.H. Etkin",
+        "D.N.C. Tse",
+        "Hua Wang"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.2006447"
+    },
+    "BIBREF40": {
+      "title": "A network information theory for wireless communication: scaling laws and optimal operation",
+      "authors": [
+        "Liang-Liang Xie",
+        "P.R. Kumar"
+      ],
+      "year": 2004,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2004.826631"
+    },
+    "BIBREF41": {
+      "title": "The zero error capacity of a noisy channel",
+      "authors": [
+        "C. Shannon"
+      ],
+      "year": 1956,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1956.1056798"
+    },
+    "BIBREF42": {
+      "title": "Information Theory, Inference and Learning Algorithms",
+      "authors": [
+        "David J. C. MacKay"
+      ],
+      "year": 2003,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF43": {
+      "title": "Scaling Laws for Ad-Hoc Wireless Networks: An Information Theoretic Approach",
+      "authors": [
+        "Feng Xue",
+        "P. R. Kumar"
+      ],
+      "year": 2006,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF44": {
+      "title": "Topics in Multi-User Information Theory",
+      "authors": [
+        "Gerhard Kramer"
+      ],
+      "year": 2008,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF45": {
+      "title": "Asymptotic sum-capacity of random Gaussian interference networks using interference alignment",
+      "authors": [
+        "Matthew Aldridge",
+        "Oliver Johnson",
+        "Robert Piechocki"
+      ],
+      "year": 2010,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2010.5513390"
+    },
+    "BIBREF46": {
+      "title": "Note on noisy group testing: Asymptotic bounds and belief propagation reconstruction",
+      "authors": [
+        "Dino Sejdinovic",
+        "Oliver Johnson"
+      ],
+      "year": 2010,
+      "venue": "Allerton Conference on Communication, Control, and Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ALLERTON.2010.5707018"
+    },
+    "BIBREF47": {
+      "title": "Interference channels",
+      "authors": [
+        "A. Carleial"
+      ],
+      "year": 1978,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1978.1055812"
+    },
+    "BIBREF48": {
+      "title": "Broadcast channels",
+      "authors": [
+        "T. Cover"
+      ],
+      "year": 1972,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.1972.1054727"
+    },
+    "BIBREF49": {
+      "title": "Interference Alignment for Line-of-Sight Channels",
+      "authors": [
+        "Leonard Grokop",
+        "David N. C. Tse",
+        "Roy D. Yates"
+      ],
+      "year": 2008,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF50": {
+      "title": "Graph-Constrained Group Testing",
+      "authors": [
+        "Mahdi Cheraghchi",
+        "Amin Karbasi",
+        "Soheil Mohajer",
+        "Venkatesh Saligrama"
+      ],
+      "year": 2010,
+      "venue": "arXiv: Discrete Mathematics",
+      "link": ""
+    }
+  }
+}

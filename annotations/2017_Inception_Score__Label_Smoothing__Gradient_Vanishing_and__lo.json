@@ -1,0 +1,362 @@
+{
+  "paper_id": "1703.02000",
+  "title": "Inception Score, Label Smoothing, Gradient Vanishing and -log(D(x)) Alternative.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A note on the evaluation of generative models",
+      "authors": [
+        "Lucas Theis",
+        "Aäron van den Oord",
+        "Matthias Bethge"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Generative Adversarial Nets",
+      "authors": [
+        "Ian Goodfellow",
+        "Jean Pouget-Abadie",
+        "Mehdi Mirza",
+        "Bing Xu",
+        "David Warde-Farley",
+        "Sherjil Ozair",
+        "Aaron Courville",
+        "Yoshua Bengio"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+      "authors": [
+        "Alec Radford",
+        "Luke Metz",
+        "Soumith Chintala"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Autoencoding beyond pixels using a learned similarity metric",
+      "authors": [
+        "Anders Boesen Lindbo Larsen",
+        "Søren Kaae Sønderby",
+        "Hugo Larochelle",
+        "Ole Winther"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Deep Directed Generative Models with Energy-Based Probability Estimation",
+      "authors": [
+        "Taesup Kim",
+        "Yoshua Bengio"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization",
+      "authors": [
+        "Sebastian Nowozin",
+        "Botond Cseke",
+        "Ryota Tomioka"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "Improved Techniques for Training GANs",
+      "authors": [
+        "Tim Salimans",
+        "Ian Goodfellow",
+        "Wojciech Zaremba",
+        "Vicki Cheung",
+        "Alec Radford",
+        "Xi Chen"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Energy-based Generative Adversarial Network",
+      "authors": [
+        "Junbo Zhao",
+        "Michael Mathieu",
+        "Yann LeCun"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient",
+      "authors": [
+        "Lantao Yu",
+        "Weinan Zhang",
+        "Jun Wang",
+        "Yong Yu"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network",
+      "authors": [
+        "Christian Ledig",
+        "Lucas Theis",
+        "Ferenc Huszar",
+        "Jose Caballero",
+        "Andrew Cunningham",
+        "Alejandro Acosta",
+        "Andrew Aitken",
+        "Alykhan Tejani",
+        "Johannes Totz",
+        "Zehan Wang",
+        "Wenzhe Shi"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Neural Photo Editing with Introspective Adversarial Networks",
+      "authors": [
+        "Andrew Brock",
+        "Theodore Lim",
+        "J. M. Ritchie",
+        "Nick Weston"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "Image-to-Image Translation with Conditional Adversarial Networks.",
+      "authors": [
+        "Phillip Isola",
+        "Jun-Yan Zhu",
+        "Tinghui Zhou",
+        "Alexei A. Efros"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks",
+      "authors": [
+        "Han Zhang",
+        "Tao Xu",
+        "Hongsheng Li",
+        "Shaoting Zhang",
+        "Xiaogang Wang",
+        "Xiaolei Huang",
+        "Dimitris Metaxas"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF13": {
+      "title": "Towards Principled Methods for Training Generative Adversarial Networks",
+      "authors": [
+        "Martin Arjovsky",
+        "Léon Bottou"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF14": {
+      "title": "Mode Regularized Generative Adversarial Networks",
+      "authors": [
+        "Tong Che",
+        "Yanran Li",
+        "Athul Paul Jacob",
+        "Yoshua Bengio",
+        "Wenjie Li"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "McGan: Mean and Covariance Feature Matching GAN",
+      "authors": [
+        "Youssef Mroueh",
+        "Tom Sercu",
+        "Vaibhava Goel"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF16": {
+      "title": "Improved Training of Wasserstein GANs",
+      "authors": [
+        "Ishaan Gulrajani",
+        "Faruk Ahmed",
+        "Martin Arjovsky",
+        "Vincent Dumoulin",
+        "Aaron Courville"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "BEGAN: Boundary Equilibrium Generative Adversarial Networks.",
+      "authors": [
+        "David Berthelot",
+        "Tom Schumm",
+        "Luke Metz"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF18": {
+      "title": "Distributional Adversarial Networks",
+      "authors": [
+        "Chengtao Li",
+        "David Alvarez-Melis",
+        "Keyulu Xu",
+        "Stefanie Jegelka",
+        "Suvrit Sra"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "Activation Maximization Generative Adversarial Nets",
+      "authors": [
+        "Zhiming Zhou",
+        "Han Cai",
+        "Shu Rong",
+        "Yuxuan Song",
+        "Kan Ren",
+        "Weinan Zhang",
+        "Yong Yu",
+        "Jun Wang"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Least Squares Generative Adversarial Networks",
+      "authors": [
+        "Xudong Mao",
+        "Qing Li",
+        "Haoran Xie",
+        "Raymond Y. K. Lau",
+        "Zhen Wang",
+        "Stephen Paul Smolley"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF21": {
+      "title": "Rethinking the Inception Architecture for Computer Vision",
+      "authors": [
+        "Christian Szegedy",
+        "Vincent Vanhoucke",
+        "Sergey Ioffe",
+        "Jonathon Shlens",
+        "Zbigniew Wojna"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF22": {
+      "title": "Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space",
+      "authors": [
+        "Anh Nguyen",
+        "Jeff Clune",
+        "Yoshua Bengio",
+        "Alexey Dosovitskiy",
+        "Jason Yosinski"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF23": {
+      "title": "Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks",
+      "authors": [
+        "Emily Denton",
+        "Soumith Chintala",
+        "Arthur Szlam",
+        "Rob Fergus"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF24": {
+      "title": "Stacked Generative Adversarial Networks",
+      "authors": [
+        "Xun Huang",
+        "Yixuan Li",
+        "Omid Poursaeed",
+        "John Hopcroft",
+        "Serge Belongie"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF25": {
+      "title": "Calibrating Energy-based Generative Adversarial Networks",
+      "authors": [
+        "Zihang Dai",
+        "Amjad Almahairi",
+        "Philip Bachman",
+        "Eduard Hovy",
+        "Aaron Courville"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF26": {
+      "title": "Unrolled Generative Adversarial Networks",
+      "authors": [
+        "Luke Metz",
+        "Ben Poole",
+        "David Pfau",
+        "Jascha Sohl-Dickstein"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF27": {
+      "title": "Synthesizing the preferred inputs for neurons in neural networks via deep generator networks",
+      "authors": [
+        "Anh Mai Nguyen",
+        "Alexey Dosovitskiy",
+        "Jason Yosinski",
+        "Thomas Brox",
+        "Jeff Clune"
+      ],
+      "year": 2016,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    }
+  }
+}

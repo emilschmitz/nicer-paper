@@ -1,0 +1,116 @@
+{
+  "paper_id": "1712.01367",
+  "title": "Revisiting Fast Practical Byzantine Fault Tolerance: Thelma, Velma, and Zelma.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Zyzzyva: speculative Byzantine fault tolerance",
+      "authors": [
+        "Ramakrishna Kotla",
+        "Allen Clement",
+        "Edmund Wong",
+        "Lorenzo Alvisi",
+        "Mike Dahlin"
+      ],
+      "year": 2008,
+      "venue": "Communications of The ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1400214.1400236"
+    },
+    "BIBREF1": {
+      "title": "Consensus in the presence of partial synchrony",
+      "authors": [
+        "Cynthia Dwork",
+        "Nancy Lynch",
+        "Larry Stockmeyer"
+      ],
+      "year": 1988,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/42282.42283"
+    },
+    "BIBREF2": {
+      "title": "Zyzzyva: Speculative Byzantine fault tolerance",
+      "authors": [
+        "Ramakrishna Kotla",
+        "Lorenzo Alvisi",
+        "Mike Dahlin",
+        "Allen Clement",
+        "Edmund Wong"
+      ],
+      "year": 2009,
+      "venue": "ACM Transactions on Computer Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1658357.1658358"
+    },
+    "BIBREF3": {
+      "title": "Fast Byzantine Consensus",
+      "authors": [
+        "J.-P. Martin",
+        "L. Alvisi"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Dependable and Secure Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TDSC.2006.35"
+    },
+    "BIBREF4": {
+      "title": "The part-time parliament",
+      "authors": [
+        "Leslie Lamport"
+      ],
+      "year": 1998,
+      "venue": "ACM Transactions on Computer Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/279227.279229"
+    },
+    "BIBREF5": {
+      "title": "Byzantine quorum systems",
+      "authors": [
+        "Dahlia Malkhi",
+        "Michael Reiter"
+      ],
+      "year": 1998,
+      "venue": "Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s004460050050"
+    },
+    "BIBREF6": {
+      "title": "Practical byzantine fault tolerance and proactive recovery",
+      "authors": [
+        "Miguel Castro",
+        "Barbara Liskov"
+      ],
+      "year": 2002,
+      "venue": "ACM Transactions on Computer Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/571637.571640"
+    },
+    "BIBREF7": {
+      "title": "Practical Byzantine fault tolerance",
+      "authors": [
+        "Miguel Castro",
+        "Barbara Liskov"
+      ],
+      "year": 1999,
+      "venue": "Operating Systems Design and Implementation",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "In search of an understandable consensus algorithm",
+      "authors": [
+        "Diego Ongaro",
+        "John Ousterhout"
+      ],
+      "year": 2014,
+      "venue": "USENIX Annual Technical Conference",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Revisiting Fast Practical Byzantine Fault Tolerance.",
+      "authors": [
+        "Ittai Abraham",
+        "Guy Gueta",
+        "Dahlia Malkhi",
+        "Lorenzo Alvisi",
+        "Ramakrishna Kotla",
+        "Jean-Philippe Martin"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+      "link": ""
+    }
+  }
+}

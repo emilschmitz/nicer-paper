@@ -1,0 +1,27 @@
+{
+  "paper_id": "1306.3142",
+  "title": "Monotonicity of a relative Rényi entropy",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Strong converse for the classical capacity of entanglement-breaking channels.",
+      "authors": [
+        "Mark M. Wilde",
+        "Andreas J. Winter",
+        "Dong Yang"
+      ],
+      "year": 2013,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "On the Quantum Rényi Relative Entropies and Related Capacity Formulas",
+      "authors": [
+        "M Mosonyi",
+        "F Hiai"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2011.2110050"
+    }
+  }
+}

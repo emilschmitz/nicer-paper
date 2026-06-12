@@ -1,0 +1,222 @@
+{
+  "paper_id": "1608.03785",
+  "title": "Compositional Distributional Cognition.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Type Grammar Revisited",
+      "authors": [
+        "Joachim Lambek"
+      ],
+      "year": 1997,
+      "venue": "Logical Aspects of Computational Linguistics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-48975-4_1"
+    },
+    "BIBREF1": {
+      "title": "A compositional distributional semantics, two concrete constructions, and some experimental evaluations",
+      "authors": [
+        "Mehrnoosh Sadrzadeh",
+        "Edward Grefenstette"
+      ],
+      "year": 2011,
+      "venue": "QI'11 Proceedings of the 5th international conference on Quantum interaction",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-24971-6_5"
+    },
+    "BIBREF2": {
+      "title": "The logic of quantum mechanics - Take II",
+      "authors": [
+        "Bob Coecke"
+      ],
+      "year": 2012,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "From frequency to meaning: vector space models of semantics",
+      "authors": [
+        "Peter D. Turney",
+        "Patrick Pantel"
+      ],
+      "year": 2010,
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1613/jair.2934"
+    },
+    "BIBREF4": {
+      "title": "Open System Categorical Quantum Semantics in Natural Language Processing",
+      "authors": [
+        "Robin Piedeleu",
+        "Dimitri Kartsaklis",
+        "Bob Coecke",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF5": {
+      "title": "Bell States and Negative Sentences in the Distributed Model of Meaning",
+      "authors": [
+        "Anne Preller",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2011,
+      "venue": "Electronic Notes in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.entcs.2011.01.028"
+    },
+    "BIBREF6": {
+      "title": "The Frobenius anatomy of word meanings I: subject and object relative pronouns",
+      "authors": [
+        "Mehrnoosh Sadrzadeh",
+        "Stephen Clark",
+        "Bob Coecke"
+      ],
+      "year": 2013,
+      "venue": "Journal of Logic and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1093/logcom/ext044"
+    },
+    "BIBREF7": {
+      "title": "Lambek vs. Lambek: Functorial Vector Space Semantics and String Diagrams for Lambek Calculus",
+      "authors": [
+        "Bob Coecke",
+        "Edward Grefenstette",
+        "Mehrnoosh Sadrzadeh"
+      ],
+      "year": 2013,
+      "venue": "Annals of Pure and Applied Logic",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.apal.2013.05.009"
+    },
+    "BIBREF8": {
+      "title": "Interacting quantum observables: categorical algebra and diagrammatics",
+      "authors": [
+        "Bob Coecke",
+        "Ross Duncan"
+      ],
+      "year": 2011,
+      "venue": "New Journal of Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/1367-2630/13/4/043016"
+    },
+    "BIBREF9": {
+      "title": "Integrating structure and meaning: a distributed model of analogical mapping",
+      "authors": [
+        "Chris Eliasmith",
+        "Paul Thagard"
+      ],
+      "year": 2001,
+      "venue": "Cognitive Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1207/s15516709cog2502_3"
+    },
+    "BIBREF10": {
+      "title": "The Frobenius anatomy of word meanings II: possessive relative pronouns",
+      "authors": [
+        "Mehrnoosh Sadrzadeh",
+        "Stephen Clark",
+        "Bob Coecke"
+      ],
+      "year": 2016,
+      "venue": "Journal of Logic and Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1093/logcom/exu027"
+    },
+    "BIBREF11": {
+      "title": "Automatic word sense discrimination",
+      "authors": [
+        "Hinrich Schütze"
+      ],
+      "year": 1998,
+      "venue": "Computational Linguistics",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "A quantum teleportation inspired algorithm produces sentence meaning from word meaning and grammatical structure 15",
+      "authors": [
+        "S. Twareque Ali",
+        "S. Hasibul",
+        "Hassan Chowdhury",
+        "Stephen Clark",
+        "Bob Coecke",
+        "Edward Grefenstette",
+        "Mehrnoosh Sadrzadeh",
+        "Kazuo Fujikawa",
+        "Saeid Molladavoudi"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF13": {
+      "title": "Holographic reduced representations",
+      "authors": [
+        "T.A. Plate"
+      ],
+      "year": 1995,
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/72.377968"
+    },
+    "BIBREF14": {
+      "title": "Evaluating Neural Word Representations in Tensor-Based Compositional Settings",
+      "authors": [
+        "Dmitrijs Milajevs",
+        "Dimitri Kartsaklis",
+        "Mehrnoosh Sadrzadeh",
+        "Matthew Purver"
+      ],
+      "year": 2014,
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.3115/v1/D14-1079"
+    },
+    "BIBREF15": {
+      "title": "The AHA! Experience: Creativity Through Emergent Binding in Neural Networks",
+      "authors": [
+        "Paul Thagard",
+        "Terrence C. Stewart"
+      ],
+      "year": 2011,
+      "venue": "Cognitive Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1111/j.1551-6709.2010.01142.x"
+    },
+    "BIBREF16": {
+      "title": "Combining Symbolic and Distributional Models of Meaning",
+      "authors": [
+        "Stephen Clark",
+        "Stephen Pulman"
+      ],
+      "year": 2007,
+      "venue": "National Conference on Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Sentence entailment in compositional distributional semantics",
+      "authors": [
+        "Mehrnoosh Sadrzadeh",
+        "Dimitri Kartsaklis",
+        "Esma Balkır"
+      ],
+      "year": 2018,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10472-017-9570-x"
+    },
+    "BIBREF18": {
+      "title": "Graded Entailment for Compositional Distributional Semantics",
+      "authors": [
+        "Bob Coecke",
+        "Martha Lewis",
+        "Dan Marsden"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computation and Language",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "Interacting Conceptual Spaces",
+      "authors": [
+        "Josef Bolt",
+        "Bob Coecke",
+        "Fabrizio Genovese",
+        "Martha Lewis",
+        "Daniel Marsden",
+        "Robin Piedeleu"
+      ],
+      "year": 2016,
+      "venue": "Electronic Proceedings in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4204/EPTCS.221.2"
+    }
+  }
+}

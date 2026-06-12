@@ -1,0 +1,29 @@
+{
+  "paper_id": "1701.02658",
+  "title": "Information and Set Algebras: Interpretation and Uniqueness of Conditional Independence.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Separoids: A Mathematical Framework for Conditional Independence and Irrelevance",
+      "authors": [
+        "A. P. Dawid"
+      ],
+      "year": 2001,
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1016734104787"
+    },
+    "BIBREF1": {
+      "title": "Continuous Lattices and Domains",
+      "authors": [
+        "G. Gierz",
+        "K. H. Hofmann",
+        "K. Keimel",
+        "J. D. Lawson",
+        "M. W. Mislove",
+        "D. S. Scott"
+      ],
+      "year": 2003,
+      "venue": "",
+      "link": ""
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "paper_id": "1309.6109v2",
+  "title": "Analysis of Scientific Cloud Computing requirement.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Management of Cloud Infastructures: Policy-Based Revenue Optimization",
+      "authors": [
+        "Tim Püschel",
+        "Dirk Neumann"
+      ],
+      "year": 2009,
+      "venue": "International Conference on Information Systems",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A reverse auction market for cloud resources",
+      "authors": [
+        "Joris Roovers",
+        "Kurt Vanmechelen",
+        "Jan Broeckhove"
+      ],
+      "year": 2011,
+      "venue": "Grid Economics and Business Models",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-28675-9_3"
+    },
+    "BIBREF2": {
+      "title": "Scientific workflows and clouds",
+      "authors": [
+        "Gideon Juve",
+        "Ewa Deelman"
+      ],
+      "year": 2010,
+      "venue": "ACM Crossroads Student Magazine",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1734160.1734166"
+    },
+    "BIBREF3": {
+      "title": "A multi-agent simulation framework on small Hadoop cluster",
+      "authors": [
+        "Prashant Sethia",
+        "Kamalakar Karlapalem"
+      ],
+      "year": 2011,
+      "venue": "Engineering Applications of Artificial Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.engappai.2011.06.009"
+    },
+    "BIBREF4": {
+      "title": "Phenomenology tools on cloud infrastructures using OpenStack",
+      "authors": [
+        "I. Campos",
+        "E. Fernández-del-Castillo",
+        "S. Heinemeyer",
+        "A. Lopez-Garcia",
+        "F. Pahlen",
+        "G. Borges"
+      ],
+      "year": 2013,
+      "venue": "European Physical Journal C",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1140/epjc/s10052-013-2375-0"
+    },
+    "BIBREF5": {
+      "title": "High performance network virtualization with SR-IOV",
+      "authors": [
+        "Yaozu Dong",
+        "Xiaowei Yang",
+        "Jianhui Li",
+        "Guangdeng Liao",
+        "Kun Tian",
+        "Haibing Guan"
+      ],
+      "year": 2012,
+      "venue": "Journal of Parallel and Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jpdc.2012.01.020"
+    },
+    "BIBREF6": {
+      "title": "ROOT | A C++ Framework for Petabyte Data Storage, Statistical Analysis and Visualization",
+      "authors": [
+        "I. Antcheva",
+        "M. Ballintijn",
+        "B. Bellenot",
+        "M. Biskup",
+        "R. Brun",
+        "N. Buncic",
+        "Ph. Canal",
+        "D. Casadei",
+        "O. Couet",
+        "V. Fine",
+        "L. Franco",
+        "G. Ganis",
+        "A. Gheata",
+        "D. Gonzalez Maline",
+        "M. Goto",
+        "J. Iwaszkiewicz",
+        "A. Kreshuk",
+        "D. Marcos Segura",
+        "R. Maunder",
+        "L. Moneta",
+        "A. Naumann",
+        "E. Offermann",
+        "V. Onuchin",
+        "S. Panacek",
+        "F. Rademakers",
+        "P. Russo",
+        "M. Tadel"
+      ],
+      "year": 2009,
+      "venue": "Computer Physics Communications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cpc.2009.08.005"
+    },
+    "BIBREF7": {
+      "title": "An Architecture for Integrated Intelligence in Urban Management Using Cloud Computing",
+      "authors": [
+        "Zaheer Khan",
+        "David Ludlow",
+        "Richard McClatchey",
+        "Ashiq Anjum"
+      ],
+      "year": 2011,
+      "venue": "Utility and Cloud Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/UCC.2011.69"
+    },
+    "BIBREF8": {
+      "title": "On the Use of Cloud Computing for Scientific Workflows",
+      "authors": [
+        "C. Hoffa",
+        "G. Mehta",
+        "T. Freeman",
+        "E. Deelman",
+        "K. Keahey",
+        "B. Berriman",
+        "J. Good"
+      ],
+      "year": 2008,
+      "venue": "IEEE International Conference on eScience",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/eScience.2008.167"
+    },
+    "BIBREF9": {
+      "title": "Xen and the art of virtualization",
+      "authors": [
+        "Paul Barham",
+        "Boris Dragovic",
+        "Keir Fraser",
+        "Steven Hand",
+        "Tim Harris",
+        "Alex Ho",
+        "Rolf Neugebauer",
+        "Ian Pratt",
+        "Andrew Warfield"
+      ],
+      "year": 2003,
+      "venue": "Symposium on Operating Systems Principles",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/945445.945462"
+    },
+    "BIBREF10": {
+      "title": "High performance VMM-bypass I/O in virtual machines",
+      "authors": [
+        "Jiuxing Liu",
+        "Wei Huang",
+        "Bulent Abali",
+        "Dhabaleswar K. Panda"
+      ],
+      "year": 2006,
+      "venue": "USENIX Annual Technical Conference",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "Cloud Computing and Software Agents: Towards Cloud Intelligent Services.",
+      "authors": [
+        "Domenico Talia"
+      ],
+      "year": 2011,
+      "venue": "WOA",
+      "link": ""
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "paper_id": "1512.04011",
+  "title": "L1-Regularized Distributed Optimization: A Communication-Efficient Primal-Dual Framework",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Comparison of Optimization Methods and Software for Large-scale L1-regularized Linear Classification",
+      "authors": [
+        "Guo-Xun Yuan",
+        "Kai-Wei Chang",
+        "Cho-Jui Hsieh",
+        "Chih-Jen Lin"
+      ],
+      "year": 2010,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "MLlib: Machine Learning in Apache Spark",
+      "authors": [
+        "Xiangrui Meng",
+        "Joseph Bradley",
+        "Burak Yavuz",
+        "Evan Sparks",
+        "Shivaram Venkataraman",
+        "Davies Liu",
+        "Jeremy Freeman",
+        "DB Tsai",
+        "Manish Amde",
+        "Sean Owen",
+        "Doris Xin",
+        "Reynold Xin",
+        "Michael J. Franklin",
+        "Reza Zadeh",
+        "Matei Zaharia",
+        "Ameet Talwalkar"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Blitz: A Principled Meta-Algorithm for Scaling Sparse Optimization",
+      "authors": [
+        "Tyler Johnson",
+        "Carlos Guestrin"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Stochastic dual coordinate ascent methods for regularized loss",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Scalable training of L 1 -regularized log-linear models",
+      "authors": [
+        "Galen Andrew",
+        "Jianfeng Gao"
+      ],
+      "year": 2007,
+      "venue": "International Conference on Machine Learning",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1273496.1273501"
+    },
+    "BIBREF5": {
+      "title": "Data/Feature Distributed Stochastic Coordinate Descent for Logistic Regression",
+      "authors": [
+        "Dongyeop Kang",
+        "Woosang Lim",
+        "Kijung Shin",
+        "Lee Sael",
+        "U. Kang"
+      ],
+      "year": 2014,
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2661829.2662082"
+    },
+    "BIBREF6": {
+      "title": "Ad click prediction: a view from the trenches",
+      "authors": [
+        "H. Brendan McMahan",
+        "Gary Holt",
+        "D. Sculley",
+        "Michael Young",
+        "Dietmar Ebner",
+        "Julian Grady",
+        "Lan Nie",
+        "Todd Phillips",
+        "Eugene Davydov",
+        "Daniel Golovin",
+        "Sharat Chikkerur",
+        "Dan Liu",
+        "Martin Wattenberg",
+        "Arnar Mar Hrafnkelsson",
+        "Tom Boulos",
+        "Jeremy Kubica"
+      ],
+      "year": 2013,
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2487575.2488200"
+    },
+    "BIBREF7": {
+      "title": "On the complexity analysis of randomized block-coordinate descent methods",
+      "authors": [
+        "Zhaosong Lu",
+        "Lin Xiao"
+      ],
+      "year": 2015,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-014-0800-2"
+    },
+    "BIBREF8": {
+      "title": "Parallel Coordinate Descent for L1-Regularized Loss Minimization",
+      "authors": [
+        "Joseph K. Bradley",
+        "Aapo Kyrola",
+        "Danny Bickson",
+        "Carlos Guestrin"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Trading Computation for Communication: Distributed Stochastic Dual Coordinate Ascent",
+      "authors": [
+        "Tianbao Yang"
+      ],
+      "year": 2013,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Stochastic Methods for l 1 -regularized Loss Minimization",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Ambuj Tewari"
+      ],
+      "year": 2011,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "A Quasi-Newton Approach to Nonsmooth Convex Optimization Problems in Machine Learning",
+      "authors": [
+        "Jin Yu",
+        "S.V.N. Vishwanathan",
+        "Simon Günter",
+        "Nicol N. Schraudolph"
+      ],
+      "year": 2010,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "Distributed Optimization and Statistical Learning Via the Alternating Direction Method of Multipliers",
+      "authors": [
+        "Stephen Boyd",
+        "Neal Parikh",
+        "Eric Chu",
+        "Borja Peleato",
+        "Jonathan Eckstein"
+      ],
+      "year": 2011,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF13": {
+      "title": "Smooth minimization of non-smooth functions",
+      "authors": [
+        "Yu Nesterov"
+      ],
+      "year": 2005,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10107-004-0552-5"
+    },
+    "BIBREF14": {
+      "title": "A dual-augmented block minimization framework for learning with limited memory",
+      "authors": [
+        "Ian E. H. Yen",
+        "Shan-Wei Lin",
+        "Shou-De Lin"
+      ],
+      "year": 2015,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "An improved GLMNET for L1-regularized logistic regression",
+      "authors": [
+        "Guo-Xun Yuan",
+        "Chia-Hua Ho",
+        "Chih-Jen Lin"
+      ],
+      "year": 2012,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF16": {
+      "title": "A General Distributed Dual Coordinate Optimization Framework for Regularized Loss Minimization",
+      "authors": [
+        "Shun Zheng",
+        "Jialei Wang",
+        "Fen Xia",
+        "Wei Xu",
+        "Tong Zhang"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Parallel Random Coordinate Descent Method for Composite Minimization: Convergence Analysis and Error Bounds",
+      "authors": [
+        "Ion Necoara",
+        "Dragos N. Clipici"
+      ],
+      "year": 2016,
+      "venue": "Siam Journal on Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/130950288"
+    },
+    "BIBREF18": {
+      "title": "Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss Minimization",
+      "authors": [
+        "Shai Shalev-Shwartz",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization",
+      "authors": [
+        "Yuchen Zhang",
+        "Lin Xiao"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Adding vs. Averaging in Distributed Primal-Dual Optimization",
+      "authors": [
+        "Chenxin Ma",
+        "Virginia Smith",
+        "Martin Jaggi",
+        "Michael I. Jordan",
+        "Peter Richtárik",
+        "Martin Takáč"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    }
+  }
+}

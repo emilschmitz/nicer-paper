@@ -1,0 +1,266 @@
+{
+  "paper_id": "1708.03515",
+  "title": "Mildly Exponential Time Approximation Algorithms for Vertex Cover, Uniform Sparsest Cut and Related Problems.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Improved Algorithms for Unique Games via Divide and Conquer.",
+      "authors": [
+        "Sanjeev Arora",
+        "Russell Impagliazzo",
+        "William Matthews",
+        "David Steurer"
+      ],
+      "year": 2010,
+      "venue": "Electronic Colloquium on Computational Complexity",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "A Local-Ratio Theorem for Approximating the Weighted Vertex Cover Problem",
+      "authors": [
+        "R. Bar-Yehuda",
+        "S. Even"
+      ],
+      "year": 1985,
+      "venue": "North-holland Mathematics Studies",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0304-0208(08)73101-3"
+    },
+    "BIBREF2": {
+      "title": "Lasserre Hierarchy, Higher Eigenvalues, and Approximation Schemes for Graph Partitioning and Quadratic Integer Programming with PSD Objectives",
+      "authors": [
+        "Venkatesan Guruswami",
+        "Ali Kemal Sinop"
+      ],
+      "year": 2011,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2011.36"
+    },
+    "BIBREF3": {
+      "title": "Reductions between Expansion Problems",
+      "authors": [
+        "Prasad Raghavendra",
+        "David Steurer",
+        "Madhur Tulsiani"
+      ],
+      "year": 2012,
+      "venue": "Conference on Computational Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CCC.2012.43"
+    },
+    "BIBREF4": {
+      "title": "Improved Approximation Algorithms for the Vertex Cover Problem in Graphs and Hypergraphs",
+      "authors": [
+        "Eran Halperin"
+      ],
+      "year": 2002,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539700381097"
+    },
+    "BIBREF5": {
+      "title": "Which Problems Have Strongly Exponential Complexity",
+      "authors": [
+        "Russell Impagliazzo",
+        "Ramamohan Paturi",
+        "Francis Zane"
+      ],
+      "year": 2001,
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1006/jcss.2001.1774"
+    },
+    "BIBREF6": {
+      "title": "Some optimal inapproximability results",
+      "authors": [
+        "Johan Håstad"
+      ],
+      "year": 2001,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/502090.502098"
+    },
+    "BIBREF7": {
+      "title": "An improved approximation ratio for the minimum linear arrangement problem",
+      "authors": [
+        "Uriel Feige",
+        "James R. Lee"
+      ],
+      "year": 2007,
+      "venue": "Information Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.ipl.2006.07.009"
+    },
+    "BIBREF8": {
+      "title": "Complexity of Positivstellensatz proofs for the knapsack",
+      "authors": [
+        "D. Grigoriev"
+      ],
+      "year": 2002,
+      "venue": "Computational Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00037-001-8192-0"
+    },
+    "BIBREF9": {
+      "title": "Graph expansion and the unique games conjecture",
+      "authors": [
+        "Prasad Raghavendra",
+        "David Steurer"
+      ],
+      "year": 2010,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1806689.1806792"
+    },
+    "BIBREF10": {
+      "title": "Hypercontractivity, sum-of-squares proofs, and their applications",
+      "authors": [
+        "Boaz Barak",
+        "Fernando G.S.L. Brandao",
+        "Aram W. Harrow",
+        "Jonathan Kelner",
+        "David Steurer",
+        "Yuan Zhou"
+      ],
+      "year": 2012,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2213977.2214006"
+    },
+    "BIBREF11": {
+      "title": "Ramsey numbers and an approximation algorithm for the vertex cover problem",
+      "authors": [
+        "Burkhard Monien",
+        "Ewald Speckenmeyer"
+      ],
+      "year": 1985,
+      "venue": "Acta Informatica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF00290149"
+    },
+    "BIBREF12": {
+      "title": "Improved Approximation Algorithms for Minimum Weight Vertex Separators",
+      "authors": [
+        "Uriel Feige",
+        "MohammadTaghi Hajiaghayi",
+        "James R. Lee"
+      ],
+      "year": 2008,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/05064299X"
+    },
+    "BIBREF13": {
+      "title": "Optimal Inapproximability Results for MAX-CUT and Other 2-Variable CSPs?",
+      "authors": [
+        "Subhash Khot",
+        "Guy Kindler",
+        "Elchanan Mossel",
+        "Ryan O’Donnell"
+      ],
+      "year": 2007,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539705447372"
+    },
+    "BIBREF14": {
+      "title": "Ruling Out PTAS for Graph Min-Bisection, Dense k-Subgraph, and Bipartite Clique",
+      "authors": [
+        "Subhash Khot"
+      ],
+      "year": 2006,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539705447037"
+    },
+    "BIBREF15": {
+      "title": "Linear Level Lasserre Lower Bounds for Certain k-CSPs",
+      "authors": [
+        "G. Schoenebeck"
+      ],
+      "year": 2008,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/FOCS.2008.74"
+    },
+    "BIBREF16": {
+      "title": "Approximability and proof complexity",
+      "authors": [
+        "Ryan O'Donnell",
+        "Yuan Zhou"
+      ],
+      "year": 2013,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "On the power of unique 2-prover 1-round games",
+      "authors": [
+        "Subhash Khot"
+      ],
+      "year": 2002,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/509907.510017"
+    },
+    "BIBREF18": {
+      "title": "On the hardness of approximating MULTICUT and SPARSEST-CUT",
+      "authors": [
+        "S. Chawla",
+        "R. Krauthgamer",
+        "R. Kumar",
+        "Y. Rabani",
+        "D. Sivakumar"
+      ],
+      "year": 2005,
+      "venue": "Conference on Computational Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CCC.2005.20"
+    },
+    "BIBREF19": {
+      "title": "Sum-of-squares proofs and the quest toward optimal algorithms",
+      "authors": [
+        "Boaz Barak",
+        "David Steurer"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Two-query PCP with subconstant error",
+      "authors": [
+        "Dana Moshkovitz",
+        "Ran Raz"
+      ],
+      "year": 2010,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1754399.1754402"
+    },
+    "BIBREF21": {
+      "title": "Euclidean distortion and the sparsest cut",
+      "authors": [
+        "Sanjeev Arora",
+        "James R. Lee",
+        "Assaf Naor"
+      ],
+      "year": 2007,
+      "venue": "Journal of the American Mathematical Society",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1090/S0894-0347-07-00573-5"
+    },
+    "BIBREF22": {
+      "title": "The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative-Type Metrics into ℓ 1",
+      "authors": [
+        "Subhash A. Khot",
+        "Nisheeth K. Vishnoi"
+      ],
+      "year": 2015,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2629614"
+    },
+    "BIBREF23": {
+      "title": "SOS Is Not Obviously Automatizable, Even Approximately",
+      "authors": [
+        "Ryan O'Donnell"
+      ],
+      "year": 2017,
+      "venue": "Conference on Innovations in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4230/LIPIcs.ITCS.2017.59"
+    },
+    "BIBREF24": {
+      "title": "Sum of squares lower bounds for refuting any CSP",
+      "authors": [
+        "Pravesh K. Kothari",
+        "Ryuhei Mori",
+        "Ryan O'Donnell",
+        "David Witmer"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Computational Complexity",
+      "link": ""
+    }
+  }
+}

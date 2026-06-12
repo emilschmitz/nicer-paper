@@ -1,0 +1,40 @@
+{
+  "paper_id": "1701.02096",
+  "title": "Instance Normalization: The Missing Ingredient for Fast Stylization.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Image Style Transfer Using Convolutional Neural Networks",
+      "authors": [
+        "Leon A. Gatys",
+        "Alexander S. Ecker",
+        "Matthias Bethge"
+      ],
+      "year": 2016,
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CVPR.2016.265"
+    },
+    "BIBREF1": {
+      "title": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution",
+      "authors": [
+        "Justin Johnson",
+        "Alexandre Alahi",
+        "Li Fei-Fei"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images",
+      "authors": [
+        "Dmitry Ulyanov",
+        "Vadim Lebedev",
+        "Andrea Vedaldi",
+        "Victor Lempitsky"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": ""
+    }
+  }
+}

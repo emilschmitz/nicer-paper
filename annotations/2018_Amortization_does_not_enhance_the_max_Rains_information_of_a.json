@@ -1,0 +1,198 @@
+{
+  "paper_id": "1709.00200",
+  "title": "Amortization does not enhance the max-Rains information of a quantum channel",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The Fidelity of Recovery Is Multiplicative",
+      "authors": [
+        "Mario Berta",
+        "Marco Tomamichel"
+      ],
+      "year": 2016,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2016.2527683"
+    },
+    "BIBREF1": {
+      "title": "Strong Converse Rates for Quantum Communication",
+      "authors": [
+        "Marco Tomamichel",
+        "Mark M. Wilde",
+        "Andreas Winter"
+      ],
+      "year": 2017,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2016.2615847"
+    },
+    "BIBREF2": {
+      "title": "From Classical to Quantum Shannon Theory",
+      "authors": [
+        "Mark M. Wilde"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Quantum Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/CBO9781139525343"
+    },
+    "BIBREF3": {
+      "title": "Strong Converse Exponents for a Quantum Channel Discrimination Problem and Quantum-Feedback-Assisted Communication",
+      "authors": [
+        "Tom Cooney",
+        "Milán Mosonyi",
+        "Mark M. Wilde"
+      ],
+      "year": 2016,
+      "venue": "Communications in Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00220-016-2645-4"
+    },
+    "BIBREF4": {
+      "title": "The Squashed Entanglement of a Quantum Channel",
+      "authors": [
+        "Masahiro Takeoka",
+        "Saikat Guha",
+        "Mark M. Wilde"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2014.2330313"
+    },
+    "BIBREF5": {
+      "title": "“Pretty Strong” Converse for the Quantum Capacity of Degradable Channels",
+      "authors": [
+        "Ciara Morgan",
+        "Andreas Winter"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2013.2288971"
+    },
+    "BIBREF6": {
+      "title": "General Paradigm for Distilling Classical Key From Quantum States",
+      "authors": [
+        "K. Horodecki",
+        "M. Horodecki",
+        "P. Horodecki",
+        "J. Oppenheim"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.2009798"
+    },
+    "BIBREF7": {
+      "title": "Min- and Max-Relative Entropies and a New Entanglement Monotone",
+      "authors": [
+        "N. Datta"
+      ],
+      "year": 2009,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2009.2018325"
+    },
+    "BIBREF8": {
+      "title": "On the capacities of bipartite Hamiltonians and unitary gates",
+      "authors": [
+        "C.H. Bennett",
+        "A.W. Harrow",
+        "D.W. Leung",
+        "J.A. Smolin"
+      ],
+      "year": 2003,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2003.814935"
+    },
+    "BIBREF9": {
+      "title": "Quantum Key Distribution Based on Private States: Unconditional Security Over Untrusted Channels With Zero Quantum Capacity",
+      "authors": [
+        "K. Horodecki",
+        "M. Horodecki",
+        "P. Horodecki",
+        "D. Leung",
+        "J. Oppenheim"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2008.921870"
+    },
+    "BIBREF10": {
+      "title": "Entanglement Cost of Quantum Channels",
+      "authors": [
+        "Mario Berta",
+        "Fernando G. S. L. Brandao",
+        "Matthias Christandl",
+        "Stephanie Wehner"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2013.2268533"
+    },
+    "BIBREF11": {
+      "title": "On variational expressions for quantum relative entropies",
+      "authors": [
+        "Mario Berta",
+        "Omar Fawzi",
+        "Marco Tomamichel"
+      ],
+      "year": 2017,
+      "venue": "Letters in Mathematical Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11005-017-0990-7"
+    },
+    "BIBREF12": {
+      "title": "A semidefinite programming upper bound of quantum capacity",
+      "authors": [
+        "Xin Wang",
+        "Runyao Duan"
+      ],
+      "year": 2016,
+      "venue": "International Symposium on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ISIT.2016.7541587"
+    },
+    "BIBREF13": {
+      "title": "Converse Bounds for Private Communication Over Quantum Channels",
+      "authors": [
+        "Mark M. Wilde",
+        "Marco Tomamichel",
+        "Mario Berta"
+      ],
+      "year": 2017,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2017.2648825"
+    },
+    "BIBREF14": {
+      "title": "Squashed entanglement and approximate private states",
+      "authors": [
+        "Mark M. Wilde"
+      ],
+      "year": 2016,
+      "venue": "Quantum Information Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s11128-016-1432-7"
+    },
+    "BIBREF15": {
+      "title": "Amortized entanglement of a quantum channel and approximately teleportation-simulable channels",
+      "authors": [
+        "Eneet Kaur",
+        "Mark M Wilde"
+      ],
+      "year": 2018,
+      "venue": "Journal of Physics A",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1088/1751-8121/aa9da7"
+    },
+    "BIBREF16": {
+      "title": "Semidefinite programming converse bounds for quantum communication",
+      "authors": [
+        "Xin Wang",
+        "Kun Fang",
+        "Runyao Duan"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Quantum Physics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2018.2874031"
+    },
+    "BIBREF17": {
+      "title": "Quantum Proofs",
+      "authors": [
+        "Thomas Vidick",
+        "John Watrous"
+      ],
+      "year": 2016,
+      "venue": "",
+      "link": ""
+    }
+  }
+}

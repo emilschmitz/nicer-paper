@@ -1,0 +1,95 @@
+{
+  "paper_id": "1803.00284",
+  "title": "Strong subgraph k-arc-connectivity.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Highly connected non-2-linked digraphs",
+      "authors": [
+        "Carsten Thomassen"
+      ],
+      "year": 1991,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF01275674"
+    },
+    "BIBREF1": {
+      "title": "Pendant tree-connectivity",
+      "authors": [
+        "Michael Hager"
+      ],
+      "year": 1985,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0095-8956(85)90083-8"
+    },
+    "BIBREF2": {
+      "title": "A Hamiltonian decomposition of K2m∗, 2m ≥ 8",
+      "authors": [
+        "Timothy W Tillson"
+      ],
+      "year": 1980,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0095-8956(80)90044-1"
+    },
+    "BIBREF3": {
+      "title": "Decomposing k -ARc-Strong Tournaments Into Strong Spanning Subdigraphs",
+      "authors": [
+        "Jørgen Bang-Jensen",
+        "Anders Yeo"
+      ],
+      "year": 2004,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00493-004-0021-z"
+    },
+    "BIBREF4": {
+      "title": "A survey of Nordhaus-Gaddum type relations",
+      "authors": [
+        "Mustapha Aouchiche",
+        "Pierre Hansen"
+      ],
+      "year": 2013,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.dam.2011.12.018"
+    },
+    "BIBREF5": {
+      "title": "Edge-disjoint branching in directed multigraphs",
+      "authors": [
+        "Yossi Shiloach"
+      ],
+      "year": 1979,
+      "venue": "Information Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0020-0190(79)90086-3"
+    },
+    "BIBREF6": {
+      "title": "Strong subgraph k-connectivity bounds.",
+      "authors": [
+        "Yuefang Sun",
+        "Gregory Z. Gutin"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Discrete Mathematics",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "Strong Subgraph $k$-connectivity",
+      "authors": [
+        "Yuefang Sun",
+        "Gregory Gutin",
+        "Anders Yeo",
+        "Xiaoyan Zhang"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Discrete Mathematics",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "On the generalized (edge-)connectivity of graphs ∗",
+      "authors": [
+        "Xueliang Li",
+        "Yaping Mao",
+        "Yuefang Sun"
+      ],
+      "year": 2014,
+      "venue": "Australasian J. Combinatorics",
+      "link": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "paper_id": "math/0509325",
+  "title": "On $Z_pZ_{p^k}$-additive codes and their duality.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A characterization of 1-perfect additive codes",
+      "authors": [
+        "J. Borges",
+        "J. Rifa"
+      ],
+      "year": 1999,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.771247"
+    },
+    "BIBREF1": {
+      "title": "Translation-invariant propelinear codes",
+      "authors": [
+        "J. Rifa",
+        "J. Pujol"
+      ],
+      "year": 1997,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/18.556115"
+    }
+  }
+}

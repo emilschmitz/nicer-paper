@@ -1,0 +1,52 @@
+{
+  "paper_id": "1411.4798",
+  "title": "A review of \"Memcomputing NP-complete problems in polynomial time using polynomial resources\" (arXiv:1411.4798)",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On the Power of Random Access Machines",
+      "authors": [
+        "Arnold Schönhage"
+      ],
+      "year": 1979,
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-09510-1_42"
+    },
+    "BIBREF1": {
+      "title": "NP-complete problems and physical reality",
+      "authors": [
+        "Scott Aaronson"
+      ],
+      "year": 2005,
+      "venue": "Sigact News",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Your favorite parallel algorithms might not be as fast as you think",
+      "authors": [
+        "D.C. Fisher"
+      ],
+      "year": 1988,
+      "venue": "IEEE Transactions on Computers",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/12.2150"
+    },
+    "BIBREF3": {
+      "title": "The Church-Turing thesis and its look-alikes",
+      "authors": [
+        "Amir M. Ben-Amram"
+      ],
+      "year": 2005,
+      "venue": "Sigact News",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1086649.1086651"
+    },
+    "BIBREF4": {
+      "title": "Quantum Complexity Theory",
+      "authors": [
+        "Ethan Bernstein",
+        "Umesh Vazirani"
+      ],
+      "year": 1997,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/S0097539796300921"
+    }
+  }
+}

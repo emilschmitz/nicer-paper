@@ -1,0 +1,51 @@
+{
+  "paper_id": "0711.3490",
+  "title": "The multivariate signed Bollobás-Riordan polynomial",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The multivariate Tutte polynomial (alias Potts model) for graphs and matroids",
+      "authors": [
+        "Alan D. Sokal"
+      ],
+      "year": 2005,
+      "venue": "Surveys in Combinatorics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1017/CBO9780511734885.009"
+    },
+    "BIBREF1": {
+      "title": "Generalized duality for graphs on surfaces and the signed Bollobás--Riordan polynomial",
+      "authors": [
+        "Sergei Chmutov"
+      ],
+      "year": 2009,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jctb.2008.09.007"
+    },
+    "BIBREF2": {
+      "title": "Partial duality and Bollobás and Riordan's ribbon graph polynomial",
+      "authors": [
+        "Iain Moffatt"
+      ],
+      "year": 2010,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.disc.2009.08.008"
+    },
+    "BIBREF3": {
+      "title": "Knot invariants and the Bollobás-Riordan polynomial of embedded graphs",
+      "authors": [
+        "Iain Moffatt"
+      ],
+      "year": 2008,
+      "venue": "European Journal of Combinatorics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.ejc.2006.12.004"
+    },
+    "BIBREF4": {
+      "title": "A Tutte polynomial for signed graphs",
+      "authors": [
+        "L. H. Kauffman"
+      ],
+      "year": 1989,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0166-218X(89)90049-8"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "paper_id": "cs/0210025",
+  "title": "Computational Complexity of the Minimum State Probabilistic Finite State Learning Problem on Finite Data Sets",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Learning Stochastic Regular Grammars by Means of a State Merging Method",
+      "authors": [
+        "Rafael C. Carrasco",
+        "José Oncina"
+      ],
+      "year": 1994,
+      "venue": "International Colloquium on Grammatical Inference",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/3-540-58473-0_144"
+    },
+    "BIBREF1": {
+      "title": "A new way to use hidden Markov models for object tracking in video sequences",
+      "authors": [
+        "S. Lefevre",
+        "E. Bouton",
+        "T. Brouard",
+        "N. Vincent"
+      ],
+      "year": 2003,
+      "venue": "International Conference on Image Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICIP.2003.1247195"
+    },
+    "BIBREF2": {
+      "title": "Computational Mechanics: Pattern and Prediction, Structure and Simplicity",
+      "authors": [
+        "Cosma Rohilla Shalizi",
+        "James P. Crutchfield"
+      ],
+      "year": 1999,
+      "venue": "arXiv: Statistical Mechanics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1023/A:1010388907793"
+    },
+    "BIBREF3": {
+      "title": "Zero knowledge hidden Markov model inference",
+      "authors": [
+        "J. M. Schwier",
+        "R. R. Brooks",
+        "C. Griffin",
+        "S. Bukkapatnam"
+      ],
+      "year": 2009,
+      "venue": "Pattern Recognition Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.patrec.2009.06.008"
+    },
+    "BIBREF4": {
+      "title": "Bayesian Structural Inference for Hidden Processes",
+      "authors": [
+        "Christopher C. Strelioff",
+        "James P. Crutchfield"
+      ],
+      "year": 2014,
+      "venue": "Physical Review E",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1103/PhysRevE.89.042119"
+    },
+    "BIBREF5": {
+      "title": "A new polynomial-time algorithm for linear programming",
+      "authors": [
+        "N. Karmarkar"
+      ],
+      "year": 1984,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/800057.808695"
+    },
+    "BIBREF6": {
+      "title": "HMM based online handwriting recognition",
+      "authors": [
+        "Jianying Hu",
+        "M.K. Brown",
+        "W. Turin"
+      ],
+      "year": 1996,
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/34.541414"
+    },
+    "BIBREF7": {
+      "title": "Hidden Markov Model Induction by Bayesian Model Merging",
+      "authors": [
+        "Andreas Stolcke",
+        "Stephen Omohundro"
+      ],
+      "year": 1992,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Methods to Window Data to Differentiate Between Markov Models",
+      "authors": [
+        "J M Schwier",
+        "R R Brooks",
+        "C Griffin"
+      ],
+      "year": 2011,
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSMCB.2010.2076325"
+    },
+    "BIBREF9": {
+      "title": "Hidden Markov models combining discrete symbols and continuous attributes in handwriting recognition",
+      "authors": [
+        "Hanhong Xue",
+        "V. Govindaraju"
+      ],
+      "year": 2006,
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TPAMI.2006.55"
+    },
+    "BIBREF10": {
+      "title": "Blind Construction of Optimal Nonlinear Recursive Predictors for Discrete Sequences",
+      "authors": [
+        "Cosma Shalizi",
+        "Kristina Lisa Klinkner"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Learning",
+      "link": ""
+    }
+  }
+}

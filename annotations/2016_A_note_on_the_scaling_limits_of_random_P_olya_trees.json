@@ -1,0 +1,34 @@
+{
+  "paper_id": "1502.07180v2",
+  "title": "A note on the scaling limits of random P'olya trees",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Random enriched trees with applications to random graphs",
+      "authors": [
+        "Benedikt Stufler"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Probability",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "The shape of unlabeled rooted random trees",
+      "authors": [
+        "Michael Drmota",
+        "Bernhard Gittenberger"
+      ],
+      "year": 2010,
+      "venue": "European Journal of Combinatorics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.ejc.2010.05.011"
+    },
+    "BIBREF2": {
+      "title": "Largest component in random combinatorial structures",
+      "authors": [
+        "Xavier Gourdon"
+      ],
+      "year": 1998,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0012-365X(97)00115-5"
+    }
+  }
+}

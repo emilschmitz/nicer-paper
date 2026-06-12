@@ -1,0 +1,209 @@
+{
+  "paper_id": "1608.04428",
+  "title": "Summary - TerpreT: A Probabilistic Programming Language for Program Induction.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Learning to transduce with unbounded memory",
+      "authors": [
+        "Edward Grefenstette",
+        "Karl Moritz Hermann",
+        "Mustafa Suleyman",
+        "Phil Blunsom"
+      ],
+      "year": 2015,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "The Inference of Regular LISP Programs from Examples",
+      "authors": [
+        "Alan W. Biermann"
+      ],
+      "year": 1978,
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSMC.1978.4310035"
+    },
+    "BIBREF2": {
+      "title": "A Methodology for LISP Program Construction from Examples",
+      "authors": [
+        "Phillip D. Summers"
+      ],
+      "year": 1977,
+      "venue": "Journal of the ACM",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/321992.322002"
+    },
+    "BIBREF3": {
+      "title": "Higher Order Recurrent Networks and Grammatical Inference",
+      "authors": [
+        "C. Lee Giles",
+        "Guo-Zheng Sun",
+        "Hsing-Hen Chen",
+        "Yee-Chun Lee",
+        "Dong Chen"
+      ],
+      "year": 1989,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF4": {
+      "title": "Automating string processing in spreadsheets using input-output examples",
+      "authors": [
+        "Sumit Gulwani"
+      ],
+      "year": 2011,
+      "venue": "Symposium on Principles of Programming Languages",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1926385.1926423"
+    },
+    "BIBREF5": {
+      "title": "On the naturalness of software",
+      "authors": [
+        "Abram Hindle",
+        "Earl T. Barr",
+        "Zhendong Su",
+        "Mark Gabel",
+        "Premkumar Devanbu"
+      ],
+      "year": 2012,
+      "venue": "International Conference on Software Engineering",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ICSE.2012.6227135"
+    },
+    "BIBREF6": {
+      "title": "LLVM: a compilation framework for lifelong program analysis & transformation",
+      "authors": [
+        "Chris Lattner",
+        "Vikram Adve"
+      ],
+      "year": 2004,
+      "venue": "Symposium on Code Generation and Optimization",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/CGO.2004.1281665"
+    },
+    "BIBREF7": {
+      "title": "Neural Random-Access Machines",
+      "authors": [
+        "Karol Kurach",
+        "Marcin Andrychowicz",
+        "Ilya Sutskever"
+      ],
+      "year": 2016,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "Neural GPUs Learn Algorithms",
+      "authors": [
+        "Łukasz Kaiser",
+        "Ilya Sutskever"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF9": {
+      "title": "Neural Programmer: Inducing Latent Programs with Gradient Descent",
+      "authors": [
+        "Arvind Neelakantan",
+        "Quoc V. Le",
+        "Ilya Sutskever"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Learning Efficient Algorithms with Hierarchical Attentive Memory",
+      "authors": [
+        "Marcin Andrychowicz",
+        "Karol Kurach"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "Adaptive Neural Compilation",
+      "authors": [
+        "Rudy Bunel",
+        "Alban Desmaison",
+        "Pushmeet Kohli",
+        "Philip H. S. Torr",
+        "M. Pawan Kumar"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Artificial Intelligence",
+      "link": ""
+    },
+    "BIBREF12": {
+      "title": "Programming with a Differentiable Forth Interpreter",
+      "authors": [
+        "Matko Bošnjak",
+        "Tim Rocktäschel",
+        "Jason Naradowsky",
+        "Sebastian Riedel"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": ""
+    },
+    "BIBREF13": {
+      "title": "TerpreT: A Probabilistic Programming Language for Program Induction",
+      "authors": [
+        "Alexander L. Gaunt",
+        "Marc Brockschmidt",
+        "Rishabh Singh",
+        "Nate Kushman",
+        "Pushmeet Kohli",
+        "Jonathan Taylor",
+        "Daniel Tarlow"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF14": {
+      "title": "Memory Networks",
+      "authors": [
+        "Jason Weston",
+        "Sumit Chopra",
+        "Antoine Bordes"
+      ],
+      "year": 2015,
+      "venue": "International Conference on Learning Representations",
+      "link": ""
+    },
+    "BIBREF15": {
+      "title": "Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets",
+      "authors": [
+        "Armand Joulin",
+        "Tomas Mikolov"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": ""
+    },
+    "BIBREF16": {
+      "title": "DeepCoder: Learning to Write Programs",
+      "authors": [
+        "Matej Balog",
+        "Alexander L. Gaunt",
+        "Marc Brockschmidt",
+        "Sebastian Nowozin",
+        "Daniel Tarlow"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Differentiable Programs with Neural Libraries",
+      "authors": [
+        "Alexander L. Gaunt",
+        "Marc Brockschmidt",
+        "Nate Kushman",
+        "Daniel Tarlow"
+      ],
+      "year": 2016,
+      "venue": "arXiv: Learning",
+      "link": ""
+    }
+  }
+}

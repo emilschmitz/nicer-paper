@@ -1,0 +1,79 @@
+{
+  "paper_id": "1508.00634",
+  "title": "The Erdős-Hajnal conjecture for caterpillars and their complements.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The Erdös--Hajnal Conjecture for Long Holes and Antiholes",
+      "authors": [
+        "Marthe Bonamy",
+        "Nicolas Bousquet",
+        "Stéphan Thomassé"
+      ],
+      "year": 2016,
+      "venue": "SIAM Journal on Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/140981745"
+    },
+    "BIBREF1": {
+      "title": "Clique-Stable Set separation in perfect graphs with no balanced skew-partitions",
+      "authors": [
+        "Aurélie Lagoutte",
+        "Théophile Trunck"
+      ],
+      "year": 2016,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.disc.2016.02.005"
+    },
+    "BIBREF2": {
+      "title": "Ramsey-type theorems",
+      "authors": [
+        "P. Erdős",
+        "A. Hajnal"
+      ],
+      "year": 1989,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0166-218X(89)90045-0"
+    },
+    "BIBREF3": {
+      "title": "Ramsey-type theorems with forbidden subgraphs",
+      "authors": [
+        "Noga Alon",
+        "János Pach",
+        "József Solymosi"
+      ],
+      "year": 2001,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s004930100016"
+    },
+    "BIBREF4": {
+      "title": "Induced trees in graphs of large chromatic number",
+      "authors": [
+        "A. D. Scott"
+      ],
+      "year": 1997,
+      "venue": "Journal of Graph Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/(SICI)1097-0118(199704)24:4<297::AID-JGT2>3.3.CO;2-X"
+    },
+    "BIBREF5": {
+      "title": "The Erdos-Hajnal Conjecture|A Survey",
+      "authors": [
+        "Maria Chudnovsky"
+      ],
+      "year": 2014,
+      "venue": "Journal of Graph Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/jgt.21730"
+    },
+    "BIBREF6": {
+      "title": "Excluding Hooks and their Complements",
+      "authors": [
+        "Krzysztof Choromanski",
+        "Dvir Falik",
+        "Anita Liebenau",
+        "Viresh Patel",
+        "Marcin Pilipczuk"
+      ],
+      "year": 2018,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    }
+  }
+}

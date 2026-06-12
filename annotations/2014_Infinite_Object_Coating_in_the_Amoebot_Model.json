@@ -1,0 +1,415 @@
+{
+  "paper_id": "1411.2356v1",
+  "title": "Infinite Object Coating in the Amoebot Model",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Limit to the Power of Multiple Nucleation in Self-assembly",
+      "authors": [
+        "Aaron D. Sterling"
+      ],
+      "year": 2008,
+      "venue": "International Symposium on Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-87779-0_31"
+    },
+    "BIBREF1": {
+      "title": "Slime mold inspired path formation protocol for wireless sensor networks",
+      "authors": [
+        "Ke Li",
+        "Kyle Thomas",
+        "Claudio Torres",
+        "Louis Rossi",
+        "Chien-Chung Shen"
+      ],
+      "year": 2010,
+      "venue": "International Conference on Swarm Intelligence",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-15461-4_26"
+    },
+    "BIBREF2": {
+      "title": "Ameba-inspired Self-organizing Particle Systems.",
+      "authors": [
+        "Shlomi Dolev",
+        "Robert Gmyr",
+        "Andréa W. Richa",
+        "Christian Scheideler"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Biangular circle formation by asynchronous mobile robots",
+      "authors": [
+        "Branislav Katreniak"
+      ],
+      "year": 2005,
+      "venue": "International Conference on Structural Information and Communication Complexity",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/11429647_16"
+    },
+    "BIBREF4": {
+      "title": "Algorithms for Rapidly Dispersing Robot Swarms in Unknown Environments",
+      "authors": [
+        "Tien-Ruey Hsiang",
+        "Esther M. Arkin",
+        "Michael A. Bender",
+        "Sándor P. Fekete",
+        "Joseph S. B. Mitchell"
+      ],
+      "year": 2004,
+      "venue": "WAFR",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-45058-0_6"
+    },
+    "BIBREF5": {
+      "title": "Evacuation of rectilinear polygons",
+      "authors": [
+        "Sándor Fekete",
+        "Chris Gray",
+        "Alexander Kröller"
+      ],
+      "year": 2010,
+      "venue": "Conference on Combinatorial Optimization and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-17458-2_3"
+    },
+    "BIBREF6": {
+      "title": "Distributed Agreement in Tile Self-assembly",
+      "authors": [
+        "Aaron Sterling"
+      ],
+      "year": 2009,
+      "venue": "International Workshop on DNA-Based Computers",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-642-10604-0_16"
+    },
+    "BIBREF7": {
+      "title": "Non-uniform circle formation algorithm for oblivious mobile robots with convergence toward uniformity",
+      "authors": [
+        "Xavier Défago",
+        "Samia Souissi"
+      ],
+      "year": 2008,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.tcs.2008.01.050"
+    },
+    "BIBREF8": {
+      "title": "Local spreading algorithms for autonomous robot systems",
+      "authors": [
+        "Reuven Cohen",
+        "David Peleg"
+      ],
+      "year": 2008,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.tcs.2008.02.007"
+    },
+    "BIBREF9": {
+      "title": "Generic Decentralized Control for Lattice-Based Self-Reconfigurable Robots:",
+      "authors": [
+        "Zack J. Butler",
+        "Keith Kotay",
+        "Daniela Rus",
+        "Kohji Tomita"
+      ],
+      "year": 2004,
+      "venue": "The International Journal of Robotics Research",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1177/0278364904044409"
+    },
+    "BIBREF10": {
+      "title": "Arbitrary pattern formation by asynchronous, anonymous, oblivious robots",
+      "authors": [
+        "Paola Flocchini",
+        "Giuseppe Prencipe",
+        "Nicola Santoro",
+        "Peter Widmayer"
+      ],
+      "year": 2008,
+      "venue": "Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.tcs.2008.07.026"
+    },
+    "BIBREF11": {
+      "title": "Polygon exploration with time-discrete vision",
+      "authors": [
+        "Sándor P. Fekete",
+        "Christiane Schmidt"
+      ],
+      "year": 2010,
+      "venue": "Computational Geometry: Theory and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.comgeo.2009.06.003"
+    },
+    "BIBREF12": {
+      "title": "On the computational power of oblivious robots: forming a series of geometric patterns",
+      "authors": [
+        "Shantanu Das",
+        "Paola Flocchini",
+        "Nicola Santoro",
+        "Masafumi Yamashita"
+      ],
+      "year": 2010,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1835698.1835761"
+    },
+    "BIBREF13": {
+      "title": "Traffic optimization in railroad networks using an algorithm mimicking an amoeba-like organism, Physarum plasmodium",
+      "authors": [
+        "Shin Watanabe",
+        "Atsushi Tero",
+        "Atsuko Takamatsu",
+        "Toshiyuki Nakagaki"
+      ],
+      "year": 2011,
+      "venue": "BioSystems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.biosystems.2011.05.001"
+    },
+    "BIBREF14": {
+      "title": "Distributed reconfiguration of metamorphic robot chains",
+      "authors": [
+        "Jennifer E. Walter",
+        "Jennifer L. Welch",
+        "Nancy M. Amato"
+      ],
+      "year": 2004,
+      "venue": "Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00446-003-0103-y"
+    },
+    "BIBREF15": {
+      "title": "Computing Without Communicating: Ring Exploration by Asynchronous Oblivious Robots",
+      "authors": [
+        "Paola Flocchini",
+        "David Ilcinkas",
+        "Andrzej Pelc",
+        "Nicola Santoro"
+      ],
+      "year": 2013,
+      "venue": "Algorithmica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00453-011-9611-5"
+    },
+    "BIBREF16": {
+      "title": "Brief announcement: amoebot -- a new model for programmable matter",
+      "authors": [
+        "Zahra Derakhshandeh",
+        "Shlomi Dolev",
+        "Robert Gmyr",
+        "Andréa W. Richa",
+        "Christian Scheideler",
+        "Thim Strothmann"
+      ],
+      "year": 2014,
+      "venue": "ACM Symposium on Parallel Algorithms and Architectures",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2612669.2612712"
+    },
+    "BIBREF17": {
+      "title": "Programmable matter: concepts and realization",
+      "authors": [
+        "Tommaso Toffoli",
+        "Norman Margolus"
+      ],
+      "year": 1991,
+      "venue": "Physica D: Nonlinear Phenomena",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0167-2789(91)90296-L"
+    },
+    "BIBREF18": {
+      "title": "Distributed Anonymous Mobile Robots: Formation of Geometric Patterns",
+      "authors": [
+        "Ichiro Suzuki",
+        "Masafumi Yamashita"
+      ],
+      "year": 2006,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/050631562"
+    },
+    "BIBREF19": {
+      "title": "Stone age distributed computing",
+      "authors": [
+        "Yuval Emek",
+        "Roger Wattenhofer"
+      ],
+      "year": 2013,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2484239.2484244"
+    },
+    "BIBREF20": {
+      "title": "On the computational power of DNA",
+      "authors": [
+        "Dan Boneh",
+        "Christopher Dunworth",
+        "Richard J. Lipton",
+        "Jiří Sgall"
+      ],
+      "year": 1996,
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/S0166-218X(96)00058-3"
+    },
+    "BIBREF21": {
+      "title": "A distributed algorithm for gathering many fat mobile robots in the plane",
+      "authors": [
+        "Chrysovalandis Agathangelou",
+        "Chryssis Georgiou",
+        "Marios Mavronicolas"
+      ],
+      "year": 2013,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2484239.2484266"
+    },
+    "BIBREF22": {
+      "title": "Collective Robotic Site Preparation",
+      "authors": [
+        "Chris A. C. Parker",
+        "Hong Zhang"
+      ],
+      "year": 2006,
+      "venue": "Adaptive Behavior",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1177/105971230601400101"
+    },
+    "BIBREF23": {
+      "title": "Active self-assembly of algorithmic shapes and patterns in polylogarithmic time",
+      "authors": [
+        "Damien Woods",
+        "Ho-Lin Chen",
+        "Scott Goodfriend",
+        "Nadine Dabby",
+        "Erik Winfree",
+        "Peng Yin"
+      ],
+      "year": 2013,
+      "venue": "Conference on Innovations in Theoretical Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2422436.2422476"
+    },
+    "BIBREF24": {
+      "title": "Self-assembly and self-repair of arbitrary shapes by a swarm of reactive robots: algorithms and simulations",
+      "authors": [
+        "D. J. Arbuckle",
+        "A. A. Requicha"
+      ],
+      "year": 2010,
+      "venue": "Autonomous Robots",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s10514-009-9162-7"
+    },
+    "BIBREF25": {
+      "title": "Distributed computing by mobile robots : gathering",
+      "authors": [
+        "Mark Cieliebak",
+        "Paola Flocchini",
+        "Giuseppe Prencipe",
+        "Nicola Santoro"
+      ],
+      "year": 2012,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/100796534"
+    },
+    "BIBREF26": {
+      "title": "UNIFORM SCATTERING OF AUTONOMOUS MOBILE ROBOTS IN A GRID",
+      "authors": [
+        "Lali Barrière",
+        "Paola Flocchini",
+        "Eduardo Mesa-Barrameda",
+        "Nicola Santoro"
+      ],
+      "year": 2011,
+      "venue": "International Journal of Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1142/S0129054111008295"
+    },
+    "BIBREF27": {
+      "title": "Computation in networks of passively mobile finite-state sensors",
+      "authors": [
+        "Dana Angluin",
+        "James Aspnes",
+        "Zoë Diamadi",
+        "Michael J. Fischer",
+        "René Peralta"
+      ],
+      "year": 2004,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1011767.1011810"
+    },
+    "BIBREF28": {
+      "title": "Automatic scalable size selection for the shape of a distributed robotic collective",
+      "authors": [
+        "Michael Rubenstein",
+        "Wei-Min Shen"
+      ],
+      "year": 2010,
+      "venue": "Intelligent Robots and Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/IROS.2010.5650906"
+    },
+    "BIBREF29": {
+      "title": "The small-world phenomenon: an algorithmic perspective",
+      "authors": [
+        "Jon Kleinberg"
+      ],
+      "year": 2000,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/335305.335325"
+    },
+    "BIBREF30": {
+      "title": "Self-organizing Particle Systems",
+      "authors": [
+        "Maximilian Drees",
+        "Martina Hullmann",
+        "Andreas Koutsopoulos",
+        "Christian Scheideler"
+      ],
+      "year": 2012,
+      "venue": "International Parallel and Distributed Processing Symposium",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/IPDPS.2012.116"
+    },
+    "BIBREF31": {
+      "title": "Self-Assembly of Arbitrary Shapes Using RNAse Enzymes: Meeting the Kolmogorov Bound with Small Scale Factor (extended abstract)",
+      "authors": [
+        "Erik D. Demaine",
+        "Matthew J. Patitz",
+        "Robert T. Schweller",
+        "Scott M. Summers"
+      ],
+      "year": 2011,
+      "venue": "Symposium on Theoretical Aspects of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.4230/LIPIcs.STACS.2011.201"
+    },
+    "BIBREF32": {
+      "title": "Kinematics of a metamorphic robotic system",
+      "authors": [
+        "G.S. Chirikjian"
+      ],
+      "year": 1994,
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ROBOT.1994.351256"
+    },
+    "BIBREF33": {
+      "title": "Programmable Assembly With Universally Foldable Strings (Moteins)",
+      "authors": [
+        "K. C. Cheung",
+        "E. D. Demaine",
+        "J. R. Bachrach",
+        "S. Griffith"
+      ],
+      "year": 2011,
+      "venue": "IEEE Transactions on Robotics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TRO.2011.2132951"
+    },
+    "BIBREF34": {
+      "title": "Analysis and implementation of distributed algorithms for multi-robot systems",
+      "authors": [
+        "Leslie P. Kaelbling",
+        "James Dwight Mclurkin"
+      ],
+      "year": 2008,
+      "venue": "",
+      "link": ""
+    },
+    "BIBREF35": {
+      "title": "Natural algorithms",
+      "authors": [
+        "Bernard Chazelle"
+      ],
+      "year": 2009,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF36": {
+      "title": "Autonomous Push-down Automaton Built on DNA",
+      "authors": [
+        "Tadeusz Krasinski",
+        "Sebastian Sakowski",
+        "Tomasz Poplawski"
+      ],
+      "year": 2012,
+      "venue": "Informatica (lithuanian Academy of Sciences)",
+      "link": ""
+    }
+  }
+}

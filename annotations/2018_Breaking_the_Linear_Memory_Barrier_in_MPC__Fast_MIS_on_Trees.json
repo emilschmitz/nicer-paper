@@ -1,0 +1,175 @@
+{
+  "paper_id": "1707.03478",
+  "title": "Breaking the Linear-Memory Barrier in MPC: Fast MIS on Trees with n ε Memory per Machine.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An improved distributed algorithm for maximal independent set",
+      "authors": [
+        "Mohsen Ghaffari"
+      ],
+      "year": 2016,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/1.9781611974331.ch20"
+    },
+    "BIBREF1": {
+      "title": "A fast and simple randomized parallel algorithm for the maximal independent set problem",
+      "authors": [
+        "Noga Alon",
+        "Laszlo Babai",
+        "Alon Itai"
+      ],
+      "year": 1985,
+      "venue": "Journal of Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0196-6774(86)90019-2"
+    },
+    "BIBREF2": {
+      "title": "Improved distributed algorithms for coloring and network decomposition problems",
+      "authors": [
+        "Alessandro Panconesi",
+        "Aravind Srinivasan"
+      ],
+      "year": 1992,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/129712.129769"
+    },
+    "BIBREF3": {
+      "title": "Deterministic coin tossing and accelerating cascades: micro and macro techniques for designing parallel algorithms",
+      "authors": [
+        "R Cole",
+        "U Vishkin"
+      ],
+      "year": 1986,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/12130.12151"
+    },
+    "BIBREF4": {
+      "title": "An algorithmic approach to the lovász local lemma. I",
+      "authors": [
+        "József Beck"
+      ],
+      "year": 1991,
+      "venue": "Random Structures and Algorithms",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/rsa.3240020402"
+    },
+    "BIBREF5": {
+      "title": "A model of computation for MapReduce",
+      "authors": [
+        "Howard Karloff",
+        "Siddharth Suri",
+        "Sergei Vassilvitskii"
+      ],
+      "year": 2010,
+      "venue": "Symposium on Discrete Algorithms",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "MIS on trees",
+      "authors": [
+        "Christoph Lenzen",
+        "Roger Wattenhofer"
+      ],
+      "year": 2011,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1993806.1993813"
+    },
+    "BIBREF7": {
+      "title": "Brief announcement: exponential speed-up of local algorithms using non-local communication",
+      "authors": [
+        "Christoph Lenzen",
+        "Roger Wattenhofer"
+      ],
+      "year": 2010,
+      "venue": "Principles of Distributed Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1835698.1835772"
+    },
+    "BIBREF8": {
+      "title": "Connected Components in MapReduce and Beyond",
+      "authors": [
+        "Raimondas Kiveris",
+        "Silvio Lattanzi",
+        "Vahab Mirrokni",
+        "Vibhor Rastogi",
+        "Sergei Vassilvitskii"
+      ],
+      "year": 2014,
+      "venue": "Symposium on Cloud Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2670979.2670997"
+    },
+    "BIBREF9": {
+      "title": "A simple parallel algorithm for the maximal independent set problem",
+      "authors": [
+        "Michael Luby"
+      ],
+      "year": 1986,
+      "venue": "SIAM Journal on Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/0215074"
+    },
+    "BIBREF10": {
+      "title": "Skew in parallel query processing",
+      "authors": [
+        "Paul Beame",
+        "Paraschos Koutris",
+        "Dan Suciu"
+      ],
+      "year": 2014,
+      "venue": "Symposium on Principles of Database Systems",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2594538.2594558"
+    },
+    "BIBREF11": {
+      "title": "Filtering: a method for solving graph problems in MapReduce",
+      "authors": [
+        "Silvio Lattanzi",
+        "Benjamin Moseley",
+        "Siddharth Suri",
+        "Sergei Vassilvitskii"
+      ],
+      "year": 2011,
+      "venue": "ACM Symposium on Parallel Algorithms and Architectures",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1989493.1989505"
+    },
+    "BIBREF12": {
+      "title": "Fast Greedy Algorithms in MapReduce and Streaming",
+      "authors": [
+        "Ravi Kumar",
+        "Benjamin Moseley",
+        "Sergei Vassilvitskii",
+        "Andrea Vattani"
+      ],
+      "year": 2015,
+      "venue": "Parallel Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2809814"
+    },
+    "BIBREF13": {
+      "title": "Fast Distributed Algorithms for Connectivity and MST in Large Graphs",
+      "authors": [
+        "Gopal Pandurangan",
+        "Peter Robinson",
+        "Michele Scquizzato"
+      ],
+      "year": 2016,
+      "venue": "ACM Symposium on Parallel Algorithms and Architectures",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/2935764.2935785"
+    },
+    "BIBREF14": {
+      "title": "Randomized Composable Coresets for Matching and Vertex Cover",
+      "authors": [
+        "Sepehr Assadi",
+        "Sanjeev Khanna"
+      ],
+      "year": 2017,
+      "venue": "ACM Symposium on Parallel Algorithms and Architectures",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/3087556.3087581"
+    },
+    "BIBREF15": {
+      "title": "Sorting, Searching, and Simulation in the MapReduce Framework",
+      "authors": [
+        "Michael T. Goodrich",
+        "Nodari Sitchinava",
+        "Qin Zhang"
+      ],
+      "year": 2011,
+      "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+      "link": ""
+    }
+  }
+}

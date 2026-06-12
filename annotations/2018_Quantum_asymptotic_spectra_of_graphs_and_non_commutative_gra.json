@@ -1,0 +1,115 @@
+{
+  "paper_id": "1807.00169",
+  "title": "Quantum asymptotic spectra of graphs and non-commutative graphs, and quantum Shannon capacities.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Optimization of coherent attacks in generalizations of the BB84 quantum bit commitment protocol",
+      "authors": [
+        "Robert W. Spekkens",
+        "Terry Rudolph"
+      ],
+      "year": 2002,
+      "venue": "Quantum Information & Computation",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "New Separations in Zero-Error Channel Capacity Through Projective Kochen–Specker Sets and Quantum Coloring",
+      "authors": [
+        "L. Mancinska",
+        "G. Scarpa",
+        "S. Severini"
+      ],
+      "year": 2013,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2013.2248031"
+    },
+    "BIBREF2": {
+      "title": "Entanglement-Assisted Zero-Error Source-Channel Coding",
+      "authors": [
+        "Jop Briet",
+        "Harry Buhrman",
+        "Monique Laurent",
+        "Teresa Piovesan",
+        "Giannicola Scarpa"
+      ],
+      "year": 2015,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2014.2385080"
+    },
+    "BIBREF3": {
+      "title": "Complexity of Computer Computations",
+      "authors": [
+        "Raymond E. Miller",
+        "James W. Thatcher",
+        "Jean D. Bohlinger"
+      ],
+      "year": 1972,
+      "venue": "Mathematics of Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-1-4684-2001-2"
+    },
+    "BIBREF4": {
+      "title": "Bounds on Entanglement-Assisted Source-Channel Coding via the Lovász $vartheta $ Number and Its Variants",
+      "authors": [
+        "Toby S. Cubitt",
+        "Laura Mancinska",
+        "David E. Roberson",
+        "Simone Severini",
+        "Dan Stahlke",
+        "Andreas J. Winter"
+      ],
+      "year": 2014,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2014.2349502"
+    },
+    "BIBREF5": {
+      "title": "Universal points in the asymptotic spectrum of tensors",
+      "authors": [
+        "Matthias Christandl",
+        "Péter Vrana",
+        "Jeroen Zuiddam"
+      ],
+      "year": 2017,
+      "venue": "arXiv: Combinatorics",
+      "link": ""
+    },
+    "BIBREF6": {
+      "title": "On a fractional version of Haemers' bound",
+      "authors": [
+        "Boris Bukh",
+        "Christopher Cox"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF7": {
+      "title": "The asymptotic spectrum of LOCC transformations",
+      "authors": [
+        "Asger Kjærulff Jensen",
+        "Péter Vrana"
+      ],
+      "year": 2018,
+      "venue": "arXiv: Quantum Physics",
+      "link": ""
+    },
+    "BIBREF8": {
+      "title": "New lower bound on the Shannon capacity of C7 from circular graphs",
+      "authors": [
+        "Sven C. Polak",
+        "Alexander Schrijver"
+      ],
+      "year": 2019,
+      "venue": "Information Processing Letters",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.ipl.2018.11.006"
+    },
+    "BIBREF9": {
+      "title": "The Asymptotic Spectrum of Graphs and the Shannon Capacity",
+      "authors": [
+        "Jeroen Zuiddam"
+      ],
+      "year": 2019,
+      "venue": "Combinatorica",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/s00493-019-3992-5"
+    }
+  }
+}

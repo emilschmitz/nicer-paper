@@ -1,0 +1,78 @@
+{
+  "paper_id": "1507.08208",
+  "title": "Edge-decomposing graphs into coprime forests.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Edge-Decomposition of Graphs into Copies of a Tree with Four Edges",
+      "authors": [
+        "János Barát",
+        "Dániel Gerbner"
+      ],
+      "year": 2014,
+      "venue": "Electronic Journal of Combinatorics",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Claw-decompositions and tutte-orientations",
+      "authors": [
+        "János Barát",
+        "Carsten Thomassen"
+      ],
+      "year": 2006,
+      "venue": "Journal of Graph Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/jgt.v52:2"
+    },
+    "BIBREF2": {
+      "title": "Decompositions of highly connected graphs into paths of length 3",
+      "authors": [
+        "Carsten Thomassen"
+      ],
+      "year": 2008,
+      "venue": "Journal of Graph Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1002/jgt.v58:4"
+    },
+    "BIBREF3": {
+      "title": "Decomposing a graph into bistars",
+      "authors": [
+        "Carsten Thomassen"
+      ],
+      "year": 2013,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jctb.2013.05.003"
+    },
+    "BIBREF4": {
+      "title": "A proof of the Barát-Thomassen conjecture",
+      "authors": [
+        "Julien Bensmail",
+        "Ararat Harutyunyan",
+        "Tien Nam Le",
+        "Martin Merker",
+        "Stéphan Thomassé"
+      ],
+      "year": 2017,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jctb.2016.12.006"
+    },
+    "BIBREF5": {
+      "title": "Decomposing highly edge-connected graphs into paths of any given length",
+      "authors": [
+        "Fábio Botler",
+        "Guilherme Oliveira Mota",
+        "M. T. I. Oshiro",
+        "Yoshiko Wakabayashi"
+      ],
+      "year": 2017,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jctb.2016.07.010"
+    },
+    "BIBREF6": {
+      "title": "Decomposing highly edge-connected graphs into homomorphic copies of a fixed tree",
+      "authors": [
+        "Martin Merker"
+      ],
+      "year": 2017,
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jctb.2016.05.005"
+    }
+  }
+}

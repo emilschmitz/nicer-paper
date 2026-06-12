@@ -1,0 +1,45 @@
+{
+  "paper_id": "1203.0683",
+  "title": "Implementing spectral methods for hidden Markov models with real-valued emissions.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Learning mixtures of Gaussians",
+      "authors": [
+        "S. Dasgupta"
+      ],
+      "year": 1999,
+      "venue": "Foundations of Computer Science",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/SFFCS.1999.814639"
+    },
+    "BIBREF1": {
+      "title": "Learning nonsingular phylogenies and hidden Markov models",
+      "authors": [
+        "Elchanan Mossel",
+        "Sébastien Roch"
+      ],
+      "year": 2005,
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1145/1060590.1060645"
+    },
+    "BIBREF2": {
+      "title": "Observable Operator Models for Discrete Stochastic Time Series",
+      "authors": [
+        "Herbert Jaeger"
+      ],
+      "year": 2000,
+      "venue": "Neural Computation",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1162/089976600300015411"
+    },
+    "BIBREF3": {
+      "title": "On learning parametric-output HMMs",
+      "authors": [
+        "Aryeh Kontorovich",
+        "Boaz Nadler",
+        "Roi Weiss"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Learning",
+      "link": ""
+    }
+  }
+}

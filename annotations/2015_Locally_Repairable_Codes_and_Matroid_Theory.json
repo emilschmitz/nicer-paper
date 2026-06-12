@@ -1,0 +1,28 @@
+{
+  "paper_id": "1501.00153",
+  "title": "Locally Repairable Codes and Matroid Theory",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On the Combinatorics of Locally Repairable Codes via Matroid Theory",
+      "authors": [
+        "Thomas Westerbäck",
+        "Ragnar Freij",
+        "Toni Ernvall",
+        "Camilla Hollanti"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Information Theory",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Extremal problems among subsets of a set",
+      "authors": [
+        "Paul Erdos",
+        "Daniel J. Kleitman"
+      ],
+      "year": 1974,
+      "venue": "Discrete Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1016/0012-365X(74)90140-X"
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paper_id": "1602.04208",
+  "title": "Pursuits in Structured Non-Convex Matrix Factorizations",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization",
+      "authors": [
+        "Martin Jaggi"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF1": {
+      "title": "Nonnegative Sparse PCA with Provable Guarantees",
+      "authors": [
+        "Megasthenis Asteris",
+        "Dimitris Papailiopoulos",
+        "Alexandros Dimakis"
+      ],
+      "year": 2014,
+      "venue": "International Conference on Machine Learning",
+      "link": ""
+    },
+    "BIBREF2": {
+      "title": "Convex relaxations of structured matrix factorizations",
+      "authors": [
+        "Francis R. Bach"
+      ],
+      "year": 2013,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF3": {
+      "title": "Sparse approximate solutions to semidefinite programs",
+      "authors": [
+        "Elad Hazan"
+      ],
+      "year": 2008,
+      "venue": "Latin American Symposium on Theoretical Informatics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-540-78773-0_27"
+    },
+    "BIBREF4": {
+      "title": "Greedy algorithms in convex optimization on Banach spaces",
+      "authors": [
+        "Vladimir Temlyakov"
+      ],
+      "year": 2014,
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/ACSSC.2014.7094676"
+    },
+    "BIBREF5": {
+      "title": "Matrix Factorization Techniques for Recommender Systems",
+      "authors": [
+        "Y. Koren",
+        "R. Bell",
+        "C. Volinsky"
+      ],
+      "year": 2009,
+      "venue": "IEEE Computer",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/MC.2009.263"
+    },
+    "BIBREF6": {
+      "title": "Some NP-complete problems in quadratic and nonlinear programming",
+      "authors": [
+        "Katta G. Murty",
+        "Santosh N. Kabadi"
+      ],
+      "year": 1987,
+      "venue": "Mathematical Programming",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02592948"
+    },
+    "BIBREF7": {
+      "title": "Greed is good: algorithmic results for sparse approximation",
+      "authors": [
+        "J.A. Tropp"
+      ],
+      "year": 2004,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2004.834793"
+    },
+    "BIBREF8": {
+      "title": "Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization",
+      "authors": [
+        "Benjamin Recht",
+        "Maryam Fazel",
+        "Pablo A. Parrilo"
+      ],
+      "year": 2010,
+      "venue": "Siam Review",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/070697835"
+    },
+    "BIBREF9": {
+      "title": "Neural Word Embedding as Implicit Matrix Factorization",
+      "authors": [
+        "Omer Levy",
+        "Yoav Goldberg"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF10": {
+      "title": "Cone-Constrained Principal Component Analysis",
+      "authors": [
+        "Yash Deshpande",
+        "Andrea Montanari",
+        "Emile Richard"
+      ],
+      "year": 2014,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF11": {
+      "title": "The Power of Convex Relaxation: Near-Optimal Matrix Completion",
+      "authors": [
+        "Emmanuel J Candes",
+        "Terence Tao"
+      ],
+      "year": 2010,
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TIT.2010.2044061"
+    },
+    "BIBREF12": {
+      "title": "Truncated power method for sparse eigenvalue problems",
+      "authors": [
+        "Xiao-Tong Yuan",
+        "Tong Zhang"
+      ],
+      "year": 2013,
+      "venue": "Journal of Machine Learning Research",
+      "link": ""
+    },
+    "BIBREF13": {
+      "title": "Matching pursuits with time-frequency dictionaries",
+      "authors": [
+        "S.G. Mallat",
+        "Zhifeng Zhang"
+      ],
+      "year": 1993,
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/78.258082"
+    },
+    "BIBREF14": {
+      "title": "Some remarks on greedy algorithms",
+      "authors": [
+        "Ronald A. DeVore",
+        "Vladimir N. Temlyakov"
+      ],
+      "year": 1996,
+      "venue": "Advances in Computational Mathematics",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1007/BF02124742"
+    },
+    "BIBREF15": {
+      "title": "Low-Rank Matrix Approximation with Weights or Missing Data Is NP-Hard",
+      "authors": [
+        "Nicolas Gillis",
+        "François Glineur"
+      ],
+      "year": 2011,
+      "venue": "SIAM Journal on Matrix Analysis and Applications",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1137/110820361"
+    },
+    "BIBREF16": {
+      "title": "Greedy Algorithms for Structurally Constrained High Dimensional Problems",
+      "authors": [
+        "Ambuj Tewari",
+        "Pradeep K. Ravikumar",
+        "Inderjit S. Dhillon"
+      ],
+      "year": 2011,
+      "venue": "Neural Information Processing Systems",
+      "link": ""
+    },
+    "BIBREF17": {
+      "title": "Convex Sparse Matrix Factorizations",
+      "authors": [
+        "Francis R. Bach",
+        "Julien Mairal",
+        "Jean Ponce"
+      ],
+      "year": 2008,
+      "venue": "arXiv: Learning",
+      "link": ""
+    },
+    "BIBREF18": {
+      "title": "On the Global Linear Convergence of Frank-Wolfe Optimization Variants",
+      "authors": [
+        "Simon Lacoste-Julien",
+        "Martin Jaggi"
+      ],
+      "year": 2015,
+      "venue": "arXiv: Optimization and Control",
+      "link": ""
+    },
+    "BIBREF19": {
+      "title": "Lifted coordinate descent for learning with trace-norm regularization",
+      "authors": [
+        "Miroslav Dudík",
+        "Zaïd Harchaoui",
+        "Jérôme Malick"
+      ],
+      "year": 2012,
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": ""
+    },
+    "BIBREF20": {
+      "title": "Gradient Pursuits",
+      "authors": [
+        "T. Blumensath",
+        "M.E. Davies"
+      ],
+      "year": 2008,
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://api.semanticscholar.org/graph/v1/paper/10.1109/TSP.2007.916124"
+    },
+    "BIBREF21": {
+      "title": "Tight convex relaxations for sparse matrix factorization",
+      "authors": [
+        "Emile Richard",
+        "Guillaume Obozinski",
+        "Jean-Philippe Vert"
+      ],
+      "year": 2014,
+      "venue": "arXiv: Machine Learning",
+      "link": ""
+    }
+  }
+}
