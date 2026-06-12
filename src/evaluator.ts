@@ -213,7 +213,7 @@ export function matchAndScorePaper(
       }
     }
 
-    const isMatched = bestExt !== null && bestScore >= TITLE_MATCH_THRESHOLD;
+    const isMatched = bestExt !== null;
     
     // Check which fields are present in the ground truth
     const hasGtTitle = gt.title && gt.title.trim() !== "";
