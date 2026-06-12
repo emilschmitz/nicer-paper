@@ -13,7 +13,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Intriguing properties of neural networks",
@@ -28,7 +30,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
@@ -40,7 +44,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Vision",
-      "link": "https://arxiv.org/abs/1502.01852"
+      "arxiv_link": "https://arxiv.org/abs/1502.01852",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
@@ -50,7 +56,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Towards Scalable Dataset Construction: An Active Learning Approach",
@@ -62,7 +70,9 @@
       ],
       "year": "2008",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-540-88682-2_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-88682-2_8",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Best of both worlds: Human-machine collaboration for object annotation",
@@ -73,7 +83,9 @@
       ],
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2015.7298824"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298824",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Deep neural networks are easily fooled: High confidence predictions for unrecognizable images",
@@ -84,7 +96,9 @@
       ],
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1412.1897"
+      "arxiv_link": "https://arxiv.org/abs/1412.1897",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "SUN database: Large-scale scene recognition from abbey to zoo",
@@ -97,7 +111,9 @@
       ],
       "year": "2010",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2010.5539970"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2010.5539970",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Unbiased look at dataset bias",
@@ -107,7 +123,9 @@
       ],
       "year": "2011",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2011.5995347"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995347",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Visual recognition with humans in the loop",
@@ -122,7 +140,9 @@
       ],
       "year": "2010",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-642-15561-1_32"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-15561-1_32",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "ImageNet: A large-scale hierarchical image database",
@@ -136,7 +156,9 @@
       ],
       "year": "2009",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2009.5206848"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206848",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Multi-Level Active Prediction of Useful Image Annotations for Recognition",
@@ -146,7 +168,9 @@
       ],
       "year": "2008",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "ImageNet Large Scale Visual Recognition Challenge",
@@ -166,7 +190,9 @@
       ],
       "year": "2015",
       "venue": "International Journal of Computer Vision",
-      "link": "https://arxiv.org/abs/1409.0575"
+      "arxiv_link": "https://arxiv.org/abs/1409.0575",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Learning Deep Features for Scene Recognition using Places Database",
@@ -179,7 +205,9 @@
       ],
       "year": "2014",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Scalable multi-label annotation",
@@ -193,7 +221,9 @@
       ],
       "year": "2014",
       "venue": "Human Factors in Computing Systems",
-      "link": "https://doi.org/10.1145/2556288.2557011"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2556288.2557011",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Multiclass recognition and part localization with humans in the loop",
@@ -205,7 +235,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2011.6126539"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126539",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Learning generative visual models from few training examples: An incremental Bayesian approach tested on 101 object categories",
@@ -216,7 +248,9 @@
       ],
       "year": "2007",
       "venue": "Computer Vision and Image Understanding",
-      "link": "https://doi.org/10.1109/cvpr.2004.383"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2004.383",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Support vector machine active learning with applications to text classification",
@@ -226,7 +260,9 @@
       ],
       "year": "2002",
       "venue": "Journal of Machine Learning Research",
-      "link": "https://doi.org/10.1162/153244302760185243"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1162/153244302760185243",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "ImageNet classification with deep convolutional neural networks",
@@ -237,7 +273,9 @@
       ],
       "year": "2017",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/3065386"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3065386",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
@@ -247,7 +285,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Going Deeper with Convolutions",
@@ -264,7 +304,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1409.4842"
+      "arxiv_link": "https://arxiv.org/abs/1409.4842",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

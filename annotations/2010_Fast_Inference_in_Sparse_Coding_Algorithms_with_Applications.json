@@ -11,7 +11,9 @@
       ],
       "year": "1998",
       "venue": "SIAM Journal on Scientific Computing",
-      "link": "https://doi.org/10.1137/s1064827596304010"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/s1064827596304010",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Learning Sparse Overcomplete Codes for Images",
@@ -21,7 +23,9 @@
       ],
       "year": "2006",
       "venue": "Signal Processing Systems",
-      "link": "https://doi.org/10.1007/s11265-006-0003-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s11265-006-0003-z",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Discriminative learned dictionaries for local image analysis",
@@ -34,7 +38,9 @@
       ],
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2008.4587652"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587652",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Sparse coding via thresholding and local competition in neural circuits",
@@ -46,7 +52,9 @@
       ],
       "year": "2008",
       "venue": "Neural Computation",
-      "link": "https://doi.org/10.1162/neco.2008.03-07-486"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1162/neco.2008.03-07-486",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Sparse Feature Learning for Deep Belief Networks",
@@ -57,7 +65,9 @@
       ],
       "year": "2007",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Efficient sparse coding algorithms",
@@ -69,7 +79,9 @@
       ],
       "year": "2006",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Training products of experts by minimizing contrastive divergence",
@@ -78,7 +90,9 @@
       ],
       "year": "2002",
       "venue": "Neural Computation",
-      "link": "https://doi.org/10.1162/089976602760128018"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1162/089976602760128018",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition",
@@ -90,7 +104,9 @@
       ],
       "year": "2007",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2007.383157"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2007.383157",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Matching pursuits with time-frequency dictionaries",
@@ -100,7 +116,9 @@
       ],
       "year": "1993",
       "venue": "IEEE Transactions on Signal Processing",
-      "link": "https://doi.org/10.1109/78.258082"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/78.258082",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Learning Generative Visual Models from Few Training Examples: An Incremental Bayesian Approach Tested on 101 Object Categories",
@@ -111,7 +129,9 @@
       ],
       "year": "2004",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2004.383"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2004.383",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Image Denoising Via Learned Dictionaries and Sparse representation",
@@ -121,7 +141,9 @@
       ],
       "year": "2006",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/tip.2006.881969"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tip.2006.881969",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Efficient Learning of Sparse Representations with an Energy-Based Model",
@@ -133,7 +155,9 @@
       ],
       "year": "2006",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

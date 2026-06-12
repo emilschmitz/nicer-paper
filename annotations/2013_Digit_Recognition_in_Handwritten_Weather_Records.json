@@ -12,7 +12,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Document Analysis and Recognition",
-      "link": "https://doi.org/10.1109/icdar.2009.8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdar.2009.8",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Robust vision-based features and classification schemes for off-line handwritten digit recognition",
@@ -22,7 +24,9 @@
       ],
       "year": "2002",
       "venue": "Pattern Recognition",
-      "link": "https://doi.org/10.1016/s0031-3203(01)00228-x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0031-3203(01)00228-x",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Combination of Document Image Binarization Techniques",
@@ -33,7 +37,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Document Analysis and Recognition",
-      "link": "https://doi.org/10.1109/icdar.2011.14"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdar.2011.14",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Interpretation of handwritten addresses in US mailstream",
@@ -44,7 +50,9 @@
       ],
       "year": "1993",
       "venue": "International Conference on Document Analysis and Recognition",
-      "link": "https://doi.org/10.1109/icdar.1993.395729"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdar.1993.395729",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Deformation Models for Image Recognition",
@@ -56,7 +64,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2007.1153"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2007.1153",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Towards Semi-supervised Transcription of Handwritten Historical Weather Reports",
@@ -67,7 +77,9 @@
       ],
       "year": "2012",
       "venue": "Document Analysis Systems",
-      "link": "https://doi.org/10.1109/das.2012.91"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/das.2012.91",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Multi-column deep neural networks for image classification",
@@ -78,7 +90,9 @@
       ],
       "year": "2012",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1202.2745"
+      "arxiv_link": "https://arxiv.org/abs/1202.2745",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Handwritten character recognition using gradient feature and quadratic classifier with multiple discrimination schemes",
@@ -88,7 +102,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Document Analysis and Recognition",
-      "link": "https://doi.org/10.1109/icdar.2005.123"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdar.2005.123",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Simple Method for High-Performance Digit Recognition Based on Sparse Coding",
@@ -99,7 +115,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Neural Networks",
-      "link": "https://doi.org/10.1109/tnn.2008.2005830"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tnn.2008.2005830",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Adaptive document image thresholding using foreground and background clustering",
@@ -108,7 +126,9 @@
       ],
       "year": "1998",
       "venue": "International Conference on Image Processing",
-      "link": "https://doi.org/10.1109/icip.1998.999064"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icip.1998.999064",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Document image binarization using background estimation and stroke edges",
@@ -119,7 +139,9 @@
       ],
       "year": "2010",
       "venue": "International Journal on Document Analysis and Recognition",
-      "link": "https://doi.org/10.1007/s10032-010-0130-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10032-010-0130-8",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Skew Estimation of Sparsely Inscribed Document Fragments",
@@ -130,7 +152,9 @@
       ],
       "year": "2012",
       "venue": "Document Analysis Systems",
-      "link": "https://doi.org/10.1109/das.2012.81"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/das.2012.81",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Multi-column Deep Neural Networks for Image Classification",
@@ -141,7 +165,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1202.2745"
+      "arxiv_link": "https://arxiv.org/abs/1202.2745",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

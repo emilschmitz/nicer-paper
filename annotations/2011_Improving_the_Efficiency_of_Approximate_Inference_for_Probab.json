@@ -10,7 +10,9 @@
       ],
       "year": "2007",
       "venue": "European conference on Machine Learning",
-      "link": "https://doi.org/10.1007/978-3-540-74958-5_22"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-74958-5_22",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "First-order probabilistic inference",
@@ -19,7 +21,9 @@
       ],
       "year": "2003",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Sound and efficient inference with probabilistic and deterministic dependencies",
@@ -29,7 +33,9 @@
       ],
       "year": "2006",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Improving the Efficiency of Gibbs Sampling for Probabilistic Logical Models by Means of Program Specialization",
@@ -38,7 +44,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Logic Programming",
-      "link": "https://doi.org/10.4230/lipics.iclp.2010.74"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.4230/lipics.iclp.2010.74",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "On the implementation of the CLP( BN ) language",
@@ -47,7 +55,9 @@
       ],
       "year": "2010",
       "venue": "Practical Aspects of Declarative Languages",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Specialising Interpreters Using Offline Partial Deduction",
@@ -59,7 +69,9 @@
       ],
       "year": "2004",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/978-3-540-25951-0_11"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-25951-0_11",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Transformation of logic programs: Foundations and techniques",
@@ -69,7 +81,9 @@
       ],
       "year": "1994",
       "venue": "Journal of Logic Programming",
-      "link": "https://doi.org/10.1016/0743-1066(94)90028-0"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0743-1066(94)90028-0",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Learning directed probabilistic logical models: ordering-search versus structure-search",
@@ -81,7 +95,9 @@
       ],
       "year": "2008",
       "venue": "Annals of Mathematics and Artificial Intelligence",
-      "link": "https://doi.org/10.1007/978-3-540-78469-2_4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-78469-2_4",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Query transformations for improving the efficiency of ilp systems",
@@ -98,7 +114,9 @@
       ],
       "year": "2003",
       "venue": "Journal of Machine Learning Research",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Probabilistic inductive logic programming",
@@ -108,7 +126,9 @@
       ],
       "year": "2008",
       "venue": "Inductive Logic Programming",
-      "link": "https://doi.org/10.1007/978-3-540-78652-8_1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-78652-8_1",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Logic program specialisation through partial deduction: Control issues",
@@ -118,7 +138,9 @@
       ],
       "year": "2002",
       "venue": "Theory and Practice of Logic Programming",
-      "link": "https://doi.org/10.1017/s147106840200145x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1017/s147106840200145x",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Cutset sampling for Bayesian networks",
@@ -128,7 +150,9 @@
       ],
       "year": "2007",
       "venue": "Journal of Artificial Intelligence Research",
-      "link": "https://arxiv.org/abs/1110.2740"
+      "arxiv_link": "https://arxiv.org/abs/1110.2740",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

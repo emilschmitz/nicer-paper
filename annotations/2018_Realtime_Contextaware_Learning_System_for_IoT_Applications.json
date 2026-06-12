@@ -11,7 +11,9 @@
       ],
       "year": "2014",
       "venue": "International Conference on Wireless Communications and Mobile Computing",
-      "link": "https://doi.org/10.1109/iwcmc.2014.6906452"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iwcmc.2014.6906452",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Research Directions for the Internet of Things",
@@ -20,7 +22,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Internet of Things Journal",
-      "link": "https://doi.org/10.1109/jiot.2014.2312291"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/jiot.2014.2312291",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Context-aware frame rate adaption for video chat on smartphones",
@@ -32,7 +36,9 @@
       ],
       "year": "2013",
       "venue": "Ubiquitous Computing",
-      "link": "https://doi.org/10.1145/2494091.2494122"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2494091.2494122",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Power Saving in Mobile Devices Using Context-Aware Resource Control",
@@ -43,7 +49,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Networking and Computing",
-      "link": "https://doi.org/10.1109/ic-nc.2010.50"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ic-nc.2010.50",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Context-aware mobile computing: learning context- dependent personal preferences from a wearable sensor array",
@@ -54,7 +62,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Transactions on Mobile Computing",
-      "link": "https://doi.org/10.1109/tmc.2006.18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tmc.2006.18",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",
@@ -67,7 +77,9 @@
       ],
       "year": "2015",
       "venue": "IEEE Communications Surveys and Tutorials",
-      "link": "https://doi.org/10.1109/comst.2015.2444095"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/comst.2015.2444095",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "AURA: An application and user interaction aware middleware framework for energy optimization in mobile devices",
@@ -78,7 +90,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Computer Design",
-      "link": "https://doi.org/10.1109/iccd.2011.6081393"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccd.2011.6081393",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A survey on context-aware systems",
@@ -89,7 +103,9 @@
       ],
       "year": "2007",
       "venue": "Ubiquitous Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Cyber Physical System Challenges for Human-in-the-Loop Control",
@@ -101,7 +117,9 @@
       ],
       "year": "2013",
       "venue": "Presented as part of the 8th International Workshop on Feedback Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A Context-Aware Framework for Reducing Bandwidth Usage of Mobile Video Chats",
@@ -117,7 +135,9 @@
       ],
       "year": "2016",
       "venue": "IEEE Transactions on Multimedia",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "FitCNN: A cloud-assisted lightweight convolutional neural network framework for mobile devices",
@@ -132,7 +152,9 @@
       ],
       "year": "2017",
       "venue": "Embedded and Real-Time Computing Systems and Applications",
-      "link": "https://doi.org/10.1109/rtcsa.2017.8046337"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/rtcsa.2017.8046337",
+      "other_link": null
     }
   }
 }

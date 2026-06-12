@@ -11,7 +11,9 @@
       ],
       "year": "2015",
       "venue": "Neurocomputing",
-      "link": "https://doi.org/10.1016/j.neucom.2015.04.053"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.neucom.2015.04.053",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Learning Super-Resolution Jointly From External and Internal Examples",
@@ -25,7 +27,9 @@
       ],
       "year": "2015",
       "venue": "IEEE Transactions on Image Processing",
-      "link": "https://arxiv.org/abs/1503.01138"
+      "arxiv_link": "https://arxiv.org/abs/1503.01138",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering",
@@ -37,7 +41,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Transactions on Image Processing",
-      "link": "https://doi.org/10.1109/tip.2007.901238"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tip.2007.901238",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Detection of Blotch and Scratch in Video Based on Video Decomposition",
@@ -50,7 +56,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
-      "link": "https://doi.org/10.1109/tcsvt.2013.2269016"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tcsvt.2013.2269016",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Image Denoising and Inpainting with Deep Neural Networks",
@@ -61,7 +69,9 @@
       ],
       "year": "2012",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Multi-Scale Context Aggregation by Dilated Convolutions",
@@ -71,7 +81,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1511.07122"
+      "arxiv_link": "https://arxiv.org/abs/1511.07122",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images",
@@ -85,7 +97,9 @@
       ],
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1601.04149"
+      "arxiv_link": "https://arxiv.org/abs/1601.04149",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Non-local sparse models for image restoration",
@@ -98,7 +112,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2009.5459452"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2009.5459452",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Loss Functions for Image Restoration With Neural Networks",
@@ -110,7 +126,9 @@
       ],
       "year": "2017",
       "venue": "IEEE Transactions on Computational Imaging",
-      "link": "https://arxiv.org/abs/1706.04284"
+      "arxiv_link": "https://arxiv.org/abs/1706.04284",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "ImageNet classification with deep convolutional neural networks",
@@ -121,7 +139,9 @@
       ],
       "year": "2017",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/3065386"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3065386",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "FingerNet: An Unified Deep Network for Fingerprint Minutiae Extraction",
@@ -133,7 +153,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1709.02228"
+      "arxiv_link": "https://arxiv.org/abs/1709.02228",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Minutia-based enhancement of fingerprint samples",
@@ -144,7 +166,9 @@
       ],
       "year": "2017",
       "venue": "International Carnahan Conference on Security Technology",
-      "link": "https://doi.org/10.1109/ccst.2017.8167824"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ccst.2017.8167824",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Enhance Visual Recognition Under Adverse Conditions via Deep Networks",
@@ -157,7 +181,9 @@
       ],
       "year": "2019",
       "venue": "IEEE Transactions on Image Processing",
-      "link": "https://arxiv.org/abs/1712.07732"
+      "arxiv_link": "https://arxiv.org/abs/1712.07732",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Robust Video Super-Resolution with Learned Temporal Dynamics",
@@ -172,7 +198,9 @@
       ],
       "year": "2017",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2017.274"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2017.274",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Improved Techniques for Learning to Dehaze and Beyond: A Collective Study.",
@@ -191,7 +219,9 @@
       ],
       "year": "2018",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1807.00202"
+      "arxiv_link": "https://arxiv.org/abs/1807.00202",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach",
@@ -203,7 +233,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1706.04284"
+      "arxiv_link": "https://arxiv.org/abs/1706.04284",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge",
@@ -214,7 +246,9 @@
       ],
       "year": "2018",
       "venue": "International Conference on Biometrics",
-      "link": "https://arxiv.org/abs/1712.09401"
+      "arxiv_link": "https://arxiv.org/abs/1712.09401",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Studying Very Low Resolution Recognition Using Deep Networks",
@@ -227,7 +261,9 @@
       ],
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1601.04153"
+      "arxiv_link": "https://arxiv.org/abs/1601.04153",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

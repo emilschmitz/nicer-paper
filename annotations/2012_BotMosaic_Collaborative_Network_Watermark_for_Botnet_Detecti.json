@@ -10,7 +10,9 @@
       ],
       "year": "2007",
       "venue": "Conference on Workshop on Hot Topics in Understanding Botnets",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Detecting stepping stones",
@@ -20,7 +22,9 @@
       ],
       "year": "2000",
       "venue": "USENIX Security Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "RAINBOW: A Robust And Invisible Non-Blind Watermark for Network Flows.",
@@ -31,7 +35,9 @@
       ],
       "year": "2009",
       "venue": "Network and Distributed System Security Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "An algorithm for anomaly-based botnet detection",
@@ -41,7 +47,9 @@
       ],
       "year": "2006",
       "venue": "Conference on Steps to Reducing Unwanted Traffic on Internet",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Stegobot: a covert social network botnet",
@@ -55,7 +63,9 @@
       ],
       "year": "2011",
       "venue": "Information Hiding",
-      "link": "https://doi.org/10.1007/978-3-642-24178-9_21"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-24178-9_21",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Inter-Packet Delay Based Correlation for Tracing Encrypted Connections through Stepping Stones",
@@ -66,7 +76,9 @@
       ],
       "year": "2002",
       "venue": "European Symposium on Research in Computer Security",
-      "link": "https://doi.org/10.1007/3-540-45853-0_15"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45853-0_15",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A virtual honeypot framework",
@@ -75,7 +87,9 @@
       ],
       "year": "2004",
       "venue": "USENIX Security Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Revealing botnet membership using DNSBL counter-intelligence",
@@ -86,7 +100,9 @@
       ],
       "year": "2006",
       "venue": "Conference on Steps to Reducing Unwanted Traffic on Internet",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Wide-scale botnet detection and characterization",
@@ -97,7 +113,9 @@
       ],
       "year": "2007",
       "venue": "Conference on Workshop on Hot Topics in Understanding Botnets",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Internet Relay Chat: Server Protocol",
@@ -106,7 +124,9 @@
       ],
       "year": "2000",
       "venue": "RFC",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Using uncleanliness to predict future botnet addresses",
@@ -121,7 +141,9 @@
       ],
       "year": "2007",
       "venue": "Internet Measurement Conference",
-      "link": "https://doi.org/10.1145/1298306.1298319"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1298306.1298319",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Understanding the network-level behavior of spammers",
@@ -131,7 +153,9 @@
       ],
       "year": "2006",
       "venue": "ACM Special Interest Group on Data Communication",
-      "link": "https://doi.org/10.1145/1151659.1159947"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1151659.1159947",
+      "other_link": null
     }
   }
 }

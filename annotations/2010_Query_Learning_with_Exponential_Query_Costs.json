@@ -10,7 +10,9 @@
       ],
       "year": "2005",
       "venue": "American Medical Informatics Association Annual Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Multiple disease (fault) diagnosis with applications to the QMR-DT problem",
@@ -22,7 +24,9 @@
       ],
       "year": "2003",
       "venue": "Systems, Man and Cybernetics",
-      "link": "https://doi.org/10.1109/icsmc.2003.1244572"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icsmc.2003.1244572",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Group-based Query Learning for rapid diagnosis in time-critical situations",
@@ -33,7 +37,9 @@
       ],
       "year": "2009",
       "venue": "arXiv: Machine Learning",
-      "link": "https://doi.org/10.1109/tit.2011.2169296"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2011.2169296",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Diagnosis of Intermittent Faults in Combinational Networks",
@@ -43,7 +49,9 @@
       ],
       "year": "1977",
       "venue": "IEEE Transactions on Computers",
-      "link": "https://doi.org/10.1109/tc.1977.1674766"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tc.1977.1674766",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "On an Optimal Split Tree Problem",
@@ -54,7 +62,9 @@
       ],
       "year": "1999",
       "venue": "Workshop on Algorithms and Data Structures",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Constructing optimal binary decision trees is NP-complete☆",
@@ -64,7 +74,9 @@
       ],
       "year": "1976",
       "venue": "Information Processing Letters",
-      "link": "https://doi.org/10.1016/0020-0190(76)90095-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0020-0190(76)90095-8",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Performance bounds for binary testing with arbitrary weights",
@@ -73,7 +85,9 @@
       ],
       "year": "1985",
       "venue": "Acta Informatica",
-      "link": "https://doi.org/10.1007/bf00290148"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bf00290148",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Trees with exponentially growing costs",
@@ -82,7 +96,9 @@
       ],
       "year": "2008",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1016/j.ic.2007.11.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ic.2007.11.001",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Decision tree design from a communication theory standpoint",
@@ -92,7 +108,9 @@
       ],
       "year": "1988",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/18.21221"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/18.21221",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Sequential testing of complex systems: a review",
@@ -101,7 +119,9 @@
       ],
       "year": "2004",
       "venue": "Discrete Applied Mathematics",
-      "link": "https://doi.org/10.1016/j.dam.2002.08.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.dam.2002.08.001",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Generalization of Huffman coding to minimize the probability of buffer overflow (Corresp.)",
@@ -110,7 +130,9 @@
       ],
       "year": "1981",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.1981.1056322"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.1981.1056322",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Minimum-effort driven dynamic faceted search in structured databases",
@@ -123,7 +145,9 @@
       ],
       "year": "2008",
       "venue": "Conference on Information and Knowledge Management",
-      "link": "https://doi.org/10.1145/1458082.1458088"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1458082.1458088",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "C4.5: Programs for Machine Learning",
@@ -132,7 +156,9 @@
       ],
       "year": "1993",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "An active testing model for tracking roads in satellite images",
@@ -142,7 +168,9 @@
       ],
       "year": "1996",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Analysis of a greedy active learning strategy",
@@ -151,7 +179,9 @@
       ],
       "year": "2004",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Queries revisited",
@@ -160,7 +190,9 @@
       ],
       "year": "2004",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/j.tcs.2003.11.004"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.tcs.2003.11.004",
+      "other_link": null
     }
   }
 }

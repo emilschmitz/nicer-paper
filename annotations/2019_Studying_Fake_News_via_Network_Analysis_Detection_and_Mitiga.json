@@ -14,7 +14,9 @@
       ],
       "year": "2015",
       "venue": "PLOS ONE",
-      "link": "https://doi.org/10.1371/journal.pone.0128193"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1371/journal.pone.0128193",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Social Media Mining: An Introduction",
@@ -25,7 +27,9 @@
       ],
       "year": "2014",
       "venue": "",
-      "link": "https://doi.org/10.1017/cbo9781139088510"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1017/cbo9781139088510",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Prediction of Information Diffusion Probabilities for Independent Cascade Model",
@@ -36,7 +40,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Knowledge-Based and Intelligent Information and Engineering Systems",
-      "link": "https://doi.org/10.1007/978-3-540-85567-5_9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-85567-5_9",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Measuring user credibility in social media",
@@ -46,7 +52,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Social Computing",
-      "link": "https://doi.org/10.1007/978-3-642-37210-0_48"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-37210-0_48",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "LINE: Large-scale Information Network Embedding",
@@ -60,7 +68,9 @@
       ],
       "year": "2015",
       "venue": "The Web Conference",
-      "link": "https://arxiv.org/abs/1503.03578"
+      "arxiv_link": "https://arxiv.org/abs/1503.03578",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Characterizing the life cycle of online news stories using social media reactions",
@@ -72,7 +82,9 @@
       ],
       "year": "2014",
       "venue": "Conference on Computer Supported Cooperative Work",
-      "link": "https://arxiv.org/abs/1304.3010"
+      "arxiv_link": "https://arxiv.org/abs/1304.3010",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Provenance Data in Social Media",
@@ -84,7 +96,9 @@
       ],
       "year": "2013",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "DeepWalk: online learning of social representations",
@@ -95,7 +109,9 @@
       ],
       "year": "2014",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://arxiv.org/abs/1403.6652"
+      "arxiv_link": "https://arxiv.org/abs/1403.6652",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Glove: Global Vectors for Word Representation",
@@ -106,7 +122,9 @@
       ],
       "year": "2014",
       "venue": "Empirical Methods in Natural Language Processing",
-      "link": "https://doi.org/10.3115/v1/d14-1162"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3115/v1/d14-1162",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Fact Checking in Heterogeneous Information Networks",
@@ -116,7 +134,9 @@
       ],
       "year": "2016",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/2872518.2889354"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2872518.2889354",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "News verification by exploiting conflicting social viewpoints in microblogs",
@@ -128,7 +148,9 @@
       ],
       "year": "2016",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "User Identity Linkage across Online Social Networks: A Review",
@@ -141,7 +163,9 @@
       ],
       "year": "2017",
       "venue": "Sigkdd Explorations",
-      "link": "https://doi.org/10.1145/3068777.3068781"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3068777.3068781",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "CSI: A Hybrid Deep Model for Fake News.",
@@ -152,7 +176,9 @@
       ],
       "year": "2017",
       "venue": "",
-      "link": "https://arxiv.org/abs/1703.06959"
+      "arxiv_link": "https://arxiv.org/abs/1703.06959",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Community preserving network embedding",
@@ -166,7 +192,9 @@
       ],
       "year": "2017",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Some Like it Hoax: Automated Fake News Detection in Social Networks",
@@ -179,7 +207,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Fake News Detection on Social Media: A Data Mining Perspective",
@@ -192,7 +222,9 @@
       ],
       "year": "2017",
       "venue": "Sigkdd Explorations",
-      "link": "https://arxiv.org/abs/1708.01967"
+      "arxiv_link": "https://arxiv.org/abs/1708.01967",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Finding Streams in Knowledge Graphs to Support Fact Checking",
@@ -204,7 +236,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
-      "link": "https://arxiv.org/abs/1708.07239"
+      "arxiv_link": "https://arxiv.org/abs/1708.07239",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Exploiting Tri-Relationship for Fake News Detection.",
@@ -215,7 +249,9 @@
       ],
       "year": "2017",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate",
@@ -225,7 +261,9 @@
       ],
       "year": "2018",
       "venue": "Web Search and Data Mining",
-      "link": "https://doi.org/10.1145/3159652.3159677"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3159652.3159677",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Understanding User Profiles on Social Media for Fake News Detection",
@@ -236,7 +274,9 @@
       ],
       "year": "2018",
       "venue": "2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)",
-      "link": "https://doi.org/10.1109/mipr.2018.00092"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mipr.2018.00092",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Distributed Representations of Sentences and Documents",
@@ -246,7 +286,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computation and Language",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

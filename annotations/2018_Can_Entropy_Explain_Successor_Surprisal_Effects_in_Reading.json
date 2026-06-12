@@ -12,7 +12,9 @@
       ],
       "year": "2009",
       "venue": "Empirical Methods in Natural Language Processing",
-      "link": "https://doi.org/10.3115/1699510.1699553"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3115/1699510.1699553",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Uncertainty about the rest of the sentence.",
@@ -21,7 +23,9 @@
       ],
       "year": "2006",
       "venue": "Cognitive Science",
-      "link": "https://doi.org/10.1207/s15516709cog0000_64"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1207/s15516709cog0000_64",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "The Natural Stories Corpus",
@@ -36,7 +40,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Computation and Language",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Approximations of Predictive Entropy Correlate with Reading Times.",
@@ -46,7 +52,9 @@
       ],
       "year": "2017",
       "venue": "Cognitive Science",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "What do RNN Language Models Learn about Filler-Gap Dependencies?",
@@ -58,7 +66,9 @@
       ],
       "year": "2018",
       "venue": "Empirical Methods in Natural Language Processing",
-      "link": "https://arxiv.org/abs/1809.00042"
+      "arxiv_link": "https://arxiv.org/abs/1809.00042",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

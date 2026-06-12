@@ -10,7 +10,9 @@
       ],
       "year": "2008",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Iterative LMMSE Channel Estimation and Decoding Based on Probabilistic Bias",
@@ -21,7 +23,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Communications",
-      "link": "https://doi.org/10.1109/tcomm.2013.053013.120919"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tcomm.2013.053013.120919",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Statistical-Physics-Based Reconstruction in Compressed Sensing",
@@ -34,7 +38,9 @@
       ],
       "year": "2012",
       "venue": "Physical Review X",
-      "link": "https://arxiv.org/abs/1109.4424"
+      "arxiv_link": "https://arxiv.org/abs/1109.4424",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Iterative detection in code‐division multiple‐access with error control coding",
@@ -45,7 +51,9 @@
       ],
       "year": "1998",
       "venue": "European Transactions on Telecommunications",
-      "link": "https://doi.org/10.1002/ett.4460090504"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/ett.4460090504",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Near optimum error correcting coding and decoding: turbo-codes",
@@ -55,7 +63,9 @@
       ],
       "year": "1996",
       "venue": "IEEE Transactions on Communications",
-      "link": "https://doi.org/10.1109/26.539767"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/26.539767",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Joint Twofold-Iterative Channel Estimation and Multiuser Detection for MIMO-OFDM Systems",
@@ -65,7 +75,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Wireless Communications",
-      "link": "https://doi.org/10.1109/t-wc.2008.070953"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/t-wc.2008.070953",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Iterative (turbo) soft interference cancellation and decoding for coded CDMA",
@@ -75,7 +87,9 @@
       ],
       "year": "1999",
       "venue": "IEEE Transactions on Communications",
-      "link": "https://doi.org/10.1109/26.774855"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/26.774855",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Successive interference cancellation with SISO decoding and EM channel estimation",
@@ -86,7 +100,9 @@
       ],
       "year": "2001",
       "venue": "IEEE Journal on Selected Areas in Communications",
-      "link": "https://doi.org/10.1109/49.942508"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/49.942508",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Iterative multiuser detection for CDMA with FEC: near-single-user performance",
@@ -98,7 +114,9 @@
       ],
       "year": "1998",
       "venue": "IEEE Transactions on Communications",
-      "link": "https://doi.org/10.1109/26.737408"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/26.737408",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Iterative Decoding Threshold Analysis for LDPC Convolutional Codes",
@@ -110,7 +128,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2010.2059490"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2010.2059490",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Asymptotic Analysis of Spatially Correlated MIMO Multiple-Access Channels With Arbitrary Signaling Inputs for Joint and Separate Decoding",
@@ -120,7 +140,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/isit.2004.1365318"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/isit.2004.1365318",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "MIMO capacity through correlated channels in the presence of correlated interferers and noise: a (not so) large N analysis",
@@ -131,7 +153,9 @@
       ],
       "year": "2003",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2003.817427"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2003.817427",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Capacity of Multi‐antenna Gaussian Channels",
@@ -140,7 +164,9 @@
       ],
       "year": "1999",
       "venue": "Transactions on Emerging Telecommunications Technologies",
-      "link": "https://doi.org/10.1002/ett.4460100604"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/ett.4460100604",
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Iterative multiuser detection for coded CDMA signals in AWGN and fading channels",
@@ -150,7 +176,9 @@
       ],
       "year": "2000",
       "venue": "IEEE Journal on Selected Areas in Communications",
-      "link": "https://doi.org/10.1109/49.821707"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/49.821707",
+      "other_link": null
     },
     "BIBREF33": {
       "title": "Multiple Access Demodulation in the Lifted Signal Graph With Spatial Coupling",
@@ -160,7 +188,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/isit.2011.6034126"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/isit.2011.6034126",
+      "other_link": null
     },
     "BIBREF35": {
       "title": "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference",
@@ -169,7 +199,9 @@
       ],
       "year": "1988",
       "venue": "",
-      "link": "https://doi.org/10.1137/1032155"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/1032155",
+      "other_link": null
     }
   }
 }

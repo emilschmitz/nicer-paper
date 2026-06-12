@@ -10,7 +10,9 @@
       ],
       "year": "2015",
       "venue": "SIAM Journal on Scientific Computing",
-      "link": "https://doi.org/10.1137/140991406"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/140991406",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Quantifying the Accuracy of High-Level Fault Injection Techniques for Hardware Faults",
@@ -22,7 +24,9 @@
       ],
       "year": "2014",
       "venue": "Dependable Systems and Networks",
-      "link": "https://doi.org/10.1109/dsn.2014.2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/dsn.2014.2",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Asynchronous finite-difference schemes for partial differential equations",
@@ -32,7 +36,9 @@
       ],
       "year": "2014",
       "venue": "Journal of Computational Physics",
-      "link": "https://doi.org/10.1016/j.jcp.2014.06.017"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jcp.2014.06.017",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "An algorithmic approach to error localization and partial recomputation for low-overhead fault tolerance",
@@ -43,7 +49,9 @@
       ],
       "year": "2013",
       "venue": "Dependable Systems and Networks",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "DRAM errors in the wild: a large-scale field study",
@@ -54,7 +62,9 @@
       ],
       "year": "2011",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/1897816.1897844"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1897816.1897844",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A study of DRAM failures in the field",
@@ -64,7 +74,9 @@
       ],
       "year": "2012",
       "venue": "IEEE International Conference on High Performance Computing, Data, and Analytics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Evaluating the Error Resilience of Parallel Programs",
@@ -76,7 +88,9 @@
       ],
       "year": "2014",
       "venue": "Dependable Systems and Networks",
-      "link": "https://doi.org/10.1109/dsn.2014.73"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/dsn.2014.73",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Impact of deep submicron technology on dependability of VLSI circuits",
@@ -85,7 +99,9 @@
       ],
       "year": "2002",
       "venue": "Dependable Systems and Networks",
-      "link": "https://doi.org/10.1109/dsn.2002.1028901"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/dsn.2002.1028901",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Cosmic rays don't strike twice: understanding the nature of DRAM errors and the implications for system design",
@@ -96,7 +112,9 @@
       ],
       "year": "2012",
       "venue": "Architectural Support for Programming Languages and Operating Systems",
-      "link": "https://doi.org/10.1145/2150976.2150989"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2150976.2150989",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Design challenges of technology scaling",
@@ -105,7 +123,9 @@
       ],
       "year": "1999",
       "venue": "IEEE Micro",
-      "link": "https://doi.org/10.1109/40.782564"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/40.782564",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "The Effect of Threshold Voltages on the Soft Error Rate",
@@ -118,7 +138,9 @@
       ],
       "year": "2004",
       "venue": "International Symposium on Quality Electronic Design",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Accelerating S3D: a GPGPU case study",
@@ -132,7 +154,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Parallel Processing",
-      "link": "https://doi.org/10.1007/978-3-642-14122-5_16"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-14122-5_16",
+      "other_link": null
     }
   }
 }

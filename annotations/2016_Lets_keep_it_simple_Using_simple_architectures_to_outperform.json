@@ -13,7 +13,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Spatially-sparse convolutional neural networks.",
@@ -22,7 +24,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "APAC: Augmented PAttern Classification with Neural Networks.",
@@ -33,7 +37,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Understanding the difficulty of training deep feedforward neural networks",
@@ -43,7 +49,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Artificial Intelligence and Statistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Deep Image: Scaling up Image Recognition",
@@ -56,7 +64,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Rectified Linear Units Improve Restricted Boltzmann Machines",
@@ -66,7 +76,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
@@ -78,7 +90,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Vision",
-      "link": "https://arxiv.org/abs/1502.01852"
+      "arxiv_link": "https://arxiv.org/abs/1502.01852",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
@@ -88,7 +102,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "FitNets: Hints for Thin Deep Nets",
@@ -102,7 +118,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Network In Network",
@@ -113,7 +131,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Neural and Evolutionary Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Distilling the Knowledge in a Neural Network",
@@ -124,7 +144,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Understanding Neural Networks Through Deep Visualization.",
@@ -137,7 +159,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Improving neural networks by preventing co-adaptation of feature detectors",
@@ -150,7 +174,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Neural and Evolutionary Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Empirical Evaluation of Rectified Activations in Convolutional Network.",
@@ -162,7 +188,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Recurrent convolutional neural network for object recognition",
@@ -172,7 +200,9 @@
       ],
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2015.7298958"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298958",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "ImageNet Large Scale Visual Recognition Challenge",
@@ -192,7 +222,9 @@
       ],
       "year": "2015",
       "venue": "International Journal of Computer Vision",
-      "link": "https://arxiv.org/abs/1409.0575"
+      "arxiv_link": "https://arxiv.org/abs/1409.0575",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Striving for Simplicity: The All Convolutional Net",
@@ -204,7 +236,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
@@ -215,7 +249,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Neural and Evolutionary Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Polynomial Theory of Complex Systems",
@@ -224,7 +260,9 @@
       ],
       "year": "1971",
       "venue": "Systems, Man and Cybernetics",
-      "link": "https://doi.org/10.1109/tsmc.1971.4308320"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tsmc.1971.4308320",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "A committee of neural networks for traffic sign classification",
@@ -236,7 +274,9 @@
       ],
       "year": "2011",
       "venue": "International Joint Conference on Neural Network",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Deep learning with COTS HPC systems",
@@ -250,7 +290,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Representation Learning: A Review and New Perspectives",
@@ -261,7 +303,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://arxiv.org/abs/1206.5538"
+      "arxiv_link": "https://arxiv.org/abs/1206.5538",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF27": {
       "title": "Deep Networks with Internal Selective Attention through Feedback Connections",
@@ -273,7 +317,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF28": {
       "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)",
@@ -284,7 +330,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF29": {
       "title": "Deep learning for visual understanding",
@@ -298,7 +346,9 @@
       ],
       "year": "2016",
       "venue": "Neurocomputing",
-      "link": "https://doi.org/10.1016/j.neucom.2015.09.116"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.neucom.2015.09.116",
+      "other_link": null
     },
     "BIBREF30": {
       "title": "All you need is a good init",
@@ -308,7 +358,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree",
@@ -319,7 +371,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF32": {
       "title": "Batch-normalized Maxout Network in Network",
@@ -329,7 +383,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF33": {
       "title": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",
@@ -341,7 +397,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF34": {
       "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size",
@@ -355,7 +413,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF35": {
       "title": "Maxout Networks",
@@ -368,7 +428,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF36": {
       "title": "Model compression",
@@ -379,7 +441,9 @@
       ],
       "year": "2006",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/1150402.1150464"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1150402.1150464",
+      "other_link": null
     },
     "BIBREF37": {
       "title": "Wide Residual Networks",
@@ -389,7 +453,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1605.07146"
+      "arxiv_link": "https://arxiv.org/abs/1605.07146",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF39": {
       "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
@@ -399,7 +465,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF40": {
       "title": "Deep Residual Learning for Image Recognition",
@@ -411,7 +479,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1512.03385"
+      "arxiv_link": "https://arxiv.org/abs/1512.03385",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF41": {
       "title": "Deep Networks with Stochastic Depth",
@@ -424,7 +494,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Learning",
-      "link": "https://arxiv.org/abs/1603.09382"
+      "arxiv_link": "https://arxiv.org/abs/1603.09382",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF42": {
       "title": "Very Deep Multilingual Convolutional Neural Networks for LVCSR",
@@ -436,7 +508,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computation and Language",
-      "link": "https://arxiv.org/abs/1509.08967"
+      "arxiv_link": "https://arxiv.org/abs/1509.08967",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF43": {
       "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
@@ -452,7 +526,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1408.5093"
+      "arxiv_link": "https://arxiv.org/abs/1408.5093",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF44": {
       "title": "Going Deeper with Convolutions",
@@ -469,7 +545,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1409.4842"
+      "arxiv_link": "https://arxiv.org/abs/1409.4842",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF45": {
       "title": "Scalable Bayesian Optimization Using Deep Neural Networks",
@@ -486,7 +564,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF46": {
       "title": "Building High-level Features Using Large Scale Unsupervised Learning",
@@ -502,7 +582,9 @@
       ],
       "year": "2011",
       "venue": "arXiv: Learning",
-      "link": "https://arxiv.org/abs/1112.6209"
+      "arxiv_link": "https://arxiv.org/abs/1112.6209",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF47": {
       "title": "Multi-column Deep Neural Networks for Image Classification",
@@ -513,7 +595,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1202.2745"
+      "arxiv_link": "https://arxiv.org/abs/1202.2745",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF48": {
       "title": "Dropout Training as Adaptive Regularization",
@@ -524,7 +608,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF49": {
       "title": "Do Deep Nets Really Need to be Deep",
@@ -534,7 +620,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF50": {
       "title": "Deeply-Supervised Nets",
@@ -547,7 +635,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Artificial Intelligence and Statistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

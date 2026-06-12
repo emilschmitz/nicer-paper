@@ -11,7 +11,9 @@
       ],
       "year": "2005",
       "venue": "SDH",
-      "link": "https://doi.org/10.1007/3-540-26772-7_16"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-26772-7_16",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "A clustering method for spatio-temporal data and its application to soccer game records",
@@ -21,7 +23,9 @@
       ],
       "year": "2005",
       "venue": "Granular Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Fundamentals of speech recognition",
@@ -31,7 +35,9 @@
       ],
       "year": "1993",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "On the marriage of Lp-norms and edit distance",
@@ -41,7 +47,9 @@
       ],
       "year": "2004",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "GeoLife: A Collaborative Social Networking Service among User, location and trajectory",
@@ -52,7 +60,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Data(base) Engineering Bulletin",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Trajectory clustering: a partition-and-group framework",
@@ -63,7 +73,9 @@
       ],
       "year": "2007",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/1247480.1247546"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1247480.1247546",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids",
@@ -72,7 +84,9 @@
       ],
       "year": "1998",
       "venue": "",
-      "link": "https://doi.org/10.1017/cbo9780511790492"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1017/cbo9780511790492",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Finding long and similar parts of trajectories",
@@ -84,7 +98,9 @@
       ],
       "year": "2011",
       "venue": "Computational Geometry: Theory and Applications",
-      "link": "https://doi.org/10.1016/j.comgeo.2011.05.004"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.comgeo.2011.05.004",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Querying and mining of time series data: experimental comparison of representations and distance measures",
@@ -97,7 +113,9 @@
       ],
       "year": "2008",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.14778/1454159.1454226"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.14778/1454159.1454226",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Efficient Detection of Patterns in 2D Trajectories of Moving Points",
@@ -108,7 +126,9 @@
       ],
       "year": "2007",
       "venue": "Geoinformatica",
-      "link": "https://doi.org/10.1007/s10707-006-0002-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10707-006-0002-z",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Trajectory-Based Anomalous Event Detection",
@@ -119,7 +139,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
-      "link": "https://doi.org/10.1109/tcsvt.2008.2005599"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tcsvt.2008.2005599",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Incremental Clustering of Mobile Objects",
@@ -129,7 +151,9 @@
       ],
       "year": "2007",
       "venue": "International Conference on Data Engineering",
-      "link": "https://doi.org/10.1109/icdew.2007.4401044"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdew.2007.4401044",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Mining interesting locations and travel sequences from GPS trajectories",
@@ -141,7 +165,9 @@
       ],
       "year": "2009",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/1526709.1526816"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1526709.1526816",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "The Earth Mover''s Distance as a Metric for Image Retrieval",
@@ -152,7 +178,9 @@
       ],
       "year": "2000",
       "venue": "International Journal of Computer Vision",
-      "link": "https://doi.org/10.1023/a:1026543900054"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1026543900054",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "A linear space algorithm for computing maximal common subsequences",
@@ -161,7 +189,9 @@
       ],
       "year": "1975",
       "venue": "Communications of The ACM",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

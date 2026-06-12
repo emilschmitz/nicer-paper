@@ -10,7 +10,9 @@
       ],
       "year": "2009",
       "venue": "Machines, Computations, and Universality",
-      "link": "https://doi.org/10.3233/fi-2009-0033"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3233/fi-2009-0033",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Bounded and periodic evolutionary machines",
@@ -20,7 +22,9 @@
       ],
       "year": "2010",
       "venue": "Congress on Evolutionary Computation",
-      "link": "https://doi.org/10.1109/cec.2010.5586271"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cec.2010.5586271",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Evolution of evolution: Self-constructing Evolutionary Turing Machine case study",
@@ -30,7 +34,9 @@
       ],
       "year": "2007",
       "venue": "Congress on Evolutionary Computation",
-      "link": "https://doi.org/10.1109/cec.2007.4425074"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cec.2007.4425074",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Cooperative combinatorial optimization : Evolutionary computation case study",
@@ -40,7 +46,9 @@
       ],
       "year": "2008",
       "venue": "BioSystems",
-      "link": "https://doi.org/10.1016/j.biosystems.2007.06.003"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.biosystems.2007.06.003",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A study of drift analysis for estimating computation time of evolutionary algorithms",
@@ -50,7 +58,9 @@
       ],
       "year": "2004",
       "venue": "Natural Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Cooperative combinatorial optimization",
@@ -60,7 +70,9 @@
       ],
       "year": "2009",
       "venue": "European Journal of Operational Research",
-      "link": "https://doi.org/10.1016/j.ejor.2008.04.008"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ejor.2008.04.008",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Convergence analysis of canonical genetic algorithms",
@@ -69,7 +81,9 @@
       ],
       "year": "1994",
       "venue": "IEEE Transactions on Neural Networks",
-      "link": "https://doi.org/10.1109/72.265964"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/72.265964",
+      "other_link": null
     }
   }
 }

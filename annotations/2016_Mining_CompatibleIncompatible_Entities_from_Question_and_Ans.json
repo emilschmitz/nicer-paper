@@ -12,7 +12,9 @@
       ],
       "year": "2009",
       "venue": "Electronic Commerce",
-      "link": "https://doi.org/10.1145/1566374.1566394"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1566374.1566394",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Named Entity Recognition using an HMM-based Chunk Tagger",
@@ -22,7 +24,9 @@
       ],
       "year": "2002",
       "venue": "Meeting of the Association for Computational Linguistics",
-      "link": "https://doi.org/10.3115/1073083.1073163"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3115/1073083.1073163",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "CER: Complementary Entity Recognition via Knowledge Expansion on Large Unlabeled Product Reviews",
@@ -34,7 +38,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Computation and Language",
-      "link": "https://arxiv.org/abs/1612.01039"
+      "arxiv_link": "https://arxiv.org/abs/1612.01039",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

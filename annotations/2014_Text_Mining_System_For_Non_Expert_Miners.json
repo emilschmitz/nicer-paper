@@ -9,7 +9,9 @@
       ],
       "year": "2010",
       "venue": "Decision Support Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "SOA-Based Integration of Text Mining Services",
@@ -21,7 +23,9 @@
       ],
       "year": "2009",
       "venue": "IEEE Congress on Services",
-      "link": "https://doi.org/10.1109/services-i.2009.100"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/services-i.2009.100",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Cluster analysis using data mining approach to develop CRM methodology to assess the customer loyalty",
@@ -32,7 +36,9 @@
       ],
       "year": "2010",
       "venue": "Expert Systems With Applications",
-      "link": "https://doi.org/10.1016/j.eswa.2009.12.070"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.eswa.2009.12.070",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A template model for multidimensional inter-transactional association rules",
@@ -44,7 +50,9 @@
       ],
       "year": "2002",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "10 CHALLENGING PROBLEMS IN DATA MINING RESEARCH",
@@ -54,7 +62,9 @@
       ],
       "year": "2006",
       "venue": "International Journal of Information Technology and Decision Making",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Customer segmentation and strategy development based on customer lifetime value: A case study",
@@ -66,7 +76,9 @@
       ],
       "year": "2006",
       "venue": "Expert Systems With Applications",
-      "link": "https://doi.org/10.1016/j.eswa.2005.09.004"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.eswa.2005.09.004",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Service oriented architectures: approaches, technologies and research issues",
@@ -76,7 +88,9 @@
       ],
       "year": "2007",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1007/s00778-007-0044-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00778-007-0044-3",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "ROCK: a robust clustering algorithm for categorical attributes",
@@ -87,7 +101,9 @@
       ],
       "year": "1999",
       "venue": "International Conference on Data Engineering",
-      "link": "https://doi.org/10.1016/s0306-4379(00)00022-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0306-4379(00)00022-3",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Measuring Participation in Internet Supported Courses",
@@ -96,7 +112,9 @@
       ],
       "year": "2008",
       "venue": "Computer Science and Software Engineering",
-      "link": "https://doi.org/10.1109/csse.2008.1632"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/csse.2008.1632",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Active Templates: comprehensive support for the knowledge discovery process",
@@ -108,7 +126,9 @@
       ],
       "year": "1998",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Visualizing association rules for text mining",
@@ -119,7 +139,9 @@
       ],
       "year": "1999",
       "venue": "IEEE Symposium on Information Visualization",
-      "link": "https://doi.org/10.1109/infvis.1999.801866"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infvis.1999.801866",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "A Data Mining Approach for Retailing Bank Customer Attrition Analysis",
@@ -128,7 +150,9 @@
       ],
       "year": "2005",
       "venue": "Applied Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Improving quality assurance in education with web-based services by data mining and mobile technologies",
@@ -139,7 +163,9 @@
       ],
       "year": "2008",
       "venue": "Euro American Conference on Telematics and Information Systems",
-      "link": "https://doi.org/10.1145/1621087.1621090"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1621087.1621090",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Finding Topics in Collections of Documents: A Shared Nearest Neighbor Approach",
@@ -150,7 +176,9 @@
       ],
       "year": "2004",
       "venue": "Clustering and Information Retrieval",
-      "link": "https://doi.org/10.1007/978-1-4613-0227-8_3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-1-4613-0227-8_3",
+      "other_link": null
     }
   }
 }

@@ -10,7 +10,9 @@
       ],
       "year": "2011",
       "venue": "Logic programming, knowledge representation, and nonmonotonic reasoning",
-      "link": "https://doi.org/10.1007/978-3-642-20832-4_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-20832-4_8",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "A model-theoretic counterpart of loop formulas",
@@ -19,7 +21,9 @@
       ],
       "year": "2005",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "A SAT Solver Primer.",
@@ -28,7 +32,9 @@
       ],
       "year": "2005",
       "venue": "Bulletin of The European Association for Theoretical Computer Science",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "CP(Graph): introducing a graph computation domain in constraint programming",
@@ -39,7 +45,9 @@
       ],
       "year": "2005",
       "venue": "Principles and Practice of Constraint Programming",
-      "link": "https://doi.org/10.1007/11564751_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11564751_18",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Tableau calculi for answer set programming",
@@ -49,7 +57,9 @@
       ],
       "year": "2006",
       "venue": "International Conference on Logic Programming",
-      "link": "https://doi.org/10.1007/11799573_4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11799573_4",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Negation as failure",
@@ -58,7 +68,9 @@
       ],
       "year": "1987",
       "venue": "Logic and Data Bases",
-      "link": "https://doi.org/10.1007/978-1-4684-3384-5_11"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-1-4684-3384-5_11",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "The Second Answer Set Programming Competition",
@@ -71,7 +83,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Logic Programming",
-      "link": "https://doi.org/10.1609/aimag.v33i4.2448"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1609/aimag.v33i4.2448",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "The well-founded semantics for general logic programs",
@@ -82,7 +96,9 @@
       ],
       "year": "1991",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/116825.116838"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/116825.116838",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "The DLV system for knowledge representation and reasoning",
@@ -97,7 +113,9 @@
       ],
       "year": "2006",
       "venue": "ACM Transactions on Computational Logic",
-      "link": "https://arxiv.org/abs/cs/0211004"
+      "arxiv_link": "https://arxiv.org/abs/cs/0211004",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "ASSAT: computing answer sets of a logic program by SAT solvers",
@@ -107,7 +125,9 @@
       ],
       "year": "2004",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/j.artint.2004.04.004"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.artint.2004.04.004",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Computing Loops with at Most One External Support Rule",
@@ -118,7 +138,9 @@
       ],
       "year": "2013",
       "venue": "ACM Transactions on Computational Logic",
-      "link": "https://doi.org/10.1145/2422085.2422088"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2422085.2422088",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Extending and implementing the stable model semantics",
@@ -129,7 +151,9 @@
       ],
       "year": "2002",
       "venue": "Artificial Intelligence",
-      "link": "https://arxiv.org/abs/cs/0005010"
+      "arxiv_link": "https://arxiv.org/abs/cs/0005010",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Monotone Circuits for Connectivity Require Super-Logarithmic Depth",
@@ -139,7 +163,9 @@
       ],
       "year": "1990",
       "venue": "SIAM Journal on Discrete Mathematics",
-      "link": "https://doi.org/10.1145/62212.62265"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/62212.62265",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Why are there so many loop formulas",
@@ -149,7 +175,9 @@
       ],
       "year": "2006",
       "venue": "ACM Transactions on Computational Logic",
-      "link": "https://doi.org/10.1145/1131313.1131316"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1131313.1131316",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Answer Set Programming Based on Propositional Satisfiability",
@@ -160,7 +188,9 @@
       ],
       "year": "2006",
       "venue": "Journal of Automated Reasoning",
-      "link": "https://doi.org/10.1007/s10817-006-9033-2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10817-006-9033-2",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "A Theorem on Boolean Matrices",
@@ -169,7 +199,9 @@
       ],
       "year": "1962",
       "venue": "Journal of the ACM",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Logic programs with stable model semantics as a constraint programming paradigm",
@@ -178,7 +210,9 @@
       ],
       "year": "1999",
       "venue": "Annals of Mathematics and Artificial Intelligence",
-      "link": "https://doi.org/10.1023/a:1018930122475"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1018930122475",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Circuit Complexity and Decompositions of Global Constraints",
@@ -190,7 +224,9 @@
       ],
       "year": "2009",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

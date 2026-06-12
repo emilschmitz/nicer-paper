@@ -10,7 +10,9 @@
       ],
       "year": "1988",
       "venue": "Journal of Machine Vision and Applications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Texture Segmentation of Road Environment Scene Using SfM Module and HLAC Features",
@@ -22,7 +24,9 @@
       ],
       "year": "2009",
       "venue": "Ipsj Transactions on Computer Vision and Applications",
-      "link": "https://doi.org/10.2197/ipsjtcva.1.220"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.2197/ipsjtcva.1.220",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Pose and Motion Estimation Using Dual Quaternion-Based Extended Kalman Filtering",
@@ -32,7 +36,9 @@
       ],
       "year": "1998",
       "venue": "Proceedings of SPIE",
-      "link": "https://doi.org/10.1117/12.302453"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1117/12.302453",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography",
@@ -42,7 +48,9 @@
       ],
       "year": "1981",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/358669.358692"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/358669.358692",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Mapping, navigation, and learning for off-road traversal",
@@ -57,7 +65,9 @@
       ],
       "year": "2009",
       "venue": "Journal of Field Robotics",
-      "link": "https://doi.org/10.1002/rob.v26:1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/rob.v26:1",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Obstacle Detection and Terrain Classification for Autonomous Off-Road Navigation",
@@ -69,7 +79,9 @@
       ],
       "year": "2005",
       "venue": "Autonomous Robots",
-      "link": "https://doi.org/10.1023/b:auro.0000047286.62481.1d"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/b:auro.0000047286.62481.1d",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Approximation by superpositions of a sigmoidal function",
@@ -78,7 +90,9 @@
       ],
       "year": "1989",
       "venue": "Mathematics of Control, Signals, and Systems",
-      "link": "https://doi.org/10.4171/zaa/1156"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.4171/zaa/1156",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Speeded-Up Robust Features (SURF)",
@@ -90,7 +104,9 @@
       ],
       "year": "2008",
       "venue": "Computer Vision and Image Understanding",
-      "link": "https://doi.org/10.1016/j.cviu.2007.09.014"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.cviu.2007.09.014",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Fast color/texture segmentation for outdoor robots",
@@ -102,7 +118,9 @@
       ],
       "year": "2008",
       "venue": "Intelligent Robots and Systems",
-      "link": "https://doi.org/10.1109/iros.2008.4651086"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iros.2008.4651086",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Object recognition from local scale-invariant features",
@@ -111,7 +129,9 @@
       ],
       "year": "1999",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.1999.790410"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.1999.790410",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Neural Network Based Terrain Classification Using Wavelet Features",
@@ -122,7 +142,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Intelligent and Robotic Systems",
-      "link": "https://doi.org/10.1007/s10846-010-9402-2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10846-010-9402-2",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Image representation using 2D Gabor wavelets",
@@ -131,7 +153,9 @@
       ],
       "year": "1996",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/34.541406"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/34.541406",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Learning Outdoor Color Classification",
@@ -140,7 +164,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2006.231"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2006.231",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Natural terrain classification using three‐dimensional ladar data for ground robot mobility",
@@ -152,7 +178,9 @@
       ],
       "year": "2006",
       "venue": "Journal of Field Robotics",
-      "link": "https://doi.org/10.1002/rob.20134"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/rob.20134",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Combining laser range, color, and texture cues for autonomous road following",
@@ -161,7 +189,9 @@
       ],
       "year": "2002",
       "venue": "International Conference on Robotics and Automation",
-      "link": "https://doi.org/10.1109/robot.2002.1014439"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/robot.2002.1014439",
+      "other_link": null
     }
   }
 }

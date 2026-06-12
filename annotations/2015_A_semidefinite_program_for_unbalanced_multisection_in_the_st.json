@@ -10,7 +10,9 @@
       ],
       "year": "1995",
       "venue": "Integer Programming and Combinatorial Optimization",
-      "link": "https://doi.org/10.1007/3-540-59408-6_37"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-59408-6_37",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Random Laplacian matrices and convex relaxations",
@@ -19,7 +21,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Probability",
-      "link": "https://doi.org/10.1007/s10208-016-9341-9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10208-016-9341-9",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Semidefinite Programs on Sparse Random Graphs.",
@@ -29,7 +33,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Discrete Mathematics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Robust and computationally feasible community detection in the presence of arbitrary outlier nodes",
@@ -39,7 +45,9 @@
       ],
       "year": "2015",
       "venue": "Annals of Statistics",
-      "link": "https://arxiv.org/abs/1404.6000"
+      "arxiv_link": "https://arxiv.org/abs/1404.6000",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Community detection in general stochastic block models: fundamental limits and efficient recovery algorithms.",
@@ -49,7 +57,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Probability",
-      "link": "https://doi.org/10.1109/focs.2015.47"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/focs.2015.47",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Achieving Exact Cluster Recovery Threshold via Semidefinite Programming",
@@ -60,7 +70,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Machine Learning",
-      "link": "https://doi.org/10.1109/acssc.2015.7421303"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/acssc.2015.7421303",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Achieving Exact Cluster Recovery Threshold via Semidefinite Programming: Extensions",
@@ -71,7 +83,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Machine Learning",
-      "link": "https://arxiv.org/abs/1412.6156"
+      "arxiv_link": "https://arxiv.org/abs/1412.6156",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A Proof Of The Block Model Threshold Conjecture",
@@ -82,7 +96,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Probability",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming",
@@ -92,7 +108,9 @@
       ],
       "year": "1995",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/227683.227684"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/227683.227684",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Heuristics for Semirandom Graph Problems",
@@ -102,7 +120,9 @@
       ],
       "year": "2001",
       "venue": "Journal of Computer and System Sciences",
-      "link": "https://doi.org/10.1006/jcss.2001.1773"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1006/jcss.2001.1773",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Asymptotic analysis of the stochastic block model for modular networks and its algorithmic applications",
@@ -114,7 +134,9 @@
       ],
       "year": "2011",
       "venue": "Physical Review E",
-      "link": "https://arxiv.org/abs/1109.3041"
+      "arxiv_link": "https://arxiv.org/abs/1109.3041",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Community detection thresholds and the weak Ramanujan property",
@@ -123,7 +145,9 @@
       ],
       "year": "2014",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://arxiv.org/abs/1311.3085"
+      "arxiv_link": "https://arxiv.org/abs/1311.3085",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Improved Graph Clustering",
@@ -134,7 +158,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://arxiv.org/abs/1210.3335"
+      "arxiv_link": "https://arxiv.org/abs/1210.3335",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Coloring random and semi-random k -colorable graphs",
@@ -144,7 +170,9 @@
       ],
       "year": "1995",
       "venue": "Journal of Algorithms",
-      "link": "https://doi.org/10.1006/jagm.1995.1034"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1006/jagm.1995.1034",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Clustering Sparse Graphs",
@@ -155,7 +183,9 @@
       ],
       "year": "2012",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "How Robust are Reconstruction Thresholds for Community Detection",
@@ -166,7 +196,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Data Structures and Algorithms",
-      "link": "https://arxiv.org/abs/1511.01473"
+      "arxiv_link": "https://arxiv.org/abs/1511.01473",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Phase Transitions in Semidefinite Relaxations",
@@ -177,7 +209,9 @@
       ],
       "year": "2016",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
-      "link": "https://arxiv.org/abs/1511.08769"
+      "arxiv_link": "https://arxiv.org/abs/1511.08769",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Semidefinite programs on sparse random graphs and their application to community detection",
@@ -187,7 +221,9 @@
       ],
       "year": "2016",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://doi.org/10.1145/2897518.2897548"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2897518.2897548",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Learning Communities in the Presence of Errors",
@@ -198,7 +234,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Data Structures and Algorithms",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Multisection in the stochastic block model using semidefinite programming",
@@ -210,7 +248,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Data Structures and Algorithms",
-      "link": "https://arxiv.org/abs/1507.02323"
+      "arxiv_link": "https://arxiv.org/abs/1507.02323",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Performance of a community detection algorithm based on semidefinite programming",
@@ -221,7 +261,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Machine Learning",
-      "link": "https://arxiv.org/abs/1603.09045"
+      "arxiv_link": "https://arxiv.org/abs/1603.09045",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "On semidefinite relaxations for the block model",
@@ -231,7 +273,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Recovering communities in the general stochastic block model without knowing the parameters",
@@ -241,7 +285,9 @@
       ],
       "year": "2015",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Exact Recovery in the Stochastic Block Model",
@@ -252,7 +298,9 @@
       ],
       "year": "2016",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://arxiv.org/abs/1405.3267"
+      "arxiv_link": "https://arxiv.org/abs/1405.3267",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

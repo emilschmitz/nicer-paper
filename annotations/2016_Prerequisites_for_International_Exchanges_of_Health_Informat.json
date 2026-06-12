@@ -9,7 +9,9 @@
       ],
       "year": "2011",
       "venue": "Journal of the American Medical Informatics Association",
-      "link": "https://doi.org/10.1136/amiajnl-2010-000021"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1136/amiajnl-2010-000021",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Strategies for health data exchange for secondary, cross-institutional clinical research",
@@ -24,7 +26,9 @@
       ],
       "year": "2010",
       "venue": "Computer Methods and Programs in Biomedicine",
-      "link": "https://doi.org/10.1016/j.cmpb.2009.12.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.cmpb.2009.12.001",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Methodological Review: What can natural language processing do for clinical decision support?",
@@ -35,7 +39,9 @@
       ],
       "year": "2009",
       "venue": "Journal of Biomedical Informatics",
-      "link": "https://doi.org/10.1016/j.jbi.2009.08.007"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jbi.2009.08.007",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Proposal and evaluation of FASDIM, a Fast And Simple De-Identification Method for unstructured free-text clinical records.",
@@ -49,7 +55,9 @@
       ],
       "year": "2014",
       "venue": "International Journal of Medical Informatics",
-      "link": "https://doi.org/10.1016/j.ijmedinf.2013.11.005"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ijmedinf.2013.11.005",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "De-identification of clinical notes in French: towards a protocol for reference corpus development.",
@@ -59,7 +67,9 @@
       ],
       "year": "2014",
       "venue": "Journal of Biomedical Informatics",
-      "link": "https://doi.org/10.1016/j.jbi.2013.12.014"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jbi.2013.12.014",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Secure Dynamic Access Control Scheme of PHR in Cloud Computing",
@@ -73,7 +83,9 @@
       ],
       "year": "2012",
       "venue": "Journal of Medical Systems",
-      "link": "https://doi.org/10.1007/s10916-012-9873-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10916-012-9873-8",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Text de-identification for privacy protection: A study of its impact on clinical text information content",
@@ -87,7 +99,9 @@
       ],
       "year": "2014",
       "venue": "Journal of Biomedical Informatics",
-      "link": "https://doi.org/10.1016/j.jbi.2014.01.011"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jbi.2014.01.011",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "The pattern of name tokens in narrative clinical text and a comparison of five systems for redacting them",
@@ -102,7 +116,9 @@
       ],
       "year": "2014",
       "venue": "Journal of the American Medical Informatics Association",
-      "link": "https://doi.org/10.1136/amiajnl-2013-001689"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1136/amiajnl-2013-001689",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "De-identifying Swedish Clinical Text - Refinement of a Gold Standard and Experiments with Conditional Random Fields",
@@ -112,7 +128,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Biomedical Semantics",
-      "link": "https://doi.org/10.1186/2041-1480-1-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1186/2041-1480-1-6",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Security and privacy in electronic health records: a systematic literature review.",
@@ -124,7 +142,9 @@
       ],
       "year": "2013",
       "venue": "Journal of Biomedical Informatics",
-      "link": "https://doi.org/10.1016/j.jbi.2012.12.003"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jbi.2012.12.003",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Building public trust in uses of Health Insurance Portability and Accountability Act de-identified data",
@@ -133,7 +153,9 @@
       ],
       "year": "2013",
       "venue": "Journal of the American Medical Informatics Association",
-      "link": "https://doi.org/10.1136/amiajnl-2012-000936"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1136/amiajnl-2012-000936",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Hiding in plain sight: use of realistic surrogates to reduce exposure of protected health information in clinical text.",
@@ -148,7 +170,9 @@
       ],
       "year": "2013",
       "venue": "Journal of the American Medical Informatics Association",
-      "link": "https://doi.org/10.1136/amiajnl-2012-001034"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1136/amiajnl-2012-001034",
+      "other_link": null
     }
   }
 }

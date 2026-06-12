@@ -10,7 +10,9 @@
       ],
       "year": "2003",
       "venue": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
-      "link": "https://doi.org/10.1007/3-540-45664-3_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45664-3_8",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "1-out-of-n Signatures from a Variety of Keys",
@@ -21,7 +23,9 @@
       ],
       "year": "2002",
       "venue": "International Conference on the Theory and Application of Cryptology and Information Security",
-      "link": "https://doi.org/10.1007/3-540-36178-2_26"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-36178-2_26",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Compact group signatures without random oracles",
@@ -31,7 +35,9 @@
       ],
       "year": "2006",
       "venue": "Theory and Application of Cryptographic Techniques",
-      "link": "https://doi.org/10.1007/11761679_26"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11761679_26",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "An Auction Protocol Which Hides Bids of Losers",
@@ -40,7 +46,9 @@
       ],
       "year": "2000",
       "venue": "Public Key Cryptography",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "On the RS-Code Construction of Ring Signature Schemes and a Threshold Setting of RST",
@@ -52,7 +60,9 @@
       ],
       "year": "2003",
       "venue": "International Conference on Information and Communication Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A Practical English Auction with One-Time Registration",
@@ -62,7 +72,9 @@
       ],
       "year": "2001",
       "venue": "Australasian Conference on Information Security and Privacy",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A two-server, sealed-bid auction protocol",
@@ -72,7 +84,9 @@
       ],
       "year": "2002",
       "venue": "Financial Cryptography",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Threshold Ring Signatures and Applications to Ad-hoc Groups",
@@ -83,7 +97,9 @@
       ],
       "year": "2002",
       "venue": "International Cryptology Conference",
-      "link": "https://doi.org/10.1007/3-540-45708-9_30"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45708-9_30",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Aggregate and verifiably encrypted signatures from bilinear maps",
@@ -95,7 +111,9 @@
       ],
       "year": "2003",
       "venue": "Theory and Application of Cryptographic Techniques",
-      "link": "https://doi.org/10.1007/3-540-39200-9_26"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-39200-9_26",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Evaluating 2-DNF formulas on ciphertexts",
@@ -106,7 +124,9 @@
       ],
       "year": "2005",
       "venue": "Theory of Cryptography Conference",
-      "link": "https://doi.org/10.1007/978-3-540-30576-7_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-30576-7_18",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Bidder-anonymous English auction scheme with privacy and public verifiability",
@@ -119,7 +139,9 @@
       ],
       "year": "2008",
       "venue": "Journal of Systems and Software",
-      "link": "https://doi.org/10.1016/j.jss.2007.03.029"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jss.2007.03.029",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A secure e-auction scheme based on group signatures",
@@ -130,7 +152,9 @@
       ],
       "year": "2009",
       "venue": "Information Systems Frontiers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "How to obtain full privacy in auctions",
@@ -139,7 +163,9 @@
       ],
       "year": "2006",
       "venue": "International Journal of Information Security",
-      "link": "https://doi.org/10.1007/s10207-006-0001-y"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10207-006-0001-y",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Adding timestamps to the secure electronic auction protocol",
@@ -150,7 +176,9 @@
       ],
       "year": "2002",
       "venue": "Data and Knowledge Engineering",
-      "link": "https://doi.org/10.1016/s0169-023x(01)00048-9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0169-023x(01)00048-9",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "On the Existence of Unconditionally Privacy-Preserving Auction Protocols",
@@ -160,7 +188,9 @@
       ],
       "year": "2008",
       "venue": "ACM Transactions on Information and System Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "The design and implementation of a secure auction service",
@@ -170,7 +200,9 @@
       ],
       "year": "1996",
       "venue": "IEEE Transactions on Software Engineering",
-      "link": "https://doi.org/10.1504/ijaose.2009.023633"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1504/ijaose.2009.023633",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Reducing the round complexity of a sealed-bid auction protocol with an off-line TTP",
@@ -180,7 +212,9 @@
       ],
       "year": "2000",
       "venue": "Computer and Communications Security",
-      "link": "https://doi.org/10.1145/352600.352612"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/352600.352612",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "An Anonymous Sealed-bid Electronic Auction Based on Ring Signature",
@@ -191,7 +225,9 @@
       ],
       "year": "2009",
       "venue": "International Journal of Network Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "How to Leak a Secret",
@@ -202,7 +238,9 @@
       ],
       "year": "2001",
       "venue": "International Conference on the Theory and Application of Cryptology and Information Security",
-      "link": "https://doi.org/10.1007/3-540-45682-1_32"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45682-1_32",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "An English auction scheme in the online transaction environment",
@@ -211,7 +249,9 @@
       ],
       "year": "2004",
       "venue": "Computers & Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "An Anonymous Electronic Bidding Protocol Based on a New Convertible Group Signature Scheme",
@@ -221,7 +261,9 @@
       ],
       "year": "2000",
       "venue": "Australasian Conference on Information Security and Privacy",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Short Group Signatures",
@@ -232,7 +274,9 @@
       ],
       "year": "2004",
       "venue": "International Cryptology Conference",
-      "link": "https://doi.org/10.1007/978-3-540-28628-8_3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-28628-8_3",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Group signatures",
@@ -242,7 +286,9 @@
       ],
       "year": "1991",
       "venue": "Theory and Application of Cryptographic Techniques",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

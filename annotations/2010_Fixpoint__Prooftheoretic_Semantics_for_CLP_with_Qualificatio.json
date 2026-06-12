@@ -10,7 +10,9 @@
       ],
       "year": "1991",
       "venue": "International Conference on Lightning Protection",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Fuzzy Prolog: A Simple General Implementation Using CLP(R)",
@@ -21,7 +23,9 @@
       ],
       "year": "2002",
       "venue": "International Conference on Logic Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Compiling Semiring-Based Constraints with clp (FD, S)",
@@ -31,7 +35,9 @@
       ],
       "year": "1998",
       "venue": "Principles and Practice of Constraint Programming",
-      "link": "https://doi.org/10.1007/3-540-49481-2_16"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-49481-2_16",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Probabilistic constraint logic programming",
@@ -40,7 +46,9 @@
       ],
       "year": "1999",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Term rewriting and all that",
@@ -50,7 +58,9 @@
       ],
       "year": "1998",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Quantitative Constraint Logic Programming for Weighted Grammar Applications",
@@ -59,7 +69,9 @@
       ],
       "year": "1996",
       "venue": "Logical Aspects of Computational Linguistics",
-      "link": "https://arxiv.org/abs/cmp-lg/9705006"
+      "arxiv_link": "https://arxiv.org/abs/cmp-lg/9705006",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "The category of constraint systems is Cartesian-closed",
@@ -68,7 +80,9 @@
       ],
       "year": "1992",
       "venue": "Logic in Computer Science",
-      "link": "https://doi.org/10.1109/lics.1992.185546"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/lics.1992.185546",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Approximate reasoning by similarity-based SLD resolution",
@@ -77,7 +91,9 @@
       ],
       "year": "2002",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/s0304-3975(01)00188-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0304-3975(01)00188-8",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Fuzzy logic programming",
@@ -86,7 +102,9 @@
       ],
       "year": "2001",
       "venue": "Fuzzy Sets and Systems",
-      "link": "https://doi.org/10.1016/s0165-0114(01)00106-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0165-0114(01)00106-3",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Formal Properties of Needed Narrowing with Similarity Relations",
@@ -96,7 +114,9 @@
       ],
       "year": "2007",
       "venue": "Electronic Notes in Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/j.entcs.2007.05.036"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.entcs.2007.05.036",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Semiring-based constraint logic programming: syntax and semantics",
@@ -107,7 +127,9 @@
       ],
       "year": "2001",
       "venue": "ACM Transactions on Programming Languages and Systems",
-      "link": "https://doi.org/10.1145/383721.383725"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/383721.383725",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Similarity relations and fuzzy orderings",
@@ -116,7 +138,9 @@
       ],
       "year": "1971",
       "venue": "Information Sciences",
-      "link": "https://doi.org/10.1016/s0020-0255(71)80005-1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0020-0255(71)80005-1",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "A Functorial Framework for Constraint Normal Logic Programming",
@@ -128,7 +152,9 @@
       ],
       "year": "2008",
       "venue": "Applied Categorical Structures",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Similarity-based SLD resolution and its role for web knowledge discovery",
@@ -139,7 +165,9 @@
       ],
       "year": "2004",
       "venue": "Fuzzy Sets and Systems",
-      "link": "https://doi.org/10.1016/j.fss.2003.10.018"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.fss.2003.10.018",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "A model-theoretic reconstruction of the operational semantics of logic programs",
@@ -151,7 +179,9 @@
       ],
       "year": "1993",
       "venue": "Information & Computation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "The s-semantics approach: theory and applications.",
@@ -163,7 +193,9 @@
       ],
       "year": "1994",
       "venue": "Journal of Logic Programming",
-      "link": "https://doi.org/10.1016/0743-1066(94)90026-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0743-1066(94)90026-4",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Observable Semantics for Constraint Logic Programs",
@@ -174,7 +206,9 @@
       ],
       "year": "1995",
       "venue": "Journal of Logic and Computation",
-      "link": "https://doi.org/10.1093/logcom/5.2.133"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1093/logcom/5.2.133",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "The CLP( R ) language and system",
@@ -186,7 +220,9 @@
       ],
       "year": "1992",
       "venue": "ACM Transactions on Programming Languages and Systems",
-      "link": "https://doi.org/10.1145/129393.129398"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/129393.129398",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Constraint logic programming: a survey",
@@ -196,7 +232,9 @@
       ],
       "year": "1994",
       "venue": "Journal of Logic Programming",
-      "link": "https://doi.org/10.1016/0743-1066(94)90033-7"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0743-1066(94)90033-7",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "A comparison of fuzzy and annotated logic programming",
@@ -207,7 +245,9 @@
       ],
       "year": "2004",
       "venue": "Fuzzy Sets and Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Declarative modeling of the operational behavior of logic languages",
@@ -219,7 +259,9 @@
       ],
       "year": "1989",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/0304-3975(89)90070-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0304-3975(89)90070-4",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "The Semantics of Predicate Logic as a Programming Language",
@@ -229,7 +271,9 @@
       ],
       "year": "1976",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/321978.321991"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/321978.321991",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Multi-adjoint Logic Programming with Continuous Semantics",
@@ -240,7 +284,9 @@
       ],
       "year": "2001",
       "venue": "International Conference on Logic Programming",
-      "link": "https://doi.org/10.1007/3-540-45402-0_26"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45402-0_26",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Contributions to the Theory of Logic Programming",
@@ -250,7 +296,9 @@
       ],
       "year": "1982",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1007/bf01584661"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bf01584661",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Quantitative logic programming revisited",
@@ -260,7 +308,9 @@
       ],
       "year": "2008",
       "venue": "International Symposium on Functional and Logic Programming",
-      "link": "https://doi.org/10.1007/978-3-540-78969-7_20"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-78969-7_20",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "A Procedural Semantics for Multi-adjoint Logic Programming",
@@ -271,7 +321,9 @@
       ],
       "year": "2001",
       "venue": "Portuguese Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF26": {
       "title": "A declarative semantics for Bousi~Prolog",
@@ -281,7 +333,9 @@
       ],
       "year": "2009",
       "venue": "Principles and Practice of Declarative Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF27": {
       "title": "Declarative interpretations reconsidered",
@@ -291,7 +345,9 @@
       ],
       "year": "1994",
       "venue": "International Conference on Logic Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF28": {
       "title": "A new generic scheme for functional logic programming with constraints",
@@ -300,7 +356,9 @@
       ],
       "year": "2007",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF29": {
       "title": "Partial constraint satisfaction",
@@ -310,7 +368,9 @@
       ],
       "year": "1992",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1007/3-540-61479-6_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-61479-6_18",
+      "other_link": null
     },
     "BIBREF30": {
       "title": "Fuzzy Prolog: A simple general implementation using CLP(R)",
@@ -321,7 +381,9 @@
       ],
       "year": "2002",
       "venue": "Lecture Notes in Computer Science",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Fuzzy sets",
@@ -330,7 +392,9 @@
       ],
       "year": "1996",
       "venue": "Fuzzy sets, fuzzy logic, and fuzzy systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

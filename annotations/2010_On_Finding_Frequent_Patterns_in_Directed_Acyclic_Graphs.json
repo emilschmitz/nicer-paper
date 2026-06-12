@@ -9,7 +9,9 @@
       ],
       "year": "1996",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Mining Sequential Patterns: Generalizations and Performance Improvements",
@@ -19,7 +21,9 @@
       ],
       "year": "1996",
       "venue": "Extending Database Technology",
-      "link": "https://doi.org/10.1007/bfb0014140"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0014140",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Finding paths of length k in O∗(2k) time",
@@ -28,7 +32,9 @@
       ],
       "year": "2009",
       "venue": "Information Processing Letters",
-      "link": "https://arxiv.org/abs/0807.3026"
+      "arxiv_link": "https://arxiv.org/abs/0807.3026",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Finding frequent items in data streams",
@@ -38,7 +44,9 @@
       ],
       "year": "2008",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1016/s0304-3975(03)00400-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0304-3975(03)00400-6",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Constraint-based sequential pattern mining: the consideration of recency and compactness",
@@ -48,7 +56,9 @@
       ],
       "year": "2006",
       "venue": "Decision Support Systems",
-      "link": "https://doi.org/10.1016/j.dss.2005.10.006"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.dss.2005.10.006",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Mining sequences with temporal annotations",
@@ -60,7 +70,9 @@
       ],
       "year": "2006",
       "venue": "ACM Symposium on Applied Computing",
-      "link": "https://doi.org/10.1145/1141277.1141413"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1141277.1141413",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Subgraph Support in a Single Large Graph",
@@ -70,7 +82,9 @@
       ],
       "year": "2007",
       "venue": "International Conference on Data Mining",
-      "link": "https://doi.org/10.1109/icdmw.2007.105"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdmw.2007.105",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "CloseGraph: mining closed frequent graph patterns",
@@ -80,7 +94,9 @@
       ],
       "year": "2003",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/956750.956784"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/956750.956784",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "A simple algorithm for finding frequent elements in streams and bags",
@@ -91,7 +107,9 @@
       ],
       "year": "2003",
       "venue": "ACM Transactions on Database Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Discovering Sequential Association Rules with Constraints and Time Lags in Multiple Sequences",
@@ -102,7 +120,9 @@
       ],
       "year": "2002",
       "venue": "International Syposium on Methodologies for Intelligent Systems",
-      "link": "https://doi.org/10.1007/3-540-48050-1_47"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-48050-1_47",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "SPIN: mining maximal frequent subgraphs from graph databases",
@@ -114,7 +134,9 @@
       ],
       "year": "2004",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/1014052.1014123"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1014052.1014123",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Color-coding",
@@ -125,7 +147,9 @@
       ],
       "year": "1995",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/210332.210337"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/210332.210337",
+      "other_link": null
     }
   }
 }

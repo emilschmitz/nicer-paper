@@ -9,7 +9,9 @@
       ],
       "year": "1994",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "On Fixed-Parameter Tractable Parameterizations of SAT",
@@ -18,7 +20,9 @@
       ],
       "year": "2003",
       "venue": "Theory and Applications of Satisfiability Testing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Invitation to fixed-parameter algorithms",
@@ -27,7 +31,9 @@
       ],
       "year": "2006",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Distance constrained labelings of graphs of bounded treewidth",
@@ -38,7 +44,9 @@
       ],
       "year": "2005",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": "https://doi.org/10.1007/11523468_30"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11523468_30",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Constraint satisfaction with bounded treewidth revisited",
@@ -48,7 +56,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Computer and System Sciences",
-      "link": "https://doi.org/10.1016/j.jcss.2009.04.003"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jcss.2009.04.003",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "On the complexity of some colorful problems parameterized by treewidth",
@@ -63,7 +73,9 @@
       ],
       "year": "2011",
       "venue": "Information & Computation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "List-colourings of graphs",
@@ -73,7 +85,9 @@
       ],
       "year": "1985",
       "venue": "Graphs and Combinatorics",
-      "link": "https://doi.org/10.1007/bf02582936"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bf02582936",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Fixed-parameter complexity in AI and nonmonotonic reasoning",
@@ -84,7 +98,9 @@
       ],
       "year": "2002",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/s0004-3702(02)00182-0"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0004-3702(02)00182-0",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Monadic second order logic on graphs with local cardinality constraints",
@@ -93,7 +109,9 @@
       ],
       "year": "2011",
       "venue": "ACM Transactions on Computational Logic",
-      "link": "https://doi.org/10.1007/978-3-540-85238-4_49"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-85238-4_49",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "On the parameterized complexity of the fixed alphabet shortest common supersequence and longest common subsequence problems",
@@ -102,7 +120,9 @@
       ],
       "year": "2003",
       "venue": "Journal of Computer and System Sciences",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "General factors of graphs",
@@ -111,7 +131,9 @@
       ],
       "year": "1988",
       "venue": "Journal of Combinatorial Theory, Series B",
-      "link": "https://doi.org/10.1016/0095-8956(88)90068-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0095-8956(88)90068-8",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A Linear-Time Algorithm for Finding Tree-Decompositions of Small Treewidth",
@@ -120,7 +142,9 @@
       ],
       "year": "1996",
       "venue": "SIAM Journal on Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Easy problems for tree-decomposable graphs",
@@ -131,7 +155,9 @@
       ],
       "year": "1991",
       "venue": "Journal of Algorithms",
-      "link": "https://doi.org/10.1016/0196-6774(91)90006-k"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0196-6774(91)90006-k",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "On Equitable Coloring of d -Degenerate Graphs",
@@ -142,7 +168,9 @@
       ],
       "year": "2005",
       "venue": "SIAM Journal on Discrete Mathematics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "A partial k -arboretum of graphs with bounded treewidth",
@@ -151,7 +179,9 @@
       ],
       "year": "1998",
       "venue": "Theoretical Computer Science",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Tractable cases of the extended global cardinality constraint",
@@ -161,7 +191,9 @@
       ],
       "year": "2008",
       "venue": "Computing: The Australasian Theory Symposium",
-      "link": "https://doi.org/10.1007/s10601-009-9079-y"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10601-009-9079-y",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Equitable colorings of bounded treewidth graphs",
@@ -171,7 +203,9 @@
       ],
       "year": "2005",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1007/978-3-540-28629-5_11"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-28629-5_11",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Graph colorings with local constraints - a survey",
@@ -180,7 +214,9 @@
       ],
       "year": "1997",
       "venue": "Discussiones Mathematicae Graph Theory",
-      "link": "https://doi.org/10.7151/dmgt.1049"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.7151/dmgt.1049",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "The complexity of satisfiability problems",
@@ -189,7 +225,9 @@
       ],
       "year": "1978",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://doi.org/10.1007/3-540-44693-1_36"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-44693-1_36",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Graph Rewriting : An Algebraic and Logic Approach",
@@ -198,7 +236,9 @@
       ],
       "year": "1990",
       "venue": "Handbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Graph classes and the complexity of the graph orientation minimizing the maximum weighted outdegree",
@@ -209,7 +249,9 @@
       ],
       "year": "2008",
       "venue": "Conferences in Research and Practice in Information Technology Series",
-      "link": "https://doi.org/10.1016/j.dam.2010.11.003"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.dam.2010.11.003",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Algorithms for propositional model counting",
@@ -219,7 +261,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Discrete Algorithms",
-      "link": "https://doi.org/10.1007/978-3-540-75560-9_35"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-75560-9_35",
+      "other_link": null
     }
   }
 }

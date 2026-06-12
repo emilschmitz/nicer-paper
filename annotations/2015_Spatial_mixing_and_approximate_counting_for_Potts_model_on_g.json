@@ -10,7 +10,9 @@
       ],
       "year": "2013",
       "venue": "International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques",
-      "link": "https://doi.org/10.1007/978-3-642-40328-6_44"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-40328-6_44",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Switching Colouring of G(n,d/n) for Sampling up to Gibbs Uniqueness Threshold",
@@ -19,7 +21,9 @@
       ],
       "year": "2014",
       "venue": "European Symposium on Algorithms",
-      "link": "https://doi.org/10.1007/978-3-662-44777-2_31"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-662-44777-2_31",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Inapproximability of the Partition Function for the Antiferromagnetic Ising and Hard-Core Models",
@@ -30,7 +34,9 @@
       ],
       "year": "2016",
       "venue": "Combinatorics, Probability & Computing",
-      "link": "https://arxiv.org/abs/1203.2226"
+      "arxiv_link": "https://arxiv.org/abs/1203.2226",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Spatial Mixing of Coloring Random Graphs",
@@ -39,7 +45,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Data Structures and Algorithms",
-      "link": "https://arxiv.org/abs/1402.4556"
+      "arxiv_link": "https://arxiv.org/abs/1402.4556",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Improved bounds for sampling colorings",
@@ -48,7 +56,9 @@
       ],
       "year": "2000",
       "venue": "Journal of Mathematical Physics",
-      "link": "https://doi.org/10.1109/sffcs.1999.814577"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sffcs.1999.814577",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Randomly coloring sparse random graphs with fewer colors than the maximum degree",
@@ -58,7 +68,9 @@
       ],
       "year": "2006",
       "venue": "Random Structures and Algorithms",
-      "link": "https://doi.org/10.1002/rsa.v29:4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/rsa.v29:4",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "The Glauber Dynamics on Colorings of a Graph with High Girth and Maximum Degree",
@@ -67,7 +79,9 @@
       ],
       "year": "2004",
       "venue": "SIAM Journal on Computing",
-      "link": "https://doi.org/10.1137/s0097539702401786"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/s0097539702401786",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Counting independent sets up to the tree threshold",
@@ -76,7 +90,9 @@
       ],
       "year": "2006",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://doi.org/10.1145/1132516.1132538"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1132516.1132538",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Correlation decay and deterministic FPTAS for counting colorings of a graph",
@@ -86,7 +102,9 @@
       ],
       "year": "2012",
       "venue": "Journal of Discrete Algorithms",
-      "link": "https://doi.org/10.1016/j.jda.2010.10.002"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jda.2010.10.002",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Randomly coloring graphs of girth at least five",
@@ -95,7 +113,9 @@
       ],
       "year": "2003",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://doi.org/10.1145/780542.780584"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/780542.780584",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Chasing the k-colorability threshold",
@@ -105,7 +125,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Discrete Mathematics",
-      "link": "https://arxiv.org/abs/1304.1063"
+      "arxiv_link": "https://arxiv.org/abs/1304.1063",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Random sampling of colourings of sparse random graphs with a constant number of colours",
@@ -115,7 +137,9 @@
       ],
       "year": "2008",
       "venue": "Theoretical Computer Science",
-      "link": "https://arxiv.org/abs/0804.2343"
+      "arxiv_link": "https://arxiv.org/abs/0804.2343",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "The Computational Hardness of Counting in Two-Spin Models on d-Regular Graphs",
@@ -125,7 +149,9 @@
       ],
       "year": "2012",
       "venue": "Foundations of Computer Science",
-      "link": "https://arxiv.org/abs/1203.2602"
+      "arxiv_link": "https://arxiv.org/abs/1203.2602",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Approximate counting, uniform generation and rapidly mixing Markov chains",
@@ -135,7 +161,9 @@
       ],
       "year": "1989",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1016/0890-5401(89)90067-9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0890-5401(89)90067-9",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Randomly coloring graphs with lower bounds on girth and maximum degree",
@@ -145,7 +173,9 @@
       ],
       "year": "2003",
       "venue": "Random Structures and Algorithms",
-      "link": "https://doi.org/10.1109/sfcs.2001.959934"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sfcs.2001.959934",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "A very simple algorithm for estimating the number of k -colorings of a low-degree graph",
@@ -154,7 +184,9 @@
       ],
       "year": "1995",
       "venue": "Random Structures and Algorithms",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Spatial Mixing and Approximation Algorithms for Graphs with Bounded Connective Constant",
@@ -165,7 +197,9 @@
       ],
       "year": "2013",
       "venue": "Foundations of Computer Science",
-      "link": "https://arxiv.org/abs/1308.1762"
+      "arxiv_link": "https://arxiv.org/abs/1308.1762",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Path coupling: A technique for proving rapid mixing in Markov chains",
@@ -175,7 +209,9 @@
       ],
       "year": "1997",
       "venue": "Foundations of Computer Science",
-      "link": "https://doi.org/10.1109/sfcs.1997.646111"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sfcs.1997.646111",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Computational Transition at the Uniqueness Threshold",
@@ -184,7 +220,9 @@
       ],
       "year": "2010",
       "venue": "arXiv: Computational Complexity",
-      "link": "https://arxiv.org/abs/1005.5584"
+      "arxiv_link": "https://arxiv.org/abs/1005.5584",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Coupling with the stationary distribution and improved sampling for colorings and independent sets",
@@ -194,7 +232,9 @@
       ],
       "year": "2006",
       "venue": "Annals of Applied Probability",
-      "link": "https://arxiv.org/abs/math/0610188"
+      "arxiv_link": "https://arxiv.org/abs/math/0610188",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Correlation Decay up to Uniqueness in Spin Systems",
@@ -205,7 +245,9 @@
       ],
       "year": "2011",
       "venue": "arXiv: Data Structures and Algorithms",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Inapproximability for Antiferromagnetic Spin Systems in the Tree Non-Uniqueness Region",
@@ -216,7 +258,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Computational Complexity",
-      "link": "https://arxiv.org/abs/1305.2902"
+      "arxiv_link": "https://arxiv.org/abs/1305.2902",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Approximation algorithms for two-state anti-ferromagnetic spin systems on bounded degree graphs",
@@ -227,7 +271,9 @@
       ],
       "year": "2011",
       "venue": "arXiv: Discrete Mathematics",
-      "link": "https://arxiv.org/abs/1107.2368"
+      "arxiv_link": "https://arxiv.org/abs/1107.2368",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

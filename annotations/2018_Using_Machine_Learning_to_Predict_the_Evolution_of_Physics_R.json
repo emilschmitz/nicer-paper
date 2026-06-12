@@ -10,7 +10,9 @@
       ],
       "year": "1998",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Locally Weighted Learning",
@@ -21,7 +23,9 @@
       ],
       "year": "1997",
       "venue": "Artificial Intelligence Review",
-      "link": "https://doi.org/10.1023/a:1006559212014"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1006559212014",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Visualizing science by citation mapping",
@@ -30,7 +34,9 @@
       ],
       "year": "1999",
       "venue": "Journal of the Association for Information Science and Technology",
-      "link": "https://doi.org/10.1002/(sici)1097-4571(1999)50:9<799::aid-asi9>3.3.co;2-7"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/(sici)1097-4571(1999)50:9<799::aid-asi9>3.3.co;2-7",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "GED: the method for group evolution discovery in social networks",
@@ -41,7 +47,9 @@
       ],
       "year": "2013",
       "venue": "Social Network Analysis and Mining",
-      "link": "https://doi.org/10.1007/s13278-012-0058-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s13278-012-0058-8",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Scopus's source normalized impact per paper (SNIP) versus a journal impact factor based on fractional counting of citations",
@@ -51,7 +59,9 @@
       ],
       "year": "2010",
       "venue": "Journal of the Association for Information Science and Technology",
-      "link": "https://doi.org/10.1002/asi.21371"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/asi.21371",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Feature subset selection using a genetic algorithm",
@@ -61,7 +71,9 @@
       ],
       "year": "1998",
       "venue": "IEEE Intelligent Systems & Their Applications",
-      "link": "https://doi.org/10.1109/5254.671091"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/5254.671091",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Mapping the backbone of science.",
@@ -72,7 +84,9 @@
       ],
       "year": "2005",
       "venue": "Scientometrics",
-      "link": "https://doi.org/10.1007/s11192-005-0255-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s11192-005-0255-6",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Community structure of the physical review citation network",
@@ -82,7 +96,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Informetrics",
-      "link": "https://doi.org/10.1016/j.joi.2010.01.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.joi.2010.01.001",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "A Performance of Centrality Calculation in Social Networks",
@@ -93,7 +109,9 @@
       ],
       "year": "2009",
       "venue": "Computational Aspects of Social Networks",
-      "link": "https://doi.org/10.1109/cason.2009.20"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cason.2009.20",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Universality of citation distributions: Toward an objective measure of scientific impact",
@@ -104,7 +122,9 @@
       ],
       "year": "2008",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
-      "link": "https://doi.org/10.1073/pnas.0806977105"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1073/pnas.0806977105",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Tracking the evolution of community structures in time-evolving social networks",
@@ -115,7 +135,9 @@
       ],
       "year": "2015",
       "venue": "IEEE International Conference on Data Science and Advanced Analytics",
-      "link": "https://doi.org/10.1109/dsaa.2015.7344876"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/dsaa.2015.7344876",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Predicting Community Evolution in Social Networks",
@@ -129,7 +151,9 @@
       ],
       "year": "2015",
       "venue": "Entropy",
-      "link": "https://doi.org/10.3390/e17053053"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3390/e17053053",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Knowledge evolution in physics research: An analysis of bibliographic coupling networks",
@@ -140,7 +164,9 @@
       ],
       "year": "2017",
       "venue": "PLOS ONE",
-      "link": "https://doi.org/10.1371/journal.pone.0184821"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1371/journal.pone.0184821",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Predicting the evolution of communities in social networks using structural and temporal features",
@@ -152,7 +178,9 @@
       ],
       "year": "2017",
       "venue": "2017 12th International Workshop on Semantic and Social Media Adaptation and Personalization (SMAP)",
-      "link": "https://doi.org/10.1109/smap.2017.8022665"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/smap.2017.8022665",
+      "other_link": null
     }
   }
 }

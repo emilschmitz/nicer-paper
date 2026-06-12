@@ -12,7 +12,9 @@
       ],
       "year": "2006",
       "venue": "Computer Networks",
-      "link": "https://doi.org/10.1016/j.comnet.2006.05.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.comnet.2006.05.001",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Cognitive radio: making software radios more personal",
@@ -22,7 +24,9 @@
       ],
       "year": "1999",
       "venue": "IEEE Personal Communications",
-      "link": "https://doi.org/10.1109/98.788210"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/98.788210",
+      "other_link": null
     }
   }
 }

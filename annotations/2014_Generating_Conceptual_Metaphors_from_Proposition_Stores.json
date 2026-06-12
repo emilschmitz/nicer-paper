@@ -10,7 +10,9 @@
       ],
       "year": "2013",
       "venue": "The People's Web Meets NLP",
-      "link": "https://doi.org/10.1007/978-3-642-35085-6_6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-35085-6_6",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Automatic Metaphor Interpretation as a Paraphrasing Task",
@@ -19,7 +21,9 @@
       ],
       "year": "2010",
       "venue": "North American Chapter of the Association for Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "met*: a method for discriminating metonymy and metaphor by computer",
@@ -28,7 +32,9 @@
       ],
       "year": "1991",
       "venue": "Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Yago: a core of semantic knowledge",
@@ -39,7 +45,9 @@
       ],
       "year": "2007",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/1242572.1242667"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1242572.1242667",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Models of Metaphor in NLP",
@@ -48,7 +56,9 @@
       ],
       "year": "2010",
       "venue": "Meeting of the Association for Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Local and Global Algorithms for Disambiguation to Wikipedia",
@@ -60,7 +70,9 @@
       ],
       "year": "2011",
       "venue": "Meeting of the Association for Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Word similarity using constructions as contextual features.",
@@ -70,7 +82,9 @@
       ],
       "year": "2013",
       "venue": "JSSP",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

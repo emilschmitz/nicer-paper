@@ -11,7 +11,9 @@
       ],
       "year": "2011",
       "venue": "USENIX Security Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Statistics: An Introduction Using R",
@@ -20,7 +22,9 @@
       ],
       "year": "2005",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "On the Security of Noise Addition for Privacy in Statistical Databases",
@@ -31,7 +35,9 @@
       ],
       "year": "2004",
       "venue": "Privacy in Statistical Databases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Does differential privacy protect terry gross' privacy?",
@@ -41,7 +47,9 @@
       ],
       "year": "2010",
       "venue": "Privacy in Statistical Databases",
-      "link": "https://doi.org/10.1007/978-3-642-15838-4_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-15838-4_18",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "A Noise Addition Scheme in Decision Tree for Privacy Preserving Data Mining",
@@ -51,7 +59,9 @@
       ],
       "year": "2010",
       "venue": "arXiv: Cryptography and Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Differential privacy: on the trade-off between utility and information leakage",
@@ -64,7 +74,9 @@
       ],
       "year": "2011",
       "venue": "Formal Aspects in Security and Trust",
-      "link": "https://arxiv.org/abs/1103.5188"
+      "arxiv_link": "https://arxiv.org/abs/1103.5188",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Some additional insights on applying differential privacy for numeric data",
@@ -74,7 +86,9 @@
       ],
       "year": "2010",
       "venue": "Privacy in Statistical Databases",
-      "link": "https://doi.org/10.1007/978-3-642-15838-4_19"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-15838-4_19",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Microdata Protection through Noise Addition",
@@ -83,7 +97,9 @@
       ],
       "year": "2002",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/3-540-47804-3_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-47804-3_8",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Utility and privacy of data sources: Can Shannon help conceal and reveal information?",
@@ -94,7 +110,9 @@
       ],
       "year": "2010",
       "venue": "Information Theory and Applications",
-      "link": "https://arxiv.org/abs/1002.1347"
+      "arxiv_link": "https://arxiv.org/abs/1002.1347",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A survey on data security in data warehousing: Issues, challenges and opportunities",
@@ -105,7 +123,9 @@
       ],
       "year": "2011",
       "venue": "Conference on Computer as a Tool",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Deriving private information from randomized data",
@@ -116,7 +136,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/1066157.1066163"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1066157.1066163",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A practice-oriented framework for measuring privacy and utility in data sanitization systems",
@@ -128,7 +150,9 @@
       ],
       "year": "2010",
       "venue": "EDBT/ICDT Workshops",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Myths and fallacies of \"Personally Identifiable Information\"",
@@ -138,7 +162,9 @@
       ],
       "year": "2010",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/1743546.1743558"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1743546.1743558",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Differential privacy: a survey of results",
@@ -147,7 +173,9 @@
       ],
       "year": "2008",
       "venue": "Theory and Applications of Models of Computation",
-      "link": "https://doi.org/10.1007/978-3-540-79228-4_1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-79228-4_1",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Differential privacy and the risk-utility tradeoff for multi-dimensional contingency tables",
@@ -158,7 +186,9 @@
       ],
       "year": "2010",
       "venue": "Privacy in Statistical Databases",
-      "link": "https://doi.org/10.1007/978-3-642-15838-4_17"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-15838-4_17",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "The boundary between privacy and utility in data publishing",
@@ -169,7 +199,9 @@
       ],
       "year": "2007",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Protecting respondents identities in microdata release",
@@ -178,7 +210,9 @@
       ],
       "year": "2001",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/69.971193"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/69.971193",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Composition attacks and auxiliary information in data privacy",
@@ -189,7 +223,9 @@
       ],
       "year": "2008",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://arxiv.org/abs/0803.0032"
+      "arxiv_link": "https://arxiv.org/abs/0803.0032",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Minimality attack in privacy preserving data publishing",
@@ -201,7 +237,9 @@
       ],
       "year": "2007",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Security and privacy in online social networks: A survey",
@@ -211,7 +249,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Multimedia and Expo",
-      "link": "https://doi.org/10.4108/inis.1.1.e3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.4108/inis.1.1.e3",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "k -anonymity: a model for protecting privacy",
@@ -220,7 +260,9 @@
       ],
       "year": "2002",
       "venue": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Data Security",
@@ -230,7 +272,9 @@
       ],
       "year": "1979",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/356778.356782"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/356778.356782",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Differential privacy",
@@ -239,7 +283,9 @@
       ],
       "year": "2006",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": "https://doi.org/10.1007/11787006_1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11787006_1",
+      "other_link": null
     }
   }
 }

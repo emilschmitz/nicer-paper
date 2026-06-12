@@ -10,7 +10,9 @@
       ],
       "year": "2004",
       "venue": "Algorithmic Aspects of Wireless Sensor Networks",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Distributed Average Consensus With Dithered Quantization",
@@ -21,7 +23,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Signal Processing",
-      "link": "https://doi.org/10.1109/tsp.2008.927071"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tsp.2008.927071",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Desynchronization with an artificial force field for wireless networks",
@@ -34,7 +38,9 @@
       ],
       "year": "2012",
       "venue": "ACM Special Interest Group on Data Communication",
-      "link": "https://doi.org/10.1145/2185376.2185378"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2185376.2185378",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "DRAND: distributed randomized TDMA scheduling for wireless ad-hoc networks",
@@ -46,7 +52,9 @@
       ],
       "year": "2006",
       "venue": "Mobile Ad Hoc Networking and Computing",
-      "link": "https://doi.org/10.1145/1132905.1132927"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1132905.1132927",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "DESYNC: self-organizing desynchronization and TDMA on wireless sensor networks",
@@ -58,7 +66,9 @@
       ],
       "year": "2007",
       "venue": "Information Processing in Sensor Networks",
-      "link": "https://doi.org/10.1145/1236360.1236363"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1236360.1236363",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Fine-grained network time synchronization using reference broadcasts",
@@ -69,7 +79,9 @@
       ],
       "year": "2002",
       "venue": "Operating Systems Design and Implementation",
-      "link": "https://doi.org/10.1145/844128.844143"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/844128.844143",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Lightweight Coloring and Desynchronization for Networks",
@@ -81,7 +93,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Computer Communications",
-      "link": "https://doi.org/10.1109/infcom.2009.5062165"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2009.5062165",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Design of a Distributed Protocol for Proportional Fairness in Wireless Body Area Networks",
@@ -92,7 +106,9 @@
       ],
       "year": "2010",
       "venue": "Global Communications Conference",
-      "link": "https://doi.org/10.1109/glocom.2010.5683810"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/glocom.2010.5683810",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A theory of nonsubtractive dither",
@@ -104,7 +120,9 @@
       ],
       "year": "2000",
       "venue": "IEEE Transactions on Signal Processing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Anchored desynchronization",
@@ -116,7 +134,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Computer Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Quantized consensus",
@@ -128,7 +148,9 @@
       ],
       "year": "2007",
       "venue": "Automatica",
-      "link": "https://doi.org/10.1016/j.automatica.2007.01.002"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.automatica.2007.01.002",
+      "other_link": null
     }
   }
 }

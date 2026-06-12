@@ -12,7 +12,9 @@
       ],
       "year": "2010",
       "venue": "USENIX Annual Technical Conference",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Fault tolerant Web service",
@@ -24,7 +26,9 @@
       ],
       "year": "2003",
       "venue": "Asia-Pacific Software Engineering Conference",
-      "link": "https://doi.org/10.1109/apsec.2003.1254385"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/apsec.2003.1254385",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Time, clocks, and the ordering of events in a distributed system",
@@ -33,7 +37,9 @@
       ],
       "year": "1978",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/359545.359563"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/359545.359563",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "The Chubby lock service for loosely-coupled distributed systems",
@@ -42,7 +48,9 @@
       ],
       "year": "2006",
       "venue": "Operating Systems Design and Implementation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "The part-time parliament",
@@ -51,7 +59,9 @@
       ],
       "year": "1998",
       "venue": "ACM Transactions on Computer Systems",
-      "link": "https://doi.org/10.1145/279227.279229"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/279227.279229",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Increasing Web Service Dependability Through Consensus Voting",
@@ -62,7 +72,9 @@
       ],
       "year": "2005",
       "venue": "Computer Software and Applications Conference",
-      "link": "https://doi.org/10.1109/compsac.2005.88"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/compsac.2005.88",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Zab: High-performance broadcast for primary-backup systems",
@@ -73,7 +85,9 @@
       ],
       "year": "2011",
       "venue": "Dependable Systems and Networks",
-      "link": "https://doi.org/10.1109/dsn.2011.5958223"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/dsn.2011.5958223",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "WS-replication: a framework for highly available web services",
@@ -85,7 +99,9 @@
       ],
       "year": "2006",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/1135777.1135831"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1135777.1135831",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "The Byzantine Generals Problem",
@@ -96,7 +112,9 @@
       ],
       "year": "1982",
       "venue": "ACM Transactions on Programming Languages and Systems",
-      "link": "https://doi.org/10.1145/2402.322398"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2402.322398",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Axis2-based Replication Middleware forWeb Services",
@@ -108,7 +126,9 @@
       ],
       "year": "2007",
       "venue": "International Conference on Web Services",
-      "link": "https://doi.org/10.1109/icws.2007.57"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icws.2007.57",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "A framework to support survivable Web services",
@@ -122,7 +142,9 @@
       ],
       "year": "2005",
       "venue": "International Parallel and Distributed Processing Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Practical Byzantine fault tolerance",
@@ -132,7 +154,9 @@
       ],
       "year": "1999",
       "venue": "Operating Systems Design and Implementation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Implementing fault-tolerant services using the state machine approach: a tutorial",
@@ -141,7 +165,9 @@
       ],
       "year": "1990",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/98163.98167"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/98163.98167",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Toward Trustworthy Coordination of Web Services Business Activities",
@@ -154,7 +180,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Services Computing",
-      "link": "https://doi.org/10.1109/tsc.2011.57"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tsc.2011.57",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Byzantine Fault-Tolerant Web Services for n-Tier and Service Oriented Architectures",
@@ -165,7 +193,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Distributed Computing Systems",
-      "link": "https://doi.org/10.1109/icdcs.2008.94"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdcs.2008.94",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Thema: Byzantine-fault-tolerant middleware for Web-service applications",
@@ -179,7 +209,9 @@
       ],
       "year": "2005",
       "venue": "Symposium on Reliable Distributed Systems",
-      "link": "https://doi.org/10.1109/reldis.2005.28"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/reldis.2005.28",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "BFT-WS: A Byzantine Fault Tolerance Framework for Web Services",
@@ -188,7 +220,9 @@
       ],
       "year": "2007",
       "venue": "Enterprise Distributed Object Computing",
-      "link": "https://doi.org/10.1109/edocw.2007.6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/edocw.2007.6",
+      "other_link": null
     }
   }
 }

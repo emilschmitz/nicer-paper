@@ -10,7 +10,9 @@
       ],
       "year": "1994",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": "https://doi.org/10.1007/978-1-4471-2099-5_24"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-1-4471-2099-5_24",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "On statistical analysis and optimization of information retrieval effectiveness metrics",
@@ -20,7 +22,9 @@
       ],
       "year": "2010",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Probabilistic models of indexing and searching",
@@ -31,7 +35,9 @@
       ],
       "year": "1980",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Relevance weighting of search terms",
@@ -41,7 +47,9 @@
       ],
       "year": "1976",
       "venue": "Journal of the Association for Information Science and Technology",
-      "link": "https://doi.org/10.1002/asi.4630270302"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/asi.4630270302",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Document Language Models, Query Models, and Risk Minimization for Information Retrieval",
@@ -51,7 +59,9 @@
       ],
       "year": "2001",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": "https://doi.org/10.1145/3130348.3130375"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3130348.3130375",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "On Relevance, Probabilistic Indexing and Information Retrieval",
@@ -61,7 +71,9 @@
       ],
       "year": "1960",
       "venue": "Journal of the ACM",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A language modeling approach to information retrieval",
@@ -71,7 +83,9 @@
       ],
       "year": "1998",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "The Probabilistic Relevance Framework",
@@ -81,7 +95,9 @@
       ],
       "year": "2009",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

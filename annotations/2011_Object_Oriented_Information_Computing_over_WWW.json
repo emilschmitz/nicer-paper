@@ -12,7 +12,9 @@
       ],
       "year": "2004",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1016/b978-012088469-8.50038-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/b978-012088469-8.50038-3",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Wrapper induction for information extraction",
@@ -22,7 +24,9 @@
       ],
       "year": "1997",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "XRANK: ranked keyword search over XML documents",
@@ -34,7 +38,9 @@
       ],
       "year": "2003",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/872757.872762"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/872757.872762",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Mining data records in Web pages",
@@ -45,7 +51,9 @@
       ],
       "year": "2003",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/956750.956826"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/956750.956826",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Discovering complex matchings across web query interfaces: a correlation mining approach",
@@ -56,7 +64,9 @@
       ],
       "year": "2004",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/1014052.1014071"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1014052.1014071",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Object-level ranking: bringing order to Web objects",
@@ -68,7 +78,9 @@
       ],
       "year": "2005",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/1060745.1060828"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1060745.1060828",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Learning domain-independent string transformation weights for high accuracy object identification",
@@ -79,7 +91,9 @@
       ],
       "year": "2002",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/775047.775099"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/775047.775099",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Link fusion: a unified link analysis framework for multi-type interrelated data objects",
@@ -94,7 +108,9 @@
       ],
       "year": "2004",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/988672.988715"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/988672.988715",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Authoritative sources in a hyperlinked environment",
@@ -103,7 +119,9 @@
       ],
       "year": "1999",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/324133.324140"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/324133.324140",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Block-level link analysis",
@@ -115,7 +133,9 @@
       ],
       "year": "2004",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": "https://doi.org/10.1145/1008992.1009068"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1008992.1009068",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
@@ -126,7 +146,9 @@
       ],
       "year": "2001",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Learning block importance models for web pages",
@@ -138,7 +160,9 @@
       ],
       "year": "2004",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/988672.988700"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/988672.988700",
+      "other_link": null
     }
   }
 }

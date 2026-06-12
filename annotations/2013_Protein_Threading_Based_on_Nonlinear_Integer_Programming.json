@@ -10,7 +10,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Data Structures and Algorithms",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Computability of global solutions to factorable nonconvex programs: Part I — Convex underestimating problems",
@@ -19,7 +21,9 @@
       ],
       "year": "1976",
       "venue": "Mathematical Programming",
-      "link": "https://doi.org/10.1007/bf01580665"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bf01580665",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "A new linearization method for quadratic assignment problems",
@@ -29,7 +33,9 @@
       ],
       "year": "2006",
       "venue": "Optimization Methods & Software",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Linear forms of nonlinear expressions: New insights on old ideas",
@@ -39,7 +45,9 @@
       ],
       "year": "2007",
       "venue": "Operations Research Letters",
-      "link": "https://doi.org/10.1016/j.orl.2006.08.008"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.orl.2006.08.008",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Technical Note-Converting the 0-1 Polynomial Programming Problem to a 0-1 Linear Program",
@@ -49,7 +57,9 @@
       ],
       "year": "1974",
       "venue": "Operations Research",
-      "link": "https://doi.org/10.1287/opre.22.1.180"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1287/opre.22.1.180",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Jointly Constrained Biconvex Programming",
@@ -59,7 +69,9 @@
       ],
       "year": "1983",
       "venue": "Mathematics of Operations Research",
-      "link": "https://doi.org/10.1287/moor.8.2.273"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1287/moor.8.2.273",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Further Reduction of Zero-One Polynomial Programming Problems to Zero-One linear Programming Problems",
@@ -69,7 +81,9 @@
       ],
       "year": "1973",
       "venue": "Operations Research",
-      "link": "https://doi.org/10.1287/opre.21.1.156"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1287/opre.21.1.156",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "An improved linearization strategy for zero-one quadratic programming problems",
@@ -79,7 +93,9 @@
       ],
       "year": "2006",
       "venue": "Optimization Letters",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A new linearization technique for multi-quadratic 0-1 programming problems",
@@ -90,7 +106,9 @@
       ],
       "year": "2004",
       "venue": "Operations Research Letters",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "A linearization procedure for quadratic and cubic mixed-integer problems",
@@ -100,7 +118,9 @@
       ],
       "year": "1992",
       "venue": "Operations Research",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Comparisons and enhancement strategies for linearizing mixed 0-1 quadratic programs",
@@ -111,7 +131,9 @@
       ],
       "year": "2004",
       "venue": "Discrete Optimization",
-      "link": "https://doi.org/10.1016/j.disopt.2004.03.006"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.disopt.2004.03.006",
+      "other_link": null
     }
   }
 }

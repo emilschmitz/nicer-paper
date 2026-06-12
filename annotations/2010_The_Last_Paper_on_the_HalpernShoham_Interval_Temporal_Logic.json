@@ -10,7 +10,9 @@
       ],
       "year": "2010",
       "venue": "Computer Science Logic",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Sharpening the Undecidability of Interval Temporal Logic",
@@ -19,7 +21,9 @@
       ],
       "year": "2000",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/3-540-44464-5_21"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-44464-5_21",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Optimal Tableaux for Right Propositional Neighborhood Logic over Linear Orders",
@@ -31,7 +35,9 @@
       ],
       "year": "2008",
       "venue": "European Conference on Logics in Artificial Intelligence",
-      "link": "https://doi.org/10.1007/978-3-540-87803-2_7"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-87803-2_7",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "A decidable spatial logic with cone-shaped cardinal directions",
@@ -42,7 +48,9 @@
       ],
       "year": "2009",
       "venue": "Computer Science Logic",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Decidable and Undecidable Fragments of Halpern and Shoham's Interval Temporal Logic: Towards a Complete Classification",
@@ -55,7 +63,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Logic Programming",
-      "link": "https://doi.org/10.1007/978-3-540-89439-1_41"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-89439-1_41",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A propositional modal logic of time intervals",
@@ -65,7 +75,9 @@
       ],
       "year": "1991",
       "venue": "Journal of the ACM",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A Road Map of Interval Temporal Logics and Duration Calculi",
@@ -76,7 +88,9 @@
       ],
       "year": "2004",
       "venue": "Journal of Applied Non-Classical Logics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Undecidability of Interval Temporal Logics with the Overlap Modality",
@@ -89,7 +103,9 @@
       ],
       "year": "2009",
       "venue": "International Symposium on Temporal Representation and Reasoning",
-      "link": "https://doi.org/10.1109/time.2009.24"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/time.2009.24",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Undecidability of the Logic of Overlap Relation over Discrete Linear Orderings",
@@ -102,7 +118,9 @@
       ],
       "year": "2010",
       "venue": "Electronic Notes in Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/j.entcs.2010.04.006"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.entcs.2010.04.006",
+      "other_link": null
     }
   }
 }

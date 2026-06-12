@@ -11,7 +11,9 @@
       ],
       "year": "2006",
       "venue": "Advanced Data Mining and Applications",
-      "link": "https://doi.org/10.1007/11811305_48"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11811305_48",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Efficient Adaptive-Support Association Rule Mining for Recommender Systems",
@@ -22,7 +24,9 @@
       ],
       "year": "2002",
       "venue": "Data Mining and Knowledge Discovery",
-      "link": "https://doi.org/10.1023/a:1013284820704"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1013284820704",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Adaptive Intrusion Detection: A Data Mining Approach",
@@ -33,7 +37,9 @@
       ],
       "year": "2000",
       "venue": "Artificial Intelligence Review",
-      "link": "https://doi.org/10.1023/a:1006624031083"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1006624031083",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Mining top-k high utility patterns over data streams",
@@ -43,7 +49,9 @@
       ],
       "year": "2014",
       "venue": "Information Sciences",
-      "link": "https://doi.org/10.1016/j.ins.2014.01.045"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ins.2014.01.045",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Top- k high utility pattern mining with effective threshold raising strategies",
@@ -53,7 +61,9 @@
       ],
       "year": "2015",
       "venue": "Knowledge Based Systems",
-      "link": "https://doi.org/10.1016/j.knosys.2014.12.010"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.knosys.2014.12.010",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Mining frequent itemsets without support threshold: with and without item constraints",
@@ -63,7 +73,9 @@
       ],
       "year": "2004",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/tkde.2004.44"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tkde.2004.44",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Efficiently Mining Top-K High Utility Sequential Patterns",
@@ -76,7 +88,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Data Mining",
-      "link": "https://doi.org/10.1109/icdm.2013.148"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdm.2013.148",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Efficient Algorithms for Mining High Utility Itemsets from Transactional Databases",
@@ -88,7 +102,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/tkde.2012.59"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tkde.2012.59",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Mining frequent patterns without candidate generation",
@@ -99,7 +115,9 @@
       ],
       "year": "2000",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1109/fskd.2007.402"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/fskd.2007.402",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Effective personalization based on association rule discovery from web usage data",
@@ -111,7 +129,9 @@
       ],
       "year": "2001",
       "venue": "Web Information and Data Management",
-      "link": "https://doi.org/10.1145/502932.502935"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/502932.502935",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Pruning strategies for mining high utility itemsets",
@@ -120,7 +140,9 @@
       ],
       "year": "2015",
       "venue": "Expert Systems With Applications",
-      "link": "https://doi.org/10.1016/j.eswa.2014.11.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.eswa.2014.11.001",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "FHM: Faster High-Utility Itemset Mining Using Estimated Utility Co-occurrence Pruning",
@@ -132,7 +154,9 @@
       ],
       "year": "2014",
       "venue": "International Syposium on Methodologies for Intelligent Systems",
-      "link": "https://doi.org/10.1007/978-3-319-08326-1_9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-08326-1_9",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Scalable algorithms for association mining",
@@ -141,7 +165,9 @@
       ],
       "year": "2000",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/69.846291"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/69.846291",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "DynaMine: finding common error patterns by mining software revision histories",
@@ -151,7 +177,9 @@
       ],
       "year": "2005",
       "venue": "Foundations of Software Engineering",
-      "link": "https://doi.org/10.1145/1081706.1081754"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1081706.1081754",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "A two-phase algorithm for fast discovery of high utility itemsets",
@@ -162,7 +190,9 @@
       ],
       "year": "2005",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Opinion observer: analyzing and comparing opinions on the Web",
@@ -173,7 +203,9 @@
       ],
       "year": "2005",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/1060745.1060797"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1060745.1060797",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "UP-Growth: an efficient algorithm for high utility itemset mining",
@@ -185,7 +217,9 @@
       ],
       "year": "2010",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/1835804.1835839"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1835804.1835839",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Efficient Tree Structures for High Utility Pattern Mining in Incremental Databases",
@@ -197,7 +231,9 @@
       ],
       "year": "2009",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/tkde.2009.46"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tkde.2009.46",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Mining high utility itemsets without candidate generation",
@@ -207,7 +243,9 @@
       ],
       "year": "2012",
       "venue": "Conference on Information and Knowledge Management",
-      "link": "https://doi.org/10.1145/2396761.2396773"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2396761.2396773",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Mining top-K high utility itemsets",
@@ -219,7 +257,9 @@
       ],
       "year": "2012",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1109/icdm.2003.1250893"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdm.2003.1250893",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Mining top − k frequent patterns without minimum support threshold",
@@ -229,7 +269,9 @@
       ],
       "year": "2012",
       "venue": "Knowledge and Information Systems",
-      "link": "https://doi.org/10.1007/s10115-010-0363-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10115-010-0363-3",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Efficient Algorithms for Mining Top-K High Utility Itemsets",
@@ -241,7 +283,9 @@
       ],
       "year": "2016",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/tkde.2015.2458860"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tkde.2015.2458860",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "An efficient algorithm for mining the top-k high utility itemsets, using novel threshold raising and pruning strategies",
@@ -253,7 +297,9 @@
       ],
       "year": "2016",
       "venue": "Knowledge Based Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "An efficient algorithm to mine high average-utility itemsets",
@@ -267,7 +313,9 @@
       ],
       "year": "2016",
       "venue": "Advanced Engineering Informatics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Efficiently mining uncertain high-utility itemsets",
@@ -280,7 +328,9 @@
       ],
       "year": "2017",
       "venue": "Soft Computing",
-      "link": "https://doi.org/10.1007/s00500-016-2159-1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00500-016-2159-1",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "EFIM: A Highly Efficient Algorithm for High-Utility Itemset Mining",
@@ -293,7 +343,9 @@
       ],
       "year": "2015",
       "venue": "Mexican International Conference on Artificial Intelligence",
-      "link": "https://doi.org/10.1007/978-3-319-27060-9_44"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-27060-9_44",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Efficient Mining of High Average-Utility Itemsets with Multiple Minimum Thresholds",
@@ -306,7 +358,9 @@
       ],
       "year": "2016",
       "venue": "Industrial Conference on Data Mining",
-      "link": "https://doi.org/10.1007/978-3-319-41561-1_2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-41561-1_2",
+      "other_link": null
     },
     "BIBREF27": {
       "title": "FHN: An efficient algorithm for mining high-utility itemsets with negative unit profits",
@@ -317,7 +371,9 @@
       ],
       "year": "2016",
       "venue": "Knowledge Based Systems",
-      "link": "https://doi.org/10.1007/978-3-319-14717-8_2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-14717-8_2",
+      "other_link": null
     },
     "BIBREF28": {
       "title": "EFIM: a fast and memory efficient algorithm for high-utility itemset mining",
@@ -330,7 +386,9 @@
       ],
       "year": "2017",
       "venue": "Knowledge and Information Systems",
-      "link": "https://doi.org/10.1007/s10115-016-0986-0"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10115-016-0986-0",
+      "other_link": null
     },
     "BIBREF29": {
       "title": "An efficient algorithm for mining top-k on-shelf high utility itemsets",
@@ -342,7 +400,9 @@
       ],
       "year": "2017",
       "venue": "Knowledge and Information Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Mining High-Utility Itemsets with Both Positive and Negative Unit Profits from Uncertain Databases",
@@ -355,7 +415,9 @@
       ],
       "year": "2017",
       "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1007/978-3-319-57454-7_34"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-57454-7_34",
+      "other_link": null
     },
     "BIBREF32": {
       "title": "Mining top-k high-utility itemsets from a data stream under sliding window model",
@@ -366,7 +428,9 @@
       ],
       "year": "2017",
       "venue": "Applied Intelligence",
-      "link": "https://doi.org/10.1007/s10489-017-0939-7"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10489-017-0939-7",
+      "other_link": null
     },
     "BIBREF33": {
       "title": "HMiner: Efficiently mining high utility itemsets",
@@ -375,7 +439,9 @@
       ],
       "year": "2017",
       "venue": "Expert Systems With Applications",
-      "link": "https://doi.org/10.1016/j.eswa.2017.08.028"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.eswa.2017.08.028",
+      "other_link": null
     },
     "BIBREF34": {
       "title": "Extracting useful knowledge from event logs: A frequent itemset mining approach",
@@ -386,7 +452,9 @@
       ],
       "year": "2018",
       "venue": "Knowledge Based Systems",
-      "link": "https://doi.org/10.1016/j.knosys.2017.10.016"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.knosys.2017.10.016",
+      "other_link": null
     }
   }
 }

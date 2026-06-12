@@ -13,7 +13,9 @@
       ],
       "year": "2012",
       "venue": "Operating Systems Design and Implementation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "G+: Recursive Queries Without Recursion.",
@@ -24,7 +26,9 @@
       ],
       "year": "1988",
       "venue": "Expert Database Conf.",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "GraphDB: Modeling and Querying Graphs in Databases",
@@ -33,7 +37,9 @@
       ],
       "year": "1994",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Factoring Augmented Regular Chain Programs",
@@ -42,7 +48,9 @@
       ],
       "year": "1990",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "DBMS with graph data model for knowledge handling",
@@ -51,7 +59,9 @@
       ],
       "year": "1987",
       "venue": "Fall joint computer conference",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Typing Graph-Manipulation Operations",
@@ -60,7 +70,9 @@
       ],
       "year": "2003",
       "venue": "International Conference on Database Theory",
-      "link": "https://doi.org/10.1007/3-540-36285-1_26"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-36285-1_26",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Querying complex graphs",
@@ -70,7 +82,9 @@
       ],
       "year": "2006",
       "venue": "Practical Aspects of Declarative Languages",
-      "link": "https://doi.org/10.1007/11603023_14"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11603023_14",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Querying Semi-Structured Data",
@@ -79,7 +93,9 @@
       ],
       "year": "1997",
       "venue": "International Conference on Database Theory",
-      "link": "https://doi.org/10.1007/3-540-62222-5_33"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-62222-5_33",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "An Object-Oriented Pattern Matching Language",
@@ -89,7 +105,9 @@
       ],
       "year": "1993",
       "venue": "Proceedings of the First JSSST International Symposium on Object Technologies for Advanced Software",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Semantic Integration and Querying of Heterogeneous Data Sources Using a Hypergraph Data Model",
@@ -98,7 +116,9 @@
       ],
       "year": "2002",
       "venue": "British National Conference on Databases",
-      "link": "https://doi.org/10.1007/3-540-45495-0_19"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45495-0_19",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Database Graph Views: A Practical Model to Manage Persistent Graphs",
@@ -110,7 +130,9 @@
       ],
       "year": "1994",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A discussion on the design of graph database benchmarks",
@@ -123,7 +145,9 @@
       ],
       "year": "2010",
       "venue": "TPC Technology Conference",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Bipartite graphs as intermediate model for RDF",
@@ -133,7 +157,9 @@
       ],
       "year": "2004",
       "venue": "International Semantic Web Conference",
-      "link": "https://doi.org/10.1007/978-3-540-30475-3_5"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-30475-3_5",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "The TSIMMIS Approach to Mediation: Data Models and Languages",
@@ -149,7 +175,9 @@
       ],
       "year": "1997",
       "venue": "Next Generation Information Technologies and Systems",
-      "link": "https://doi.org/10.1023/a:1008683107812"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1008683107812",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "HyperGraphDB: a generalized graph database",
@@ -158,7 +186,9 @@
       ],
       "year": "2010",
       "venue": "Web-Age Information Management",
-      "link": "https://doi.org/10.1007/978-3-642-16720-1_3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-16720-1_3",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "GraphChi: large-scale graph computation on just a PC",
@@ -169,7 +199,9 @@
       ],
       "year": "2012",
       "venue": "Operating Systems Design and Implementation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Concepts for Graph-Oriented Object Manipulation",
@@ -182,7 +214,9 @@
       ],
       "year": "1992",
       "venue": "Extending Database Technology",
-      "link": "https://doi.org/10.1007/bfb0032421"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0032421",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "NoSQL Databases for RDF: An Empirical Evaluation",
@@ -200,7 +234,9 @@
       ],
       "year": "2013",
       "venue": "International Semantic Web Conference",
-      "link": "https://doi.org/10.1007/978-3-642-41338-4_20"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-41338-4_20",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "A Brief Study of Open Source Graph Databases",
@@ -213,7 +249,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Databases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF19": {
       "title": "GPS: a graph processing system",
@@ -223,7 +261,9 @@
       ],
       "year": "2013",
       "venue": "Statistical and Scientific Database Management",
-      "link": "https://doi.org/10.1145/2484838.2484843"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2484838.2484843",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Expressing structural hypertext queries in graphlog",
@@ -233,7 +273,9 @@
       ],
       "year": "1989",
       "venue": "ACM Conference on Hypertext",
-      "link": "https://doi.org/10.1145/74224.74247"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/74224.74247",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "UnQL: a query language and algebra for semistructured data based on structural recursion",
@@ -244,7 +286,9 @@
       ],
       "year": "2000",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1007/s007780050084"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s007780050084",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "A graphical query language supporting recursion",
@@ -255,7 +299,9 @@
       ],
       "year": "1987",
       "venue": "International Conference on Management of Data",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "GraphX: a resilient distributed graph system on Spark",
@@ -267,7 +313,9 @@
       ],
       "year": "2013",
       "venue": "First International Workshop on Graph Data Management Experiences and Systems",
-      "link": "https://doi.org/10.1145/2484425.2484427"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2484425.2484427",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "TurboGraph: a fast parallel graph engine handling billion-scale graphs in a single PC",
@@ -282,7 +330,9 @@
       ],
       "year": "2013",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/2487575.2487581"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2487575.2487581",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Partially ordered regular languages for graph queries",
@@ -292,7 +342,9 @@
       ],
       "year": "2005",
       "venue": "Journal of Computer and System Sciences",
-      "link": "https://doi.org/10.1007/3-540-48523-6_29"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-48523-6_29",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Gram: a graph data model and query languages",
@@ -302,7 +354,9 @@
       ],
       "year": "1992",
       "venue": "ACM Conference on Hypertext",
-      "link": "https://doi.org/10.1145/168466.168527"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/168466.168527",
+      "other_link": null
     },
     "BIBREF27": {
       "title": "GraphLog: a visual formalism for real life recursion",
@@ -312,7 +366,9 @@
       ],
       "year": "1990",
       "venue": "Symposium on Principles of Database Systems",
-      "link": "https://doi.org/10.1145/298514.298591"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/298514.298591",
+      "other_link": null
     },
     "BIBREF28": {
       "title": "Catch the Wind: Graph workload balancing on cloud",
@@ -322,7 +378,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Data Engineering",
-      "link": "https://doi.org/10.1109/icde.2013.6544855"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icde.2013.6544855",
+      "other_link": null
     },
     "BIBREF29": {
       "title": "The RDF-3X engine for scalable management of RDF data",
@@ -332,7 +390,9 @@
       ],
       "year": "2010",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1007/s00778-009-0165-y"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00778-009-0165-y",
+      "other_link": null
     },
     "BIBREF30": {
       "title": "A new approach to database logic",
@@ -342,7 +402,9 @@
       ],
       "year": "1984",
       "venue": "Symposium on Principles of Database Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Benchmarking Traversal Operations over Graph Databases",
@@ -353,7 +415,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Data Engineering",
-      "link": "https://doi.org/10.1109/icdew.2012.47"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdew.2012.47",
+      "other_link": null
     },
     "BIBREF32": {
       "title": "A data model for flexible hypertext database systems",
@@ -362,7 +426,9 @@
       ],
       "year": "1989",
       "venue": "ACM Transactions on Information Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF33": {
       "title": "An object-oriented data model formalised through hypergraphs",
@@ -372,7 +438,9 @@
       ],
       "year": "1991",
       "venue": "Data and Knowledge Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF34": {
       "title": "Regular languages with variables on graphs",
@@ -381,7 +449,9 @@
       ],
       "year": "2012",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1016/j.ic.2011.10.010"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ic.2011.10.010",
+      "other_link": null
     },
     "BIBREF35": {
       "title": "Graph-theoretic methods in database theory",
@@ -390,7 +460,9 @@
       ],
       "year": "1990",
       "venue": "Symposium on Principles of Database Systems",
-      "link": "https://doi.org/10.1145/298514.298576"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/298514.298576",
+      "other_link": null
     },
     "BIBREF36": {
       "title": "A nested-graph model for the representation and manipulation of complex objects",
@@ -400,7 +472,9 @@
       ],
       "year": "1994",
       "venue": "ACM Transactions on Information Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF37": {
       "title": "Optimizing schema-last tuple-store queries in graphd",
@@ -412,7 +486,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/1807167.1807283"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1807167.1807283",
+      "other_link": null
     },
     "BIBREF38": {
       "title": "TripleBit: a fast and compact system for large scale RDF data",
@@ -426,7 +502,9 @@
       ],
       "year": "2013",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.14778/2536349.2536352"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.14778/2536349.2536352",
+      "other_link": null
     },
     "BIBREF39": {
       "title": "imGraph: A Distributed In-Memory Graph Database",
@@ -436,7 +514,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Social Computing",
-      "link": "https://doi.org/10.1109/socialcom.2013.109"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/socialcom.2013.109",
+      "other_link": null
     },
     "BIBREF40": {
       "title": "Adjacency queries in dynamic sparse graphs",
@@ -445,7 +525,9 @@
       ],
       "year": "2007",
       "venue": "Information Processing Letters",
-      "link": "https://doi.org/10.1016/j.ipl.2006.12.006"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ipl.2006.12.006",
+      "other_link": null
     },
     "BIBREF41": {
       "title": "Regular Path Queries with Constraints",
@@ -455,7 +537,9 @@
       ],
       "year": "1999",
       "venue": "Journal of Computer and System Sciences",
-      "link": "https://doi.org/10.1145/263661.263676"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/263661.263676",
+      "other_link": null
     },
     "BIBREF42": {
       "title": "Scaling Semantic Graph Databases in Size and Performance",
@@ -471,7 +555,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Micro",
-      "link": "https://doi.org/10.1109/mm.2014.39"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mm.2014.39",
+      "other_link": null
     },
     "BIBREF43": {
       "title": "The functional data model and the data language DAPLEX",
@@ -480,7 +566,9 @@
       ],
       "year": "1979",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/582095.582105"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/582095.582105",
+      "other_link": null
     },
     "BIBREF44": {
       "title": "A transient hypergraph-based model for data access",
@@ -490,7 +578,9 @@
       ],
       "year": "1990",
       "venue": "ACM Transactions on Information Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF45": {
       "title": "How Well Do Graph-Processing Platforms Perform? An Empirical Performance Evaluation and Analysis",
@@ -504,7 +594,9 @@
       ],
       "year": "2014",
       "venue": "International Parallel and Distributed Processing Symposium",
-      "link": "https://doi.org/10.1109/ipdps.2014.49"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ipdps.2014.49",
+      "other_link": null
     },
     "BIBREF46": {
       "title": "Using semantic networks for data base management",
@@ -514,7 +606,9 @@
       ],
       "year": "1975",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1145/1282480.1282490"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1282480.1282490",
+      "other_link": null
     },
     "BIBREF47": {
       "title": "An evaluation study of BigData frameworks for graph processing",
@@ -524,7 +618,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Big Data",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF48": {
       "title": "Shortest path and distance queries on road networks: towards bridging theory and practice",
@@ -538,7 +634,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Management of Data",
-      "link": "https://arxiv.org/abs/1304.2576"
+      "arxiv_link": "https://arxiv.org/abs/1304.2576",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF49": {
       "title": "The Lorel Query Language for Semistructured Data",
@@ -551,7 +649,9 @@
       ],
       "year": "1997",
       "venue": "International Journal on Digital Libraries",
-      "link": "https://doi.org/10.1007/s007990050005"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s007990050005",
+      "other_link": null
     },
     "BIBREF50": {
       "title": "Graphs-at-a-time: query language and access methods for graph databases",
@@ -561,7 +661,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/1376616.1376660"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1376616.1376660",
+      "other_link": null
     },
     "BIBREF51": {
       "title": "THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION",
@@ -573,7 +675,9 @@
       ],
       "year": "2004",
       "venue": "International Journal of Pattern Recognition and Artificial Intelligence",
-      "link": "https://doi.org/10.1142/s0218001404003228"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1142/s0218001404003228",
+      "other_link": null
     },
     "BIBREF52": {
       "title": "SAGA: a subgraph matching tool for biological graphs",
@@ -586,7 +690,9 @@
       ],
       "year": "2007",
       "venue": "Bioinformatics",
-      "link": "https://doi.org/10.1093/bioinformatics/btl571"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1093/bioinformatics/btl571",
+      "other_link": null
     },
     "BIBREF53": {
       "title": "Survey of graph database models",
@@ -596,7 +702,9 @@
       ],
       "year": "2008",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/1322432.1322433"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1322432.1322433",
+      "other_link": null
     },
     "BIBREF54": {
       "title": "A graph-based data model and its ramifications",
@@ -606,7 +714,9 @@
       ],
       "year": "1995",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF55": {
       "title": "Expressive Languages for Path Queries over Graph-Structured Data",
@@ -618,7 +728,9 @@
       ],
       "year": "2012",
       "venue": "ACM Transactions on Database Systems",
-      "link": "https://doi.org/10.1145/2389241.2389250"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2389241.2389250",
+      "other_link": null
     },
     "BIBREF56": {
       "title": "The hypernode model and its associated query language",
@@ -628,7 +740,9 @@
       ],
       "year": "1990",
       "venue": "Proceedings of the 5th Jerusalem Conference on Information Technology, 1990. 'Next Decade in Information Technology'",
-      "link": "https://doi.org/10.1109/jcit.1990.128324"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/jcit.1990.128324",
+      "other_link": null
     },
     "BIBREF57": {
       "title": "Object exchange across heterogeneous information sources",
@@ -639,7 +753,9 @@
       ],
       "year": "1995",
       "venue": "International Conference on Data Engineering",
-      "link": "https://doi.org/10.1109/icde.1995.380386"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icde.1995.380386",
+      "other_link": null
     },
     "BIBREF58": {
       "title": "Constructions from dots and lines",
@@ -649,7 +765,9 @@
       ],
       "year": "2010",
       "venue": "Bulletin of The American Society for Information Science and Technology",
-      "link": "https://arxiv.org/abs/1006.2361"
+      "arxiv_link": "https://arxiv.org/abs/1006.2361",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF59": {
       "title": "gStore: a graph-based SPARQL query engine",
@@ -663,7 +781,9 @@
       ],
       "year": "2014",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1007/s00778-013-0337-7"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00778-013-0337-7",
+      "other_link": null
     },
     "BIBREF60": {
       "title": "Survey of graph database performance on the HPC scalable graph analysis benchmark",
@@ -677,7 +797,9 @@
       ],
       "year": "2010",
       "venue": "Web-Age Information Management",
-      "link": "https://doi.org/10.1007/978-3-642-16720-1_4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-16720-1_4",
+      "other_link": null
     },
     "BIBREF61": {
       "title": "Goal, a Graph-Based Object and Association Language",
@@ -687,7 +809,9 @@
       ],
       "year": "1994",
       "venue": "Advances in database systems: implementations and applications",
-      "link": "https://doi.org/10.1007/978-3-7091-2704-9_13"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-7091-2704-9_13",
+      "other_link": null
     },
     "BIBREF62": {
       "title": "G-Log: a graph-based query language",
@@ -698,7 +822,9 @@
       ],
       "year": "1995",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/69.390249"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/69.390249",
+      "other_link": null
     },
     "BIBREF63": {
       "title": "Hy+: a Hygraph-based query and visualization system",
@@ -708,7 +834,9 @@
       ],
       "year": "1993",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/170035.171537"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/170035.171537",
+      "other_link": null
     },
     "BIBREF64": {
       "title": "Querying graph databases with XPath",
@@ -719,7 +847,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Database Theory",
-      "link": "https://doi.org/10.1145/2448496.2448513"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2448496.2448513",
+      "other_link": null
     },
     "BIBREF65": {
       "title": "A graph-theoretic data model for genome mapping databases",
@@ -730,7 +860,9 @@
       ],
       "year": "1995",
       "venue": "Hawaii International Conference on System Sciences",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF66": {
       "title": "Graph pattern matching revised for social network analysis",
@@ -739,7 +871,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Database Theory",
-      "link": "https://doi.org/10.1145/2274576.2274578"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2274576.2274578",
+      "other_link": null
     },
     "BIBREF67": {
       "title": "A Spatial Logic for Querying Graphs",
@@ -750,7 +884,9 @@
       ],
       "year": "2002",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF68": {
       "title": "Finding Regular Simple Paths in Graph Databases",
@@ -760,7 +896,9 @@
       ],
       "year": "1995",
       "venue": "SIAM Journal on Computing",
-      "link": "https://doi.org/10.1137/s009753979122370x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/s009753979122370x",
+      "other_link": null
     },
     "BIBREF69": {
       "title": "A graph-oriented object database model",
@@ -772,7 +910,9 @@
       ],
       "year": "1994",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF70": {
       "title": "Scalable semantic web data management using vertical partitioning",
@@ -784,7 +924,9 @@
       ],
       "year": "2007",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF71": {
       "title": "GRAS, a graph oriented (software) engineering database system",
@@ -795,7 +937,9 @@
       ],
       "year": "1995",
       "venue": "Information Systems",
-      "link": "https://doi.org/10.1016/0306-4379(95)00002-l"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0306-4379(95)00002-l",
+      "other_link": null
     },
     "BIBREF72": {
       "title": "SoQL: A Language for Querying and Creating Data in Social Networks",
@@ -805,7 +949,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Data Engineering",
-      "link": "https://doi.org/10.1109/icde.2009.172"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icde.2009.172",
+      "other_link": null
     },
     "BIBREF73": {
       "title": "O2, an object-oriented data model",
@@ -816,7 +962,9 @@
       ],
       "year": "1988",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/50202.50253"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/50202.50253",
+      "other_link": null
     },
     "BIBREF74": {
       "title": "Query languages for graph databases",
@@ -825,7 +973,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/2206869.2206879"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2206869.2206879",
+      "other_link": null
     },
     "BIBREF75": {
       "title": "Horton+: a distributed system for processing declarative reachability queries over partitioned graphs",
@@ -837,7 +987,9 @@
       ],
       "year": "2013",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.14778/2556549.2556573"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.14778/2556549.2556573",
+      "other_link": null
     },
     "BIBREF76": {
       "title": "Regular Queries on Graph Databases",
@@ -848,7 +1000,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Database Theory",
-      "link": "https://doi.org/10.4230/lipics.icdt.2015.177"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.4230/lipics.icdt.2015.177",
+      "other_link": null
     },
     "BIBREF77": {
       "title": "Trinity: a distributed graph engine on a memory cloud",
@@ -859,7 +1013,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/2463676.2467799"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2463676.2467799",
+      "other_link": null
     },
     "BIBREF78": {
       "title": "A Comparison of Current Graph Database Models",
@@ -868,7 +1024,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Data Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF79": {
       "title": "Systems for big-graphs",
@@ -878,7 +1036,9 @@
       ],
       "year": "2014",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.14778/2733004.2733067"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.14778/2733004.2733067",
+      "other_link": null
     },
     "BIBREF80": {
       "title": "A relational model of data for large shared data banks",
@@ -887,7 +1047,9 @@
       ],
       "year": "1970",
       "venue": "Communications of The ACM",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF81": {
       "title": "PEGASUS: A Peta-Scale Graph Mining System Implementation and Observations",
@@ -898,7 +1060,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Data Mining",
-      "link": "https://doi.org/10.1109/icdm.2009.14"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdm.2009.14",
+      "other_link": null
     },
     "BIBREF82": {
       "title": "An Empirical Comparison of Graph Databases",
@@ -908,7 +1072,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Social Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF83": {
       "title": "Pregel: a system for large-scale graph processing",
@@ -923,7 +1089,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/1807167.1807184"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1807167.1807184",
+      "other_link": null
     },
     "BIBREF84": {
       "title": "A distributed graph engine for web scale RDF data",
@@ -936,7 +1104,9 @@
       ],
       "year": "2013",
       "venue": "Very Large Data Bases",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF85": {
       "title": "Semistructured data",
@@ -945,7 +1115,9 @@
       ],
       "year": "1997",
       "venue": "Symposium on Principles of Database Systems",
-      "link": "https://doi.org/10.1007/978-3-642-54798-0_4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-54798-0_4",
+      "other_link": null
     },
     "BIBREF86": {
       "title": "Supporting conceptual and neighborhood queries on the World Wide Web",
@@ -955,7 +1127,9 @@
       ],
       "year": "1998",
       "venue": "Systems, Man and Cybernetics",
-      "link": "https://doi.org/10.1109/5326.669578"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/5326.669578",
+      "other_link": null
     },
     "BIBREF87": {
       "title": "A Practical Query Language for Graph DBs",
@@ -966,7 +1140,9 @@
       ],
       "year": "2013",
       "venue": "AMW",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF88": {
       "title": "Foundations of Modern Query Languages for Graph Databases",
@@ -980,7 +1156,9 @@
       ],
       "year": "2017",
       "venue": "ACM Computing Surveys",
-      "link": "https://arxiv.org/abs/1610.06264"
+      "arxiv_link": "https://arxiv.org/abs/1610.06264",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF89": {
       "title": "Matching Structure and Semantics: A Survey on Graph-Based Pattern Matching.",
@@ -989,7 +1167,9 @@
       ],
       "year": "2006",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

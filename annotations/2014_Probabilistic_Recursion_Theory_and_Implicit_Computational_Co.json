@@ -9,7 +9,9 @@
       ],
       "year": "2000",
       "venue": "",
-      "link": "https://doi.org/10.1093/logcom/12.3.543-a"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1093/logcom/12.3.543-a",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Lambda calculus characterizations of poly-time",
@@ -19,7 +21,9 @@
       ],
       "year": "1993",
       "venue": "International Conference on Typed Lambda Calculi and Applications",
-      "link": "https://doi.org/10.1007/bfb0037112"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0037112",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Light linear logic",
@@ -28,7 +32,9 @@
       ],
       "year": "1998",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1006/inco.1998.2700"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1006/inco.1998.2700",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Finite automata and their decision problems",
@@ -38,7 +44,9 @@
       ],
       "year": "1959",
       "venue": "Ibm Journal of Research and Development",
-      "link": "https://doi.org/10.1147/rd.32.0114"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1147/rd.32.0114",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Computational Complexity of Probabilistic Turing Machines",
@@ -47,7 +55,9 @@
       ],
       "year": "1977",
       "venue": "SIAM Journal on Computing",
-      "link": "https://doi.org/10.1137/0206049"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/0206049",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A new recursion-theoretic characterization of the polytime functions",
@@ -57,7 +67,9 @@
       ],
       "year": "1992",
       "venue": "Computational Complexity",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A Higher-Order Characterization of Probabilistic Polynomial Time",
@@ -67,7 +79,9 @@
       ],
       "year": "2015",
       "venue": "Information & Computation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Probabilistic automata",
@@ -76,7 +90,9 @@
       ],
       "year": "2003",
       "venue": "Encyclopedia of Computer Science",
-      "link": "https://doi.org/10.1145/800161.805165"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/800161.805165",
+      "other_link": null
     }
   }
 }

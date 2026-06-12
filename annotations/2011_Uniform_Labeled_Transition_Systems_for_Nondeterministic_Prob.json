@@ -11,7 +11,9 @@
       ],
       "year": "2009",
       "venue": "",
-      "link": "https://doi.org/10.1007/978-1-84800-223-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-1-84800-223-4",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Equivalences, Congruences, and Complete Axiomatizations for Probabilistic Processes",
@@ -21,7 +23,9 @@
       ],
       "year": "1990",
       "venue": "International Conference on Concurrency Theory",
-      "link": "https://doi.org/10.1007/bfb0039071"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0039071",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Uniform labeled transition systems for nondeterministic, probabilistic, and stochastic processes",
@@ -32,7 +36,9 @@
       ],
       "year": "2010",
       "venue": "Trustworthy Global Computing",
-      "link": "https://doi.org/10.1007/978-3-642-15640-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-15640-3",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Algebraic laws for nondeterminism and concurrency",
@@ -42,7 +48,9 @@
       ],
       "year": "1985",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/2455.2460"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2455.2460",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Formal verification of parallel programs",
@@ -51,7 +59,9 @@
       ],
       "year": "1976",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/360248.360251"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/360248.360251",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A Compositional Approach to Performance Modelling",
@@ -60,7 +70,9 @@
       ],
       "year": "1996",
       "venue": "",
-      "link": "https://doi.org/10.1017/cbo9780511569951"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1017/cbo9780511569951",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Probabilistic communicating processes",
@@ -69,7 +81,9 @@
       ],
       "year": "1995",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/0304-3975(94)00286-0"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0304-3975(94)00286-0",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "The Linear Time - Branching Time Spectrum II",
@@ -78,7 +92,9 @@
       ],
       "year": "1993",
       "venue": "International Conference on Concurrency Theory",
-      "link": "https://doi.org/10.1007/bfb0039066"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0039066",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Rate-Based Transition Systems for Stochastic Process Calculi",
@@ -90,7 +106,9 @@
       ],
       "year": "2009",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": "https://doi.org/10.1007/978-3-642-02930-1_36"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-02930-1_36",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "A Theory of Communicating Sequential Processes",
@@ -101,7 +119,9 @@
       ],
       "year": "1984",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/828.833"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/828.833",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Axiomatizing probabilistic processes: ACP with generative probabilities",
@@ -112,7 +132,9 @@
       ],
       "year": "1995",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1006/inco.1995.1135"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1006/inco.1995.1135",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Comparative branching-time semantics for Markov chains",
@@ -124,7 +146,9 @@
       ],
       "year": "2005",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1016/j.ic.2005.03.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ic.2005.03.001",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "On a Uniform Framework for the Definition of Stochastic Process Languages",
@@ -136,7 +160,9 @@
       ],
       "year": "2009",
       "venue": "Formal Methods for Industrial Critical Systems",
-      "link": "https://doi.org/10.1007/978-3-642-04570-7_2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-04570-7_2",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Testing equivalences for processes",
@@ -146,7 +172,9 @@
       ],
       "year": "1984",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1007/bfb0036936"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0036936",
+      "other_link": null
     }
   }
 }

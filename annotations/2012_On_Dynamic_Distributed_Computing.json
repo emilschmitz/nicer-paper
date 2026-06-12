@@ -10,7 +10,9 @@
       ],
       "year": "2009",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Group Spreading: A Protocol for Provably Secure Distributed Name Service",
@@ -20,7 +22,9 @@
       ],
       "year": "2004",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": "https://doi.org/10.1007/978-3-540-27836-8_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-27836-8_18",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Load balanced scalable Byzantine agreement through quorum building, with full information",
@@ -32,7 +36,9 @@
       ],
       "year": "2011",
       "venue": "International Conference of Distributed Computing and Networking",
-      "link": "https://doi.org/10.1007/978-3-642-17679-1_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-17679-1_18",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Active and Concurrent Topology Maintenance",
@@ -43,7 +49,9 @@
       ],
       "year": "2004",
       "venue": "International Symposium on Distributed Computing",
-      "link": "https://doi.org/10.1007/978-3-540-30186-8_23"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-30186-8_23",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Scalable and Secure Polling in Dynamic Distributed Networks",
@@ -56,7 +64,9 @@
       ],
       "year": "2012",
       "venue": "Symposium on Reliable Distributed Systems",
-      "link": "https://doi.org/10.1109/srds.2012.63"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/srds.2012.63",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Scalable byzantine computation",
@@ -66,7 +76,9 @@
       ],
       "year": "2010",
       "venue": "Sigact News",
-      "link": "https://doi.org/10.1145/1855118.1855136"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1855118.1855136",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Partitioned encryption and achieving simultaneity by partitioning",
@@ -76,7 +88,9 @@
       ],
       "year": "1987",
       "venue": "Information Processing Letters",
-      "link": "https://doi.org/10.1016/0020-0190(87)90042-1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0020-0190(87)90042-1",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Asynchronous secure computations with optimal resilience (extended abstract)",
@@ -87,7 +101,9 @@
       ],
       "year": "1994",
       "venue": "Principles of Distributed Computing",
-      "link": "https://doi.org/10.1145/197917.198088"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/197917.198088",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Adaptively secure broadcast, revisited",
@@ -99,7 +115,9 @@
       ],
       "year": "2011",
       "venue": "Principles of Distributed Computing",
-      "link": "https://doi.org/10.1145/1993806.1993832"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1993806.1993832",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Practical Uniform Peer Sampling under Churn",
@@ -111,7 +129,9 @@
       ],
       "year": "2010",
       "venue": "International Symposium on Parallel and Distributed Computing",
-      "link": "https://doi.org/10.1109/ispdc.2010.25"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ispdc.2010.25",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "The peer sampling service: experimental evaluation of unstructured gossip-based implementations",
@@ -123,7 +143,9 @@
       ],
       "year": "2004",
       "venue": "ACM/IFIP/USENIX international conference on Middleware",
-      "link": "https://doi.org/10.1007/978-3-540-30229-2_5"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-30229-2_5",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Random walks in peer-to-peer networks",
@@ -134,7 +156,9 @@
       ],
       "year": "2004",
       "venue": "International Conference on Computer Communications",
-      "link": "https://doi.org/10.1109/infcom.2004.1354487"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2004.1354487",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Towards robust and efficient computation in dynamic peer-to-peer networks",
@@ -146,7 +170,9 @@
       ],
       "year": "2012",
       "venue": "Symposium on Discrete Algorithms",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF17": {
       "title": "The expansion and mixing time of skip graphs with applications",
@@ -156,7 +182,9 @@
       ],
       "year": "2005",
       "venue": "ACM Symposium on Parallel Algorithms and Architectures",
-      "link": "https://doi.org/10.1007/s00446-008-0071-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00446-008-0071-3",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Computing separable functions via gossip",
@@ -166,7 +194,9 @@
       ],
       "year": "2006",
       "venue": "Principles of Distributed Computing",
-      "link": "https://doi.org/10.1145/1146381.1146401"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1146381.1146401",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "The Byzantine Generals Problem",
@@ -177,7 +207,9 @@
       ],
       "year": "1982",
       "venue": "ACM Transactions on Programming Languages and Systems",
-      "link": "https://doi.org/10.1145/2402.322398"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2402.322398",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Distributed computation in dynamic networks",
@@ -188,7 +220,9 @@
       ],
       "year": "2010",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://doi.org/10.1109/milcom.2011.6127547"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/milcom.2011.6127547",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Tapestry: a resilient global-scale overlay for service deployment",
@@ -202,7 +236,9 @@
       ],
       "year": "2004",
       "venue": "IEEE Journal on Selected Areas in Communications",
-      "link": "https://doi.org/10.1109/jsac.2003.818784"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/jsac.2003.818784",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Reaching Agreement in the Presence of Faults",
@@ -213,7 +249,9 @@
       ],
       "year": "1980",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/5925.5931"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/5925.5931",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Coordinated consensus in dynamic networks",
@@ -224,7 +262,9 @@
       ],
       "year": "2011",
       "venue": "Principles of Distributed Computing",
-      "link": "https://doi.org/10.1145/1993806.1993808"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1993806.1993808",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Peer counting and sampling in overlay networks based on random walks",
@@ -236,7 +276,9 @@
       ],
       "year": "2007",
       "venue": "Distributed Computing",
-      "link": "https://doi.org/10.1007/s00446-007-0027-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00446-007-0027-z",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Adaptively secure broadcast",
@@ -246,7 +288,9 @@
       ],
       "year": "2010",
       "venue": "Theory and Application of Cryptographic Techniques",
-      "link": "https://doi.org/10.1007/978-3-642-13190-5_24"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-13190-5_24",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Peer counting and sampling in overlay networks: random walk methods",
@@ -258,7 +302,9 @@
       ],
       "year": "2006",
       "venue": "Principles of Distributed Computing",
-      "link": "https://doi.org/10.1145/1146381.1146402"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1146381.1146402",
+      "other_link": null
     },
     "BIBREF27": {
       "title": "Towards worst-case churn resistant peer-to-peer systems",
@@ -269,7 +315,9 @@
       ],
       "year": "2010",
       "venue": "Distributed Computing",
-      "link": "https://doi.org/10.1007/s00446-010-0099-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00446-010-0099-z",
+      "other_link": null
     },
     "BIBREF29": {
       "title": "Towards a scalable and robust DHT",
@@ -279,7 +327,9 @@
       ],
       "year": "2006",
       "venue": "ACM Symposium on Parallel Algorithms and Architectures",
-      "link": "https://doi.org/10.1007/s00224-008-9099-9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00224-008-9099-9",
+      "other_link": null
     },
     "BIBREF30": {
       "title": "Computing in social networks",
@@ -291,7 +341,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Stabilization, Safety, and Security of Distributed Systems",
-      "link": "https://doi.org/10.1016/j.ic.2013.11.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ic.2013.11.001",
+      "other_link": null
     },
     "BIBREF31": {
       "title": "A scalable content-addressable network",
@@ -304,7 +356,9 @@
       ],
       "year": "2001",
       "venue": "ACM Special Interest Group on Data Communication",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF32": {
       "title": "Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems",
@@ -314,7 +368,9 @@
       ],
       "year": "2001",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/3-540-45518-3_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45518-3_18",
+      "other_link": null
     },
     "BIBREF33": {
       "title": "Xheal: localized self-healing using expanders",
@@ -324,7 +380,9 @@
       ],
       "year": "2011",
       "venue": "Principles of Distributed Computing",
-      "link": "https://arxiv.org/abs/1104.0882"
+      "arxiv_link": "https://arxiv.org/abs/1104.0882",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF34": {
       "title": "An algorithm for implementing BFT registers in distributed systems with bounded churn",
@@ -335,7 +393,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Stabilization, Safety, and Security of Distributed Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF35": {
       "title": "Towards Scalable and Robust Overlay Networks",
@@ -345,7 +405,9 @@
       ],
       "year": "2007",
       "venue": "International Workshop on Peer-to-Peer Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

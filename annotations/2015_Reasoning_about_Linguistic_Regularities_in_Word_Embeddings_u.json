@@ -11,7 +11,9 @@
       ],
       "year": "2015",
       "venue": "Transactions of the Association for Computational Linguistics",
-      "link": "https://doi.org/10.1162/tacl_a_00134"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1162/tacl_a_00134",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Semi-Supervised Learning on Riemannian Manifolds",
@@ -21,7 +23,9 @@
       ],
       "year": "2004",
       "venue": "Machine Learning",
-      "link": "https://doi.org/10.1023/b:mach.0000033120.25363.1e"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/b:mach.0000033120.25363.1e",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "The Geometry of Algorithms with Orthogonality Constraints",
@@ -32,7 +36,9 @@
       ],
       "year": "1999",
       "venue": "SIAM Journal on Matrix Analysis and Applications",
-      "link": "https://arxiv.org/abs/physics/9806030"
+      "arxiv_link": "https://arxiv.org/abs/physics/9806030",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations",
@@ -43,7 +49,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2013.249"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2013.249",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Finding Structure in Time",
@@ -52,7 +60,9 @@
       ],
       "year": "1990",
       "venue": "Cognitive Science",
-      "link": "https://doi.org/10.1207/s15516709cog1402_1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1207/s15516709cog1402_1",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Neural Word Embedding as Implicit Matrix Factorization",
@@ -62,7 +72,9 @@
       ],
       "year": "2014",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A Scalable Hierarchical Distributed Language Model",
@@ -72,7 +84,9 @@
       ],
       "year": "2008",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A neural probabilistic language model",
@@ -84,7 +98,9 @@
       ],
       "year": "2003",
       "venue": "Journal of Machine Learning Research",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Linguistic Regularities in Continuous Space Word Representations",
@@ -95,7 +111,9 @@
       ],
       "year": "2013",
       "venue": "North American Chapter of the Association for Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Learning Structured Embeddings of Knowledge Bases",
@@ -107,7 +125,9 @@
       ],
       "year": "2011",
       "venue": "Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Linguistic Regularities in Sparse and Explicit Word Representations",
@@ -117,7 +137,9 @@
       ],
       "year": "2014",
       "venue": "Conference on Computational Natural Language Learning",
-      "link": "https://doi.org/10.3115/v1/w14-1618"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3115/v1/w14-1618",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Knowledge graph embedding by translating on hyperplanes",
@@ -129,7 +151,9 @@
       ],
       "year": "2014",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Distributed Representations of Words and Phrases and their Compositionality",
@@ -142,7 +166,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Computation and Language",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

@@ -10,7 +10,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Artificial Intelligence and Statistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Evolutionary Cost-sensitive Extreme Learning Machine and Subspace Extension.",
@@ -20,7 +22,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1505.04373"
+      "arxiv_link": "https://arxiv.org/abs/1505.04373",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?",
@@ -31,7 +35,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Learning hierarchical representations for face verification with convolutional deep belief networks",
@@ -42,7 +48,9 @@
       ],
       "year": "2012",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2012.6247968"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2012.6247968",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Extreme Learning Machine for Regression and Multiclass Classification",
@@ -54,7 +62,9 @@
       ],
       "year": "2012",
       "venue": "Systems, Man and Cybernetics",
-      "link": "https://doi.org/10.1109/tsmcb.2011.2168604"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tsmcb.2011.2168604",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Local Receptive Fields Based Extreme Learning Machine",
@@ -66,7 +76,9 @@
       ],
       "year": "2015",
       "venue": "IEEE Computational Intelligence Magazine",
-      "link": "https://doi.org/10.1109/mci.2015.2405316"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mci.2015.2405316",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Semi-Supervised and Unsupervised Extreme Learning Machines",
@@ -78,7 +90,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Transactions on Systems, Man, and Cybernetics",
-      "link": "https://doi.org/10.1109/tcyb.2014.2307349"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tcyb.2014.2307349",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Domain Adaptation Extreme Learning Machines for Drift Compensation in E-Nose Systems",
@@ -88,7 +102,9 @@
       ],
       "year": "2015",
       "venue": "IEEE Transactions on Instrumentation and Measurement",
-      "link": "https://arxiv.org/abs/1505.06405"
+      "arxiv_link": "https://arxiv.org/abs/1505.06405",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Extreme Learning Machines [Trends & Controversies]",
@@ -128,7 +144,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Intelligent Systems",
-      "link": "https://doi.org/10.1109/mis.2013.140"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mis.2013.140",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "What are Extreme Learning Machines? Filling the Gap Between Frank Rosenblatt’s Dream and John von Neumann’s Puzzle",
@@ -137,7 +155,9 @@
       ],
       "year": "2015",
       "venue": "Cognitive Computation",
-      "link": "https://doi.org/10.1007/s12559-015-9333-0"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s12559-015-9333-0",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
@@ -149,7 +169,9 @@
       ],
       "year": "2014",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1311.2524"
+      "arxiv_link": "https://arxiv.org/abs/1311.2524",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Extreme learning machine: Theory and applications",
@@ -160,7 +182,9 @@
       ],
       "year": "2006",
       "venue": "Neurocomputing",
-      "link": "https://doi.org/10.1007/s10462-013-9405-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10462-013-9405-z",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Nearest neighbor pattern classification",
@@ -170,7 +194,9 @@
       ],
       "year": "1967",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.1967.1053964"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.1967.1053964",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Geodesic flow kernel for unsupervised domain adaptation",
@@ -182,7 +208,9 @@
       ],
       "year": "2012",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2012.6247911"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2012.6247911",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Optimization method based extreme learning machine for classification",
@@ -193,7 +221,9 @@
       ],
       "year": "2010",
       "venue": "Neurocomputing",
-      "link": "https://doi.org/10.1016/j.neucom.2010.02.019"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.neucom.2010.02.019",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "ImageNet Classification with Deep Convolutional Neural Networks",
@@ -204,7 +234,9 @@
       ],
       "year": "2012",
       "venue": "Neural Information Processing Systems",
-      "link": "https://doi.org/10.1145/3065386"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3065386",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
@@ -216,7 +248,9 @@
       ],
       "year": "2014",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/tpami.2015.2389824"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2015.2389824",
+      "other_link": null
     },
     "BIBREF27": {
       "title": "Evolutionary Cost-Sensitive Extreme Learning Machine",
@@ -226,7 +260,9 @@
       ],
       "year": "2017",
       "venue": "IEEE Transactions on Neural Networks",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF30": {
       "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
@@ -241,7 +277,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

@@ -10,7 +10,9 @@
       ],
       "year": "2008",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Regular linear temporal logic",
@@ -20,7 +22,9 @@
       ],
       "year": "2007",
       "venue": "International Colloquium on Theoretical Aspects of Computing",
-      "link": "https://doi.org/10.1007/978-3-642-11319-2_22"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-11319-2_22",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Robust satisfaction of temporal logic over real-valued signals",
@@ -30,7 +34,9 @@
       ],
       "year": "2010",
       "venue": "Formal Modeling and Analysis of Timed Systems",
-      "link": "https://doi.org/10.1007/978-3-642-15297-9_9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-15297-9_9",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Robustness in the presence of liveness",
@@ -43,7 +49,9 @@
       ],
       "year": "2010",
       "venue": "Computer Aided Verification",
-      "link": "https://doi.org/10.1007/978-3-642-14295-6_36"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-14295-6_36",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Playing games with boxes and diamonds",
@@ -54,7 +62,9 @@
       ],
       "year": "2003",
       "venue": "International Conference on Concurrency Theory",
-      "link": "https://doi.org/10.1007/978-3-540-45187-7_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-45187-7_8",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "The Complementation Problem for Büchi Automata with Applications to Temporal Logic (Extended Abstract)",
@@ -65,7 +75,9 @@
       ],
       "year": "1985",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Linear temporal logic and linear dynamic logic on finite traces",
@@ -75,7 +87,9 @@
       ],
       "year": "2013",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Fifteen Years of Formal Property Verification in Intel",
@@ -84,7 +98,9 @@
       ],
       "year": "2008",
       "venue": "25 Years of Model Checking",
-      "link": "https://doi.org/10.1007/978-3-540-69850-0_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-69850-0_8",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "On the Synthesis of an Asynchronous Reactive Module",
@@ -94,7 +110,9 @@
       ],
       "year": "1989",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Reasoning about Infinite Computations",
@@ -104,7 +122,9 @@
       ],
       "year": "1994",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1006/inco.1994.1092"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1006/inco.1994.1092",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "The complexity of propositional linear temporal logics",
@@ -114,7 +134,9 @@
       ],
       "year": "1985",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1007/bfb0028549"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bfb0028549",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Optimal bounds in parametric LTL games",
@@ -123,7 +145,9 @@
       ],
       "year": "2013",
       "venue": "Theoretical Computer Science",
-      "link": "https://arxiv.org/abs/1106.1237"
+      "arxiv_link": "https://arxiv.org/abs/1106.1237",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "The temporal logic of programs",
@@ -132,7 +156,9 @@
       ],
       "year": "1977",
       "venue": "Foundations of Computer Science",
-      "link": "https://doi.org/10.1109/sfcs.1977.32"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sfcs.1977.32",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Towards Robustness for Cyber-Physical Systems",
@@ -144,7 +170,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Transactions on Automatic Control",
-      "link": "https://doi.org/10.1109/tac.2014.2351632"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tac.2014.2351632",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Parametric temporal logic for “model measuring”",
@@ -156,7 +184,9 @@
       ],
       "year": "2001",
       "venue": "ACM Transactions on Computational Logic",
-      "link": "https://doi.org/10.1007/3-540-48523-6_13"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-48523-6_13",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Robustness of temporal logic specifications for continuous-time signals",
@@ -166,7 +196,9 @@
       ],
       "year": "2009",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/j.tcs.2009.06.021"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.tcs.2009.06.021",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Robustness of Sequential Circuits",
@@ -178,7 +210,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Application of Concurrency to System Design",
-      "link": "https://doi.org/10.1109/acsd.2010.26"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/acsd.2010.26",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Symbolic Robustness Analysis",
@@ -188,7 +222,9 @@
       ],
       "year": "2009",
       "venue": "Real-Time Systems Symposium",
-      "link": "https://doi.org/10.1109/rtss.2009.17"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/rtss.2009.17",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Deterministic generators and games for Ltl fragments",
@@ -198,7 +234,9 @@
       ],
       "year": "2004",
       "venue": "ACM Transactions on Computational Logic",
-      "link": "https://doi.org/10.1109/lics.2001.932505"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/lics.2001.932505",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Synthesis of safety controllers robust to unmodeled intermittent disturbances",
@@ -209,7 +247,9 @@
       ],
       "year": "2016",
       "venue": "Conference on Decision and Control",
-      "link": "https://doi.org/10.1109/cdc.2016.7799416"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cdc.2016.7799416",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Deciding parity games in quasipolynomial time",
@@ -222,7 +262,9 @@
       ],
       "year": "2017",
       "venue": "Symposium on the Theory of Computing",
-      "link": "https://doi.org/10.1145/3055399.3055409"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3055399.3055409",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Temporal Logic Can Be More Expressive",
@@ -231,7 +273,9 @@
       ],
       "year": "1983",
       "venue": "Information & Computation",
-      "link": "https://doi.org/10.1109/sfcs.1981.44"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sfcs.1981.44",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Visibly Linear Dynamic Logic.",
@@ -241,7 +285,9 @@
       ],
       "year": "2016",
       "venue": "Foundations of Software Technology and Theoretical Computer Science",
-      "link": "https://arxiv.org/abs/1512.05177"
+      "arxiv_link": "https://arxiv.org/abs/1512.05177",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Robust Linear Temporal Logic",
@@ -251,7 +297,9 @@
       ],
       "year": "2016",
       "venue": "Computer Science Logic",
-      "link": "https://arxiv.org/abs/1510.08970"
+      "arxiv_link": "https://arxiv.org/abs/1510.08970",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Parametric Linear Dynamic Logic",
@@ -261,7 +309,9 @@
       ],
       "year": "2017",
       "venue": "Information & Computation",
-      "link": "https://arxiv.org/abs/1408.5957"
+      "arxiv_link": "https://arxiv.org/abs/1408.5957",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

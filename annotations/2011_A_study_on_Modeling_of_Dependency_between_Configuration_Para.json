@@ -10,7 +10,9 @@
       ],
       "year": "2010",
       "venue": "Parallel and Distributed Computing: Applications and Technologies",
-      "link": "https://doi.org/10.1007/978-94-007-5083-8_9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-94-007-5083-8_9",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Comparing energy-saving MAC protocols for wireless sensor networks",
@@ -21,7 +23,9 @@
       ],
       "year": "2005",
       "venue": "Mobile Networks and Applications",
-      "link": "https://doi.org/10.1007/s11036-005-3371-x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s11036-005-3371-x",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Distributed heuristics for connected dominating sets in wireless ad hoc networks",
@@ -32,7 +36,9 @@
       ],
       "year": "2002",
       "venue": "Journal of Communications and Networks",
-      "link": "https://doi.org/10.1109/jcn.2002.6596929"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/jcn.2002.6596929",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Cross-layer design optimizations in wireless protocol stacks",
@@ -42,7 +48,9 @@
       ],
       "year": "2004",
       "venue": "Computer Communications",
-      "link": "https://doi.org/10.1016/j.comcom.2003.10.011"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.comcom.2003.10.011",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Some observations on optimal frequency selection in DVFS-based energy consumption minimization",
@@ -53,7 +61,9 @@
       ],
       "year": "2011",
       "venue": "Journal of Parallel and Distributed Computing",
-      "link": "https://arxiv.org/abs/1201.1695"
+      "arxiv_link": "https://arxiv.org/abs/1201.1695",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "AN ACCURATE FIR APPROXIMATION OF IDEAL FRACTIONAL DELAY FILTER WITH COMPLEX COEFFICIENTS IN HILBERT SPACE",
@@ -64,7 +74,9 @@
       ],
       "year": "2005",
       "venue": "Journal of Circuits, Systems, and Computers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Modeling and evaluating energy-performance efficiency of parallel processing on multicore based power aware systems",
@@ -75,7 +87,9 @@
       ],
       "year": "2009",
       "venue": "International Parallel and Distributed Processing Symposium",
-      "link": "https://doi.org/10.1109/ipdps.2009.5160979"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ipdps.2009.5160979",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "An application-specific protocol architecture for wireless microsensor networks",
@@ -86,7 +100,9 @@
       ],
       "year": "2002",
       "venue": "IEEE Transactions on Wireless Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Energy-efficient communication protocol for wireless microsensor networks",
@@ -97,7 +113,9 @@
       ],
       "year": "2000",
       "venue": "Hawaii International Conference on System Sciences",
-      "link": "https://doi.org/10.1007/978-3-540-45235-5_18"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-45235-5_18",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A Realistic Power Consumption Model for Wireless Sensor Network Devices",
@@ -108,7 +126,9 @@
       ],
       "year": "2006",
       "venue": "Sensor, Mesh and Ad Hoc Communications and Networks",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "An energy-efficient MAC protocol for wireless sensor networks",
@@ -119,7 +139,9 @@
       ],
       "year": "2002",
       "venue": "International Conference on Computer Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A Hierarchy Energy Driven Architecture for Wireless Sensor Networks",
@@ -129,7 +151,9 @@
       ],
       "year": "2010",
       "venue": "Advanced Information Networking and Applications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Cross-layer design for wireless networks",
@@ -140,7 +164,9 @@
       ],
       "year": "2003",
       "venue": "IEEE Communications Magazine",
-      "link": "https://doi.org/10.1007/s11277-009-9756-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s11277-009-9756-6",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "XLP: A Cross-Layer Protocol for Efficient Communication in Wireless Sensor Networks",
@@ -150,7 +176,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Transactions on Mobile Computing",
-      "link": "https://doi.org/10.1109/tmc.2010.125"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tmc.2010.125",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Linear Combinations of DVFS-Enabled Processor Frequencies to Modify the Energy-Aware Scheduling Algorithms",
@@ -162,7 +190,9 @@
       ],
       "year": "2010",
       "venue": "Grid Computing",
-      "link": "https://doi.org/10.1109/ccgrid.2010.38"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ccgrid.2010.38",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Design challenges for energy-constrained ad hoc wireless networks",
@@ -172,7 +202,9 @@
       ],
       "year": "2002",
       "venue": "IEEE Wireless Communications",
-      "link": "https://doi.org/10.1109/mwc.2002.1028874"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mwc.2002.1028874",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Secure data aggregation in wireless sensor networks: A comprehensive overview",
@@ -182,7 +214,9 @@
       ],
       "year": "2009",
       "venue": "Computer Networks",
-      "link": "https://doi.org/10.1016/j.comnet.2009.02.023"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.comnet.2009.02.023",
+      "other_link": null
     }
   }
 }

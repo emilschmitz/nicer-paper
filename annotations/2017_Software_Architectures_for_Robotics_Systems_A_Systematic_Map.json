@@ -12,7 +12,9 @@
       ],
       "year": "2008",
       "venue": "Evaluation and Assessment in Software Engineering",
-      "link": "https://doi.org/10.14236/ewic/ease2008.8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.14236/ewic/ease2008.8",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Coordinating hundreds of cooperative, autonomous vehicles in warehouses",
@@ -23,7 +25,9 @@
       ],
       "year": "2007",
       "venue": "Innovative Applications of Artificial Intelligence",
-      "link": "https://doi.org/10.1609/aimag.v29i1.2082"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1609/aimag.v29i1.2082",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Evaluation of Architectures for Mobile Robotics",
@@ -33,7 +37,9 @@
       ],
       "year": "2003",
       "venue": "Autonomous Robots",
-      "link": "https://doi.org/10.1023/a:1020975419546"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1020975419546",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Architectural Patterns Revisited - A Pattern Language",
@@ -43,7 +49,9 @@
       ],
       "year": "2005",
       "venue": "European Conference on Pattern Languages of Programs",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
@@ -52,7 +60,9 @@
       ],
       "year": "2014",
       "venue": "Evaluation and Assessment in Software Engineering",
-      "link": "https://doi.org/10.1145/2601248.2601268"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2601248.2601268",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Development environments for autonomous mobile robots: A survey",
@@ -62,7 +72,9 @@
       ],
       "year": "2007",
       "venue": "Autonomous Robots",
-      "link": "https://doi.org/10.1007/s10514-006-9013-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10514-006-9013-8",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Modular Software Design for Brachytherapy Image-Guided Robotic Systems",
@@ -74,7 +86,9 @@
       ],
       "year": "2010",
       "venue": "Bioinformatics and Bioengineering",
-      "link": "https://doi.org/10.1109/bibe.2010.40"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/bibe.2010.40",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "The Past, Present, and Future for Software Architecture",
@@ -85,7 +99,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Software",
-      "link": "https://doi.org/10.1109/ms.2006.59"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ms.2006.59",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "The dawning of the autonomic computing era",
@@ -95,7 +111,9 @@
       ],
       "year": "2003",
       "venue": "Ibm Systems Journal",
-      "link": "https://doi.org/10.1147/sj.421.0005"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1147/sj.421.0005",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A component-based architecture for flexible integration of robotic systems",
@@ -106,7 +124,9 @@
       ],
       "year": "2010",
       "venue": "Intelligent Robots and Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Microsoft robotics studio: A technical introduction",
@@ -115,7 +135,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Robotics & Automation Magazine",
-      "link": "https://doi.org/10.1109/m-ra.2007.905745"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/m-ra.2007.905745",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Special Issue on Open Source Software-Supported Robotics Research",
@@ -129,7 +151,9 @@
       ],
       "year": "2013",
       "venue": "Autonomous Robots",
-      "link": "https://doi.org/10.1007/s10514-013-9325-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10514-013-9325-4",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "From goals to components: a combined approach to self-management",
@@ -141,7 +165,9 @@
       ],
       "year": "2008",
       "venue": "Software Engineering for Adaptive and Self-Managing Systems",
-      "link": "https://doi.org/10.1145/1370018.1370020"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1370018.1370020",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "What Industry Needs from Architectural Languages: A Survey",
@@ -154,7 +180,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Transactions on Software Engineering",
-      "link": "https://doi.org/10.1109/tse.2012.74"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tse.2012.74",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Robotics Middleware: A Comprehensive Literature Survey and Attribute-Based Bibliography",
@@ -164,7 +192,9 @@
       ],
       "year": "2012",
       "venue": "Journal of Robotics",
-      "link": "https://doi.org/10.1155/2012/959013"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1155/2012/959013",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "An investigation into the development of service-oriented robotic systems",
@@ -175,7 +205,9 @@
       ],
       "year": "2013",
       "venue": "ACM Symposium on Applied Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Using grounded theory to study the experience of software development",
@@ -186,7 +218,9 @@
       ],
       "year": "2011",
       "venue": "Empirical Software Engineering",
-      "link": "https://doi.org/10.1007/s10664-010-9152-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10664-010-9152-6",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Cloud Migration Research: A Systematic Review",
@@ -197,7 +231,9 @@
       ],
       "year": "2013",
       "venue": "IEEE International Conference on Cloud Computing Technology and Science",
-      "link": "https://doi.org/10.1109/tcc.2013.10"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tcc.2013.10",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "R2P: An open source hardware and software modular approach to robot prototyping",
@@ -209,7 +245,9 @@
       ],
       "year": "2014",
       "venue": "Robotics and Autonomous Systems",
-      "link": "https://doi.org/10.1016/j.robot.2013.08.009"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.robot.2013.08.009",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Software technology maturation",
@@ -219,7 +257,9 @@
       ],
       "year": "1985",
       "venue": "International Conference on Software Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Distributed Service-Oriented Robotics",
@@ -229,7 +269,9 @@
       ],
       "year": "2011",
       "venue": "IEEE Internet Computing",
-      "link": "https://doi.org/10.1109/mic.2011.38"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mic.2011.38",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Evolving Critical Systems: A Research Agenda for Computer-Based Systems",
@@ -239,7 +281,9 @@
       ],
       "year": "2010",
       "venue": "Engineering of Computer-Based Systems",
-      "link": "https://doi.org/10.1109/ecbs.2010.56"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ecbs.2010.56",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Cloud robotics: architecture, challenges and applications",
@@ -250,7 +294,9 @@
       ],
       "year": "2012",
       "venue": "IEEE Network",
-      "link": "https://doi.org/10.1109/mnet.2012.6201212"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mnet.2012.6201212",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "ROCI: a distributed framework for multi-robot perception and control",
@@ -262,7 +308,9 @@
       ],
       "year": "2003",
       "venue": "Intelligent Robots and Systems",
-      "link": "https://doi.org/10.1109/iros.2003.1250639"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iros.2003.1250639",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Designing Concurrent, Distributed, and Real-Time Applications with UML",
@@ -271,7 +319,9 @@
       ],
       "year": "2000",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF27": {
       "title": "A distributed architecture for executing complex tasks with multiple robots",
@@ -283,7 +333,9 @@
       ],
       "year": "2004",
       "venue": "International Conference on Robotics and Automation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF28": {
       "title": "Quality-driven architecture development using architectural tactics",
@@ -295,7 +347,9 @@
       ],
       "year": "2009",
       "venue": "Journal of Systems and Software",
-      "link": "https://doi.org/10.1016/j.jss.2009.03.102"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jss.2009.03.102",
+      "other_link": null
     },
     "BIBREF29": {
       "title": "Lessons from applying the systematic literature review process within the software engineering domain",
@@ -308,7 +362,9 @@
       ],
       "year": "2007",
       "venue": "Journal of Systems and Software",
-      "link": "https://doi.org/10.1016/j.jss.2006.07.009"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jss.2006.07.009",
+      "other_link": null
     },
     "BIBREF30": {
       "title": "ALLIANCE: an architecture for fault tolerant multirobot cooperation",
@@ -317,7 +373,9 @@
       ],
       "year": "1998",
       "venue": "International Conference on Robotics and Automation",
-      "link": "https://doi.org/10.1109/70.681242"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/70.681242",
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Service robots in the domestic environment: a study of the roomba vacuum in the home",
@@ -327,7 +385,9 @@
       ],
       "year": "2006",
       "venue": "Human-Robot Interaction",
-      "link": "https://doi.org/10.1145/1121241.1121286"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1121241.1121286",
+      "other_link": null
     },
     "BIBREF32": {
       "title": "Synthesizing evidence in software engineering research",
@@ -337,7 +397,9 @@
       ],
       "year": "2010",
       "venue": "Empirical Software Engineering and Measurement",
-      "link": "https://doi.org/10.1145/1852786.1852788"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1852786.1852788",
+      "other_link": null
     },
     "BIBREF33": {
       "title": "A framework for classifying and comparing software architecture evaluation methods",
@@ -348,7 +410,9 @@
       ],
       "year": "2004",
       "venue": "Australian Software Engineering Conference",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF34": {
       "title": "AcmeStudio: supporting style-centered architecture development",
@@ -358,7 +422,9 @@
       ],
       "year": "2004",
       "venue": "International Conference on Software Engineering",
-      "link": "https://doi.org/10.1109/icse.2004.1317497"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icse.2004.1317497",
+      "other_link": null
     },
     "BIBREF35": {
       "title": "An object-oriented environment for robot system architectures",
@@ -368,7 +434,9 @@
       ],
       "year": "1990",
       "venue": "International Conference on Robotics and Automation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF36": {
       "title": "A classification and comparison framework for software architecture description languages",
@@ -378,7 +446,9 @@
       ],
       "year": "2000",
       "venue": "IEEE Transactions on Software Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF37": {
       "title": "Task-based self-adaptation",
@@ -390,7 +460,9 @@
       ],
       "year": "2004",
       "venue": "ACM SIGSOFT workshop on Self-managed Systems",
-      "link": "https://doi.org/10.1145/1075405.1075416"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1075405.1075416",
+      "other_link": null
     }
   }
 }

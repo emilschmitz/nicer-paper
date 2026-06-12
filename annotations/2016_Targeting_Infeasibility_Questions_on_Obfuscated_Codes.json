@@ -14,7 +14,9 @@
       ],
       "year": "2011",
       "venue": "Computer Aided Verification",
-      "link": "https://doi.org/10.1007/978-3-642-22110-1_13"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-22110-1_13",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Sound and Quasi-Complete Detection of Infeasible Test Requirements",
@@ -29,7 +31,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Software Testing, Verification, and Validation",
-      "link": "https://doi.org/10.1109/icst.2015.7102607"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icst.2015.7102607",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Binary-code obfuscations in prevalent packer tools",
@@ -39,7 +43,9 @@
       ],
       "year": "2013",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/2522968.2522972"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2522968.2522972",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "LOOP: Logic-Oriented Opaque Predicate Detection in Obfuscated Binary Code",
@@ -51,7 +57,9 @@
       ],
       "year": "2015",
       "venue": "Computer and Communications Security",
-      "link": "https://doi.org/10.1145/2810103.2813617"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2810103.2813617",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Symbolic Execution of Obfuscated Code",
@@ -61,7 +69,9 @@
       ],
       "year": "2015",
       "venue": "Computer and Communications Security",
-      "link": "https://doi.org/10.1145/2810103.2813663"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2810103.2813663",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "WYSINWYX: What you see is not what you eXecute",
@@ -71,7 +81,9 @@
       ],
       "year": "2010",
       "venue": "ACM Transactions on Programming Languages and Systems",
-      "link": "https://doi.org/10.1007/978-3-540-69149-5_22"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-69149-5_22",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Software watermarking via opaque predicates: Implementation, analysis, and attacks",
@@ -81,7 +93,9 @@
       ],
       "year": "2006",
       "venue": "Electronic Commerce Research",
-      "link": "https://doi.org/10.1007/s10660-006-6955-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10660-006-6955-z",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Symbolic execution for software testing: three decades later",
@@ -91,7 +105,9 @@
       ],
       "year": "2013",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/2408776.2408795"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2408776.2408795",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Precise Static Analysis of Binaries by Extracting Relational Information",
@@ -102,7 +118,9 @@
       ],
       "year": "2011",
       "venue": "Working Conference on Reverse Engineering",
-      "link": "https://doi.org/10.1109/wcre.2011.50"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/wcre.2011.50",
+      "other_link": null
     }
   }
 }

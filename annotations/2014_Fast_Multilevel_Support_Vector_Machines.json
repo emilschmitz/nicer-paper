@@ -10,7 +10,9 @@
       ],
       "year": "2005",
       "venue": "Systems, Man and Cybernetics",
-      "link": "https://doi.org/10.1109/icsmc.2005.1571749"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icsmc.2005.1571749",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond",
@@ -20,7 +22,9 @@
       ],
       "year": "2002",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Fast approximate nearest neighbors with automatic algorithm configuration",
@@ -30,7 +34,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Computer Vision Theory and Applications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Multi-level Algorithms for Modularity Clustering",
@@ -40,7 +46,9 @@
       ],
       "year": "2009",
       "venue": "Symposium on Experimental and Efficient Algorithms",
-      "link": "https://arxiv.org/abs/0812.4073"
+      "arxiv_link": "https://arxiv.org/abs/0812.4073",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Relaxation-based coarsening and multiscale graph organization.",
@@ -51,7 +59,9 @@
       ],
       "year": "2011",
       "venue": "Multiscale Modeling & Simulation",
-      "link": "https://arxiv.org/abs/1004.1220"
+      "arxiv_link": "https://arxiv.org/abs/1004.1220",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Fuzzy support vector machines",
@@ -61,7 +71,9 @@
       ],
       "year": "2002",
       "venue": "IEEE Transactions on Neural Networks",
-      "link": "https://doi.org/10.1109/72.991432"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/72.991432",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A weighted support vector machine method for control chart pattern recognition",
@@ -71,7 +83,9 @@
       ],
       "year": "2014",
       "venue": "Computers & Industrial Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Multilevel dimensionality-reduction methods",
@@ -81,7 +95,9 @@
       ],
       "year": "2013",
       "venue": "Statistical Methods and Applications",
-      "link": "https://doi.org/10.1007/s10260-012-0215-2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10260-012-0215-2",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Model selection for support vector machines via uniform design",
@@ -93,7 +109,9 @@
       ],
       "year": "2007",
       "venue": "Computational Statistics & Data Analysis",
-      "link": "https://doi.org/10.1016/j.csda.2007.02.013"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.csda.2007.02.013",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Training neural network classifiers for medical decision making: the effects of imbalanced datasets on classification performance.",
@@ -107,7 +125,9 @@
       ],
       "year": "2008",
       "venue": "Neural Networks",
-      "link": "https://doi.org/10.1016/j.neunet.2007.12.031"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.neunet.2007.12.031",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Fast multiscale clustering and manifold identification",
@@ -118,7 +138,9 @@
       ],
       "year": "2006",
       "venue": "Pattern Recognition",
-      "link": "https://doi.org/10.1016/j.patcog.2006.04.007"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.patcog.2006.04.007",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Feature Selection with Kernel Class Separability",
@@ -127,7 +149,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2007.70799"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2007.70799",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Graph-Based Multilevel Dimensionality Reduction with Applications to Eigenfaces and Latent Semantic Indexing",
@@ -138,7 +162,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Machine Learning and Applications",
-      "link": "https://doi.org/10.1109/icmla.2008.140"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icmla.2008.140",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Parallel Support Vector Machines: The Cascade SVM",
@@ -151,7 +177,9 @@
       ],
       "year": "2004",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF25": {
       "title": "LIBSVM: A library for support vector machines",
@@ -161,7 +189,9 @@
       ],
       "year": "2011",
       "venue": "ACM Transactions on Intelligent Systems and Technology",
-      "link": "https://doi.org/10.1145/1961189.1961199"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1961189.1961199",
+      "other_link": null
     }
   }
 }

@@ -9,7 +9,9 @@
       ],
       "year": "2015",
       "venue": "Physical Review E",
-      "link": "https://arxiv.org/abs/1407.6621"
+      "arxiv_link": "https://arxiv.org/abs/1407.6621",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Small-World Network Spectra in Mean-Field Theory",
@@ -20,7 +22,9 @@
       ],
       "year": "2012",
       "venue": "Physical Review Letters",
-      "link": "https://arxiv.org/abs/1112.1728"
+      "arxiv_link": "https://arxiv.org/abs/1112.1728",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Navigability of interconnected networks under random failures",
@@ -32,7 +36,9 @@
       ],
       "year": "2014",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
-      "link": "https://arxiv.org/abs/1306.0519"
+      "arxiv_link": "https://arxiv.org/abs/1306.0519",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Convergence rates for Markov chains",
@@ -41,7 +47,9 @@
       ],
       "year": "1995",
       "venue": "Siam Review",
-      "link": "https://doi.org/10.1137/1037083"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/1037083",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Critical effect of dependency groups on the function of networks",
@@ -52,7 +60,9 @@
       ],
       "year": "2011",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
-      "link": "https://arxiv.org/abs/1010.4498"
+      "arxiv_link": "https://arxiv.org/abs/1010.4498",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Diffusion dynamics on multiplex networks.",
@@ -66,7 +76,9 @@
       ],
       "year": "2013",
       "venue": "Physical Review Letters",
-      "link": "https://arxiv.org/abs/1207.2788"
+      "arxiv_link": "https://arxiv.org/abs/1207.2788",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "The structure and dynamics of multilayer networks",
@@ -83,7 +95,9 @@
       ],
       "year": "2014",
       "venue": "Physics Reports",
-      "link": "https://arxiv.org/abs/1407.0742"
+      "arxiv_link": "https://arxiv.org/abs/1407.0742",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Spectral properties of the Laplacian of multiplex networks",
@@ -97,7 +111,9 @@
       ],
       "year": "2013",
       "venue": "Physical Review E",
-      "link": "https://arxiv.org/abs/1307.2090"
+      "arxiv_link": "https://arxiv.org/abs/1307.2090",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

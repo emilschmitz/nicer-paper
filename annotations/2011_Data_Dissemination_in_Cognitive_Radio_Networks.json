@@ -13,7 +13,9 @@
       ],
       "year": "2001",
       "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
-      "link": "https://doi.org/10.1145/381677.381684"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/381677.381684",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Cognitive MANET design for mission-critical networks",
@@ -26,7 +28,9 @@
       ],
       "year": "2009",
       "venue": "IEEE Communications Magazine",
-      "link": "https://doi.org/10.1109/mcom.2009.5273810"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mcom.2009.5273810",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "IEEE 802.22: An Introduction to the First Wireless Standard based on Cognitive Radios",
@@ -38,7 +42,9 @@
       ],
       "year": "2006",
       "venue": "Journal of Communications",
-      "link": "https://doi.org/10.4304/jcm.1.1.38-47"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.4304/jcm.1.1.38-47",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Decentralized cognitive MAC for opportunistic spectrum access in ad hoc networks: A POMDP framework",
@@ -50,7 +56,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Journal on Selected Areas in Communications",
-      "link": "https://doi.org/10.1109/jsac.2007.070409"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/jsac.2007.070409",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey",
@@ -62,7 +70,9 @@
       ],
       "year": "2006",
       "venue": "Computer Networks",
-      "link": "https://doi.org/10.1016/j.comnet.2006.05.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.comnet.2006.05.001",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Probabilistic Path Selection in Opportunistic Cognitive Radio Networks",
@@ -74,7 +84,9 @@
       ],
       "year": "2008",
       "venue": "Global Communications Conference",
-      "link": "https://doi.org/10.1109/glocom.2008.ecp.931"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/glocom.2008.ecp.931",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Competitive spectrum sharing in cognitive radio networks: a dynamic game approach",
@@ -84,7 +96,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Wireless Communications",
-      "link": "https://doi.org/10.1109/twc.2008.070073"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/twc.2008.070073",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Cognitive radio: making software radios more personal",
@@ -94,7 +108,9 @@
       ],
       "year": "1999",
       "venue": "IEEE Personal Communications",
-      "link": "https://doi.org/10.1109/98.788210"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/98.788210",
+      "other_link": null
     }
   }
 }

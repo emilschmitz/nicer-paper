@@ -11,7 +11,9 @@
       ],
       "year": "2017",
       "venue": "NeuroImage",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A survey on deep learning in medical image analysis",
@@ -28,7 +30,9 @@
       ],
       "year": "2017",
       "venue": "Medical Image Analysis",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Constrained-CNN losses for weakly supervised segmentation",
@@ -42,7 +46,9 @@
       ],
       "year": "2019",
       "venue": "Medical Image Analysis",
-      "link": "https://arxiv.org/abs/1805.04628"
+      "arxiv_link": "https://arxiv.org/abs/1805.04628",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation",
@@ -53,7 +59,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1503.01640"
+      "arxiv_link": "https://arxiv.org/abs/1503.01640",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Constrained Convolutional Neural Networks for Weakly Supervised Segmentation",
@@ -64,7 +72,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1506.03648"
+      "arxiv_link": "https://arxiv.org/abs/1506.03648",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

@@ -12,7 +12,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Frame based signal compression using method of optimal directions (MOD)",
@@ -23,7 +25,9 @@
       ],
       "year": "1999",
       "venue": "International Symposium on Circuits and Systems",
-      "link": "https://doi.org/10.1109/iscas.1999.779928"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iscas.1999.779928",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Discriminative Sparse Image Models for Class-Specific Edge Detection and Image Interpretation",
@@ -36,7 +40,9 @@
       ],
       "year": "2008",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-540-88690-7_4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-88690-7_4",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Scene Discovery by Matrix Factorization",
@@ -46,7 +52,9 @@
       ],
       "year": "2008",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-540-88693-8_33"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-88693-8_33",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "On the Role of Sparse and Redundant Representations in Image Processing",
@@ -57,7 +65,9 @@
       ],
       "year": "2010",
       "venue": "Proceedings of the IEEE",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Online dictionary learning for sparse coding",
@@ -69,7 +79,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Machine Learning",
-      "link": "https://doi.org/10.1145/1553374.1553463"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1553374.1553463",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Learning multiscale sparse representations for image and video restoration",
@@ -80,7 +92,9 @@
       ],
       "year": "2008",
       "venue": "Multiscale Modeling & Simulation",
-      "link": "https://doi.org/10.1137/070697653"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1137/070697653",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Sparse Representation for Computer Vision and Pattern Recognition",
@@ -94,7 +108,9 @@
       ],
       "year": "2010",
       "venue": "Proceedings of the IEEE",
-      "link": "https://doi.org/10.1109/jproc.2010.2044470"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/jproc.2010.2044470",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Discriminative learned dictionaries for local image analysis",
@@ -107,7 +123,9 @@
       ],
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2008.4587652"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587652",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Experiments with an extended tangent distance",
@@ -119,7 +137,9 @@
       ],
       "year": "2000",
       "venue": "International Conference on Pattern Recognition",
-      "link": "https://doi.org/10.1109/icpr.2000.906014"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icpr.2000.906014",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "EK-SVD: Optimized dictionary design for sparse representations",
@@ -129,7 +149,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Pattern Recognition",
-      "link": "https://doi.org/10.1109/icpr.2008.4761362"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icpr.2008.4761362",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Supervised Dictionary Learning",
@@ -142,7 +164,9 @@
       ],
       "year": "2008",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Robust Face Recognition via Sparse Representation",
@@ -155,7 +179,9 @@
       ],
       "year": "2009",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1007/s00138-015-0694-x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00138-015-0694-x",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Analysis of Orthogonal Matching Pursuit Using the Restricted Isometry Property",
@@ -165,7 +191,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://arxiv.org/abs/0909.0083"
+      "arxiv_link": "https://arxiv.org/abs/0909.0083",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Sparse representations in unions of bases",
@@ -175,7 +203,9 @@
       ],
       "year": "2003",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2003.820031"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2003.820031",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Towards a practical face recognition system: Robust registration and illumination by sparse representation",
@@ -188,7 +218,9 @@
       ],
       "year": "2009",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2009.5206654"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206654",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Sparse Representation for Signal Classification",
@@ -198,7 +230,9 @@
       ],
       "year": "2006",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Adaptive Sparseness Using Jeffreys Prior",
@@ -207,7 +241,9 @@
       ],
       "year": "2001",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries",
@@ -217,7 +253,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Transactions on Image Processing",
-      "link": "https://doi.org/10.1109/icig.2009.101"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icig.2009.101",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Boosting Methods for Regression",
@@ -227,7 +265,9 @@
       ],
       "year": "2002",
       "venue": "Machine Learning",
-      "link": "https://doi.org/10.1023/a:1013685603443"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1013685603443",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Task-Driven Dictionary Learning",
@@ -238,7 +278,9 @@
       ],
       "year": "2012",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/icassp.2014.6854260"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icassp.2014.6854260",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "What is the best multi-stage architecture for object recognition?",
@@ -250,7 +292,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2009.5459469"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2009.5459469",
+      "other_link": null
     }
   }
 }

@@ -15,7 +15,9 @@
       ],
       "year": "2007",
       "venue": "IFIP Conference on Wireless Sensor and Actor Networks",
-      "link": "https://doi.org/10.1007/978-0-387-74899-3_11"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-0-387-74899-3_11",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Distributed power control for energy efficient routing in ad hoc networks",
@@ -29,7 +31,9 @@
       ],
       "year": "2004",
       "venue": "Wireless Networks",
-      "link": "https://doi.org/10.1023/a:1026236712926"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1026236712926",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "An energy consumption model for performance analysis of routing protocols for mobile ad hoc networks",
@@ -38,7 +42,9 @@
       ],
       "year": "2001",
       "venue": "Mobile Networks and Applications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Energy conserving routing in wireless ad-hoc networks",
@@ -48,7 +54,9 @@
       ],
       "year": "2000",
       "venue": "International Conference on Computer Communications",
-      "link": "https://doi.org/10.1109/infcom.2000.832170"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2000.832170",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Sensor networks for medical care",
@@ -61,7 +69,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Embedded Networked Sensor Systems",
-      "link": "https://doi.org/10.1145/1098918.1098979"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1098918.1098979",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Energy-aware routing in wireless ad hoc and sensor networks",
@@ -71,7 +81,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Wireless Communications and Mobile Computing",
-      "link": "https://doi.org/10.1145/1815396.1815654"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1815396.1815654",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Energy efficiency comparison of some topology-based and location-based mobile ad hoc routing protocols",
@@ -82,7 +94,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Communication, Computing & Security",
-      "link": "https://doi.org/10.1145/1947940.1947949"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1947940.1947949",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Virtual Time CSMA Protocols for Hard Real-Time Communication",
@@ -92,7 +106,9 @@
       ],
       "year": "1987",
       "venue": "IEEE Transactions on Software Engineering",
-      "link": "https://doi.org/10.1109/tse.1987.233512"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tse.1987.233512",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "On-demand power management for ad hoc networks",
@@ -102,7 +118,9 @@
       ],
       "year": "2005",
       "venue": "Ad Hoc Networks",
-      "link": "https://doi.org/10.1016/j.adhoc.2003.09.008"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.adhoc.2003.09.008",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A window protocol for transmission of time-constrained messages",
@@ -113,7 +131,9 @@
       ],
       "year": "1990",
       "venue": "IEEE Transactions on Computers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Wireless sensor and actor networks: research challenges",
@@ -123,7 +143,9 @@
       ],
       "year": "2004",
       "venue": "Ad Hoc Networks",
-      "link": "https://doi.org/10.1016/j.adhoc.2004.04.003"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.adhoc.2004.04.003",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "On constructing minimum-energy path-preserving graphs for ad-hoc wireless networks",
@@ -133,7 +155,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Power mode scheduling for ad hoc networks",
@@ -143,7 +167,9 @@
       ],
       "year": "2002",
       "venue": "International Conference on Network Protocols",
-      "link": "https://doi.org/10.1109/icnp.2002.1181402"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icnp.2002.1181402",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Minimizing Routing Energy Consumption: From Theoretical to Practical Results",
@@ -155,7 +181,9 @@
       ],
       "year": "2010",
       "venue": "Green Computing and Communications",
-      "link": "https://doi.org/10.1109/greencom-cpscom.2010.147"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/greencom-cpscom.2010.147",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Conserving transmission power in wireless ad hoc networks",
@@ -167,7 +195,9 @@
       ],
       "year": "2001",
       "venue": "International Conference on Network Protocols",
-      "link": "https://doi.org/10.1109/icnp.2001.992757"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icnp.2001.992757",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "An Energy Level Based Routing Protocol in Ad Hoc Networks",
@@ -178,7 +208,9 @@
       ],
       "year": "2006",
       "venue": "IEEE/WIC/ACM International Conference on Intelligent Agent Technology",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

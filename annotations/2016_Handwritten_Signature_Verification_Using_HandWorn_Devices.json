@@ -11,7 +11,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1507.07909"
+      "arxiv_link": "https://arxiv.org/abs/1507.07909",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "An energy harvesting wearable ring platform for gestureinput on surfaces",
@@ -22,7 +24,9 @@
       ],
       "year": "2014",
       "venue": "International Conference on Mobile Systems, Applications, and Services",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Finger-writing with Smartwatch: A Case for Finger and Hand Gesture Recognition using Smartwatch",
@@ -33,7 +37,9 @@
       ],
       "year": "2015",
       "venue": "International Workshop on Mobile Computing Systems and Applications",
-      "link": "https://doi.org/10.1145/2699343.2699350"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2699343.2699350",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Automatic Signature Verification and Writer Identification - The state of the art",
@@ -43,7 +49,9 @@
       ],
       "year": "1989",
       "venue": "Pattern Recognition",
-      "link": "https://doi.org/10.1016/0031-3203(89)90059-9"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0031-3203(89)90059-9",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Using mobile phones to write in air",
@@ -57,7 +65,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Mobile Systems, Applications, and Services",
-      "link": "https://doi.org/10.1145/1999995.1999998"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1999995.1999998",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "The WEKA data mining software: an update",
@@ -71,7 +81,9 @@
       ],
       "year": "2009",
       "venue": "Sigkdd Explorations",
-      "link": "https://doi.org/10.1145/1656274.1656278"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1656274.1656278",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "HMM-based on-line signature verification: Feature extraction and signature modeling",
@@ -83,7 +95,9 @@
       ],
       "year": "2007",
       "venue": "Pattern Recognition Letters",
-      "link": "https://doi.org/10.1016/j.patrec.2007.07.012"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.patrec.2007.07.012",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "sMFCC: exploiting sparseness in speech for fast acoustic feature extraction on mobile devices -- a feasibility study",
@@ -96,7 +110,9 @@
       ],
       "year": "2013",
       "venue": "Workshop on Mobile Computing Systems and Applications",
-      "link": "https://doi.org/10.1145/2444776.2444787"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2444776.2444787",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Authenticating users through their arm movement patterns.",
@@ -107,7 +123,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Recognizing text using motion data from a smartwatch",
@@ -119,7 +137,9 @@
       ],
       "year": "2016",
       "venue": "International Conference on Pervasive Computing",
-      "link": "https://doi.org/10.1109/percomw.2016.7457172"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/percomw.2016.7457172",
+      "other_link": null
     }
   }
 }

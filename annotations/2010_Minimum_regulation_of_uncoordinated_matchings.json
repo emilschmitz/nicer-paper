@@ -12,7 +12,9 @@
       ],
       "year": "1999",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": "https://doi.org/10.1007/3-540-48523-6_41"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-48523-6_41",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Worst-case equilibria",
@@ -22,7 +24,9 @@
       ],
       "year": "1999",
       "venue": "Symposium on Theoretical Aspects of Computer Science",
-      "link": "https://doi.org/10.1007/3-540-49116-3_38"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-49116-3_38",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Some APX-completeness results for cubic graphs",
@@ -32,7 +36,9 @@
       ],
       "year": "2000",
       "venue": "Theoretical Computer Science",
-      "link": "https://doi.org/10.1016/s0304-3975(98)00158-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0304-3975(98)00158-3",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Stackelberg Scheduling Strategies",
@@ -41,7 +47,9 @@
       ],
       "year": "2004",
       "venue": "SIAM Journal on Computing",
-      "link": "https://doi.org/10.1145/380752.380783"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/380752.380783",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Alternating paths in edge-colored complete graphs",
@@ -50,7 +58,9 @@
       ],
       "year": "1995",
       "venue": "Discrete Applied Mathematics",
-      "link": "https://doi.org/10.1016/0166-218x(94)00091-q"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0166-218x(94)00091-q",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "An efficient algorithm for the \"stable roommates\" problem",
@@ -59,7 +69,9 @@
       ],
       "year": "1985",
       "venue": "Journal of Algorithms",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "How bad is selfish routing",
@@ -69,7 +81,9 @@
       ],
       "year": "2002",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/506147.506153"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/506147.506153",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "The effectiveness of Stackelberg strategies and tolls for network congestion games",
@@ -78,7 +92,9 @@
       ],
       "year": "2007",
       "venue": "Symposium on Discrete Algorithms",
-      "link": "https://doi.org/10.1145/2344422.2344426"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2344422.2344426",
+      "other_link": null
     }
   }
 }

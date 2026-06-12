@@ -10,7 +10,9 @@
       ],
       "year": "2002",
       "venue": "Gene Regulations and Metabolism - Postgenomic Computational Approaches",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "GPU-MEME: Using Graphics Hardware to Accelerate Motif Finding in DNA Sequences",
@@ -22,7 +24,9 @@
       ],
       "year": "2008",
       "venue": "Pattern Recognition in Bioinformatics",
-      "link": "https://doi.org/10.1007/978-3-540-88436-1_38"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-88436-1_38",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Programming Massively Parallel Processors: A Hands-on Approach",
@@ -32,7 +36,9 @@
       ],
       "year": "2012",
       "venue": "",
-      "link": "https://doi.org/10.12694/scpe.v11i3.654"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.12694/scpe.v11i3.654",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Identifying DNA and protein patterns with statistically significant alignments of multiple sequences.",
@@ -42,7 +48,9 @@
       ],
       "year": "1999",
       "venue": "International Conference on Bioinformatics",
-      "link": "https://doi.org/10.1093/bioinformatics/15.7.563"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1093/bioinformatics/15.7.563",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Random number generators: good ones are hard to find",
@@ -52,7 +60,9 @@
       ],
       "year": "1988",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/63039.63042"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/63039.63042",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "CUDA-MEME: Accelerating motif discovery in biological sequences using CUDA-enabled graphics processing units",
@@ -64,7 +74,9 @@
       ],
       "year": "2010",
       "venue": "Pattern Recognition Letters",
-      "link": "https://doi.org/10.1016/j.patrec.2009.10.009"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.patrec.2009.10.009",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Mapping computational concepts to GPUs",
@@ -73,7 +85,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/1198555.1198768"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1198555.1198768",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A Parallel Gibbs Sampling Algorithm for Motif Finding on GPU",
@@ -83,7 +97,9 @@
       ],
       "year": "2009",
       "venue": "International Symposium on Parallel and Distributed Processing and Applications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Finding motifs using random projections",
@@ -93,7 +109,9 @@
       ],
       "year": "2001",
       "venue": "Research in Computational Molecular Biology",
-      "link": "https://doi.org/10.1089/10665270252935430"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1089/10665270252935430",
+      "other_link": null
     }
   }
 }

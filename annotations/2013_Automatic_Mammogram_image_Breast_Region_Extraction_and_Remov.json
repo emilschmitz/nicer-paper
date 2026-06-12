@@ -12,7 +12,9 @@
       ],
       "year": "2007",
       "venue": "Pattern Recognition",
-      "link": "https://doi.org/10.1016/j.patcog.2006.12.011"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.patcog.2006.12.011",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Radon-Domain Detection of the Nipple and the Pectoral Muscle in Mammograms",
@@ -25,7 +27,9 @@
       ],
       "year": "2008",
       "venue": "Journal of Digital Imaging",
-      "link": "https://doi.org/10.1007/s10278-007-9035-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10278-007-9035-6",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Automatic pectoral muscle boundary detection in mammograms based on Markov chain and active contour model",
@@ -37,7 +41,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Zhejiang University Science C",
-      "link": "https://doi.org/10.1631/jzus.c0910025"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1631/jzus.c0910025",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Effective Clustering Algorithms for Gene Expression Data",
@@ -48,7 +54,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Computational Engineering, Finance, and Science",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Automatic identification of the pectoral muscle in mammograms",
@@ -61,7 +69,9 @@
       ],
       "year": "2004",
       "venue": "IEEE Transactions on Medical Imaging",
-      "link": "https://doi.org/10.1109/tmi.2003.823062"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tmi.2003.823062",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A fully automated scheme for mammographic segmentation and classification based on breast density and asymmetry",
@@ -74,7 +84,9 @@
       ],
       "year": "2011",
       "venue": "Computer Methods and Programs in Biomedicine",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Segmentation of Regions of Interest in Mammograms in a Topographic Approach",
@@ -84,7 +96,9 @@
       ],
       "year": "2010",
       "venue": "International Conference of the IEEE Engineering in Medicine and Biology Society",
-      "link": "https://doi.org/10.1109/titb.2009.2033269"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/titb.2009.2033269",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Computer-Aided Identification of the Pectoral Muscle in Digitized Mammograms",
@@ -95,7 +109,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Digital Imaging",
-      "link": "https://doi.org/10.1007/s10278-009-9240-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10278-009-9240-6",
+      "other_link": null
     }
   }
 }

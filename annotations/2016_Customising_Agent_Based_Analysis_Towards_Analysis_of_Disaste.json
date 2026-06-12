@@ -11,7 +11,9 @@
       ],
       "year": "2011",
       "venue": "Management Information Systems Quarterly",
-      "link": "https://doi.org/10.2307/41409965"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.2307/41409965",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Positioning and presenting design science research for maximum impact",
@@ -21,7 +23,9 @@
       ],
       "year": "2013",
       "venue": "Management Information Systems Quarterly",
-      "link": "https://doi.org/10.25300/misq/2013/37.2.01"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.25300/misq/2013/37.2.01",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Developing and evaluating a generic metamodel for MAS work products",
@@ -33,7 +37,9 @@
       ],
       "year": "2006",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/11738817_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11738817_8",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Outbound logistics exception monitoring: A multi-perspective ontologies’ approach with intelligent agents",
@@ -45,7 +51,9 @@
       ],
       "year": "2011",
       "venue": "Expert Systems With Applications",
-      "link": "https://doi.org/10.1016/j.eswa.2011.04.111"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.eswa.2011.04.111",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Agent-oriented modeling and development of a system for crisis management",
@@ -55,7 +63,9 @@
       ],
       "year": "2013",
       "venue": "Expert Systems With Applications",
-      "link": "https://doi.org/10.1016/j.eswa.2013.06.012"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.eswa.2013.06.012",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Formalising Natural Language Specifications Using a Cognitive Linguistics/Configuration Based Approach",
@@ -67,7 +77,9 @@
       ],
       "year": "2013",
       "venue": "Enterprise Distributed Object Computing",
-      "link": "https://doi.org/10.1016/j.is.2015.04.003"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.is.2015.04.003",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Emergency Response in Natural Disaster Management: Allocation and Scheduling of Rescue Units",
@@ -79,7 +91,9 @@
       ],
       "year": "2014",
       "venue": "European Journal of Operational Research",
-      "link": "https://doi.org/10.1016/j.ejor.2013.10.029"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ejor.2013.10.029",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Model-driven disaster management",
@@ -89,7 +103,9 @@
       ],
       "year": "2013",
       "venue": "Information & Management",
-      "link": "https://doi.org/10.1016/j.im.2013.04.002"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.im.2013.04.002",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Advances in multi-agency disaster management: Key elements in disaster research",
@@ -101,7 +117,9 @@
       ],
       "year": "2010",
       "venue": "Information Systems Frontiers",
-      "link": "https://doi.org/10.1007/s10796-009-9176-x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10796-009-9176-x",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "FAML: A Generic Metamodel for MAS Development",
@@ -116,7 +134,9 @@
       ],
       "year": "2009",
       "venue": "IEEE Transactions on Software Engineering",
-      "link": "https://doi.org/10.1109/tse.2009.34"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tse.2009.34",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Development and validation of a Disaster Management Metamodel (DMM)",
@@ -127,7 +147,9 @@
       ],
       "year": "2014",
       "venue": "Information Processing and Management",
-      "link": "https://doi.org/10.1016/j.ipm.2013.11.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ipm.2013.11.001",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Supporting agent oriented requirement analysis with ontologies",
@@ -139,7 +161,9 @@
       ],
       "year": "2016",
       "venue": "International Journal of Human-computer Studies / International Journal of Man-machine Studies",
-      "link": "https://doi.org/10.1016/j.ijhcs.2015.10.007"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ijhcs.2015.10.007",
+      "other_link": null
     }
   }
 }

@@ -9,7 +9,9 @@
       ],
       "year": "2006",
       "venue": "Grouping Multidimensional Data",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Data Mining: Introductory and Advanced Topics",
@@ -18,7 +20,9 @@
       ],
       "year": "2003",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Data clustering: a review",
@@ -29,7 +33,9 @@
       ],
       "year": "1999",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/331499.331504"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/331499.331504",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Data clustering: 50 years beyond K-means",
@@ -38,7 +44,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Pattern Recognition",
-      "link": "https://doi.org/10.1007/978-3-540-87479-9_3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-87479-9_3",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Detecting money laundering and terrorist financing via data mining",
@@ -47,7 +55,9 @@
       ],
       "year": "2004",
       "venue": "Communications of The ACM",
-      "link": "https://doi.org/10.1145/986213.986239"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/986213.986239",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Anomaly detection: A survey",
@@ -58,7 +68,9 @@
       ],
       "year": "2009",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/1541880.1541882"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1541880.1541882",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "CURE: an efficient clustering algorithm for large databases",
@@ -69,7 +81,9 @@
       ],
       "year": "1998",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1016/s0306-4379(01)00008-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0306-4379(01)00008-4",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Survey of clustering algorithms",
@@ -79,7 +93,9 @@
       ],
       "year": "2005",
       "venue": "IEEE Transactions on Neural Networks",
-      "link": "https://doi.org/10.1109/tnn.2005.845141"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tnn.2005.845141",
+      "other_link": null
     }
   }
 }

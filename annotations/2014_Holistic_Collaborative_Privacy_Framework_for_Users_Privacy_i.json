@@ -10,7 +10,9 @@
       ],
       "year": "2011",
       "venue": "Conference on e-Business, e-Services and e-Society",
-      "link": "https://doi.org/10.1007/978-3-642-27260-8_6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-27260-8_6",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Applying Consistency-Based Trust Definition to Collaborative Filtering",
@@ -19,7 +21,9 @@
       ],
       "year": "2009",
       "venue": "Ksii Transactions on Internet and Information Systems",
-      "link": "https://doi.org/10.3837/tiis.2009.04.002"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.3837/tiis.2009.04.002",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "PocketLens: Toward a personal recommender system",
@@ -30,7 +34,9 @@
       ],
       "year": "2004",
       "venue": "ACM Transactions on Information Systems",
-      "link": "https://doi.org/10.1145/1010614.1010618"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1010614.1010618",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Deriving private information from randomized data",
@@ -41,7 +47,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Management of Data",
-      "link": "https://doi.org/10.1145/1066157.1066163"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1066157.1066163",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Privacy preserving data obfuscation for inherently clustered data",
@@ -51,7 +59,9 @@
       ],
       "year": "2008",
       "venue": "International Journal of Information and Computer Security",
-      "link": "https://doi.org/10.1504/ijics.2008.016819"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1504/ijics.2008.016819",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "SVD-based collaborative filtering with privacy",
@@ -61,7 +71,9 @@
       ],
       "year": "2005",
       "venue": "ACM Symposium on Applied Computing",
-      "link": "https://doi.org/10.1145/1066677.1066860"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1066677.1066860",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Privacy Preserving Distributed Learning Clustering of HealthCare Data Using Cryptography Protocols",
@@ -71,7 +83,9 @@
       ],
       "year": "2010",
       "venue": "Computer Software and Applications Conference",
-      "link": "https://doi.org/10.1109/compsacw.2010.33"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/compsacw.2010.33",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A study of preferences for sharing and privacy",
@@ -82,7 +96,9 @@
       ],
       "year": "2005",
       "venue": "Human Factors in Computing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Challenges in supporting end-user privacy and security management with social navigation",
@@ -93,7 +109,9 @@
       ],
       "year": "2009",
       "venue": "Symposium On Usable Privacy and Security",
-      "link": "https://doi.org/10.1145/1572532.1572539"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1572532.1572539",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Privacy-preserving collaborative filtering using randomized perturbation techniques",
@@ -103,7 +121,9 @@
       ],
       "year": "2003",
       "venue": "International Conference on Data Mining",
-      "link": "https://doi.org/10.1109/icdm.2003.1250993"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icdm.2003.1250993",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Agent based middleware for private data mashup in IPTV recommender services",
@@ -113,7 +133,9 @@
       ],
       "year": "2011",
       "venue": "Computer Aided Modeling and Design of Communication Links and Networks",
-      "link": "https://doi.org/10.1007/978-3-642-30244-2_6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-30244-2_6",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Experimental Demonstration of a Hybrid Privacy-Preserving Recommender System",
@@ -126,7 +148,9 @@
       ],
       "year": "2008",
       "venue": "Availability, Reliability and Security",
-      "link": "https://doi.org/10.1109/ares.2008.193"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/ares.2008.193",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "PRIVE: anonymous location-based queries in distributed mobile systems",
@@ -137,7 +161,9 @@
       ],
       "year": "2007",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/1242572.1242623"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1242572.1242623",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Privacy Aware Recommender Service for IPTV Networks",
@@ -147,7 +173,9 @@
       ],
       "year": "2011",
       "venue": "Multimedia and Ubiquitous Engineering",
-      "link": "https://doi.org/10.1109/mue.2011.70"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/mue.2011.70",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "On the privacy preserving properties of random data perturbation techniques",
@@ -159,7 +187,9 @@
       ],
       "year": "2003",
       "venue": "International Conference on Data Mining",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Collaborative filtering with privacy",
@@ -168,7 +198,9 @@
       ],
       "year": "2002",
       "venue": "IEEE Symposium on Security and Privacy",
-      "link": "https://doi.org/10.1109/secpri.2002.1004361"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/secpri.2002.1004361",
+      "other_link": null
     }
   }
 }

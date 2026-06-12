@@ -11,7 +11,9 @@
       ],
       "year": "2009",
       "venue": "International Symposium on Information Theory",
-      "link": "https://arxiv.org/abs/0901.3150"
+      "arxiv_link": "https://arxiv.org/abs/0901.3150",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Fixed point and Bregman iterative methods for matrix rank minimization",
@@ -22,7 +24,9 @@
       ],
       "year": "2011",
       "venue": "Mathematical Programming",
-      "link": "https://arxiv.org/abs/0905.1643"
+      "arxiv_link": "https://arxiv.org/abs/0905.1643",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Solving a low-rank factorization model for matrix completion by a nonlinear successive over-relaxation algorithm",
@@ -33,7 +37,9 @@
       ],
       "year": "2012",
       "venue": "Mathematical Programming Computation",
-      "link": "https://doi.org/10.1007/s12532-012-0044-1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s12532-012-0044-1",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "A Singular Value Thresholding Algorithm for Matrix Completion",
@@ -44,7 +50,9 @@
       ],
       "year": "2010",
       "venue": "Siam Journal on Optimization",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Learning with matrix factorizations",
@@ -54,7 +62,9 @@
       ],
       "year": "2004",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "The Power of Convex Relaxation: Near-Optimal Matrix Completion",
@@ -64,7 +74,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://arxiv.org/abs/0903.1476"
+      "arxiv_link": "https://arxiv.org/abs/0903.1476",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "ADMiRA: Atomic Decomposition for Minimum Rank Approximation",
@@ -74,7 +86,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://arxiv.org/abs/0905.0044"
+      "arxiv_link": "https://arxiv.org/abs/0905.0044",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Matrix Completion from a Few Entries",
@@ -85,7 +99,9 @@
       ],
       "year": "2009",
       "venue": "arXiv: Learning",
-      "link": "https://arxiv.org/abs/0901.3150"
+      "arxiv_link": "https://arxiv.org/abs/0901.3150",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "SET: an algorithm for consistent matrix completion",
@@ -95,7 +111,9 @@
       ],
       "year": "2009",
       "venue": "arXiv: Information Theory",
-      "link": "https://arxiv.org/abs/0909.2705"
+      "arxiv_link": "https://arxiv.org/abs/0909.2705",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Guaranteed Rank Minimization via Singular Value Projection",
@@ -106,7 +124,9 @@
       ],
       "year": "2009",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

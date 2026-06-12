@@ -11,7 +11,9 @@
       ],
       "year": "2011",
       "venue": "Computational Intelligence and Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "APES: Anonymity and Privacy in Electronic Services",
@@ -22,7 +24,9 @@
       ],
       "year": "2003",
       "venue": "Datenschutz Und Datensicherheit",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Email-based identification and authentication: an alternative to PKI?",
@@ -31,7 +35,9 @@
       ],
       "year": "2003",
       "venue": "IEEE Symposium on Security and Privacy",
-      "link": "https://doi.org/10.1109/msecp.2003.1253564"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/msecp.2003.1253564",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Anonymity 2.0 - X.509 extensions supporting privacy-friendly authentication",
@@ -43,7 +49,9 @@
       ],
       "year": "2007",
       "venue": "Cryptology and Network Security",
-      "link": "https://doi.org/10.1007/978-3-540-76969-9_17"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-76969-9_17",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Security Engineering: A Guide to Building Dependable Distributed Systems",
@@ -52,7 +60,9 @@
       ],
       "year": "2001",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "From Secrecy to Authenticity in Security Protocols",
@@ -61,7 +71,9 @@
       ],
       "year": "2002",
       "venue": "Static Analysis Symposium",
-      "link": "https://doi.org/10.1007/3-540-45789-5_25"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45789-5_25",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Multi-channel protocols",
@@ -70,7 +82,9 @@
       ],
       "year": "2005",
       "venue": "International Workshop on Security",
-      "link": "https://doi.org/10.1007/978-3-540-77156-2_15"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-77156-2_15",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "The Kerberos Network Authentication Service (V5)",
@@ -80,7 +94,9 @@
       ],
       "year": "1993",
       "venue": "RFC",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Using rhythmic nonces for puzzle-based DoS resistance",
@@ -93,7 +109,9 @@
       ],
       "year": "2008",
       "venue": "Computer and Communications Security",
-      "link": "https://doi.org/10.1145/1456508.1456518"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1456508.1456518",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A calculus for cryptographic protocols: the spi calculus",
@@ -103,7 +121,9 @@
       ],
       "year": "1997",
       "venue": "Computer and Communications Security",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "On the security of public key protocols",
@@ -113,7 +133,9 @@
       ],
       "year": "1983",
       "venue": "IEEE Transactions on Information Theory",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Privacy preservation with X.509 standard certificates",
@@ -122,7 +144,9 @@
       ],
       "year": "2011",
       "venue": "Information Sciences",
-      "link": "https://doi.org/10.1016/j.ins.2011.02.016"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ins.2011.02.016",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Voice interactive classroom, a service-oriented software architecture for speech-enabled learning",
@@ -133,7 +157,9 @@
       ],
       "year": "2010",
       "venue": "Journal of Network and Computer Applications",
-      "link": "https://doi.org/10.1016/j.jnca.2010.03.005"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jnca.2010.03.005",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Authentication using multiple communication channels",
@@ -144,7 +170,9 @@
       ],
       "year": "2005",
       "venue": "Digital Identity Management",
-      "link": "https://doi.org/10.1145/1102486.1102496"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1102486.1102496",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "On Sentences Which are True of Direct Unions of Algebras",
@@ -153,7 +181,9 @@
       ],
       "year": "1951",
       "venue": "Journal of Symbolic Logic",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "A semantic model for authentication protocols",
@@ -163,7 +193,9 @@
       ],
       "year": "1993",
       "venue": "IEEE Symposium on Security and Privacy",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Programming cryptographic protocols",
@@ -175,7 +207,9 @@
       ],
       "year": "2005",
       "venue": "Trustworthy Global Computing",
-      "link": "https://doi.org/10.1007/11580850_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11580850_8",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "SOME BASIC CRYPTOGRAPHIC REQUIREMENTS FOR CHAOS-BASED CRYPTOSYSTEMS",
@@ -185,7 +219,9 @@
       ],
       "year": "2006",
       "venue": "International Journal of Bifurcation and Chaos",
-      "link": "https://arxiv.org/abs/nlin/0311039"
+      "arxiv_link": "https://arxiv.org/abs/nlin/0311039",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "An efficient cryptographic protocol verifier based on prolog rules",
@@ -194,7 +230,9 @@
       ],
       "year": "2001",
       "venue": "IEEE Computer Security Foundations Symposium",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Trident, a new pseudo random number generator based on coupled chaotic maps",
@@ -206,7 +244,9 @@
       ],
       "year": "2010",
       "venue": "arXiv: Cryptography and Security",
-      "link": "https://arxiv.org/abs/1008.2345"
+      "arxiv_link": "https://arxiv.org/abs/1008.2345",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Reconciling Two Views of Cryptography (The Computational Soundness of Formal Encryption)",
@@ -216,7 +256,9 @@
       ],
       "year": "2007",
       "venue": "Journal of Cryptology",
-      "link": "https://doi.org/10.1007/s00145-007-0203-0"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00145-007-0203-0",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "A calculus of mobile processes, II",
@@ -227,7 +269,9 @@
       ],
       "year": "1992",
       "venue": "Information & Computation",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Formal analysis of an electronic voting system: An experience report",
@@ -238,7 +282,9 @@
       ],
       "year": "2011",
       "venue": "Journal of Systems and Software",
-      "link": "https://doi.org/10.1016/j.jss.2011.03.032"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jss.2011.03.032",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "A pure labeled transition semantics for the applied pi calculus",
@@ -247,7 +293,9 @@
       ],
       "year": "2010",
       "venue": "Information Sciences",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Obtaining the threat model for e-mail phishing",
@@ -258,7 +306,9 @@
       ],
       "year": "2013",
       "venue": "Applied Soft Computing",
-      "link": "https://doi.org/10.1016/j.asoc.2011.06.016"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.asoc.2011.06.016",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Security usability",
@@ -268,7 +318,9 @@
       ],
       "year": "2005",
       "venue": "IEEE Symposium on Security and Privacy",
-      "link": "https://doi.org/10.1109/msp.2005.104"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/msp.2005.104",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Multi-channel, Multi-level Authentication for More Secure eBanking.",
@@ -278,7 +330,9 @@
       ],
       "year": "2010",
       "venue": "Information Security for South Africa",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

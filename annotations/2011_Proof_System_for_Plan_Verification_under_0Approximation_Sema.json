@@ -10,7 +10,9 @@
       ],
       "year": "1993",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Representing concurrent actions in extended logic programming",
@@ -20,7 +22,9 @@
       ],
       "year": "1993",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Tableaux and Related Methods",
@@ -29,7 +33,9 @@
       ],
       "year": "2001",
       "venue": "Handbook of Automated Reasoning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "A survey on knowledge compilation",
@@ -39,7 +45,9 @@
       ],
       "year": "1997",
       "venue": "Ai Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "How to progress a database",
@@ -49,7 +57,9 @@
       ],
       "year": "1997",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/s0004-3702(96)00044-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0004-3702(96)00044-6",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Reasoning and planning with sensing actions, incomplete information, and static causal laws using answer set programming",
@@ -60,7 +70,9 @@
       ],
       "year": "2007",
       "venue": "Theory and Practice of Logic Programming",
-      "link": "https://doi.org/10.1017/s1471068406002948"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1017/s1471068406002948",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Representing action and change by logic programs",
@@ -70,7 +82,9 @@
       ],
       "year": "1993",
       "venue": "Journal of Logic Programming",
-      "link": "https://doi.org/10.1016/0743-1066(93)90035-f"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/0743-1066(93)90035-f",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Formalizing sensing actions—a transition function based approach",
@@ -80,7 +94,9 @@
       ],
       "year": "2001",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/s0004-3702(00)00080-1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0004-3702(00)00080-1",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Computational complexity of planning and approximate planning in the presence of incompleteness",
@@ -91,7 +107,9 @@
       ],
       "year": "2000",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/s0004-3702(00)00043-6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0004-3702(00)00043-6",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Provably correct theories of action",
@@ -101,7 +119,9 @@
       ],
       "year": "1995",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/201019.201021"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/201019.201021",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Knowledge, action, and the frame problem",
@@ -111,7 +131,9 @@
       ],
       "year": "2003",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/s0004-3702(02)00365-x"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0004-3702(02)00365-x",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Understanding planning with incomplete information and sensing",
@@ -120,7 +142,9 @@
       ],
       "year": "2005",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/j.artint.2004.11.006"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.artint.2004.11.006",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "What is planning in the presence of sensing",
@@ -129,7 +153,9 @@
       ],
       "year": "1996",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Conditional planning with external functions",
@@ -140,7 +166,9 @@
       ],
       "year": "2007",
       "venue": "International Conference on Logic Programming",
-      "link": "https://doi.org/10.1007/978-3-540-72200-7_19"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-72200-7_19",
+      "other_link": null
     }
   }
 }

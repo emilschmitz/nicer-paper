@@ -11,7 +11,9 @@
       ],
       "year": "2012",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1007/978-3-642-30220-6_22"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-30220-6_22",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Context-aware top-K processing using views",
@@ -21,7 +23,9 @@
       ],
       "year": "2013",
       "venue": "Conference on Information and Knowledge Management",
-      "link": "https://doi.org/10.1145/2505515.2505759"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2505515.2505759",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Supporting ranking queries on uncertain and incomplete data",
@@ -32,7 +36,9 @@
       ],
       "year": "2010",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.1007/s00778-009-0176-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s00778-009-0176-8",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Learning to personalize query auto-completion",
@@ -41,7 +47,9 @@
       ],
       "year": "2013",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": "https://doi.org/10.1145/2484028.2484076"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2484028.2484076",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Orthogonal query recommendation",
@@ -54,7 +62,9 @@
       ],
       "year": "2013",
       "venue": "Conference on Recommender Systems",
-      "link": "https://doi.org/10.1145/2507157.2507159"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2507157.2507159",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Query suggestion using hitting time",
@@ -65,7 +75,9 @@
       ],
       "year": "2008",
       "venue": "Conference on Information and Knowledge Management",
-      "link": "https://doi.org/10.1145/1458082.1458145"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1458082.1458145",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Type less, find more: fast autocompletion search with a succinct index",
@@ -75,7 +87,9 @@
       ],
       "year": "2006",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": "https://doi.org/10.1145/1148170.1148234"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1148170.1148234",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Efficient network aware search in collaborative tagging sites",
@@ -87,7 +101,9 @@
       ],
       "year": "2008",
       "venue": "Very Large Data Bases",
-      "link": "https://doi.org/10.14778/1453856.1453934"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.14778/1453856.1453934",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Partitioned multi-indexing: bringing order to social search",
@@ -97,7 +113,9 @@
       ],
       "year": "2012",
       "venue": "The Web Conference",
-      "link": "https://doi.org/10.1145/2187836.2187891"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2187836.2187891",
+      "other_link": null
     }
   }
 }

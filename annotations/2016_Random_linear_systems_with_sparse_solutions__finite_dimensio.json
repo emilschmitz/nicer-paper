@@ -10,7 +10,9 @@
       ],
       "year": "1992",
       "venue": "Discrete and Computational Geometry",
-      "link": "https://doi.org/10.1007/bf02187839"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/bf02187839",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "High-dimensional centrally-symmetric polytopes with neighborliness proportional to dimension",
@@ -19,7 +21,9 @@
       ],
       "year": "2005",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Message-passing algorithms for compressed sensing",
@@ -30,7 +34,9 @@
       ],
       "year": "2009",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
-      "link": "https://arxiv.org/abs/0907.3574"
+      "arxiv_link": "https://arxiv.org/abs/0907.3574",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Strong thresholds for ℓ 2 /ℓ 1 -optimization in block-sparse compressed sensing",
@@ -39,7 +45,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
-      "link": "https://doi.org/10.1109/icassp.2009.4960261"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icassp.2009.4960261",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit",
@@ -49,7 +57,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tsp.2015.2413384"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tsp.2015.2413384",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "A simple performance analysis of ℓ 1 optimization in compressed sensing",
@@ -58,7 +68,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
@@ -69,7 +81,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://arxiv.org/abs/math/0409186"
+      "arxiv_link": "https://arxiv.org/abs/math/0409186",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Compressed sensing",
@@ -78,7 +92,9 @@
       ],
       "year": "2004",
       "venue": "",
-      "link": "https://doi.org/10.1109/icassp.2008.4517908"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icassp.2008.4517908",
+      "other_link": null
     }
   }
 }

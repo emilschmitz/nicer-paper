@@ -9,7 +9,9 @@
       ],
       "year": "1997",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Coexistence of Time-Triggered and Event-Triggered Traffic in Switched Full-Duplex Ethernet Networks",
@@ -21,7 +23,9 @@
       ],
       "year": "2007",
       "venue": "International Symposium on Industrial Embedded Systems",
-      "link": "https://doi.org/10.1109/sies.2007.4297338"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sies.2007.4297338",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Simulation based timing analysis of FlexRay communication at system level",
@@ -33,7 +37,9 @@
       ],
       "year": "2013",
       "venue": "Simulation Tools and Techniques for Communications, Networks and System",
-      "link": "https://doi.org/10.4108/icst.simutools.2013.251724"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.4108/icst.simutools.2013.251724",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Extending IEEE 802.1 AVB with time-triggered scheduling: A simulation study of the coexistence of synchronous and asynchronous traffic",
@@ -45,7 +51,9 @@
       ],
       "year": "2013",
       "venue": "Vehicular Networking Conference",
-      "link": "https://doi.org/10.1109/vnc.2013.6737589"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/vnc.2013.6737589",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Demo: Real-time Ethernet in-car backbones: First insights into an automotive prototype",
@@ -57,7 +65,9 @@
       ],
       "year": "2014",
       "venue": "Vehicular Networking Conference",
-      "link": "https://doi.org/10.1109/vnc.2014.7013331"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/vnc.2014.7013331",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Tomorrow's In-Car Interconnect? A Competitive Evaluation of IEEE 802.1 AVB and Time-Triggered Ethernet (AS6802)",
@@ -71,7 +81,9 @@
       ],
       "year": "2012",
       "venue": "Vehicular Technology Conference",
-      "link": "https://doi.org/10.1109/vtcfall.2012.6398932"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/vtcfall.2012.6398932",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "An extension of the OMNeT++ INET framework for simulating real-time ethernet with high accuracy",
@@ -83,7 +95,9 @@
       ],
       "year": "2011",
       "venue": "Simulation Tools and Techniques for Communications, Networks and System",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Beware of the hidden! How cross-traffic affects quality assurances of competing real-time Ethernet standards for in-car communication",
@@ -97,7 +111,9 @@
       ],
       "year": "2015",
       "venue": "Local Computer Networks",
-      "link": "https://doi.org/10.1109/lcn.2015.7366277"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/lcn.2015.7366277",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Design of TDMA-based in-car networks: Applying multiprocessor scheduling strategies on time-triggered switched ethernet communication",
@@ -109,7 +125,9 @@
       ],
       "year": "2014",
       "venue": "Emerging Technologies and Factory Automation",
-      "link": "https://doi.org/10.1109/etfa.2014.7005119"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/etfa.2014.7005119",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Automotive Ethernet",
@@ -118,7 +136,9 @@
       ],
       "year": "2014",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

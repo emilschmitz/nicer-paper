@@ -13,7 +13,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Robotics and Automation",
-      "link": "https://doi.org/10.1109/icra.2015.7139972"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icra.2015.7139972",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "HerbDisc: Towards lifelong robotic object discovery",
@@ -26,7 +28,9 @@
       ],
       "year": "2015",
       "venue": "The International Journal of Robotics Research",
-      "link": "https://doi.org/10.1177/0278364914546030"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1177/0278364914546030",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "SLAM with Object Discovery, Modeling and Mapping",
@@ -38,7 +42,9 @@
       ],
       "year": "2014",
       "venue": "Intelligent Robots and Systems",
-      "link": "https://doi.org/10.1109/iros.2014.6942683"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iros.2014.6942683",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Simultaneous localization, mapping and moving object tracking",
@@ -51,7 +57,9 @@
       ],
       "year": "2007",
       "venue": "The International Journal of Robotics Research",
-      "link": "https://doi.org/10.1177/0278364907081229"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1177/0278364907081229",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Experiences with an interactive museum tour-guide robot",
@@ -67,7 +75,9 @@
       ],
       "year": "1999",
       "venue": "Artificial Intelligence",
-      "link": "https://doi.org/10.1016/s0004-3702(99)00070-3"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0004-3702(99)00070-3",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Temporal persistence modeling for object search",
@@ -77,7 +87,9 @@
       ],
       "year": "2017",
       "venue": "International Conference on Robotics and Automation",
-      "link": "https://doi.org/10.1109/icra.2017.7989365"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icra.2017.7989365",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Unsupervised Object Discovery and Segmentation of RGBD-images.",
@@ -90,7 +102,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Robotics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Detection and Tracking of General Movable Objects in Large 3D Maps.",
@@ -102,7 +116,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Robotics",
-      "link": "https://doi.org/10.1109/tro.2018.2876111"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tro.2018.2876111",
+      "other_link": null
     }
   }
 }

@@ -11,7 +11,9 @@
       ],
       "year": "2012",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-642-33718-5_21"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-33718-5_21",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Human action recognition using a temporal hierarchy of covariance descriptors on 3D joint locations",
@@ -23,7 +25,9 @@
       ],
       "year": "2013",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Context-Aware Activity Forecasting",
@@ -33,7 +37,9 @@
       ],
       "year": "2014",
       "venue": "Asian Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-319-16814-2_2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-16814-2_2",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Anticipating Human Activities Using Object Affordances for Reactive Robotic Response",
@@ -43,7 +49,9 @@
       ],
       "year": "2016",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2015.2430335"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2015.2430335",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "A discriminative CNN video representation for event detection",
@@ -54,7 +62,9 @@
       ],
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Analyzing Tracklets for the Detection of Abnormal Crowd Behavior",
@@ -67,7 +77,9 @@
       ],
       "year": "2015",
       "venue": "Workshop on Applications of Computer Vision",
-      "link": "https://doi.org/10.1109/wacv.2015.27"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/wacv.2015.27",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Aggregating local descriptors into a compact image representation",
@@ -79,7 +91,9 @@
       ],
       "year": "2010",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2010.5540039"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2010.5540039",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Bio-inspired Dynamic 3D Discriminative Skeletal Features for Human Action Recognition",
@@ -92,7 +106,9 @@
       ],
       "year": "2013",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvprw.2013.153"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvprw.2013.153",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Semantic human activity recognition: A literature review",
@@ -102,7 +118,9 @@
       ],
       "year": "2015",
       "venue": "Pattern Recognition",
-      "link": "https://doi.org/10.1016/j.patcog.2015.03.006"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.patcog.2015.03.006",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Parsing video events with goal inference and intent prediction",
@@ -113,7 +131,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2011.6126279"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126279",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group",
@@ -124,7 +144,9 @@
       ],
       "year": "2014",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2014.82"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2014.82",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Dense trajectories and motion boundary descriptors for action recognition",
@@ -136,7 +158,9 @@
       ],
       "year": "2013",
       "venue": "International Journal of Computer Vision",
-      "link": "https://doi.org/10.1007/s11263-012-0594-8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s11263-012-0594-8",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "EigenJoints-based action recognition using Naïve-Bayes-Nearest-Neighbor",
@@ -146,7 +170,9 @@
       ],
       "year": "2012",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvprw.2012.6239232"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvprw.2012.6239232",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Prediction of Human Activity by Discovering Temporal Sequence Patterns",
@@ -156,7 +182,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2013.2297321"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2013.2297321",
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Action-Reaction: Forecasting the Dynamics of Human Interaction",
@@ -166,7 +194,9 @@
       ],
       "year": "2014",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-319-10584-0_32"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-10584-0_32",
+      "other_link": null
     },
     "BIBREF27": {
       "title": "Action Recognition with Improved Trajectories",
@@ -176,7 +206,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2013.441"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2013.441",
+      "other_link": null
     },
     "BIBREF29": {
       "title": "Combining embedded accelerometers with computer vision for recognizing food preparation activities",
@@ -186,7 +218,9 @@
       ],
       "year": "2013",
       "venue": "Ubiquitous Computing",
-      "link": "https://doi.org/10.1145/2493432.2493482"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2493432.2493482",
+      "other_link": null
     },
     "BIBREF31": {
       "title": "Recognize Human Activities from Partially Observed Videos",
@@ -204,7 +238,9 @@
       ],
       "year": "2013",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2013.343"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2013.343",
+      "other_link": null
     },
     "BIBREF32": {
       "title": "Action recognition by dense trajectories",
@@ -216,7 +252,9 @@
       ],
       "year": "2011",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2011.5995407"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995407",
+      "other_link": null
     },
     "BIBREF33": {
       "title": "HMDB: A large video database for human motion recognition",
@@ -229,7 +267,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2011.6126543"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126543",
+      "other_link": null
     },
     "BIBREF34": {
       "title": "Histograms of oriented optical flow and Binet-Cauchy kernels on nonlinear dynamical systems for the recognition of human actions",
@@ -241,7 +281,9 @@
       ],
       "year": "2009",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2009.5206821"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2009.5206821",
+      "other_link": null
     },
     "BIBREF35": {
       "title": "The writer independent online handwriting recognition system frog on hand and cluster generative statistical dynamic time warping",
@@ -251,7 +293,9 @@
       ],
       "year": "2004",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "link": "https://doi.org/10.1109/tpami.2004.1262308"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2004.1262308",
+      "other_link": null
     },
     "BIBREF37": {
       "title": "Action snippets: How many frames does human action recognition require?",
@@ -261,7 +305,9 @@
       ],
       "year": "2008",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2008.4587730"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2008.4587730",
+      "other_link": null
     },
     "BIBREF38": {
       "title": "Mining actionlet ensemble for action recognition with depth cameras",
@@ -273,7 +319,9 @@
       ],
       "year": "2012",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2012.6247813"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2012.6247813",
+      "other_link": null
     },
     "BIBREF39": {
       "title": "Action recognition based on a bag of 3D points",
@@ -284,7 +332,9 @@
       ],
       "year": "2010",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvprw.2010.5543273"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvprw.2010.5543273",
+      "other_link": null
     },
     "BIBREF41": {
       "title": "Who are you with and where are you going",
@@ -296,7 +346,9 @@
       ],
       "year": "2011",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2011.5995468"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2011.5995468",
+      "other_link": null
     },
     "BIBREF42": {
       "title": "Human activity prediction: Early recognition of ongoing activities from streaming videos",
@@ -305,7 +357,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2011.6126349"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2011.6126349",
+      "other_link": null
     },
     "BIBREF43": {
       "title": "Predicting human activities using spatio-temporal structure of interest points",
@@ -316,7 +370,9 @@
       ],
       "year": "2012",
       "venue": "ACM Multimedia",
-      "link": "https://doi.org/10.1145/2393347.2396380"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2393347.2396380",
+      "other_link": null
     },
     "BIBREF45": {
       "title": "Conditional likelihood maximisation: a unifying framework for information theoretic feature selection",
@@ -328,7 +384,9 @@
       ],
       "year": "2012",
       "venue": "Journal of Machine Learning Research",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF47": {
       "title": "Histograms of oriented gradients for human detection",
@@ -338,7 +396,9 @@
       ],
       "year": "2005",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2005.177"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2005.177",
+      "other_link": null
     },
     "BIBREF48": {
       "title": "Robust 3D Action Recognition with Random Occupancy Patterns",
@@ -351,7 +411,9 @@
       ],
       "year": "2012",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-642-33709-3_62"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-33709-3_62",
+      "other_link": null
     },
     "BIBREF51": {
       "title": "Activity Auto-Completion: Predicting Human Activities from Partial Videos",
@@ -362,7 +424,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2015.365"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2015.365",
+      "other_link": null
     },
     "BIBREF53": {
       "title": "Generating Notifications for Missing Actions: Don't Forget to Turn the Lights Off!",
@@ -373,7 +437,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2015.530"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2015.530",
+      "other_link": null
     },
     "BIBREF55": {
       "title": "Predicting the Where and What of Actors and Actions through Online Action Localization",
@@ -384,7 +450,9 @@
       ],
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2016.290"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.290",
+      "other_link": null
     },
     "BIBREF56": {
       "title": "Learning Activity Progression in LSTMs for Activity Detection and Early Detection",
@@ -395,7 +463,9 @@
       ],
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2016.214"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.214",
+      "other_link": null
     },
     "BIBREF58": {
       "title": "Activity forecasting",
@@ -407,7 +477,9 @@
       ],
       "year": "2012",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-642-33765-9_15"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-33765-9_15",
+      "other_link": null
     },
     "BIBREF61": {
       "title": "Exploiting Image-trained CNN Architectures for Unconstrained Video Classification.",
@@ -420,7 +492,9 @@
       ],
       "year": "2015",
       "venue": "British Machine Vision Conference",
-      "link": "https://arxiv.org/abs/1503.04144"
+      "arxiv_link": "https://arxiv.org/abs/1503.04144",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

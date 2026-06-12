@@ -10,7 +10,9 @@
       ],
       "year": "1962",
       "venue": "IFIP Congress",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "ABC: an academic industrial-strength verification tool",
@@ -20,7 +22,9 @@
       ],
       "year": "2010",
       "venue": "Computer Aided Verification",
-      "link": "https://doi.org/10.1007/978-3-642-14295-6_5"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-14295-6_5",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Improved Garbled Circuit: Free XOR Gates and Applications",
@@ -30,7 +34,9 @@
       ],
       "year": "2008",
       "venue": "International Colloquium on Automata, Languages and Programming",
-      "link": "https://doi.org/10.1007/978-3-540-70583-3_40"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-70583-3_40",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Pseudo-Kronecker expressions for symmetric functions",
@@ -39,7 +45,9 @@
       ],
       "year": "1999",
       "venue": "IEEE Transactions on Computers",
-      "link": "https://doi.org/10.1109/12.795226"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/12.795226",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Exact ESOP expressions for incompletely specified functions",
@@ -51,7 +59,9 @@
       ],
       "year": "2012",
       "venue": "Integration",
-      "link": "https://doi.org/10.1016/j.vlsi.2011.10.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.vlsi.2011.10.001",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "AN APPLICATION OF ESOP EXPRESSIONS TO SECURE COMPUTATIONS",
@@ -62,7 +72,9 @@
       ],
       "year": "2007",
       "venue": "Journal of Circuits, Systems, and Computers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A continuous approach to inductive inference",
@@ -74,7 +86,9 @@
       ],
       "year": "1992",
       "venue": "Mathematical Programming",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "EXACT MINIMIZATION OF ESOP EXPRESSIONS WITH LESS THAN EIGHT PRODUCT TERMS",
@@ -84,7 +98,9 @@
       ],
       "year": "2004",
       "venue": "Journal of Circuits, Systems, and Computers",
-      "link": "https://doi.org/10.1142/s0218126604001295"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1142/s0218126604001295",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "A PARALLEL ALGORITHM FOR MINIMIZING ESOP EXPRESSIONS",
@@ -93,7 +109,9 @@
       ],
       "year": "2014",
       "venue": "Journal of Circuits, Systems, and Computers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "A minimal universal test set for self-test of EXOR-Sum-of-Products circuits",
@@ -104,7 +122,9 @@
       ],
       "year": "2000",
       "venue": "IEEE Transactions on Computers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Design automation and design space exploration for quantum computers",
@@ -116,7 +136,9 @@
       ],
       "year": "2017",
       "venue": "Design, Automation, and Test in Europe",
-      "link": "https://arxiv.org/abs/1612.00631"
+      "arxiv_link": "https://arxiv.org/abs/1612.00631",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF16": {
       "title": "CEGAR-based EF synthesis of Boolean functions with an application to circuit rectification",
@@ -127,7 +149,9 @@
       ],
       "year": "2017",
       "venue": "Asia and South Pacific Design Automation Conference",
-      "link": "https://doi.org/10.1109/aspdac.2017.7858328"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/aspdac.2017.7858328",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "On the Glucose SAT Solver",
@@ -137,7 +161,9 @@
       ],
       "year": "2018",
       "venue": "International Journal on Artificial Intelligence Tools",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "A Nonlinear Integer Programming Approach for the Minimization of Boolean Expressions",
@@ -147,7 +173,9 @@
       ],
       "year": "2018",
       "venue": "Journal of Circuits, Systems, and Computers",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF19": {
       "title": "The EPFL Logic Synthesis Libraries.",
@@ -159,7 +187,9 @@
       ],
       "year": "2018",
       "venue": "arXiv: Logic in Computer Science",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

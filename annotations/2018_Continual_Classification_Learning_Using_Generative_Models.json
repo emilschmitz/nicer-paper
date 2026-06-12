@@ -11,7 +11,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks",
@@ -24,7 +26,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Active Long Term Memory Networks.",
@@ -37,7 +41,9 @@
       ],
       "year": "2016",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "PROGRESSIVE NEURAL NETWORKS",
@@ -53,7 +59,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "PathNet: Evolution Channels Gradient Descent in Super Neural Networks",
@@ -69,7 +77,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Neural and Evolutionary Computing",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Lifelong Generative Modeling",
@@ -80,7 +90,9 @@
       ],
       "year": "2018",
       "venue": "arXiv: Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms.",
@@ -91,7 +103,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Variational Continual Learning",
@@ -103,7 +117,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Machine Learning",
-      "link": "https://arxiv.org/abs/1710.10628"
+      "arxiv_link": "https://arxiv.org/abs/1710.10628",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Continual Learning Through Synaptic Intelligence",
@@ -114,7 +130,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

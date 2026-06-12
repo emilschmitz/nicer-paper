@@ -21,7 +21,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computation and Language",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "OpenGM: A C++ Library for Discrete Graphical Models",
@@ -32,7 +34,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Fitting a mixture model by expectation maximization to discover motifs in biopolymers.",
@@ -42,7 +46,9 @@
       ],
       "year": "1994",
       "venue": "Intelligent Systems in Molecular Biology",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Multitask learning: a knowledge-based source of inductive bias",
@@ -51,7 +57,9 @@
       ],
       "year": "1993",
       "venue": "International Conference on Machine Learning",
-      "link": "https://doi.org/10.1016/b978-1-55860-307-3.50012-5"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/b978-1-55860-307-3.50012-5",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "ECUE: A Spam Filter that Uses Machine Learning to Track Concept Drift",
@@ -62,7 +70,9 @@
       ],
       "year": "2006",
       "venue": "European Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A comparison of statistical significance tests for information retrieval evaluation",
@@ -73,7 +83,9 @@
       ],
       "year": "2007",
       "venue": "Conference on Information and Knowledge Management",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Error bounds for convolutional codes and an asymptotically optimum decoding algorithm",
@@ -82,7 +94,9 @@
       ],
       "year": "1967",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.1967.1054010"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.1967.1054010",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A training algorithm for optimal margin classifiers",
@@ -93,7 +107,9 @@
       ],
       "year": "1992",
       "venue": "Conference on Learning Theory",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Learning Word Vectors for Sentiment Analysis",
@@ -107,7 +123,9 @@
       ],
       "year": "2011",
       "venue": "Meeting of the Association for Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Power law discounting for n-gram language models",
@@ -117,7 +135,9 @@
       ],
       "year": "2010",
       "venue": "International Conference on Acoustics, Speech, and Signal Processing",
-      "link": "https://doi.org/10.1109/icassp.2010.5495007"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icassp.2010.5495007",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Three models for the description of language",
@@ -126,7 +146,9 @@
       ],
       "year": "1956",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1007/978-3-642-13089-2_2"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-13089-2_2",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Causality with Gates",
@@ -135,7 +157,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Artificial Intelligence and Statistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "A formal study of information retrieval heuristics",
@@ -146,7 +170,9 @@
       ],
       "year": "2004",
       "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Modeling word burstiness using the Dirichlet distribution",
@@ -157,7 +183,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Machine Learning",
-      "link": "https://doi.org/10.1145/1102351.1102420"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1102351.1102420",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Scalability and cost of a cloud-based approach to medical NLP",
@@ -170,7 +198,9 @@
       ],
       "year": "2011",
       "venue": "Computer-Based Medical Systems",
-      "link": "https://doi.org/10.1109/cbms.2011.5999166"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cbms.2011.5999166",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Ranking very many typed entities on wikipedia",
@@ -184,7 +214,9 @@
       ],
       "year": "2007",
       "venue": "Conference on Information and Knowledge Management",
-      "link": "https://doi.org/10.1145/1321440.1321599"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1321440.1321599",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Deriving the Pricing Power of Product Features by Mining Consumer Reviews",
@@ -195,7 +227,9 @@
       ],
       "year": "2011",
       "venue": "Management Science",
-      "link": "https://doi.org/10.1287/mnsc.1110.1370"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1287/mnsc.1110.1370",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "The estimation of the gradient of a density function, with applications in pattern recognition",
@@ -205,7 +239,9 @@
       ],
       "year": "1975",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.1975.1055330"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.1975.1055330",
+      "other_link": null
     },
     "BIBREF21": {
       "title": "A survey of current work in biomedical text mining",
@@ -215,7 +251,9 @@
       ],
       "year": "2005",
       "venue": "Briefings in Bioinformatics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Learning by transduction",
@@ -226,7 +264,9 @@
       ],
       "year": "1998",
       "venue": "Uncertainty in Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Named Entity Filtering Based on Concept Association Graphs",
@@ -237,7 +277,9 @@
       ],
       "year": "2013",
       "venue": "Conference on Intelligent Text Processing and Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

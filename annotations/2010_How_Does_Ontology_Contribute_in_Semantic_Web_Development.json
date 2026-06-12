@@ -16,7 +16,9 @@
       ],
       "year": "2004",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/978-3-540-25956-5_30"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-25956-5_30",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Approximate Information Filtering on the Semantic Web",
@@ -25,7 +27,9 @@
       ],
       "year": "2002",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/3-540-45751-8_8"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45751-8_8",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "OWL-S semantics of security Web Services: a case study",
@@ -36,7 +40,9 @@
       ],
       "year": "2004",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/978-3-540-25956-5_17"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-25956-5_17",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "A methodology to create legal ontologies in a logic programming information retrieval system",
@@ -46,7 +52,9 @@
       ],
       "year": "2005",
       "venue": "Law and the Semantic Web",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Ontology Mapping – An Integrated Approach",
@@ -56,7 +64,9 @@
       ],
       "year": "2004",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/978-3-540-25956-5_6"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-25956-5_6",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Semantic web search model for information retrieval of the semantic data",
@@ -68,7 +78,9 @@
       ],
       "year": "2003",
       "venue": "Lecture Notes in Computer Science",
-      "link": "https://doi.org/10.1007/3-540-45036-x_60"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/3-540-45036-x_60",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Role of Ontology in Semantic Web Development",
@@ -78,7 +90,9 @@
       ],
       "year": "2010",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Increasing search quality with the semantic desktop in proposal development",
@@ -90,7 +104,9 @@
       ],
       "year": "2006",
       "venue": "Practical Aspects of Knowledge Management",
-      "link": "https://doi.org/10.1007/11944935_25"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/11944935_25",
+      "other_link": null
     }
   }
 }

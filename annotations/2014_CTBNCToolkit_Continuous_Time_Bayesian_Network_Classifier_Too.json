@@ -10,7 +10,9 @@
       ],
       "year": "2009",
       "venue": "",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Expectation propagation for continuous time Bayesian networks",
@@ -21,7 +23,9 @@
       ],
       "year": "2005",
       "venue": "Uncertainty in Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Modeling Events with Cascades of Poisson Processes",
@@ -31,7 +35,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Learning Continuous Time Bayesian Networks",
@@ -42,7 +48,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Learning",
-      "link": "https://doi.org/10.1016/j.ijar.2014.05.005"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.ijar.2014.05.005",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Object tracking: A survey",
@@ -53,7 +61,9 @@
       ],
       "year": "2006",
       "venue": "ACM Computing Surveys",
-      "link": "https://doi.org/10.1145/1177352.1177355"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1177352.1177355",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Objective Criteria for the Evaluation of Clustering Methods",
@@ -62,7 +72,9 @@
       ],
       "year": "1971",
       "venue": "Journal of the American Statistical Association",
-      "link": "https://doi.org/10.1080/01621459.1971.10482356"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1080/01621459.1971.10482356",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Matching incomplete time series with dynamic time warping: an algorithm and an application to post-stroke rehabilitation",
@@ -74,7 +86,9 @@
       ],
       "year": "2009",
       "venue": "Artificial Intelligence in Medicine",
-      "link": "https://doi.org/10.1016/j.artmed.2008.11.007"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.artmed.2008.11.007",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "A Model for Temporal Dependencies in Event Streams",
@@ -85,7 +99,9 @@
       ],
       "year": "2011",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "On Clustering Validation Techniques",
@@ -96,7 +112,9 @@
       ],
       "year": "2001",
       "venue": "Intelligent Information Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Learning Bayesian network classifiers by maximizing conditional likelihood",
@@ -106,7 +124,9 @@
       ],
       "year": "2004",
       "venue": "International Conference on Machine Learning",
-      "link": "https://doi.org/10.1145/1015330.1015339"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1015330.1015339",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "An introduction to ROC analysis",
@@ -115,7 +135,9 @@
       ],
       "year": "2006",
       "venue": "Pattern Recognition Letters",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Graphical Models for Time-Series",
@@ -125,7 +147,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Signal Processing Magazine",
-      "link": "https://doi.org/10.1109/msp.2010.938028"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/msp.2010.938028",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Continuous Time Bayesian Networks",
@@ -136,7 +160,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

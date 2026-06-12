@@ -11,7 +11,9 @@
       ],
       "year": "2014",
       "venue": "IEEE Transactions on Communications",
-      "link": "https://arxiv.org/abs/1309.1323"
+      "arxiv_link": "https://arxiv.org/abs/1309.1323",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "The chromatic numbers of random hypergraphs",
@@ -21,7 +23,9 @@
       ],
       "year": "1998",
       "venue": "Random Structures and Algorithms",
-      "link": "https://doi.org/10.1002/(sici)1098-2418(199807)12:4<381::aid-rsa5>3.0.co;2-p"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1002/(sici)1098-2418(199807)12:4<381::aid-rsa5>3.0.co;2-p",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Round-robin overlapping generations coding for fast content download",
@@ -31,7 +35,9 @@
       ],
       "year": "2013",
       "venue": "International Symposium on Information Theory",
-      "link": "https://doi.org/10.1109/isit.2013.6620725"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/isit.2013.6620725",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "A Random Linear Network Coding Approach to Multicast",
@@ -46,7 +52,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Transactions on Information Theory",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Sparse network coding with overlapping classes",
@@ -57,7 +65,9 @@
       ],
       "year": "2009",
       "venue": "arXiv: Information Theory",
-      "link": "https://arxiv.org/abs/0905.2796"
+      "arxiv_link": "https://arxiv.org/abs/0905.2796",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Approximate Coloring of Uniform Hypergraphs",
@@ -67,7 +77,9 @@
       ],
       "year": "1998",
       "venue": "Journal of Algorithms",
-      "link": "https://doi.org/10.1016/s0196-6774(03)00077-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/s0196-6774(03)00077-4",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "On Code Parameters and Coding Vector Representation for Practical RLNC",
@@ -79,7 +91,9 @@
       ],
       "year": "2011",
       "venue": "International Conference on Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Raptor Codes",
@@ -88,7 +102,9 @@
       ],
       "year": "2011",
       "venue": "",
-      "link": "https://doi.org/10.1561/0100000060"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1561/0100000060",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Speeding Multicast by Acknowledgment Reduction Technique (SMART)",
@@ -99,7 +115,9 @@
       ],
       "year": "2011",
       "venue": "arXiv: Networking and Internet Architecture",
-      "link": "https://arxiv.org/abs/1104.2941"
+      "arxiv_link": "https://arxiv.org/abs/1104.2941",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Round-Robin Streaming with Generations",
@@ -111,7 +129,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Information Theory",
-      "link": "https://arxiv.org/abs/1206.3014"
+      "arxiv_link": "https://arxiv.org/abs/1206.3014",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

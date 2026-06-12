@@ -11,7 +11,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Computer Communications",
-      "link": "https://doi.org/10.1109/infcom.2005.1498374"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2005.1498374",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Maximizing the spread of influence through a social network",
@@ -22,7 +24,9 @@
       ],
       "year": "2003",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/956750.956769"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/956750.956769",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "On Optimal Geographic Routing in Wireless Networks with Holes and Non-Uniform Traffic",
@@ -33,7 +37,9 @@
       ],
       "year": "2007",
       "venue": "IEEE International Conference Computer and Communications",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Optimal Geographic Routing for Wireless Networks with Near-Arbitrary Holes and Traffic",
@@ -44,7 +50,9 @@
       ],
       "year": "2008",
       "venue": "International Conference on Computer Communications",
-      "link": "https://doi.org/10.1109/infocom.2008.190"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infocom.2008.190",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Optimal and scalable distribution of content updates over a mobile social network",
@@ -55,7 +63,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Computer Communications",
-      "link": "https://doi.org/10.1109/infcom.2009.5062058"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2009.5062058",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Closing the Gap in the Capacity of Wireless Networks Via Percolation Theory",
@@ -67,7 +77,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2006.890791"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2006.890791",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "The capacity of wireless networks",
@@ -77,7 +89,9 @@
       ],
       "year": "2000",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/t-wc.2008.070723"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/t-wc.2008.070723",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Algebraic gossip: a network coding approach to optimal multiple rumor mongering",
@@ -88,7 +102,9 @@
       ],
       "year": "2006",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2006.874532"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2006.874532",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Randomized rumor spreading",
@@ -100,7 +116,9 @@
       ],
       "year": "2000",
       "venue": "Foundations of Computer Science",
-      "link": "https://doi.org/10.1109/sfcs.2000.892324"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/sfcs.2000.892324",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Gossiping With Multiple Messages",
@@ -111,7 +129,9 @@
       ],
       "year": "2007",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/infcom.2007.247"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2007.247",
+      "other_link": null
     }
   }
 }

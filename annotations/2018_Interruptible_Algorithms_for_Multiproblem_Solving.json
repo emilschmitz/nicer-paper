@@ -9,7 +9,9 @@
       ],
       "year": "1988",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Optimal scheduling of contract algorithms for anytime problems",
@@ -20,7 +22,9 @@
       ],
       "year": "2006",
       "venue": "National Conference on Artificial Intelligence",
-      "link": "https://doi.org/10.1613/jair.4360"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1613/jair.4360",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Optimal Sequencing of Contract Algorithms",
@@ -31,7 +35,9 @@
       ],
       "year": "2003",
       "venue": "Annals of Mathematics and Artificial Intelligence",
-      "link": "https://doi.org/10.1023/a:1024412831598"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1023/a:1024412831598",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Composing real-time systems",
@@ -41,7 +47,9 @@
       ],
       "year": "1991",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF4": {
       "title": "The Oil Searching Problem",
@@ -52,7 +60,9 @@
       ],
       "year": "2009",
       "venue": "European Symposium on Algorithms",
-      "link": "https://doi.org/10.1007/978-3-642-04128-0_45"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-04128-0_45",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Contract algorithms and robots on rays: unifying two scheduling problems",
@@ -63,7 +73,9 @@
       ],
       "year": "2003",
       "venue": "International Joint Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Scheduling contract algorithms on multiple processors",
@@ -75,7 +87,9 @@
       ],
       "year": "2002",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Using Anytime Algorithms in Intelligent Systems",
@@ -84,7 +98,9 @@
       ],
       "year": "1996",
       "venue": "Ai Magazine",
-      "link": "https://doi.org/10.1609/aimag.v17i3.1232"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1609/aimag.v17i3.1232",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "An analysis of time-dependent planning",
@@ -94,7 +110,9 @@
       ],
       "year": "1988",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Optimal scheduling of contract algorithms with soft deadlines",
@@ -105,7 +123,9 @@
       ],
       "year": "2008",
       "venue": "National Conference on Artificial Intelligence",
-      "link": "https://doi.org/10.1007/s10951-016-0483-z"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s10951-016-0483-z",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Further Connections Between Contract-Scheduling and Ray-Searching Problems",
@@ -114,7 +134,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Reasoning About Beliefs and Actions Under Computational Resource Constraints",
@@ -123,7 +145,9 @@
       ],
       "year": "2013",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

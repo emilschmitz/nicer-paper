@@ -11,7 +11,9 @@
       ],
       "year": "2008",
       "venue": "Knowledge Discovery and Data Mining",
-      "link": "https://doi.org/10.1145/1401890.1401965"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1401890.1401965",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Whose Vote Should Count More: Optimal Integration of Labels from Labelers of Unknown Expertise",
@@ -24,7 +26,9 @@
       ],
       "year": "2009",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "The Multidimensional Wisdom of Crowds",
@@ -36,7 +40,9 @@
       ],
       "year": "2010",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF20": {
       "title": "Non-Expert Evaluation of Summarization Systems is Risky",
@@ -46,7 +52,9 @@
       ],
       "year": "2010",
       "venue": "North American Chapter of the Association for Computational Linguistics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

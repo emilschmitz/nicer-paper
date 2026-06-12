@@ -13,7 +13,9 @@
       ],
       "year": "2008",
       "venue": "Internet Measurement Conference",
-      "link": "https://doi.org/10.1145/1452520.1452529"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1452520.1452529",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "In-Memory Big Data Management and Processing: A Survey",
@@ -26,7 +28,9 @@
       ],
       "year": "2015",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
-      "link": "https://doi.org/10.1109/tkde.2015.2427795"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tkde.2015.2427795",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Ratings for spectrum: Impacts of TV viewership on TV whitespace",
@@ -38,7 +42,9 @@
       ],
       "year": "2014",
       "venue": "Global Communications Conference",
-      "link": "https://doi.org/10.1109/glocom.2014.7036930"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/glocom.2014.7036930",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Modeling Latency in a Network Distribution",
@@ -48,7 +54,9 @@
       ],
       "year": "2012",
       "venue": "Network and Communication Technologies",
-      "link": "https://doi.org/10.5539/nct.v1n2p1"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.5539/nct.v1n2p1",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "MetaData persistence using storage class memory: experiences with flash-backed DRAM",
@@ -61,7 +69,9 @@
       ],
       "year": "2013",
       "venue": "Symposium on Operating Systems Principles",
-      "link": "https://doi.org/10.1145/2527792.2527800"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2527792.2527800",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey",
@@ -73,7 +83,9 @@
       ],
       "year": "2006",
       "venue": "Computer Networks",
-      "link": "https://doi.org/10.1016/j.comnet.2006.05.001"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1016/j.comnet.2006.05.001",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Reducing Channel Zapping Time in IPTV Based on User's Channel Selection Behaviors",
@@ -84,7 +96,9 @@
       ],
       "year": "2010",
       "venue": "IEEE Transactions on Broadcasting",
-      "link": "https://doi.org/10.1109/tbc.2010.2051494"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tbc.2010.2051494",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "IBM solidDB: In-Memory Database Optimized for Extreme Speed and Availability.",
@@ -97,7 +111,9 @@
       ],
       "year": "2013",
       "venue": "IEEE Data(base) Engineering Bulletin",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF8": {
       "title": "The effect of horizontal database table partitioning on query performance.",
@@ -107,7 +123,9 @@
       ],
       "year": "2016",
       "venue": "The International Arab Journal of Information Technology",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF9": {
       "title": "A cognitive radio TV prototype for effective TV spectrum sharing",
@@ -123,7 +141,9 @@
       ],
       "year": "2017",
       "venue": "IEEE International Symposium on Dynamic Spectrum Access Networks",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Capacity Considerations for Secondary Networks in TV White Space",
@@ -133,7 +153,9 @@
       ],
       "year": "2015",
       "venue": "IEEE Transactions on Mobile Computing",
-      "link": "https://arxiv.org/abs/1304.1785"
+      "arxiv_link": "https://arxiv.org/abs/1304.1785",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

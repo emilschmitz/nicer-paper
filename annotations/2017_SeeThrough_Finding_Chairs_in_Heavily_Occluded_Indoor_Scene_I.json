@@ -12,7 +12,9 @@
       ],
       "year": "2014",
       "venue": "European Conference on Computer Vision",
-      "link": "https://doi.org/10.1007/978-3-319-10599-4_43"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-10599-4_43",
+      "other_link": null
     },
     "BIBREF1": {
       "title": "OpenGM: A C++ Library for Discrete Graphical Models",
@@ -23,7 +25,9 @@
       ],
       "year": "2012",
       "venue": "arXiv: Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Viewpoints and keypoints",
@@ -33,7 +37,9 @@
       ],
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1411.6067"
+      "arxiv_link": "https://arxiv.org/abs/1411.6067",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Imagining the unseen: stability-based cuboid arrangements for scene understanding",
@@ -48,7 +54,9 @@
       ],
       "year": "2014",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/2661229.2661288"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2661229.2661288",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Acquiring 3D indoor environments with variability and repetition",
@@ -60,7 +68,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/2366145.2366157"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2366145.2366157",
+      "other_link": null
     },
     "BIBREF5": {
       "title": "Inference on networks of mixtures for robust robot mapping",
@@ -70,7 +80,9 @@
       ],
       "year": "2013",
       "venue": "Robotics: Science and Systems",
-      "link": "https://doi.org/10.1177/0278364913479413"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1177/0278364913479413",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Seeing 3D Chairs: Exemplar Part-Based 2D-3D Alignment Using a Large Dataset of CAD Models",
@@ -83,7 +95,9 @@
       ],
       "year": "2014",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2014.487"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2014.487",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Indoor Scene Understanding with Geometric and Semantic Contexts",
@@ -95,7 +109,9 @@
       ],
       "year": "2015",
       "venue": "International Journal of Computer Vision",
-      "link": "https://doi.org/10.1007/s11263-014-0779-4"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/s11263-014-0779-4",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Single-view reconstruction via joint analysis of image and shape collections",
@@ -106,7 +122,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/2766890"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2766890",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "RAPter: rebuilding man-made scenes with regular arrangements of planes",
@@ -118,7 +136,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/2766995"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2766995",
+      "other_link": null
     },
     "BIBREF10": {
       "title": "Activity-centric scene synthesis for functional 3D scene modeling",
@@ -131,7 +151,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/2816795.2818057"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2816795.2818057",
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Parsing IKEA Objects: Fine Pose Estimation",
@@ -142,7 +164,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2013.372"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2013.372",
+      "other_link": null
     },
     "BIBREF12": {
       "title": "Box in the Box: Joint 3D Layout and Object Reasoning from Single Images",
@@ -154,7 +178,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2013.51"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2013.51",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures",
@@ -165,7 +191,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Machine Learning",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF14": {
       "title": "Localizing 3D cuboids in single-view images",
@@ -176,7 +204,9 @@
       ],
       "year": "2012",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Bayesian geometric modeling of indoor scenes",
@@ -190,7 +220,9 @@
       ],
       "year": "2012",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2012.6247994"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2012.6247994",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Automatic photo pop-up",
@@ -201,7 +233,9 @@
       ],
       "year": "2005",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/1073204.1073232"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/1073204.1073232",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "3D object manipulation in a single photograph using stock 3D models",
@@ -213,7 +247,9 @@
       ],
       "year": "2014",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Histograms of oriented gradients for human detection",
@@ -223,7 +259,9 @@
       ],
       "year": "2005",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2005.177"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2005.177",
+      "other_link": null
     },
     "BIBREF19": {
       "title": "Example-based synthesis of 3D object arrangements",
@@ -236,7 +274,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Computer Graphics and Interactive Techniques",
-      "link": "https://doi.org/10.1145/2366145.2366154"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2366145.2366154",
+      "other_link": null
     },
     "BIBREF20": {
       "title": "ShapeNet: An Information-Rich 3D Model Repository",
@@ -257,7 +297,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Graphics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Learning Informative Edge Maps for Indoor Scene Layout Prediction",
@@ -267,7 +309,9 @@
       ],
       "year": "2015",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2015.113"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2015.113",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Single Image 3D Interpreter Network",
@@ -282,7 +326,9 @@
       ],
       "year": "2016",
       "venue": "European Conference on Computer Vision",
-      "link": "https://arxiv.org/abs/1604.08685"
+      "arxiv_link": "https://arxiv.org/abs/1604.08685",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF23": {
       "title": "DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes",
@@ -294,7 +340,9 @@
       ],
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://doi.org/10.1109/cvpr.2016.73"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.73",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Recovering the spatial layout of cluttered rooms",
@@ -305,7 +353,9 @@
       ],
       "year": "2009",
       "venue": "International Conference on Computer Vision",
-      "link": "https://doi.org/10.1109/iccv.2009.5459411"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2009.5459411",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks",
@@ -320,7 +370,9 @@
       ],
       "year": "2017",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1612.07429"
+      "arxiv_link": "https://arxiv.org/abs/1612.07429",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Deep Residual Learning for Image Recognition",
@@ -332,7 +384,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1512.03385"
+      "arxiv_link": "https://arxiv.org/abs/1512.03385",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF27": {
       "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
@@ -344,7 +398,9 @@
       ],
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1506.01497"
+      "arxiv_link": "https://arxiv.org/abs/1506.01497",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF28": {
       "title": "Convolutional Pose Machines",
@@ -356,7 +412,9 @@
       ],
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
-      "link": "https://arxiv.org/abs/1602.00134"
+      "arxiv_link": "https://arxiv.org/abs/1602.00134",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }

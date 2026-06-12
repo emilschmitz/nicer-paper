@@ -9,7 +9,9 @@
       ],
       "year": "1962",
       "venue": "Illinois Journal of Mathematics",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF1": {
       "title": "Construction of Frequency Hopping Sequence Set Based upon Generalized Cyclotomy",
@@ -21,7 +23,9 @@
       ],
       "year": "2010",
       "venue": "arXiv: Information Theory",
-      "link": "https://arxiv.org/abs/1009.3602"
+      "arxiv_link": "https://arxiv.org/abs/1009.3602",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF2": {
       "title": "Average hamming correlation for the cubic polynomial hopping sequences",
@@ -33,7 +37,9 @@
       ],
       "year": "2010",
       "venue": "Iet Communications",
-      "link": "https://doi.org/10.1049/iet-com.2009.0783"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1049/iet-com.2009.0783",
+      "other_link": null
     },
     "BIBREF3": {
       "title": "Sets of Optimal Frequency-Hopping Sequences",
@@ -43,7 +49,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2008.926410"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2008.926410",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "No-Hit-Zone Frequency-Hopping Sequence Sets with Optimal Hamming Autocorrelation",
@@ -54,7 +62,9 @@
       ],
       "year": "2010",
       "venue": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
-      "link": "https://doi.org/10.1587/transfun.e93.a.2239"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1587/transfun.e93.a.2239",
+      "other_link": null
     },
     "BIBREF6": {
       "title": "A New Class of Sequences With Zero or Low Correlation Zone Based on Interleaving Technique",
@@ -65,7 +75,9 @@
       ],
       "year": "2008",
       "venue": "IEEE Transactions on Information Theory",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Theory and applications of q-ary interleaved sequences",
@@ -74,7 +86,9 @@
       ],
       "year": "1995",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/18.370141"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/18.370141",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Lower bounds on the Hamming auto- and cross correlations of frequency-hopping sequences",
@@ -84,7 +98,9 @@
       ],
       "year": "2004",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2004.833362"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2004.833362",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "New designs for signal sets with low cross correlation, balance property, and large linear span: GF(p) case",
@@ -93,7 +109,9 @@
       ],
       "year": "2002",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.2002.804044"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2002.804044",
+      "other_link": null
     },
     "BIBREF13": {
       "title": "Families of sequences with optimal Hamming-correlation properties",
@@ -103,7 +121,9 @@
       ],
       "year": "1974",
       "venue": "IEEE Transactions on Information Theory",
-      "link": "https://doi.org/10.1109/tit.1974.1055169"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.1974.1055169",
+      "other_link": null
     }
   }
 }

@@ -10,7 +10,9 @@
       ],
       "year": "2013",
       "venue": "International Conference on Information Security",
-      "link": "https://doi.org/10.1007/978-3-642-38033-4_22"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-38033-4_22",
+      "other_link": null
     },
     "BIBREF2": {
       "title": "On the (im)possibility of obfuscating programs",
@@ -25,7 +27,9 @@
       ],
       "year": "2012",
       "venue": "Journal of the ACM",
-      "link": "https://doi.org/10.1145/2160158.2160159"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2160158.2160159",
+      "other_link": null
     },
     "BIBREF4": {
       "title": "Learning natural coding conventions",
@@ -36,7 +40,9 @@
       ],
       "year": "2014",
       "venue": "Foundations of Software Engineering",
-      "link": "https://arxiv.org/abs/1402.4182"
+      "arxiv_link": "https://arxiv.org/abs/1402.4182",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF5": {
       "title": "On the naturalness of software",
@@ -45,7 +51,9 @@
       ],
       "year": "2012",
       "venue": "International Conference on Software Engineering",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF6": {
       "title": "Code completion with statistical language models",
@@ -56,7 +64,9 @@
       ],
       "year": "2014",
       "venue": "Programming Language Design and Implementation",
-      "link": "https://doi.org/10.1145/2676726.2677009"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2676726.2677009",
+      "other_link": null
     },
     "BIBREF7": {
       "title": "Watermarking, tamper-proofing, and obfuscation - tools for software protection",
@@ -66,7 +76,9 @@
       ],
       "year": "2002",
       "venue": "IEEE Transactions on Software Engineering",
-      "link": "https://doi.org/10.1109/tse.2002.1027797"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/tse.2002.1027797",
+      "other_link": null
     },
     "BIBREF8": {
       "title": "Predicting Program Properties from \"Big Code\"",
@@ -77,7 +89,9 @@
       ],
       "year": "2015",
       "venue": "Symposium on Principles of Programming Languages",
-      "link": "https://doi.org/10.1145/2676726.2677009"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2676726.2677009",
+      "other_link": null
     },
     "BIBREF9": {
       "title": "Semi-supervised Sequence Learning",
@@ -87,7 +101,9 @@
       ],
       "year": "2015",
       "venue": "Neural Information Processing Systems",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF10": {
       "title": "An examination of software engineering work practices",
@@ -99,7 +115,9 @@
       ],
       "year": "2010",
       "venue": "Conference of the Centre for Advanced Studies on Collaborative Research",
-      "link": "https://arxiv.org/abs/1703.04990"
+      "arxiv_link": "https://arxiv.org/abs/1703.04990",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF11": {
       "title": "Learning programs from noisy data",
@@ -111,7 +129,9 @@
       ],
       "year": "2016",
       "venue": "Symposium on Principles of Programming Languages",
-      "link": "https://doi.org/10.1145/2837614.2837671"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2837614.2837671",
+      "other_link": null
     },
     "BIBREF14": {
       "title": "PHOG: probabilistic model for code",
@@ -122,7 +142,9 @@
       ],
       "year": "2016",
       "venue": "International Conference on Machine Learning",
-      "link": "https://doi.org/10.1145/2160158.2160159"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2160158.2160159",
+      "other_link": null
     },
     "BIBREF15": {
       "title": "Deep learning code fragments for code clone detection",
@@ -134,7 +156,9 @@
       ],
       "year": "2016",
       "venue": "Automated Software Engineering",
-      "link": "https://doi.org/10.1145/2970276.2970326"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2970276.2970326",
+      "other_link": null
     },
     "BIBREF16": {
       "title": "Deobfuscation: reverse engineering obfuscated code",
@@ -145,7 +169,9 @@
       ],
       "year": "2005",
       "venue": "Working Conference on Reverse Engineering",
-      "link": "https://doi.org/10.1109/wcre.2005.13"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/wcre.2005.13",
+      "other_link": null
     },
     "BIBREF17": {
       "title": "Probabilistic model for code with decision trees",
@@ -156,7 +182,9 @@
       ],
       "year": "2016",
       "venue": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
-      "link": "https://doi.org/10.1145/2983990.2984041"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/2983990.2984041",
+      "other_link": null
     },
     "BIBREF18": {
       "title": "Neural Programming by Example",
@@ -166,7 +194,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
-      "link": "https://arxiv.org/abs/1703.04990"
+      "arxiv_link": "https://arxiv.org/abs/1703.04990",
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF19": {
       "title": "DeepFix: Fixing Common C Language Errors by Deep Learning.",
@@ -178,7 +208,9 @@
       ],
       "year": "2017",
       "venue": "National Conference on Artificial Intelligence",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF21": {
       "title": "Stochastic optimization of program obfuscation",
@@ -192,7 +224,9 @@
       ],
       "year": "2017",
       "venue": "International Conference on Software Engineering",
-      "link": "https://doi.org/10.1109/icse.2017.28"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icse.2017.28",
+      "other_link": null
     },
     "BIBREF22": {
       "title": "Automatic text input generation for mobile testing",
@@ -206,7 +240,9 @@
       ],
       "year": "2017",
       "venue": "International Conference on Software Engineering",
-      "link": "https://doi.org/10.1109/icse.2017.28"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icse.2017.28",
+      "other_link": null
     },
     "BIBREF23": {
       "title": "Exploring API embedding for API usages and applications",
@@ -218,7 +254,9 @@
       ],
       "year": "2017",
       "venue": "International Conference on Software Engineering",
-      "link": "https://doi.org/10.1109/icse.2017.47"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1109/icse.2017.47",
+      "other_link": null
     },
     "BIBREF24": {
       "title": "Recovering clear, natural identifiers from obfuscated JS names",
@@ -229,7 +267,9 @@
       ],
       "year": "2017",
       "venue": "Foundations of Software Engineering",
-      "link": "https://doi.org/10.1145/3106237.3106289"
+      "arxiv_link": null,
+      "doi_link": "https://doi.org/10.1145/3106237.3106289",
+      "other_link": null
     },
     "BIBREF25": {
       "title": "Sequence to Sequence Learning with Neural Networks",
@@ -240,7 +280,9 @@
       ],
       "year": "2014",
       "venue": "arXiv: Computation and Language",
-      "link": null
+      "arxiv_link": null,
+      "doi_link": null,
+      "other_link": null
     },
     "BIBREF26": {
       "title": "Learn&Fuzz: Machine Learning for Input Fuzzing",
@@ -251,7 +293,9 @@
       ],
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
-      "link": "https://arxiv.org/abs/1701.07232"
+      "arxiv_link": "https://arxiv.org/abs/1701.07232",
+      "doi_link": null,
+      "other_link": null
     }
   }
 }
