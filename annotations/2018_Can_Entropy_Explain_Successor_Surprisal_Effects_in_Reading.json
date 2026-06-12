@@ -1,0 +1,64 @@
+{
+  "paper_id": "1810.11481v1",
+  "title": "Can Entropy Explain Successor Surprisal Effects in Reading",
+  "bib_entries": {
+    "BIBREF2": {
+      "title": "Deriving lexical and syntactic expectation-based measures for psycholinguistic modeling via incremental top-down parsing",
+      "authors": [
+        "Brian Roark",
+        "Asaf Bachrach",
+        "Carlos Cardenas",
+        "Christophe Pallier"
+      ],
+      "year": "2009",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.3115/1699510.1699553"
+    },
+    "BIBREF4": {
+      "title": "Uncertainty about the rest of the sentence.",
+      "authors": [
+        "John Hale"
+      ],
+      "year": "2006",
+      "venue": "Cognitive Science",
+      "link": "https://doi.org/10.1207/s15516709cog0000_64"
+    },
+    "BIBREF5": {
+      "title": "The Natural Stories Corpus",
+      "authors": [
+        "Richard Futrell",
+        "Edward Gibson",
+        "Hal Tily",
+        "Idan Blank",
+        "Anastasia Vishnevetsky",
+        "Steven T. Piantadosi",
+        "Evelina Fedorenko"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Approximations of Predictive Entropy Correlate with Reading Times.",
+      "authors": [
+        "Marten Van Schijndel",
+        "William Schuler"
+      ],
+      "year": "2017",
+      "venue": "Cognitive Science",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "What do RNN Language Models Learn about Filler-Gap Dependencies?",
+      "authors": [
+        "Ethan Gotlieb Wilcox",
+        "R. Levy",
+        "Takashi Morita",
+        "Richard Futrell"
+      ],
+      "year": "2018",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://arxiv.org/abs/1809.00042"
+    }
+  }
+}

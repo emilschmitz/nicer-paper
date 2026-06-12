@@ -1,0 +1,103 @@
+{
+  "paper_id": "1507.08107v1",
+  "title": "A Network-Aware Approach for Searching As-You-Type in Social Media (Extended Version).",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Instant social graph search",
+      "authors": [
+        "Sen Wu",
+        "Jie Tang",
+        "B. Gao"
+      ],
+      "year": "2012",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1007/978-3-642-30220-6_22"
+    },
+    "BIBREF3": {
+      "title": "Context-aware top-K processing using views",
+      "authors": [
+        "Silviu Maniu",
+        "Bogdan Cautis"
+      ],
+      "year": "2013",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/2505515.2505759"
+    },
+    "BIBREF4": {
+      "title": "Supporting ranking queries on uncertain and incomplete data",
+      "authors": [
+        "Mohamed A. Soliman",
+        "Ihab F. Ilyas",
+        "Shalev Ben-David"
+      ],
+      "year": "2010",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1007/s00778-009-0176-8"
+    },
+    "BIBREF9": {
+      "title": "Learning to personalize query auto-completion",
+      "authors": [
+        "Milad Shokouhi"
+      ],
+      "year": "2013",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": "https://doi.org/10.1145/2484028.2484076"
+    },
+    "BIBREF10": {
+      "title": "Orthogonal query recommendation",
+      "authors": [
+        "Hossein Vahabi",
+        "Margareta Ackerman",
+        "David Loker",
+        "Ricardo Baeza-Yates",
+        "Alejandro Lopez-Ortiz"
+      ],
+      "year": "2013",
+      "venue": "Conference on Recommender Systems",
+      "link": "https://doi.org/10.1145/2507157.2507159"
+    },
+    "BIBREF14": {
+      "title": "Query suggestion using hitting time",
+      "authors": [
+        "Qiaozhu Mei",
+        "Dengyong Zhou",
+        "Kenneth Ward Church"
+      ],
+      "year": "2008",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/1458082.1458145"
+    },
+    "BIBREF15": {
+      "title": "Type less, find more: fast autocompletion search with a succinct index",
+      "authors": [
+        "H. Bast",
+        "Ingmar Weber"
+      ],
+      "year": "2006",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": "https://doi.org/10.1145/1148170.1148234"
+    },
+    "BIBREF16": {
+      "title": "Efficient network aware search in collaborative tagging sites",
+      "authors": [
+        "S. Amer-Yahia",
+        "Michael Benedikt",
+        "L. Lakshmanan",
+        "J. Stoyanovich"
+      ],
+      "year": "2008",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.14778/1453856.1453934"
+    },
+    "BIBREF17": {
+      "title": "Partitioned multi-indexing: bringing order to social search",
+      "authors": [
+        "B. Bahmani",
+        "Ashish Goel"
+      ],
+      "year": "2012",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/2187836.2187891"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "paper_id": "1808.07288v1",
+  "title": "Clustering and Labeling Auction Fraud Data",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "An Empirical Analysis of Imbalanced Data Classification",
+      "authors": [
+        "Shu Zhang",
+        "S. Sadaoui",
+        "Malek Mouhoub"
+      ],
+      "year": "2015",
+      "venue": "Computer and Information Science",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Survey: Combating online in-auction fraud: Clues, techniques and challenges",
+      "authors": [
+        "Fei Dong",
+        "S. Shatz",
+        "Haiping Xu"
+      ],
+      "year": "2009",
+      "venue": "Computer Science Review",
+      "link": "https://doi.org/10.1016/j.cosrev.2009.09.001"
+    },
+    "BIBREF4": {
+      "title": "An automatic method to determine the number of clusters using decision-theoretic rough set",
+      "authors": [
+        "Hong Yu",
+        "Zhanguo Liu",
+        "Guoyin Wang"
+      ],
+      "year": "2014",
+      "venue": "International Journal of Approximate Reasoning",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Analysis of fraudulent behavior strategies in online auctions for detecting latent fraudsters",
+      "authors": [
+        "Jau-Shien Chang",
+        "Wen-Hsi Chang"
+      ],
+      "year": "2014",
+      "venue": "Electronic Commerce Research and Applications",
+      "link": "https://doi.org/10.1016/j.elerap.2013.10.004"
+    },
+    "BIBREF7": {
+      "title": "A Real-Time Self-Adaptive Classifier for Identifying Suspicious Bidders in Online Auctions",
+      "authors": [
+        "Benjamin J. Ford",
+        "Haiping Xu",
+        "Iren Valova"
+      ],
+      "year": "2013",
+      "venue": "The Computer Journal",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Detection of financial statement fraud and feature selection using data mining techniques",
+      "authors": [
+        "P. Ravisankar",
+        "V. Ravi",
+        "G. Raghava Rao",
+        "I. Bose"
+      ],
+      "year": "2011",
+      "venue": "Decision Support Systems",
+      "link": "https://doi.org/10.1016/j.dss.2010.11.006"
+    },
+    "BIBREF12": {
+      "title": "Classification of Imbalanced Auction Fraud Data",
+      "authors": [
+        "S. Ganguly",
+        "S. Sadaoui"
+      ],
+      "year": "2017",
+      "venue": "Canadian Conference on Artificial Intelligence",
+      "link": "https://doi.org/10.1007/978-3-319-57351-9_11"
+    }
+  }
+}

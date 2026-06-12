@@ -1,0 +1,131 @@
+{
+  "paper_id": "1507.07147v1",
+  "title": "True Online Emphatic TD(λ): Quick Reference and Implementation Guide.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Fast gradient-descent methods for temporal-difference learning with linear function approximation",
+      "authors": [
+        "Richard S. Sutton",
+        "Hamid Reza Maei",
+        "Doina Precup",
+        "Shalabh Bhatnagar",
+        "David Silver",
+        "Csaba Szepesvári",
+        "Eric Wiewiora"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Machine Learning",
+      "link": "https://doi.org/10.1145/1553374.1553501"
+    },
+    "BIBREF1": {
+      "title": "Reinforcement Learning: An Introduction",
+      "authors": [
+        "R.S. Sutton",
+        "A.G. Barto"
+      ],
+      "year": "1988",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction",
+      "authors": [
+        "Richard S. Sutton",
+        "Joseph Modayil",
+        "Michael Delp",
+        "Thomas Degris",
+        "Patrick M. Pilarski",
+        "Adam White",
+        "Doina Precup"
+      ],
+      "year": "2011",
+      "venue": "Adaptive Agents and Multi-Agents Systems",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "A direct adaptive method for faster backpropagation learning: the RPROP algorithm",
+      "authors": [
+        "Martin A. Riedmiller",
+        "H. Braun"
+      ],
+      "year": "1993",
+      "venue": "IEEE International Conference on Neural Networks",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Bias in Natural Actor-Critic Algorithms",
+      "authors": [
+        "Philip Thomas"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Tuning-free step-size adaptation",
+      "authors": [
+        "A. Mahmood",
+        "R. Sutton",
+        "T. Degris",
+        "P. Pilarski"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2012.6288330"
+    },
+    "BIBREF6": {
+      "title": "Multi-timescale nexting in a reinforcement learning robot",
+      "authors": [
+        "Joseph Modayil",
+        "Adam White",
+        "R. Sutton"
+      ],
+      "year": "2014",
+      "venue": "Adaptive Behavior",
+      "link": "https://arxiv.org/abs/1112.1133"
+    },
+    "BIBREF7": {
+      "title": "Off-policy TD(λ) with a true online equivalence",
+      "authors": [
+        "Hado van Hasselt",
+        "A. Rupam Mahmood",
+        "Richard S. Sutton"
+      ],
+      "year": "2014",
+      "venue": "Uncertainty in Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "An Empirical Evaluation of True Online TD(λ).",
+      "authors": [
+        "Harm van Seijen",
+        "Ashique Rupam Mahmood",
+        "Patrick M. Pilarski",
+        "Richard S. Sutton"
+      ],
+      "year": "2015",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "An Emphatic Approach to the Problem of Off-policy Temporal-Difference Learning",
+      "authors": [
+        "Richard S. Sutton",
+        "A. Rupam Mahmood",
+        "Martha White"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "On Convergence of Emphatic Temporal-Difference Learning",
+      "authors": [
+        "Huizhen Yu"
+      ],
+      "year": "2015",
+      "venue": "Conference on Learning Theory",
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "paper_id": "1404.4893v1",
+  "title": "CTBNCToolkit: Continuous Time Bayesian Network Classifier Toolkit.",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "Probabilistic Graphical Models: Principles and Techniques",
+      "authors": [
+        "Daphne Koller",
+        "Nir Friedman"
+      ],
+      "year": "2009",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Expectation propagation for continuous time Bayesian networks",
+      "authors": [
+        "Uri Nodelman",
+        "Daphne Koller",
+        "Christian R. Shelton"
+      ],
+      "year": "2005",
+      "venue": "Uncertainty in Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Modeling Events with Cascades of Poisson Processes",
+      "authors": [
+        "Aleksandr Simma",
+        "Michael I. Jordan"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Learning Continuous Time Bayesian Networks",
+      "authors": [
+        "Uri Nodelman",
+        "Christian R. Shelton",
+        "Daphne Koller"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Learning",
+      "link": "https://doi.org/10.1016/j.ijar.2014.05.005"
+    },
+    "BIBREF5": {
+      "title": "Object tracking: A survey",
+      "authors": [
+        "A. Yilmaz",
+        "O. Javed",
+        "M. Shah"
+      ],
+      "year": "2006",
+      "venue": "ACM Computing Surveys",
+      "link": "https://doi.org/10.1145/1177352.1177355"
+    },
+    "BIBREF6": {
+      "title": "Objective Criteria for the Evaluation of Clustering Methods",
+      "authors": [
+        "William M. Rand"
+      ],
+      "year": "1971",
+      "venue": "Journal of the American Statistical Association",
+      "link": "https://doi.org/10.1080/01621459.1971.10482356"
+    },
+    "BIBREF7": {
+      "title": "Matching incomplete time series with dynamic time warping: an algorithm and an application to post-stroke rehabilitation",
+      "authors": [
+        "Paolo Tormene",
+        "Toni Giorgino",
+        "Silvana Quaglini",
+        "Mario Stefanelli"
+      ],
+      "year": "2009",
+      "venue": "Artificial Intelligence in Medicine",
+      "link": "https://doi.org/10.1016/j.artmed.2008.11.007"
+    },
+    "BIBREF8": {
+      "title": "A Model for Temporal Dependencies in Event Streams",
+      "authors": [
+        "Asela Gunawardana",
+        "Christopher Meek",
+        "Puyang Xu"
+      ],
+      "year": "2011",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "On Clustering Validation Techniques",
+      "authors": [
+        "Maria Halkidi",
+        "Yannis Batistakis",
+        "Michalis Vazirgiannis"
+      ],
+      "year": "2001",
+      "venue": "Intelligent Information Systems",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Learning Bayesian network classifiers by maximizing conditional likelihood",
+      "authors": [
+        "Daniel Grossman",
+        "Pedro Domingos"
+      ],
+      "year": "2004",
+      "venue": "International Conference on Machine Learning",
+      "link": "https://doi.org/10.1145/1015330.1015339"
+    },
+    "BIBREF11": {
+      "title": "An introduction to ROC analysis",
+      "authors": [
+        "Tom Fawcett"
+      ],
+      "year": "2006",
+      "venue": "Pattern Recognition Letters",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Graphical Models for Time-Series",
+      "authors": [
+        "D. Barber",
+        "Ali Taylan Cemgil"
+      ],
+      "year": "2010",
+      "venue": "IEEE Signal Processing Magazine",
+      "link": "https://doi.org/10.1109/msp.2010.938028"
+    },
+    "BIBREF13": {
+      "title": "Continuous Time Bayesian Networks",
+      "authors": [
+        "Uri Nodelman",
+        "Christian R. Shelton",
+        "Daphne Koller"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    }
+  }
+}

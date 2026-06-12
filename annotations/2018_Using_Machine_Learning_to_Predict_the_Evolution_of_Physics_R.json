@@ -1,0 +1,158 @@
+{
+  "paper_id": "1810.12116v1",
+  "title": "Using Machine Learning to Predict the Evolution of Physics Research.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Generating Accurate Rule Sets Without Global Optimization",
+      "authors": [
+        "Eibe Frank",
+        "Ian H. Witten"
+      ],
+      "year": "1998",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Locally Weighted Learning",
+      "authors": [
+        "C. Atkeson",
+        "A. Moore",
+        "S. Schaal"
+      ],
+      "year": "1997",
+      "venue": "Artificial Intelligence Review",
+      "link": "https://doi.org/10.1023/a:1006559212014"
+    },
+    "BIBREF2": {
+      "title": "Visualizing science by citation mapping",
+      "authors": [
+        "Henry Small"
+      ],
+      "year": "1999",
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://doi.org/10.1002/(sici)1097-4571(1999)50:9<799::aid-asi9>3.3.co;2-7"
+    },
+    "BIBREF3": {
+      "title": "GED: the method for group evolution discovery in social networks",
+      "authors": [
+        "Piotr Bródka",
+        "Stanisław Saganowski",
+        "Przemysław Kazienko"
+      ],
+      "year": "2013",
+      "venue": "Social Network Analysis and Mining",
+      "link": "https://doi.org/10.1007/s13278-012-0058-8"
+    },
+    "BIBREF4": {
+      "title": "Scopus's source normalized impact per paper (SNIP) versus a journal impact factor based on fractional counting of citations",
+      "authors": [
+        "Loet Leydesdorff",
+        "Tobias Opthof"
+      ],
+      "year": "2010",
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://doi.org/10.1002/asi.21371"
+    },
+    "BIBREF5": {
+      "title": "Feature subset selection using a genetic algorithm",
+      "authors": [
+        "J. Yang",
+        "V. Honavar"
+      ],
+      "year": "1998",
+      "venue": "IEEE Intelligent Systems & Their Applications",
+      "link": "https://doi.org/10.1109/5254.671091"
+    },
+    "BIBREF6": {
+      "title": "Mapping the backbone of science.",
+      "authors": [
+        "Kevin W. Boyack",
+        "Richard Klavans",
+        "Katy Börner"
+      ],
+      "year": "2005",
+      "venue": "Scientometrics",
+      "link": "https://doi.org/10.1007/s11192-005-0255-6"
+    },
+    "BIBREF7": {
+      "title": "Community structure of the physical review citation network",
+      "authors": [
+        "P. Chen",
+        "Sidney Redner"
+      ],
+      "year": "2010",
+      "venue": "Journal of Informetrics",
+      "link": "https://doi.org/10.1016/j.joi.2010.01.001"
+    },
+    "BIBREF8": {
+      "title": "A Performance of Centrality Calculation in Social Networks",
+      "authors": [
+        "Piotr Bródka",
+        "Katarzyna Musial",
+        "Przemyslaw Kazienko"
+      ],
+      "year": "2009",
+      "venue": "Computational Aspects of Social Networks",
+      "link": "https://doi.org/10.1109/cason.2009.20"
+    },
+    "BIBREF9": {
+      "title": "Universality of citation distributions: Toward an objective measure of scientific impact",
+      "authors": [
+        "F. Radicchi",
+        "S. Fortunato",
+        "C. Castellano"
+      ],
+      "year": "2008",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://doi.org/10.1073/pnas.0806977105"
+    },
+    "BIBREF10": {
+      "title": "Tracking the evolution of community structures in time-evolving social networks",
+      "authors": [
+        "E. Tajeuna",
+        "M. Bouguessa",
+        "Shengrui Wang"
+      ],
+      "year": "2015",
+      "venue": "IEEE International Conference on Data Science and Advanced Analytics",
+      "link": "https://doi.org/10.1109/dsaa.2015.7344876"
+    },
+    "BIBREF11": {
+      "title": "Predicting Community Evolution in Social Networks",
+      "authors": [
+        "Stanisław Saganowski",
+        "Bogdan Gliwa",
+        "Piotr Bródka",
+        "Anna Zygmunt",
+        "Przemyslaw Kazienko",
+        "J. Kozlak"
+      ],
+      "year": "2015",
+      "venue": "Entropy",
+      "link": "https://doi.org/10.3390/e17053053"
+    },
+    "BIBREF12": {
+      "title": "Knowledge evolution in physics research: An analysis of bibliographic coupling networks",
+      "authors": [
+        "Wenyuan Liu",
+        "Andrea Nanetti",
+        "S. Cheong"
+      ],
+      "year": "2017",
+      "venue": "PLOS ONE",
+      "link": "https://doi.org/10.1371/journal.pone.0184821"
+    },
+    "BIBREF13": {
+      "title": "Predicting the evolution of communities in social networks using structural and temporal features",
+      "authors": [
+        "M. Pavlopoulou",
+        "Grigorios Tzortzis",
+        "D. Vogiatzis",
+        "G. Paliouras"
+      ],
+      "year": "2017",
+      "venue": "2017 12th International Workshop on Semantic and Social Media Adaptation and Personalization (SMAP)",
+      "link": "https://doi.org/10.1109/smap.2017.8022665"
+    }
+  }
+}

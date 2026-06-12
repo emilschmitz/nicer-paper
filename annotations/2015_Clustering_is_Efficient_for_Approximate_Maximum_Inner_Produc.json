@@ -1,0 +1,119 @@
+{
+  "paper_id": "1507.05910v3",
+  "title": "Clustering is Efficient for Approximate Maximum Inner Product Search",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "On Symmetric and Asymmetric LSHs for Inner Product Search",
+      "authors": [
+        "Behnam Neyshabur",
+        "Nathan Srebro"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Deep Networks With Large Output Spaces",
+      "authors": [
+        "Sudheendra Vijayanarasimhan",
+        "Jonathon Shlens",
+        "Rajat Monga",
+        "Jay Yagnik"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Speeding up the Xbox recommender system using a euclidean transformation for inner-product spaces",
+      "authors": [
+        "Yoram Bachrach",
+        "Yehuda Finkelstein",
+        "Ran Gilad-Bachrach",
+        "L. Katzir",
+        "Noam Koenigstein",
+        "Nir Nice",
+        "U. Paquet"
+      ],
+      "year": "2014",
+      "venue": "Conference on Recommender Systems",
+      "link": "https://doi.org/10.1145/2645710.2645741"
+    },
+    "BIBREF4": {
+      "title": "Efficient retrieval of recommendations in a matrix factorization framework",
+      "authors": [
+        "Noam Koenigstein",
+        "Parikshit Ram",
+        "Y. Shavitt"
+      ],
+      "year": "2012",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/2396761.2396831"
+    },
+    "BIBREF5": {
+      "title": "Maximum inner-product search using cone trees",
+      "authors": [
+        "Parikshit Ram",
+        "Alexander G. Gray"
+      ],
+      "year": "2012",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://arxiv.org/abs/1202.6101"
+    },
+    "BIBREF6": {
+      "title": "Improved Asymmetric Locality Sensitive Hashing (ALSH) for Maximum Inner Product Search (MIPS)",
+      "authors": [
+        "Anshumali Shrivastava",
+        "Ping Li"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "A Scalable Hierarchical Distributed Language Model",
+      "authors": [
+        "Andriy Mnih",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2008",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Locality-sensitive hashing scheme based on p-stable distributions",
+      "authors": [
+        "Mayur Datar",
+        "Nicole Immorlica",
+        "P. Indyk",
+        "V. Mirrokni"
+      ],
+      "year": "2004",
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://doi.org/10.1145/997817.997857"
+    },
+    "BIBREF14": {
+      "title": "Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)",
+      "authors": [
+        "Anshumali Shrivastava",
+        "Ping Li"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Distributed Representations of Words and Phrases and their Compositionality",
+      "authors": [
+        "Tomas Mikolov",
+        "Ilya Sutskever",
+        "Kai Chen",
+        "Greg Corrado",
+        "Jeffrey Dean"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    }
+  }
+}

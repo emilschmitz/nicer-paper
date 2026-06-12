@@ -1,0 +1,137 @@
+{
+  "paper_id": "1712.01016v6",
+  "title": "On data recovery with restraints on the spectrum range and the process range.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Sub-Nyquist Sampling: Bridging Theory and Practice",
+      "authors": [
+        "Moshe Mishali",
+        "Yonina C. Eldar"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Information Theory",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Rényi Information Dimension: Fundamental Limits of Almost Lossless Analog Compression",
+      "authors": [
+        "Yihong Wu",
+        "S. Verdú"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2010.2050803"
+    },
+    "BIBREF2": {
+      "title": "Sampling theory for not necessarily band-limited functions: a historical overview",
+      "authors": [
+        "P. L. Butzer",
+        "R. L. Stens"
+      ],
+      "year": "1992",
+      "venue": "Siam Review",
+      "link": "https://doi.org/10.1137/1034002"
+    },
+    "BIBREF3": {
+      "title": "Recurrent networks for compressive sampling",
+      "authors": [
+        "Chi-Sing Leung",
+        "John Sum",
+        "A. G. Constantinides"
+      ],
+      "year": "2014",
+      "venue": "Neurocomputing",
+      "link": "https://doi.org/10.1016/j.neucom.2013.09.028"
+    },
+    "BIBREF4": {
+      "title": "Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit",
+      "authors": [
+        "J.A. Tropp",
+        "A.C. Gilbert"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tsp.2015.2413384"
+    },
+    "BIBREF5": {
+      "title": "Near-Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?",
+      "authors": [
+        "E.J. Candes",
+        "T. Tao"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/math/0410542"
+    },
+    "BIBREF6": {
+      "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+      "authors": [
+        "E. Candès",
+        "J. Romberg",
+        "T. Tao"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/math/0409186"
+    },
+    "BIBREF7": {
+      "title": "Signal Reconstruction From Noisy Random Projections",
+      "authors": [
+        "Jarvis D. Haupt",
+        "R. Nowak"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2006.880031"
+    },
+    "BIBREF8": {
+      "title": "Algorithms for the solution of systems of linear diophantine equations",
+      "authors": [
+        "Tsu-Wu J. Chou",
+        "G. Collins"
+      ],
+      "year": "1979",
+      "venue": "SIAM Journal on Computing",
+      "link": "https://doi.org/10.1137/0211057"
+    },
+    "BIBREF9": {
+      "title": "Compressed sensing",
+      "authors": [
+        "D.L. Donoho"
+      ],
+      "year": "2004",
+      "venue": "",
+      "link": "https://doi.org/10.1109/icassp.2008.4517908"
+    },
+    "BIBREF10": {
+      "title": "On sampling theorem with sparse decimated samples.",
+      "authors": [
+        "Nikolai Dokuchaev"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Information Theory",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Sparsity-based estimation bounds with corrupted measurements",
+      "authors": [
+        "R. Boyer",
+        "P. Larzabal"
+      ],
+      "year": "2018",
+      "venue": "Signal Processing",
+      "link": "https://doi.org/10.1016/j.sigpro.2017.08.004"
+    },
+    "BIBREF12": {
+      "title": "Information-Theoretically Optimal Compressed Sensing via Spatial Coupling and Approximate Message Passing",
+      "authors": [
+        "David L. Donoho",
+        "Adel Javanmard",
+        "Andrea Montanari"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/1112.0708"
+    }
+  }
+}

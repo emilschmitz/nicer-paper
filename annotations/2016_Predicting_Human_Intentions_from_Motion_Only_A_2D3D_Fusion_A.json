@@ -1,0 +1,426 @@
+{
+  "paper_id": "1605.09526v4",
+  "title": "Predicting Human Intentions from Motion Only: A 2D+3D Fusion Approach",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "Modeling complex temporal composition of actionlets for activity prediction",
+      "authors": [
+        "Kang Li",
+        "Jie Hu",
+        "Y. Fu"
+      ],
+      "year": "2012",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-642-33718-5_21"
+    },
+    "BIBREF2": {
+      "title": "Human action recognition using a temporal hierarchy of covariance descriptors on 3D joint locations",
+      "authors": [
+        "Mohamed E. Hussein",
+        "Marwan Torki",
+        "Mohammad A. Gowayyed",
+        "Motaz El-Saban"
+      ],
+      "year": "2013",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Context-Aware Activity Forecasting",
+      "authors": [
+        "Anirban Chakraborty",
+        "A. Roy-Chowdhury"
+      ],
+      "year": "2014",
+      "venue": "Asian Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-319-16814-2_2"
+    },
+    "BIBREF5": {
+      "title": "Anticipating Human Activities Using Object Affordances for Reactive Robotic Response",
+      "authors": [
+        "H. Koppula",
+        "Ashutosh Saxena"
+      ],
+      "year": "2016",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2015.2430335"
+    },
+    "BIBREF8": {
+      "title": "A discriminative CNN video representation for event detection",
+      "authors": [
+        "Zhongwen Xu",
+        "Yi Yang",
+        "Alexander Hauptmann"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Analyzing Tracklets for the Detection of Abnormal Crowd Behavior",
+      "authors": [
+        "Hossein Mousavi",
+        "Sadegh Mohammadi",
+        "A. Perina",
+        "R. Chellali",
+        "Vittorio Murino"
+      ],
+      "year": "2015",
+      "venue": "Workshop on Applications of Computer Vision",
+      "link": "https://doi.org/10.1109/wacv.2015.27"
+    },
+    "BIBREF12": {
+      "title": "Aggregating local descriptors into a compact image representation",
+      "authors": [
+        "Herve Jegou",
+        "Matthijs Douze",
+        "Cordelia Schmid",
+        "Patrick Perez"
+      ],
+      "year": "2010",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2010.5540039"
+    },
+    "BIBREF14": {
+      "title": "Bio-inspired Dynamic 3D Discriminative Skeletal Features for Human Action Recognition",
+      "authors": [
+        "Rizwan Chaudhry",
+        "Ferda Ofli",
+        "Gregorij Kurillo",
+        "Ruzena Bajcsy",
+        "Rene Vidal"
+      ],
+      "year": "2013",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvprw.2013.153"
+    },
+    "BIBREF16": {
+      "title": "Semantic human activity recognition: A literature review",
+      "authors": [
+        "Maryam Ziaeefard",
+        "Robert Bergevin"
+      ],
+      "year": "2015",
+      "venue": "Pattern Recognition",
+      "link": "https://doi.org/10.1016/j.patcog.2015.03.006"
+    },
+    "BIBREF17": {
+      "title": "Parsing video events with goal inference and intent prediction",
+      "authors": [
+        "Mingtao Pei",
+        "Yunde Jia",
+        "Song-Chun Zhu"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126279"
+    },
+    "BIBREF18": {
+      "title": "Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group",
+      "authors": [
+        "Raviteja Vemulapalli",
+        "Felipe Arrate",
+        "Rama Chellappa"
+      ],
+      "year": "2014",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2014.82"
+    },
+    "BIBREF21": {
+      "title": "Dense trajectories and motion boundary descriptors for action recognition",
+      "authors": [
+        "Heng Wang",
+        "Alexander Kläser",
+        "Cordelia Schmid",
+        "Cheng-Lin Liu"
+      ],
+      "year": "2013",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://doi.org/10.1007/s11263-012-0594-8"
+    },
+    "BIBREF22": {
+      "title": "EigenJoints-based action recognition using Naïve-Bayes-Nearest-Neighbor",
+      "authors": [
+        "Xiaodong Yang",
+        "Ying Li Tian"
+      ],
+      "year": "2012",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvprw.2012.6239232"
+    },
+    "BIBREF24": {
+      "title": "Prediction of Human Activity by Discovering Temporal Sequence Patterns",
+      "authors": [
+        "Kang Li",
+        "Yun Fu"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2013.2297321"
+    },
+    "BIBREF26": {
+      "title": "Action-Reaction: Forecasting the Dynamics of Human Interaction",
+      "authors": [
+        "De-An Huang",
+        "Kris M. Kitani"
+      ],
+      "year": "2014",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-319-10584-0_32"
+    },
+    "BIBREF27": {
+      "title": "Action Recognition with Improved Trajectories",
+      "authors": [
+        "Heng Wang",
+        "Cordelia Schmid"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2013.441"
+    },
+    "BIBREF29": {
+      "title": "Combining embedded accelerometers with computer vision for recognizing food preparation activities",
+      "authors": [
+        "Sebastian Stein",
+        "Stephen J. McKenna"
+      ],
+      "year": "2013",
+      "venue": "Ubiquitous Computing",
+      "link": "https://doi.org/10.1145/2493432.2493482"
+    },
+    "BIBREF31": {
+      "title": "Recognize Human Activities from Partially Observed Videos",
+      "authors": [
+        "Yu Cao",
+        "Daniel Barrett",
+        "Andrei Barbu",
+        "Siddharth Narayanaswamy",
+        "Haonan Yu",
+        "Aaron Michaux",
+        "Yuewei Lin",
+        "Sven Dickinson",
+        "Jeffrey Mark Siskind",
+        "Song Wang"
+      ],
+      "year": "2013",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2013.343"
+    },
+    "BIBREF32": {
+      "title": "Action recognition by dense trajectories",
+      "authors": [
+        "Heng Wang",
+        "Alexander Klaser",
+        "Cordelia Schmid",
+        "Cheng-Lin Liu"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2011.5995407"
+    },
+    "BIBREF33": {
+      "title": "HMDB: A large video database for human motion recognition",
+      "authors": [
+        "H. Kuehne",
+        "H. Jhuang",
+        "E. Garrote",
+        "T. Poggio",
+        "T. Serre"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126543"
+    },
+    "BIBREF34": {
+      "title": "Histograms of oriented optical flow and Binet-Cauchy kernels on nonlinear dynamical systems for the recognition of human actions",
+      "authors": [
+        "Rizwan Chaudhry",
+        "Avinash Ravichandran",
+        "Gregory Hager",
+        "Rene Vidal"
+      ],
+      "year": "2009",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2009.5206821"
+    },
+    "BIBREF35": {
+      "title": "The writer independent online handwriting recognition system frog on hand and cluster generative statistical dynamic time warping",
+      "authors": [
+        "C. Bahlmann",
+        "H. Burkhardt"
+      ],
+      "year": "2004",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2004.1262308"
+    },
+    "BIBREF37": {
+      "title": "Action snippets: How many frames does human action recognition require?",
+      "authors": [
+        "K. Schindler",
+        "L. van Gool"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587730"
+    },
+    "BIBREF38": {
+      "title": "Mining actionlet ensemble for action recognition with depth cameras",
+      "authors": [
+        "Jiang Wang",
+        "Zicheng Liu",
+        "Ying Wu",
+        "Junsong Yuan"
+      ],
+      "year": "2012",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2012.6247813"
+    },
+    "BIBREF39": {
+      "title": "Action recognition based on a bag of 3D points",
+      "authors": [
+        "W. Li",
+        "Zhengyou Zhang",
+        "Zicheng Liu"
+      ],
+      "year": "2010",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvprw.2010.5543273"
+    },
+    "BIBREF41": {
+      "title": "Who are you with and where are you going",
+      "authors": [
+        "Kota Yamaguchi",
+        "A. Berg",
+        "Luis E. Ortiz",
+        "Tamara L. Berg"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2011.5995468"
+    },
+    "BIBREF42": {
+      "title": "Human activity prediction: Early recognition of ongoing activities from streaming videos",
+      "authors": [
+        "M. Ryoo"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126349"
+    },
+    "BIBREF43": {
+      "title": "Predicting human activities using spatio-temporal structure of interest points",
+      "authors": [
+        "Gang Yu",
+        "Junsong Yuan",
+        "Zicheng Liu"
+      ],
+      "year": "2012",
+      "venue": "ACM Multimedia",
+      "link": "https://doi.org/10.1145/2393347.2396380"
+    },
+    "BIBREF45": {
+      "title": "Conditional likelihood maximisation: a unifying framework for information theoretic feature selection",
+      "authors": [
+        "Gavin Brown",
+        "Adam Pocock",
+        "Ming-Jie Zhao",
+        "Mikel Luján"
+      ],
+      "year": "2012",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF47": {
+      "title": "Histograms of oriented gradients for human detection",
+      "authors": [
+        "Navneet Dalal",
+        "B. Triggs"
+      ],
+      "year": "2005",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2005.177"
+    },
+    "BIBREF48": {
+      "title": "Robust 3D Action Recognition with Random Occupancy Patterns",
+      "authors": [
+        "Jiang Wang",
+        "Zicheng Liu",
+        "J. Chorowski",
+        "Zhuoyuan Chen",
+        "Ying Wu"
+      ],
+      "year": "2012",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-642-33709-3_62"
+    },
+    "BIBREF51": {
+      "title": "Activity Auto-Completion: Predicting Human Activities from Partial Videos",
+      "authors": [
+        "Zhen Xu",
+        "Laiyun Qing",
+        "Jun Miao"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2015.365"
+    },
+    "BIBREF53": {
+      "title": "Generating Notifications for Missing Actions: Don't Forget to Turn the Lights Off!",
+      "authors": [
+        "B. Soran",
+        "Ali Farhadi",
+        "L. Shapiro"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2015.530"
+    },
+    "BIBREF55": {
+      "title": "Predicting the Where and What of Actors and Actions through Online Action Localization",
+      "authors": [
+        "Khurram Soomro",
+        "Haroon Idrees",
+        "M. Shah"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2016.290"
+    },
+    "BIBREF56": {
+      "title": "Learning Activity Progression in LSTMs for Activity Detection and Early Detection",
+      "authors": [
+        "Shugao Ma",
+        "L. Sigal",
+        "S. Sclaroff"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2016.214"
+    },
+    "BIBREF58": {
+      "title": "Activity forecasting",
+      "authors": [
+        "K. Kitani",
+        "Brian D. Ziebart",
+        "J. Bagnell",
+        "M. Hebert"
+      ],
+      "year": "2012",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-642-33765-9_15"
+    },
+    "BIBREF61": {
+      "title": "Exploiting Image-trained CNN Architectures for Unconstrained Video Classification.",
+      "authors": [
+        "Shengxin Zha",
+        "F. Luisier",
+        "Walter Andrews",
+        "Nitish Srivastava",
+        "R. Salakhutdinov"
+      ],
+      "year": "2015",
+      "venue": "British Machine Vision Conference",
+      "link": "https://arxiv.org/abs/1503.04144"
+    }
+  }
+}

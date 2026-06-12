@@ -1,0 +1,134 @@
+{
+  "paper_id": "1210.2122v1",
+  "title": "Discrete Dithered Desynchronization",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Distributed TDMA Slot Assignment Algorithm for Wireless Sensor Networks",
+      "authors": [
+        "T. Herman",
+        "S. Tixeuil"
+      ],
+      "year": "2004",
+      "venue": "Algorithmic Aspects of Wireless Sensor Networks",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Distributed Average Consensus With Dithered Quantization",
+      "authors": [
+        "T.C. Aysal",
+        "M.J. Coates",
+        "M.G. Rabbat"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/tsp.2008.927071"
+    },
+    "BIBREF2": {
+      "title": "Desynchronization with an artificial force field for wireless networks",
+      "authors": [
+        "Supasate Choochaisri",
+        "Kittipat Apicharttrisorn",
+        "Kittiporn Korprasertthaworn",
+        "Pongpakdi Taechalertpaisarn",
+        "Chalermek Intanagonwiwat"
+      ],
+      "year": "2012",
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": "https://doi.org/10.1145/2185376.2185378"
+    },
+    "BIBREF4": {
+      "title": "DRAND: distributed randomized TDMA scheduling for wireless ad-hoc networks",
+      "authors": [
+        "Injong Rhee",
+        "Ajit Warrier",
+        "Jeongki Min",
+        "Lisong Xu"
+      ],
+      "year": "2006",
+      "venue": "Mobile Ad Hoc Networking and Computing",
+      "link": "https://doi.org/10.1145/1132905.1132927"
+    },
+    "BIBREF5": {
+      "title": "DESYNC: self-organizing desynchronization and TDMA on wireless sensor networks",
+      "authors": [
+        "Julius Degesys",
+        "Ian Rose",
+        "Ankit Patel",
+        "Radhika Nagpal"
+      ],
+      "year": "2007",
+      "venue": "Information Processing in Sensor Networks",
+      "link": "https://doi.org/10.1145/1236360.1236363"
+    },
+    "BIBREF8": {
+      "title": "Fine-grained network time synchronization using reference broadcasts",
+      "authors": [
+        "Jeremy Elson",
+        "Lewis Girod",
+        "Deborah Estrin"
+      ],
+      "year": "2002",
+      "venue": "Operating Systems Design and Implementation",
+      "link": "https://doi.org/10.1145/844128.844143"
+    },
+    "BIBREF9": {
+      "title": "Lightweight Coloring and Desynchronization for Networks",
+      "authors": [
+        "Arik Motskin",
+        "Tim Roughgarden",
+        "P. Skraba",
+        "L. Guibas"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Computer Communications",
+      "link": "https://doi.org/10.1109/infcom.2009.5062165"
+    },
+    "BIBREF10": {
+      "title": "Design of a Distributed Protocol for Proportional Fairness in Wireless Body Area Networks",
+      "authors": [
+        "R. Pagliari",
+        "A. Scaglione",
+        "R.M.A. Tannious"
+      ],
+      "year": "2010",
+      "venue": "Global Communications Conference",
+      "link": "https://doi.org/10.1109/glocom.2010.5683810"
+    },
+    "BIBREF11": {
+      "title": "A theory of nonsubtractive dither",
+      "authors": [
+        "R. Wannamaker",
+        "S. Lipshitz",
+        "J. Vanderkooy",
+        "J. Wright"
+      ],
+      "year": "2000",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Anchored desynchronization",
+      "authors": [
+        "Ching-Min Lien",
+        "Shu-Hao Chang",
+        "Cheng-Shang Chang",
+        "Duan-Shin Lee"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Computer Communications",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Quantized consensus",
+      "authors": [
+        "A. Kashyap",
+        "Tamer Ba¸sar",
+        "R. Srikant",
+        "I. Petersen"
+      ],
+      "year": "2007",
+      "venue": "Automatica",
+      "link": "https://doi.org/10.1016/j.automatica.2007.01.002"
+    }
+  }
+}

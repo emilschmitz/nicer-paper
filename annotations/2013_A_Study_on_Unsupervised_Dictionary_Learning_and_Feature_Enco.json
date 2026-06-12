@@ -1,0 +1,232 @@
+{
+  "paper_id": "1309.0309v1",
+  "title": "A Study on Unsupervised Dictionary Learning and Feature Encoding for Action Classification.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A comparative study of encoding, pooling and normalization methods for action recognition",
+      "authors": [
+        "Xingxing Wang",
+        "Limin Wang",
+        "Y. Qiao"
+      ],
+      "year": "2012",
+      "venue": "Asian Conference on Computer Vision",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Improving the fisher kernel for large-scale image classification",
+      "authors": [
+        "Florent Perronnin",
+        "Jorge Sánchez",
+        "Thomas Mensink"
+      ],
+      "year": "2010",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-642-15561-1_11"
+    },
+    "BIBREF2": {
+      "title": "Supervised translation-invariant sparse coding",
+      "authors": [
+        "Jianchao Yang",
+        "Kai Yu",
+        "Thomas S. Huang"
+      ],
+      "year": "2010",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2010.5539958"
+    },
+    "BIBREF3": {
+      "title": "Evaluation of local spatio-temporal features for action recognition",
+      "authors": [
+        "Heng Wang",
+        "M. M. Ullah",
+        "Alexander Kläser",
+        "I. Laptev",
+        "C. Schmid"
+      ],
+      "year": "2009",
+      "venue": "British Machine Vision Conference",
+      "link": "https://doi.org/10.1016/j.neucom.2015.07.105"
+    },
+    "BIBREF4": {
+      "title": "Locality-constrained Linear Coding for image classification",
+      "authors": [
+        "Jinjun Wang",
+        "Jianchao Yang",
+        "Kai Yu",
+        "Fengjun Lv",
+        "Thomas Huang",
+        "Yihong Gong"
+      ],
+      "year": "2010",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2010.5540018"
+    },
+    "BIBREF5": {
+      "title": "Recognizing human actions: a local SVM approach",
+      "authors": [
+        "C. Schuldt",
+        "I. Laptev",
+        "B. Caputo"
+      ],
+      "year": "2004",
+      "venue": "International Conference on Pattern Recognition",
+      "link": "https://doi.org/10.1109/icpr.2004.747"
+    },
+    "BIBREF6": {
+      "title": "Learning a discriminative dictionary for sparse coding via label consistent K-SVD",
+      "authors": [
+        "Zhuolin Jiang",
+        "Zhe Lin",
+        "Larry S. Davis"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2011.5995354"
+    },
+    "BIBREF7": {
+      "title": "Linear spatial pyramid matching using sparse coding for image classification",
+      "authors": [
+        "Jianchao Yang",
+        "Kai Yu",
+        "Yihong Gong",
+        "Thomas Huang"
+      ],
+      "year": "2009",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1504.06897"
+    },
+    "BIBREF8": {
+      "title": "Efficient sparse coding algorithms",
+      "authors": [
+        "Honglak Lee",
+        "Alexis Battle",
+        "Rajat Raina",
+        "Andrew Y. Ng"
+      ],
+      "year": "2006",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "In defense of soft-assignment coding",
+      "authors": [
+        "Lingqiao Liu",
+        "Lei Wang",
+        "Xinwang Liu"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "HMDB: A large video database for human motion recognition",
+      "authors": [
+        "H. Kuehne",
+        "H. Jhuang",
+        "E. Garrote",
+        "T. Poggio",
+        "T. Serre"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126543"
+    },
+    "BIBREF11": {
+      "title": "Supervised Dictionary Learning",
+      "authors": [
+        "Julien Mairal",
+        "Jean Ponce",
+        "Guillermo Sapiro",
+        "Andrew Zisserman",
+        "Francis R. Bach"
+      ],
+      "year": "2008",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Video Google: a text retrieval approach to object matching in videos",
+      "authors": [
+        "Sivic",
+        "Zisserman"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2003.1238663"
+    },
+    "BIBREF13": {
+      "title": "Graph Regularized Sparse Coding for Image Representation",
+      "authors": [
+        "Miao Zheng",
+        "Jiajun Bu",
+        "Chun Chen",
+        "C. Wang",
+        "Lijun Zhang",
+        "Guang Qiu",
+        "Deng Cai"
+      ],
+      "year": "2011",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://doi.org/10.1109/tip.2010.2090535"
+    },
+    "BIBREF14": {
+      "title": "Learning realistic human actions from movies",
+      "authors": [
+        "I. Laptev",
+        "Marcin Marszalek",
+        "C. Schmid",
+        "Benjamin Rozenfeld"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587756"
+    },
+    "BIBREF15": {
+      "title": "Representations of Keypoint-Based Semantic Concept Detection: A Comprehensive Study",
+      "authors": [
+        "Yu-Gang Jiang",
+        "Jun Yang",
+        "C. Ngo",
+        "Alexander Hauptmann"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Multimedia",
+      "link": "https://doi.org/10.1109/tmm.2009.2036235"
+    },
+    "BIBREF16": {
+      "title": "Visual Word Ambiguity",
+      "authors": [
+        "J. V. Gemert",
+        "C. Veenman",
+        "A. Smeulders",
+        "J. Geusebroek"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2009.132"
+    },
+    "BIBREF17": {
+      "title": "Fisher Discrimination Dictionary Learning for sparse representation",
+      "authors": [
+        "Meng Yang",
+        "Lei Zhang",
+        "Xiangchu Feng",
+        "D. Zhang"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126286"
+    },
+    "BIBREF18": {
+      "title": "The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization",
+      "authors": [
+        "Adam Coates",
+        "Andrew Y. Ng"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    }
+  }
+}

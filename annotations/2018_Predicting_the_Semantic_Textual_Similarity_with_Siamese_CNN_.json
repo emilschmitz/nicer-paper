@@ -1,0 +1,163 @@
+{
+  "paper_id": "1810.10641v1",
+  "title": "Predicting the Semantic Textual Similarity with Siamese CNN and LSTM.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "LSTM: A Search Space Odyssey",
+      "authors": [
+        "Klaus Greff",
+        "R. Srivastava",
+        "Jan Koutník",
+        "Bas R. Steunebrink",
+        "J. Schmidhuber"
+      ],
+      "year": "2017",
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://arxiv.org/abs/1503.04069"
+    },
+    "BIBREF2": {
+      "title": "ECNU: One Stone Two Birds: Ensemble of Heterogenous Measures for Semantic Relatedness and Textual Entailment",
+      "authors": [
+        "Jiang Zhao",
+        "Tiantian Zhu",
+        "Man Lan"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Computational Linguistics",
+      "link": "https://doi.org/10.3115/v1/s14-2044"
+    },
+    "BIBREF3": {
+      "title": "The Meaning Factory: Formal Semantics for Recognizing Textual Entailment and Determining Semantic Similarity",
+      "authors": [
+        "Johannes Bjerva",
+        "Johan Bos",
+        "Rob van der Goot",
+        "M. Nissim"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Computational Linguistics",
+      "link": "https://doi.org/10.3115/v1/s14-2114"
+    },
+    "BIBREF4": {
+      "title": "Natural Language Processing (Almost) from Scratch",
+      "authors": [
+        "Ronan Collobert",
+        "Jason Weston",
+        "Léon Bottou",
+        "Michael Karlen",
+        "Koray Kavukcuoglu",
+        "Pavel Kuksa"
+      ],
+      "year": "2011",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A SICK cure for the evaluation of compositional distributional semantic models",
+      "authors": [
+        "Marco Marelli",
+        "Stefano Menini",
+        "Marco Baroni",
+        "Luisa Bentivogli",
+        "Raffaella bernardi",
+        "Roberto Zamparelli"
+      ],
+      "year": "2014",
+      "venue": "Language Resources and Evaluation",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Multi-Perspective Sentence Similarity Modeling with Convolutional Neural Networks",
+      "authors": [
+        "Hua He",
+        "Kevin Gimpel",
+        "Jimmy J. Lin"
+      ],
+      "year": "2015",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.18653/v1/d15-1181"
+    },
+    "BIBREF8": {
+      "title": "Illinois-LH: A Denotational and Distributional Approach to Semantics",
+      "authors": [
+        "Alice Lai",
+        "J. Hockenmaier"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Computational Linguistics",
+      "link": "https://doi.org/10.3115/v1/s14-2055"
+    },
+    "BIBREF9": {
+      "title": "Samsung Poland NLP Team at SemEval-2016 Task 1: Necessity for diversity; combining recursive autoencoders, WordNet and ensemble methods to measure semantic similarity.",
+      "authors": [
+        "Barbara Rychalska",
+        "Katarzyna Pakulska",
+        "Krystyna Chodorowska",
+        "Wojciech Walczak",
+        "P. Andruszkiewicz"
+      ],
+      "year": "2016",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": "https://doi.org/10.18653/v1/s16-1091"
+    },
+    "BIBREF10": {
+      "title": "Siamese recurrent architectures for learning sentence similarity",
+      "authors": [
+        "Jonas Mueller",
+        "Aditya Thyagarajan"
+      ],
+      "year": "2016",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Non-linear similarity learning for compositionality",
+      "authors": [
+        "Masashi Tsubaki",
+        "Kevin Duh",
+        "Masashi Shimbo",
+        "Yuji Matsumoto"
+      ],
+      "year": "2016",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Query Expansion by Local Context Analysis",
+      "authors": [
+        "Liana Ermakova",
+        "Josiane Mothe"
+      ],
+      "year": "2016",
+      "venue": "CORIA-CIFED",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "GRAM-CNN: a deep learning approach with local context for named entity recognition in biomedical text",
+      "authors": [
+        "Qile Zhu",
+        "Xiaolin Li",
+        "A. Conesa",
+        "Cecile Pereira"
+      ],
+      "year": "2018",
+      "venue": "Bioinformatics",
+      "link": "https://doi.org/10.1093/bioinformatics/btx815"
+    },
+    "BIBREF14": {
+      "title": "Skip-Thought Vectors",
+      "authors": [
+        "Ryan Kiros",
+        "Yukun Zhu",
+        "Ruslan Salakhutdinov",
+        "Richard S. Zemel",
+        "Antonio Torralba",
+        "Raquel Urtasun",
+        "Sanja Fidler"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "paper_id": "1809.00792v1",
+  "title": "A comparative study of top-k high utility itemset mining methods.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "ExMiner: an efficient algorithm for mining top-k frequent patterns",
+      "authors": [
+        "Q. Minh",
+        "S. Oyanagi",
+        "K. Yamazaki"
+      ],
+      "year": "2006",
+      "venue": "Advanced Data Mining and Applications",
+      "link": "https://doi.org/10.1007/11811305_48"
+    },
+    "BIBREF1": {
+      "title": "Efficient Adaptive-Support Association Rule Mining for Recommender Systems",
+      "authors": [
+        "Weiyang Lin",
+        "S. A. Alvarez",
+        "Carolina Ruiz"
+      ],
+      "year": "2002",
+      "venue": "Data Mining and Knowledge Discovery",
+      "link": "https://doi.org/10.1023/a:1013284820704"
+    },
+    "BIBREF2": {
+      "title": "Adaptive Intrusion Detection: A Data Mining Approach",
+      "authors": [
+        "Wenke Lee",
+        "S. Stolfo",
+        "K. Mok"
+      ],
+      "year": "2000",
+      "venue": "Artificial Intelligence Review",
+      "link": "https://doi.org/10.1023/a:1006624031083"
+    },
+    "BIBREF3": {
+      "title": "Mining top-k high utility patterns over data streams",
+      "authors": [
+        "Morteza Zihayat",
+        "Aijun An"
+      ],
+      "year": "2014",
+      "venue": "Information Sciences",
+      "link": "https://doi.org/10.1016/j.ins.2014.01.045"
+    },
+    "BIBREF4": {
+      "title": "Top- k high utility pattern mining with effective threshold raising strategies",
+      "authors": [
+        "H. Ryang",
+        "Unil Yun"
+      ],
+      "year": "2015",
+      "venue": "Knowledge Based Systems",
+      "link": "https://doi.org/10.1016/j.knosys.2014.12.010"
+    },
+    "BIBREF5": {
+      "title": "Mining frequent itemsets without support threshold: with and without item constraints",
+      "authors": [
+        "Yin-Ling Cheung",
+        "A. Fu"
+      ],
+      "year": "2004",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/tkde.2004.44"
+    },
+    "BIBREF6": {
+      "title": "Efficiently Mining Top-K High Utility Sequential Patterns",
+      "authors": [
+        "Junfu Yin",
+        "Zhigang Zheng",
+        "Longbing Cao",
+        "Yin Song",
+        "Wei Wei"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Data Mining",
+      "link": "https://doi.org/10.1109/icdm.2013.148"
+    },
+    "BIBREF7": {
+      "title": "Efficient Algorithms for Mining High Utility Itemsets from Transactional Databases",
+      "authors": [
+        "V. S. Tseng",
+        "Bai-En Shie",
+        "Cheng-Wei Wu",
+        "P. S. Yu"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/tkde.2012.59"
+    },
+    "BIBREF8": {
+      "title": "Mining frequent patterns without candidate generation",
+      "authors": [
+        "Jiawei Han",
+        "Jian Pei",
+        "Yiwen Yin"
+      ],
+      "year": "2000",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1109/fskd.2007.402"
+    },
+    "BIBREF9": {
+      "title": "Effective personalization based on association rule discovery from web usage data",
+      "authors": [
+        "Bamshad Mobasher",
+        "Honghua Dai",
+        "Tao Luo",
+        "Miki Nakagawa"
+      ],
+      "year": "2001",
+      "venue": "Web Information and Data Management",
+      "link": "https://doi.org/10.1145/502932.502935"
+    },
+    "BIBREF10": {
+      "title": "Pruning strategies for mining high utility itemsets",
+      "authors": [
+        "Srikumar Krishnamoorthy"
+      ],
+      "year": "2015",
+      "venue": "Expert Systems With Applications",
+      "link": "https://doi.org/10.1016/j.eswa.2014.11.001"
+    },
+    "BIBREF11": {
+      "title": "FHM: Faster High-Utility Itemset Mining Using Estimated Utility Co-occurrence Pruning",
+      "authors": [
+        "Philippe Fournier-Viger",
+        "Cheng-Wei Wu",
+        "Souleymane Zida",
+        "Vincent S. Tseng"
+      ],
+      "year": "2014",
+      "venue": "International Syposium on Methodologies for Intelligent Systems",
+      "link": "https://doi.org/10.1007/978-3-319-08326-1_9"
+    },
+    "BIBREF12": {
+      "title": "Scalable algorithms for association mining",
+      "authors": [
+        "M.J. Zaki"
+      ],
+      "year": "2000",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/69.846291"
+    },
+    "BIBREF13": {
+      "title": "DynaMine: finding common error patterns by mining software revision histories",
+      "authors": [
+        "Benjamin Livshits",
+        "Thomas Zimmermann"
+      ],
+      "year": "2005",
+      "venue": "Foundations of Software Engineering",
+      "link": "https://doi.org/10.1145/1081706.1081754"
+    },
+    "BIBREF14": {
+      "title": "A two-phase algorithm for fast discovery of high utility itemsets",
+      "authors": [
+        "Ying Liu",
+        "Wei-keng Liao",
+        "Alok Choudhary"
+      ],
+      "year": "2005",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Opinion observer: analyzing and comparing opinions on the Web",
+      "authors": [
+        "B. Liu",
+        "Minqing Hu",
+        "Junsheng Cheng"
+      ],
+      "year": "2005",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1060745.1060797"
+    },
+    "BIBREF16": {
+      "title": "UP-Growth: an efficient algorithm for high utility itemset mining",
+      "authors": [
+        "V. Tseng",
+        "Cheng-Wei Wu",
+        "Bai-En Shie",
+        "Philip S. Yu"
+      ],
+      "year": "2010",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1835804.1835839"
+    },
+    "BIBREF17": {
+      "title": "Efficient Tree Structures for High Utility Pattern Mining in Incremental Databases",
+      "authors": [
+        "Chowdhury Farhan Ahmed",
+        "S. Tanbeer",
+        "Byeong-Soo Jeong",
+        "Young-Koo Lee"
+      ],
+      "year": "2009",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/tkde.2009.46"
+    },
+    "BIBREF18": {
+      "title": "Mining high utility itemsets without candidate generation",
+      "authors": [
+        "Mengchi Liu",
+        "Jun-Feng Qu"
+      ],
+      "year": "2012",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/2396761.2396773"
+    },
+    "BIBREF19": {
+      "title": "Mining top-K high utility itemsets",
+      "authors": [
+        "Cheng-Wei Wu",
+        "Bai-En Shie",
+        "V. Tseng",
+        "Philip S. Yu"
+      ],
+      "year": "2012",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1109/icdm.2003.1250893"
+    },
+    "BIBREF20": {
+      "title": "Mining top − k frequent patterns without minimum support threshold",
+      "authors": [
+        "Abdus Salam",
+        "M. S. H. Khayal"
+      ],
+      "year": "2012",
+      "venue": "Knowledge and Information Systems",
+      "link": "https://doi.org/10.1007/s10115-010-0363-3"
+    },
+    "BIBREF21": {
+      "title": "Efficient Algorithms for Mining Top-K High Utility Itemsets",
+      "authors": [
+        "V. Tseng",
+        "Cheng-Wei Wu",
+        "Philippe Fournier-Viger",
+        "Philip S. Yu"
+      ],
+      "year": "2016",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/tkde.2015.2458860"
+    },
+    "BIBREF22": {
+      "title": "An efficient algorithm for mining the top-k high utility itemsets, using novel threshold raising and pruning strategies",
+      "authors": [
+        "Quang-huy Duong",
+        "Bo Liao",
+        "Philippe Fournier-Viger",
+        "Thu-Lan Dam"
+      ],
+      "year": "2016",
+      "venue": "Knowledge Based Systems",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "An efficient algorithm to mine high average-utility itemsets",
+      "authors": [
+        "Chun-Wei Lin",
+        "Ting Li",
+        "Philippe Fournier-Viger",
+        "Tzung-Pei Hong",
+        "J. Zhan",
+        "M. Voznák"
+      ],
+      "year": "2016",
+      "venue": "Advanced Engineering Informatics",
+      "link": null
+    },
+    "BIBREF24": {
+      "title": "Efficiently mining uncertain high-utility itemsets",
+      "authors": [
+        "Chun-Wei Lin",
+        "Wensheng Gan",
+        "Philippe Fournier-Viger",
+        "Tzung-Pei Hong",
+        "V. Tseng"
+      ],
+      "year": "2017",
+      "venue": "Soft Computing",
+      "link": "https://doi.org/10.1007/s00500-016-2159-1"
+    },
+    "BIBREF25": {
+      "title": "EFIM: A Highly Efficient Algorithm for High-Utility Itemset Mining",
+      "authors": [
+        "Souleymane Zida",
+        "Philippe Fournier-Viger",
+        "Chun-Wei Lin",
+        "Cheng-Wei Wu",
+        "V. Tseng"
+      ],
+      "year": "2015",
+      "venue": "Mexican International Conference on Artificial Intelligence",
+      "link": "https://doi.org/10.1007/978-3-319-27060-9_44"
+    },
+    "BIBREF26": {
+      "title": "Efficient Mining of High Average-Utility Itemsets with Multiple Minimum Thresholds",
+      "authors": [
+        "Chun-Wei Lin",
+        "Ting Li",
+        "Philippe Fournier-Viger",
+        "Tzung-Pei Hong",
+        "Ja-Hwung Su"
+      ],
+      "year": "2016",
+      "venue": "Industrial Conference on Data Mining",
+      "link": "https://doi.org/10.1007/978-3-319-41561-1_2"
+    },
+    "BIBREF27": {
+      "title": "FHN: An efficient algorithm for mining high-utility itemsets with negative unit profits",
+      "authors": [
+        "Chun-Wei Lin",
+        "Philippe Fournier-Viger",
+        "Wensheng Gan"
+      ],
+      "year": "2016",
+      "venue": "Knowledge Based Systems",
+      "link": "https://doi.org/10.1007/978-3-319-14717-8_2"
+    },
+    "BIBREF28": {
+      "title": "EFIM: a fast and memory efficient algorithm for high-utility itemset mining",
+      "authors": [
+        "Souleymane Zida",
+        "Philippe Fournier-Viger",
+        "Chun-Wei Lin",
+        "Cheng-Wei Wu",
+        "V. Tseng"
+      ],
+      "year": "2017",
+      "venue": "Knowledge and Information Systems",
+      "link": "https://doi.org/10.1007/s10115-016-0986-0"
+    },
+    "BIBREF29": {
+      "title": "An efficient algorithm for mining top-k on-shelf high utility itemsets",
+      "authors": [
+        "Thu-Lan Dam",
+        "Kenli Li",
+        "Philippe Fournier-Viger",
+        "Quang-huy Duong"
+      ],
+      "year": "2017",
+      "venue": "Knowledge and Information Systems",
+      "link": null
+    },
+    "BIBREF31": {
+      "title": "Mining High-Utility Itemsets with Both Positive and Negative Unit Profits from Uncertain Databases",
+      "authors": [
+        "Wensheng Gan",
+        "Chun-Wei Lin",
+        "Philippe Fournier-Viger",
+        "H. Chao",
+        "V. Tseng"
+      ],
+      "year": "2017",
+      "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1007/978-3-319-57454-7_34"
+    },
+    "BIBREF32": {
+      "title": "Mining top-k high-utility itemsets from a data stream under sliding window model",
+      "authors": [
+        "Siddharth Dawar",
+        "Veronica Sharma",
+        "Vikram Goyal"
+      ],
+      "year": "2017",
+      "venue": "Applied Intelligence",
+      "link": "https://doi.org/10.1007/s10489-017-0939-7"
+    },
+    "BIBREF33": {
+      "title": "HMiner: Efficiently mining high utility itemsets",
+      "authors": [
+        "S. Krishnamoorthy"
+      ],
+      "year": "2017",
+      "venue": "Expert Systems With Applications",
+      "link": "https://doi.org/10.1016/j.eswa.2017.08.028"
+    },
+    "BIBREF34": {
+      "title": "Extracting useful knowledge from event logs: A frequent itemset mining approach",
+      "authors": [
+        "Y. Djenouri",
+        "Asma Belhadi",
+        "Philippe Fournier-Viger"
+      ],
+      "year": "2018",
+      "venue": "Knowledge Based Systems",
+      "link": "https://doi.org/10.1016/j.knosys.2017.10.016"
+    }
+  }
+}

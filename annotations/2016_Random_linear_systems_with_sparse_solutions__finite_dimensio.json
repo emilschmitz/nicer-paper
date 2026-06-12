@@ -1,0 +1,84 @@
+{
+  "paper_id": "1612.06344v1",
+  "title": "Random linear systems with sparse solutions - finite dimensions.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Random projections of regular simplices",
+      "authors": [
+        "F. Affentranger",
+        "R. Schneider"
+      ],
+      "year": "1992",
+      "venue": "Discrete and Computational Geometry",
+      "link": "https://doi.org/10.1007/bf02187839"
+    },
+    "BIBREF1": {
+      "title": "High-dimensional centrally-symmetric polytopes with neighborliness proportional to dimension",
+      "authors": [
+        "David L. Donoho"
+      ],
+      "year": "2005",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Message-passing algorithms for compressed sensing",
+      "authors": [
+        "David L. Donoho",
+        "Arian Maleki",
+        "Andrea Montanari"
+      ],
+      "year": "2009",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://arxiv.org/abs/0907.3574"
+    },
+    "BIBREF3": {
+      "title": "Strong thresholds for ℓ 2 /ℓ 1 -optimization in block-sparse compressed sensing",
+      "authors": [
+        "Mihailo Stojnic"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2009.4960261"
+    },
+    "BIBREF4": {
+      "title": "Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit",
+      "authors": [
+        "J.A. Tropp",
+        "A.C. Gilbert"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tsp.2015.2413384"
+    },
+    "BIBREF5": {
+      "title": "A simple performance analysis of ℓ 1 optimization in compressed sensing",
+      "authors": [
+        "Mihailo Stojnic"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+      "authors": [
+        "E. Candès",
+        "J. Romberg",
+        "T. Tao"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/math/0409186"
+    },
+    "BIBREF7": {
+      "title": "Compressed sensing",
+      "authors": [
+        "D.L. Donoho"
+      ],
+      "year": "2004",
+      "venue": "",
+      "link": "https://doi.org/10.1109/icassp.2008.4517908"
+    }
+  }
+}

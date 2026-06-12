@@ -1,0 +1,96 @@
+{
+  "paper_id": "1008.1334v1",
+  "title": "How Does Ontology Contribute in Semantic Web Development",
+  "bib_entries": {
+    "BIBREF2": {
+      "title": "Cultural heritage and the Semantic Web",
+      "authors": [
+        "Richard Benjamins",
+        "J. Contreras",
+        "M. Blázquez",
+        "J. Dodero",
+        "A. Garcia",
+        "E. Navas",
+        "Francisca Hernández",
+        "C. Wert"
+      ],
+      "year": "2004",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/978-3-540-25956-5_30"
+    },
+    "BIBREF3": {
+      "title": "Approximate Information Filtering on the Semantic Web",
+      "authors": [
+        "H. Stuckenschmidt"
+      ],
+      "year": "2002",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/3-540-45751-8_8"
+    },
+    "BIBREF5": {
+      "title": "OWL-S semantics of security Web Services: a case study",
+      "authors": [
+        "G. Denker",
+        "Son Nguyen",
+        "Andrew Ton"
+      ],
+      "year": "2004",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/978-3-540-25956-5_17"
+    },
+    "BIBREF7": {
+      "title": "A methodology to create legal ontologies in a logic programming information retrieval system",
+      "authors": [
+        "José Saias",
+        "P. Quaresma"
+      ],
+      "year": "2005",
+      "venue": "Law and the Semantic Web",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Ontology Mapping – An Integrated Approach",
+      "authors": [
+        "M. Ehrig",
+        "York Sure-Vetter"
+      ],
+      "year": "2004",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/978-3-540-25956-5_6"
+    },
+    "BIBREF9": {
+      "title": "Semantic web search model for information retrieval of the semantic data",
+      "authors": [
+        "Okkyung Choi",
+        "SeokHyun Yoon",
+        "Myeongeun Oh",
+        "Sang-Yong Han"
+      ],
+      "year": "2003",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/3-540-45036-x_60"
+    },
+    "BIBREF10": {
+      "title": "Role of Ontology in Semantic Web Development",
+      "authors": [
+        "Zeeshan Ahmed",
+        "Detlef Gerhard"
+      ],
+      "year": "2010",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Increasing search quality with the semantic desktop in proposal development",
+      "authors": [
+        "Mark Siebert",
+        "Pierre Smits",
+        "L. Sauermann",
+        "A. Dengel"
+      ],
+      "year": "2006",
+      "venue": "Practical Aspects of Knowledge Management",
+      "link": "https://doi.org/10.1007/11944935_25"
+    }
+  }
+}

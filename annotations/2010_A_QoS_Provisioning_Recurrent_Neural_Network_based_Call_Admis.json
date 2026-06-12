@@ -1,0 +1,67 @@
+{
+  "paper_id": "1004.3563v1",
+  "title": "A QoS Provisioning Recurrent Neural Network based Call Admission Control for beyond 3G Networks",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "The existence of a priori distinctions between learning algorithms",
+      "authors": [
+        "D. Wolpert"
+      ],
+      "year": "1996",
+      "venue": "Neural Computation",
+      "link": "https://doi.org/10.1162/neco.1996.8.7.1391"
+    },
+    "BIBREF8": {
+      "title": "Finding Structure in Time",
+      "authors": [
+        "Jeffrey L. Elman"
+      ],
+      "year": "1990",
+      "venue": "Cognitive Science",
+      "link": "https://doi.org/10.1207/s15516709cog1402_1"
+    },
+    "BIBREF9": {
+      "title": "Application of neural networks to an emerging financial market: forecasting and trading the Taiwan stock index",
+      "authors": [
+        "An-Sing Chen",
+        "Mark T. Leung",
+        "Hazem Daouk"
+      ],
+      "year": "2003",
+      "venue": "Computers & Operations Research",
+      "link": "https://doi.org/10.1016/s0305-0548(02)00037-0"
+    },
+    "BIBREF10": {
+      "title": "Queueing-blocking system with two arrival streams and guard channels",
+      "authors": [
+        "R. Guerin"
+      ],
+      "year": "1988",
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://doi.org/10.1109/26.2745"
+    },
+    "BIBREF12": {
+      "title": "Effects of multiple access alternatives in heterogeneous wireless networks",
+      "authors": [
+        "E. Vanem",
+        "S. Svaet",
+        "F. Paint"
+      ],
+      "year": "2003",
+      "venue": "Wireless Communications and Networking Conference",
+      "link": "https://doi.org/10.1109/wcnc.2003.1200642"
+    },
+    "BIBREF15": {
+      "title": "On-line learning algorithms for locally recurrent neural networks",
+      "authors": [
+        "P. Campolucci",
+        "A. Uncini",
+        "F. Piazza",
+        "B. Rao"
+      ],
+      "year": "1999",
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://doi.org/10.1109/72.750549"
+    }
+  }
+}

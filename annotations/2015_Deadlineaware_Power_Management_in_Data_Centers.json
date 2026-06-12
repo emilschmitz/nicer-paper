@@ -1,0 +1,117 @@
+{
+  "paper_id": "1507.03648v1",
+  "title": "Deadline-aware Power Management in Data Centers.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "DGAP - The Dynamic Generalized Assignment Problem",
+      "authors": [
+        "K. Kogan",
+        "A. Shtub"
+      ],
+      "year": "1997",
+      "venue": "Annals of Operations Research",
+      "link": "https://doi.org/10.1023/a:1018933012422"
+    },
+    "BIBREF2": {
+      "title": "pMapper: power and migration cost aware application placement in virtualized systems",
+      "authors": [
+        "Akshat Verma",
+        "Puneet Ahuja",
+        "A. Neogi"
+      ],
+      "year": "2008",
+      "venue": "ACM/IFIP/USENIX international conference on Middleware",
+      "link": "https://doi.org/10.1007/978-3-540-89856-6_13"
+    },
+    "BIBREF3": {
+      "title": "CoScale: Coordinating CPU and Memory System DVFS in Server Systems",
+      "authors": [
+        "Qingyuan Deng",
+        "David Meisner",
+        "A. Bhattacharjee",
+        "T. Wenisch",
+        "R. Bianchini"
+      ],
+      "year": "2012",
+      "venue": "International Symposium on Microarchitecture",
+      "link": "https://doi.org/10.1109/micro.2012.22"
+    },
+    "BIBREF4": {
+      "title": "Fine-grained dynamic voltage and frequency scaling for precise energy and performance tradeoff based on the ratio of off-chip access to on-chip computation times",
+      "authors": [
+        "Kihwan Choi",
+        "R. Soma",
+        "M. Pedram"
+      ],
+      "year": "2005",
+      "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "link": "https://doi.org/10.1109/tcad.2004.839485(410)"
+    },
+    "BIBREF5": {
+      "title": "A column generation heuristic for a dynamic generalized assignment problem",
+      "authors": [
+        "Luigi Moccia",
+        "Jean-François Cordeau",
+        "Maria Flavia Monaco",
+        "Marcello Sammarra"
+      ],
+      "year": "2009",
+      "venue": "Computers & Operations Research",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Resource overbooking and application profiling in shared hosting platforms",
+      "authors": [
+        "Bhuvan Urgaonkar",
+        "Prashant Shenoy",
+        "Timothy Roscoe"
+      ],
+      "year": "2002",
+      "venue": "Operating Systems Design and Implementation",
+      "link": "https://doi.org/10.1145/844128.844151"
+    },
+    "BIBREF7": {
+      "title": "Dynamic right-sizing for power-proportional data centers",
+      "authors": [
+        "Minghong Lin",
+        "Adam Wierman",
+        "Lachlan L. H. Andrew",
+        "Eno Thereska"
+      ],
+      "year": "2013",
+      "venue": "IEEE ACM Transactions on Networking",
+      "link": "https://doi.org/10.1109/tnet.2012.2226216"
+    },
+    "BIBREF8": {
+      "title": "Fine-grained dynamic voltage and frequency scaling for precise energy and performance trade-off based on the ratio of off-chip access to on-chip computation times",
+      "authors": [
+        "Kihwan Choi",
+        "Ramakrishna Soma",
+        "Massoud Pedram"
+      ],
+      "year": "2004",
+      "venue": "Design, Automation, and Test in Europe",
+      "link": "https://doi.org/10.1109/date.2004.1268819"
+    },
+    "BIBREF9": {
+      "title": "The Case for Energy-Proportional Computing",
+      "authors": [
+        "L.A. Barroso",
+        "U. Holzle"
+      ],
+      "year": "2007",
+      "venue": "IEEE Computer",
+      "link": "https://doi.org/10.1109/mc.2007.443"
+    },
+    "BIBREF10": {
+      "title": "A Power-Aware Run-Time System for High-Performance Computing",
+      "authors": [
+        "Chung-Hsing Hsu",
+        "Wu-chun Feng"
+      ],
+      "year": "2005",
+      "venue": "Conference on High Performance Computing (Supercomputing)",
+      "link": null
+    }
+  }
+}

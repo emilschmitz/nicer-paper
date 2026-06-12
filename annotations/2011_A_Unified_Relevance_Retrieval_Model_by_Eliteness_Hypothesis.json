@@ -1,0 +1,87 @@
+{
+  "paper_id": "1106.2946v6",
+  "title": "A Unified Relevance Retrieval Model by Eliteness Hypothesis",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Some simple effective approximations to the 2-Poisson model for probabilistic weighted retrieval",
+      "authors": [
+        "S. E. Robertson",
+        "S. Walker"
+      ],
+      "year": "1994",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": "https://doi.org/10.1007/978-1-4471-2099-5_24"
+    },
+    "BIBREF1": {
+      "title": "On statistical analysis and optimization of information retrieval effectiveness metrics",
+      "authors": [
+        "Jun Wang",
+        "Jianhan Zhu"
+      ],
+      "year": "2010",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Probabilistic models of indexing and searching",
+      "authors": [
+        "S. E. Robertson",
+        "C. J. van Rijsbergen",
+        "M. F. Porter"
+      ],
+      "year": "1980",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Relevance weighting of search terms",
+      "authors": [
+        "Stephen Robertson",
+        "K. Sparck Jones"
+      ],
+      "year": "1976",
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://doi.org/10.1002/asi.4630270302"
+    },
+    "BIBREF4": {
+      "title": "Document Language Models, Query Models, and Risk Minimization for Information Retrieval",
+      "authors": [
+        "John Lafferty",
+        "Chengxiang Zhai"
+      ],
+      "year": "2001",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": "https://doi.org/10.1145/3130348.3130375"
+    },
+    "BIBREF5": {
+      "title": "On Relevance, Probabilistic Indexing and Information Retrieval",
+      "authors": [
+        "M. E. Maron",
+        "J. L. Kuhns"
+      ],
+      "year": "1960",
+      "venue": "Journal of the ACM",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A language modeling approach to information retrieval",
+      "authors": [
+        "Jay M. Ponte",
+        "W. Bruce Croft"
+      ],
+      "year": "1998",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "The Probabilistic Relevance Framework",
+      "authors": [
+        "Stephen Robertson",
+        "Hugo Zaragoza"
+      ],
+      "year": "2009",
+      "venue": "",
+      "link": null
+    }
+  }
+}

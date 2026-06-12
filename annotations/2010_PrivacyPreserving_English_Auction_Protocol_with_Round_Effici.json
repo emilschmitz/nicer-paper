@@ -1,0 +1,248 @@
+{
+  "paper_id": "1010.5642v1",
+  "title": "Privacy-Preserving English Auction Protocol with Round Efficiency",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "M+1-st price auction using homomorphic encryption",
+      "authors": [
+        "Masayuki Abe",
+        "Koutarou Suzuki"
+      ],
+      "year": "2003",
+      "venue": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+      "link": "https://doi.org/10.1007/3-540-45664-3_8"
+    },
+    "BIBREF1": {
+      "title": "1-out-of-n Signatures from a Variety of Keys",
+      "authors": [
+        "Masayuki Abe",
+        "Miyako Ohkubo",
+        "Koutarou Suzuki"
+      ],
+      "year": "2002",
+      "venue": "International Conference on the Theory and Application of Cryptology and Information Security",
+      "link": "https://doi.org/10.1007/3-540-36178-2_26"
+    },
+    "BIBREF2": {
+      "title": "Compact group signatures without random oracles",
+      "authors": [
+        "Xavier Boyen",
+        "Brent Waters"
+      ],
+      "year": "2006",
+      "venue": "Theory and Application of Cryptographic Techniques",
+      "link": "https://doi.org/10.1007/11761679_26"
+    },
+    "BIBREF3": {
+      "title": "An Auction Protocol Which Hides Bids of Losers",
+      "authors": [
+        "Kazue Sako"
+      ],
+      "year": "2000",
+      "venue": "Public Key Cryptography",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "On the RS-Code Construction of Ring Signature Schemes and a Threshold Setting of RST",
+      "authors": [
+        "D. Wong",
+        "Karyin Fung",
+        "Joseph K. Liu",
+        "V. Wei"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Information and Communication Security",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "A Practical English Auction with One-Time Registration",
+      "authors": [
+        "Kazumasa Omote",
+        "A. Miyaji"
+      ],
+      "year": "2001",
+      "venue": "Australasian Conference on Information Security and Privacy",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A two-server, sealed-bid auction protocol",
+      "authors": [
+        "A. Juels",
+        "M. Szydlo"
+      ],
+      "year": "2002",
+      "venue": "Financial Cryptography",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Threshold Ring Signatures and Applications to Ad-hoc Groups",
+      "authors": [
+        "E. Bresson",
+        "J. Stern",
+        "M. Szydlo"
+      ],
+      "year": "2002",
+      "venue": "International Cryptology Conference",
+      "link": "https://doi.org/10.1007/3-540-45708-9_30"
+    },
+    "BIBREF8": {
+      "title": "Aggregate and verifiably encrypted signatures from bilinear maps",
+      "authors": [
+        "D. Boneh",
+        "Craig Gentry",
+        "Ben Lynn",
+        "H. Shacham"
+      ],
+      "year": "2003",
+      "venue": "Theory and Application of Cryptographic Techniques",
+      "link": "https://doi.org/10.1007/3-540-39200-9_26"
+    },
+    "BIBREF9": {
+      "title": "Evaluating 2-DNF formulas on ciphertexts",
+      "authors": [
+        "D. Boneh",
+        "Eu-Jin Goh",
+        "Kobbi Nissim"
+      ],
+      "year": "2005",
+      "venue": "Theory of Cryptography Conference",
+      "link": "https://doi.org/10.1007/978-3-540-30576-7_18"
+    },
+    "BIBREF10": {
+      "title": "Bidder-anonymous English auction scheme with privacy and public verifiability",
+      "authors": [
+        "Y. Chung",
+        "Kuo-Hsuan Huang",
+        "Hsiu-Hui Lee",
+        "F. Lai",
+        "Tzer-Shyong Chen"
+      ],
+      "year": "2008",
+      "venue": "Journal of Systems and Software",
+      "link": "https://doi.org/10.1016/j.jss.2007.03.029"
+    },
+    "BIBREF11": {
+      "title": "A secure e-auction scheme based on group signatures",
+      "authors": [
+        "Cheng-Chi Lee",
+        "Pi-Fang Ho",
+        "M. Hwang"
+      ],
+      "year": "2009",
+      "venue": "Information Systems Frontiers",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "How to obtain full privacy in auctions",
+      "authors": [
+        "F. Brandt"
+      ],
+      "year": "2006",
+      "venue": "International Journal of Information Security",
+      "link": "https://doi.org/10.1007/s10207-006-0001-y"
+    },
+    "BIBREF13": {
+      "title": "Adding timestamps to the secure electronic auction protocol",
+      "authors": [
+        "M. Hwang",
+        "Eric Jui-Lin Lu",
+        "I. Lin"
+      ],
+      "year": "2002",
+      "venue": "Data and Knowledge Engineering",
+      "link": "https://doi.org/10.1016/s0169-023x(01)00048-9"
+    },
+    "BIBREF14": {
+      "title": "On the Existence of Unconditionally Privacy-Preserving Auction Protocols",
+      "authors": [
+        "Felix Brandt",
+        "Tuomas Sandholm"
+      ],
+      "year": "2008",
+      "venue": "ACM Transactions on Information and System Security",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "The design and implementation of a secure auction service",
+      "authors": [
+        "M.K. Franklin",
+        "M.K. Reiter"
+      ],
+      "year": "1996",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": "https://doi.org/10.1504/ijaose.2009.023633"
+    },
+    "BIBREF16": {
+      "title": "Reducing the round complexity of a sealed-bid auction protocol with an off-line TTP",
+      "authors": [
+        "Yuji Watanabe",
+        "Hideki Imai"
+      ],
+      "year": "2000",
+      "venue": "Computer and Communications Security",
+      "link": "https://doi.org/10.1145/352600.352612"
+    },
+    "BIBREF17": {
+      "title": "An Anonymous Sealed-bid Electronic Auction Based on Ring Signature",
+      "authors": [
+        "Hu Xiong",
+        "Zhiguang Qin",
+        "Fagen Li"
+      ],
+      "year": "2009",
+      "venue": "International Journal of Network Security",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "How to Leak a Secret",
+      "authors": [
+        "Ronald L. Rivest",
+        "Adi Shamir",
+        "Yael Tauman"
+      ],
+      "year": "2001",
+      "venue": "International Conference on the Theory and Application of Cryptology and Information Security",
+      "link": "https://doi.org/10.1007/3-540-45682-1_32"
+    },
+    "BIBREF19": {
+      "title": "An English auction scheme in the online transaction environment",
+      "authors": [
+        "Tzer-Shyong Chen"
+      ],
+      "year": "2004",
+      "venue": "Computers & Security",
+      "link": null
+    },
+    "BIBREF20": {
+      "title": "An Anonymous Electronic Bidding Protocol Based on a New Convertible Group Signature Scheme",
+      "authors": [
+        "K. Sakurai",
+        "S. Miyazaki"
+      ],
+      "year": "2000",
+      "venue": "Australasian Conference on Information Security and Privacy",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Short Group Signatures",
+      "authors": [
+        "D. Boneh",
+        "Xavier Boyen",
+        "H. Shacham"
+      ],
+      "year": "2004",
+      "venue": "International Cryptology Conference",
+      "link": "https://doi.org/10.1007/978-3-540-28628-8_3"
+    },
+    "BIBREF22": {
+      "title": "Group signatures",
+      "authors": [
+        "David Chaum",
+        "Eugène Van Heyst"
+      ],
+      "year": "1991",
+      "venue": "Theory and Application of Cryptographic Techniques",
+      "link": null
+    }
+  }
+}

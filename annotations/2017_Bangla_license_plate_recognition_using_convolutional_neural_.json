@@ -1,0 +1,95 @@
+{
+  "paper_id": "1809.00905v1",
+  "title": "Bangla license plate recognition using convolutional neural networks (CNN)",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+      "authors": [
+        "Geoffrey E. Hinton",
+        "Nitish Srivastava",
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Ruslan Salakhutdinov"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Acoustic Modeling Using Deep Belief Networks",
+      "authors": [
+        "Abdel-rahman Mohamed",
+        "George E. Dahl",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2012",
+      "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
+      "link": "https://doi.org/10.1109/tasl.2011.2109382"
+    },
+    "BIBREF2": {
+      "title": "Lessons from the Netflix prize challenge",
+      "authors": [
+        "Robert M. Bell",
+        "Yehuda Koren"
+      ],
+      "year": "2007",
+      "venue": "Sigkdd Explorations",
+      "link": "https://doi.org/10.1145/1345448.1345465"
+    },
+    "BIBREF4": {
+      "title": "Inception Recurrent Convolutional Neural Network for Object Recognition.",
+      "authors": [
+        "Md. Zahangir Alom",
+        "Mahmudul Hasan",
+        "Chris Yakopcic",
+        "Tarek M. Taha"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Improved Inception-Residual Convolutional Neural Network for Object Recognition",
+      "authors": [
+        "Zahangir Alom",
+        "Mahmudul Hasan",
+        "Chris Yakopcic",
+        "Tarek M. Taha",
+        "Vijayan K. Asari"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1712.09888"
+    },
+    "BIBREF8": {
+      "title": "Random Forests",
+      "authors": [
+        "L. Breiman"
+      ],
+      "year": "2001",
+      "venue": "Machine Learning archive",
+      "link": "https://doi.org/10.1023/a:1010933404324"
+    },
+    "BIBREF9": {
+      "title": "Multi-Column Deep Neural Networks for Offline Handwritten Chinese Character Classification",
+      "authors": [
+        "Dan Cireşan",
+        "Jürgen Schmidhuber"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/ijcnn.2015.7280516"
+    },
+    "BIBREF10": {
+      "title": "Multi-column Deep Neural Networks for Image Classification",
+      "authors": [
+        "Dan Cireşan",
+        "Ueli Meier",
+        "Juergen Schmidhuber"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1202.2745"
+    }
+  }
+}

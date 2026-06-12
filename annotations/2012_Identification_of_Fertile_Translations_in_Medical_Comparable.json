@@ -1,0 +1,49 @@
+{
+  "paper_id": "1209.2400v1",
+  "title": "Identification of Fertile Translations in Medical Comparable Corpora : a Morpho-Compositional Approach",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Mining Very-Non-Parallel Corpora: Parallel Sentence and Lexicon Extraction via Bootstrapping and E.",
+      "authors": [
+        "Pascale Fung",
+        "Percy Cheung"
+      ],
+      "year": "2004",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Compiling French-Japanese Terminologies from the Web.",
+      "authors": [
+        "Xavier Robitaille",
+        "Yasuhiro Sasaki",
+        "Masatsugu Tonoike",
+        "Satoshi Sato",
+        "Takehito Utsuro"
+      ],
+      "year": "2006",
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Compositionality and lexical alignment of multi-word terms",
+      "authors": [
+        "Emmanuel Morin",
+        "Béatrice Daille"
+      ],
+      "year": "2010",
+      "venue": "Language Resources and Evaluation",
+      "link": "https://doi.org/10.1007/s10579-009-9098-8"
+    },
+    "BIBREF16": {
+      "title": "Mining Very-Non-Parallel Corpora: Parallel Sentence and Lexicon Extraction via Bootstrapping and EM",
+      "authors": [
+        "Pascale N. Fung",
+        "Percy Chi Shun Cheung"
+      ],
+      "year": "2004",
+      "venue": "Conference on Empirical Methods in NLP 2004, Barcelona, Span",
+      "link": null
+    }
+  }
+}

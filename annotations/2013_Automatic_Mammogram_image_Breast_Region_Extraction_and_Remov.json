@@ -1,0 +1,101 @@
+{
+  "paper_id": "1307.7474v1",
+  "title": "Automatic Mammogram image Breast Region Extraction and Removal of Pectoral Muscle",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Two graph theory based methods for identifying the pectoral muscle in mammograms",
+      "authors": [
+        "Fei Ma",
+        "M. Bajger",
+        "J. Slavotinek",
+        "M. Bottema"
+      ],
+      "year": "2007",
+      "venue": "Pattern Recognition",
+      "link": "https://doi.org/10.1016/j.patcog.2006.12.011"
+    },
+    "BIBREF1": {
+      "title": "Radon-Domain Detection of the Nipple and the Pectoral Muscle in Mammograms",
+      "authors": [
+        "S. K. Kinoshita",
+        "P. Marques",
+        "R. R. Pereira",
+        "J. A. Rodrigues",
+        "R. Rangayyan"
+      ],
+      "year": "2008",
+      "venue": "Journal of Digital Imaging",
+      "link": "https://doi.org/10.1007/s10278-007-9035-6"
+    },
+    "BIBREF2": {
+      "title": "Automatic pectoral muscle boundary detection in mammograms based on Markov chain and active contour model",
+      "authors": [
+        "Lei Wang",
+        "Miao-liang Zhu",
+        "Li-ping Deng",
+        "Xin Yuan"
+      ],
+      "year": "2010",
+      "venue": "Journal of Zhejiang University Science C",
+      "link": "https://doi.org/10.1631/jzus.c0910025"
+    },
+    "BIBREF4": {
+      "title": "Effective Clustering Algorithms for Gene Expression Data",
+      "authors": [
+        "T. Chandrasekhar",
+        "K. Thangavel",
+        "E. Elayaraja"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Computational Engineering, Finance, and Science",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Automatic identification of the pectoral muscle in mammograms",
+      "authors": [
+        "R.J. Ferrari",
+        "R.M. Rangayyan",
+        "J.E.L. Desautels",
+        "R.A. Borges",
+        "A.F. Frere"
+      ],
+      "year": "2004",
+      "venue": "IEEE Transactions on Medical Imaging",
+      "link": "https://doi.org/10.1109/tmi.2003.823062"
+    },
+    "BIBREF6": {
+      "title": "A fully automated scheme for mammographic segmentation and classification based on breast density and asymmetry",
+      "authors": [
+        "Stylianos D. Tzikopoulos",
+        "Michael E. Mavroforakis",
+        "Harris V. Georgiou",
+        "Nikos Dimitropoulos",
+        "Sergios Theodoridis"
+      ],
+      "year": "2011",
+      "venue": "Computer Methods and Programs in Biomedicine",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Segmentation of Regions of Interest in Mammograms in a Topographic Approach",
+      "authors": [
+        "Byung-Woo Hong",
+        "Bong-Soo Sohn"
+      ],
+      "year": "2010",
+      "venue": "International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "link": "https://doi.org/10.1109/titb.2009.2033269"
+    },
+    "BIBREF8": {
+      "title": "Computer-Aided Identification of the Pectoral Muscle in Digitized Mammograms",
+      "authors": [
+        "K. S. Camilus",
+        "V. K. Govindan",
+        "P. S. Sathidevi"
+      ],
+      "year": "2010",
+      "venue": "Journal of Digital Imaging",
+      "link": "https://doi.org/10.1007/s10278-009-9240-6"
+    }
+  }
+}

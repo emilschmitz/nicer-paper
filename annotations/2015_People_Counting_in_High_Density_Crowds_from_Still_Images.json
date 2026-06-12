@@ -1,0 +1,39 @@
+{
+  "paper_id": "1507.08445v1",
+  "title": "People Counting in High Density Crowds from Still Images",
+  "bib_entries": {
+    "BIBREF5": {
+      "title": "Marked point processes for crowd counting",
+      "authors": [
+        "Weina Ge",
+        "Robert T Collins"
+      ],
+      "year": "2009",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2009.5206621"
+    },
+    "BIBREF6": {
+      "title": "Privacy preserving crowd monitoring: Counting people without people models or tracking",
+      "authors": [
+        "A.B. Chan",
+        "Z.-S.J. Liang",
+        "N. Vasconcelos"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587569"
+    },
+    "BIBREF7": {
+      "title": "Density-aware person detection and tracking in crowds",
+      "authors": [
+        "Mikel D. Rodriguez",
+        "I. Laptev",
+        "Josef Sivic",
+        "Jean-Yves Audibert"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126526"
+    }
+  }
+}

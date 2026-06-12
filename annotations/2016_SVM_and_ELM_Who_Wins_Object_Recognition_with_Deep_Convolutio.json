@@ -1,0 +1,247 @@
+{
+  "paper_id": "1506.02509v1",
+  "title": "SVM and ELM: Who Wins? Object Recognition with Deep Convolutional Features from ImageNet",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Deep Boltzmann Machines",
+      "authors": [
+        "Ruslan Salakhutdinov",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Evolutionary Cost-sensitive Extreme Learning Machine and Subspace Extension.",
+      "authors": [
+        "Lei Zhang",
+        "David Zhang"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1505.04373"
+    },
+    "BIBREF2": {
+      "title": "Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?",
+      "authors": [
+        "Erjin Zhou",
+        "Zhimin Cao",
+        "Qi Yin"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Learning hierarchical representations for face verification with convolutional deep belief networks",
+      "authors": [
+        "Gary B. Huang",
+        "Honglak Lee",
+        "Erik Learned-Miller"
+      ],
+      "year": "2012",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2012.6247968"
+    },
+    "BIBREF7": {
+      "title": "Extreme Learning Machine for Regression and Multiclass Classification",
+      "authors": [
+        "Guang-Bin Huang",
+        "Hongming Zhou",
+        "Xiaojian Ding",
+        "Rui Zhang"
+      ],
+      "year": "2012",
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://doi.org/10.1109/tsmcb.2011.2168604"
+    },
+    "BIBREF8": {
+      "title": "Local Receptive Fields Based Extreme Learning Machine",
+      "authors": [
+        "Guang-Bin Huang",
+        "Zuo Bai",
+        "Liyanaarachchi Lekamalage Chamara Kasun",
+        "Chi Man Vong"
+      ],
+      "year": "2015",
+      "venue": "IEEE Computational Intelligence Magazine",
+      "link": "https://doi.org/10.1109/mci.2015.2405316"
+    },
+    "BIBREF10": {
+      "title": "Semi-Supervised and Unsupervised Extreme Learning Machines",
+      "authors": [
+        "Gao Huang",
+        "Shiji Song",
+        "Jatinder N. D. Gupta",
+        "Cheng Wu"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics",
+      "link": "https://doi.org/10.1109/tcyb.2014.2307349"
+    },
+    "BIBREF11": {
+      "title": "Domain Adaptation Extreme Learning Machines for Drift Compensation in E-Nose Systems",
+      "authors": [
+        "Lei Zhang",
+        "David Zhang"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "link": "https://arxiv.org/abs/1505.06405"
+    },
+    "BIBREF12": {
+      "title": "Extreme Learning Machines [Trends & Controversies]",
+      "authors": [
+        "Erik Cambria",
+        "Guang-Bin Huang",
+        "Liyanaarachchi Lekamalage Chamara Kasun",
+        "Hongming Zhou",
+        "Chi Man Vong",
+        "Jiarun Lin",
+        "Jianping Yin",
+        "Zhiping Cai",
+        "Qiang Liu",
+        "Kuan Li",
+        "Victor C.M. Leung",
+        "Liang Feng",
+        "Yew-Soon Ong",
+        "Meng-Hiot Lim",
+        "Anton Akusok",
+        "Amaury Lendasse",
+        "Francesco Corona",
+        "Rui Nian",
+        "Yoan Miche",
+        "Paolo Gastaldo",
+        "Rodolfo Zunino",
+        "Sergio Decherchi",
+        "Xuefeng Yang",
+        "Kezhi Mao",
+        "Beom-Seok Oh",
+        "Jehyoung Jeon",
+        "Kar-Ann Toh",
+        "Andrew Beng Jin Teoh",
+        "Jaihie Kim",
+        "Hanchao Yu",
+        "Yiqiang Chen",
+        "Junfa Liu"
+      ],
+      "year": "2013",
+      "venue": "IEEE Intelligent Systems",
+      "link": "https://doi.org/10.1109/mis.2013.140"
+    },
+    "BIBREF14": {
+      "title": "What are Extreme Learning Machines? Filling the Gap Between Frank Rosenblatt’s Dream and John von Neumann’s Puzzle",
+      "authors": [
+        "Guang-Bin Huang"
+      ],
+      "year": "2015",
+      "venue": "Cognitive Computation",
+      "link": "https://doi.org/10.1007/s12559-015-9333-0"
+    },
+    "BIBREF15": {
+      "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+      "authors": [
+        "Ross Girshick",
+        "Jeff Donahue",
+        "Trevor Darrell",
+        "Jitendra Malik"
+      ],
+      "year": "2014",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1311.2524"
+    },
+    "BIBREF16": {
+      "title": "Extreme learning machine: Theory and applications",
+      "authors": [
+        "Guang-Bin Huang",
+        "Qin-Yu Zhu",
+        "Chee Kheong Siew"
+      ],
+      "year": "2006",
+      "venue": "Neurocomputing",
+      "link": "https://doi.org/10.1007/s10462-013-9405-z"
+    },
+    "BIBREF17": {
+      "title": "Nearest neighbor pattern classification",
+      "authors": [
+        "T. Cover",
+        "P. Hart"
+      ],
+      "year": "1967",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.1967.1053964"
+    },
+    "BIBREF23": {
+      "title": "Geodesic flow kernel for unsupervised domain adaptation",
+      "authors": [
+        "Boqing Gong",
+        "Yuan Shi",
+        "Fei Sha",
+        "K. Grauman"
+      ],
+      "year": "2012",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2012.6247911"
+    },
+    "BIBREF24": {
+      "title": "Optimization method based extreme learning machine for classification",
+      "authors": [
+        "G. Huang",
+        "Xiaojian Ding",
+        "Hongming Zhou"
+      ],
+      "year": "2010",
+      "venue": "Neurocomputing",
+      "link": "https://doi.org/10.1016/j.neucom.2010.02.019"
+    },
+    "BIBREF25": {
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+      "authors": [
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2012",
+      "venue": "Neural Information Processing Systems",
+      "link": "https://doi.org/10.1145/3065386"
+    },
+    "BIBREF26": {
+      "title": "Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+      "authors": [
+        "Kaiming He",
+        "X. Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2014",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/tpami.2015.2389824"
+    },
+    "BIBREF27": {
+      "title": "Evolutionary Cost-Sensitive Extreme Learning Machine",
+      "authors": [
+        "Lei Zhang",
+        "D. Zhang"
+      ],
+      "year": "2017",
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": null
+    },
+    "BIBREF30": {
+      "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
+      "authors": [
+        "Jeff Donahue",
+        "Yangqing Jia",
+        "Oriol Vinyals",
+        "Judy Hoffman",
+        "Ning Zhang",
+        "Eric Tzeng",
+        "Trevor Darrell"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    }
+  }
+}

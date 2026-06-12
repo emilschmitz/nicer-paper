@@ -1,0 +1,262 @@
+{
+  "paper_id": "1805.11477v1",
+  "title": "Large-Scale Learning from Data Streams with Apache SAMOA",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "SAMOA: a platform for mining big data streams",
+      "authors": [
+        "G. D. F. Morales"
+      ],
+      "year": "2013",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/2487788.2488042"
+    },
+    "BIBREF1": {
+      "title": "6 million spam tweets: A large ground truth for timely Twitter spam detection",
+      "authors": [
+        "Chao Chen",
+        "Jun Zhang",
+        "Xiao Chen",
+        "Yang Xiang",
+        "Wanlei Zhou"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Communications",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Online bagging and boosting",
+      "authors": [
+        "N. Oza",
+        "Stuart J. Russell"
+      ],
+      "year": "2005",
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://doi.org/10.1109/icsmc.2005.1571498"
+    },
+    "BIBREF3": {
+      "title": "From chatter to headlines: harnessing the real-time web for personalized news recommendation",
+      "authors": [
+        "G. D. F. Morales",
+        "A. Gionis",
+        "C. Lucchese"
+      ],
+      "year": "2012",
+      "venue": "Web Search and Data Mining",
+      "link": "https://doi.org/10.1145/2124295.2124315"
+    },
+    "BIBREF4": {
+      "title": "Stock trade volume prediction with Yahoo Finance user browsing behavior",
+      "authors": [
+        "Ilaria Bordino",
+        "Nicolas Kourtellis",
+        "Nikolay Laptev",
+        "Youssef Billawala"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icde.2014.6816733"
+    },
+    "BIBREF6": {
+      "title": "Distributed Adaptive Model Rules for mining big data streams",
+      "authors": [
+        "Anh Thu Vu",
+        "Gianmarco De Francisci Morales",
+        "Joao Gama",
+        "Albert Bifet"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Big Data",
+      "link": "https://doi.org/10.1109/bigdata.2014.7004251"
+    },
+    "BIBREF7": {
+      "title": "Mining high-speed data streams",
+      "authors": [
+        "Pedro Domingos",
+        "Geoff Hulten"
+      ],
+      "year": "2000",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/347090.347107"
+    },
+    "BIBREF8": {
+      "title": "The pathologies of big data",
+      "authors": [
+        "Adam Jacobs"
+      ],
+      "year": "2009",
+      "venue": "ACM Queue",
+      "link": "https://doi.org/10.1145/1536616.1536632"
+    },
+    "BIBREF9": {
+      "title": "On evaluating stream learning algorithms",
+      "authors": [
+        "João Gama",
+        "Raquel Sebastião",
+        "Pedro Pereira Rodrigues"
+      ],
+      "year": "2013",
+      "venue": "Machine Learning",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Scalable Online Betweenness Centrality in Evolving Graphs",
+      "authors": [
+        "Nicolas Kourtellis",
+        "Gianmarco De Francisci Morales",
+        "Francesco Bonchi"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://arxiv.org/abs/1401.6981"
+    },
+    "BIBREF11": {
+      "title": "Dynamic Matrix Factorization with Priors on Unknown Values",
+      "authors": [
+        "Robin Devooght",
+        "Nicolas Kourtellis",
+        "Amin Mantrach"
+      ],
+      "year": "2015",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://arxiv.org/abs/1507.06452"
+    },
+    "BIBREF13": {
+      "title": "Learning model trees from evolving data streams",
+      "authors": [
+        "Elena Ikonomovska",
+        "João Gama",
+        "Sašo Džeroski"
+      ],
+      "year": "2011",
+      "venue": "Data Mining and Knowledge Discovery",
+      "link": "https://doi.org/10.1007/978-3-540-88411-8_8"
+    },
+    "BIBREF14": {
+      "title": "A survey on concept drift adaptation",
+      "authors": [
+        "João Gama",
+        "Indrė Žliobaitė",
+        "Albert Bifet",
+        "Mykola Pechenizkiy",
+        "Abdelhamid Bouchachia"
+      ],
+      "year": "2014",
+      "venue": "ACM Computing Surveys",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "SAMOA: scalable advanced massive online analysis",
+      "authors": [
+        "Gianmarco De Francisci Morales",
+        "Albert Bifet"
+      ],
+      "year": "2015",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "The power of both choices: Practical load balancing for distributed stream processing engines",
+      "authors": [
+        "Muhammad Anis Uddin Nasir",
+        "Gianmarco De Francisci Morales",
+        "David Garcia-Soriano",
+        "Nicolas Kourtellis",
+        "Marco Serafini"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://arxiv.org/abs/1504.00788"
+    },
+    "BIBREF17": {
+      "title": "MOA: Massive Online Analysis",
+      "authors": [
+        "Albert Bifet",
+        "Geoff Holmes",
+        "Richard Kirkby",
+        "Bernhard Pfahringer"
+      ],
+      "year": "2010",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "A Streaming Parallel Decision Tree Algorithm",
+      "authors": [
+        "Yael Ben-Haim",
+        "Elad Tom-Tov"
+      ],
+      "year": "2010",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "MapReduce: simplified data processing on large clusters",
+      "authors": [
+        "Muthu Dayalan"
+      ],
+      "year": "2008",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/1327452.1327492"
+    },
+    "BIBREF20": {
+      "title": "Online Bagging and Boosting.",
+      "authors": [
+        "Nikunj C. Oza",
+        "Stuart J. Russell"
+      ],
+      "year": "2001",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Mean Birds: Detecting Aggression and Bullying on Twitter",
+      "authors": [
+        "Despoina Chatzakou",
+        "N. Kourtellis",
+        "Jeremy Blackburn",
+        "Emiliano De Cristofaro",
+        "G. Stringhini",
+        "A. Vakali"
+      ],
+      "year": "2017",
+      "venue": "Web Science",
+      "link": "https://arxiv.org/abs/1702.06877"
+    },
+    "BIBREF22": {
+      "title": "BoostVHT: Boosting Distributed Streaming Decision Trees",
+      "authors": [
+        "Theodore Vasiloudis",
+        "F. Beligianni",
+        "G. D. F. Morales"
+      ],
+      "year": "2017",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/3132847.3132974"
+    },
+    "BIBREF23": {
+      "title": "VHT: Vertical hoeffding tree",
+      "authors": [
+        "N. Kourtellis",
+        "G. D. F. Morales",
+        "A. Bifet",
+        "Arinto Murdopo"
+      ],
+      "year": "2016",
+      "venue": "International Conference on Big Data",
+      "link": "https://arxiv.org/abs/1607.08325"
+    },
+    "BIBREF24": {
+      "title": "When two choices are not enough: Balancing at scale in Distributed Stream Processing",
+      "authors": [
+        "Muhammad Anis Uddin Nasir",
+        "G. D. F. Morales",
+        "N. Kourtellis",
+        "M. Serafini"
+      ],
+      "year": "2016",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://arxiv.org/abs/1510.05714"
+    }
+  }
+}

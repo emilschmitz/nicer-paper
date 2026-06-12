@@ -1,0 +1,40 @@
+{
+  "paper_id": "1612.04499v1",
+  "title": "Mining Compatible/Incompatible Entities from Question and Answering via Yes/No Answer Classification using Distant Label Expansion.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Substitutes or complements: another step forward in recommendations",
+      "authors": [
+        "Jiaqian Zheng",
+        "Xiaoyuan Wu",
+        "Junyu Niu",
+        "A. Bolivar"
+      ],
+      "year": "2009",
+      "venue": "Electronic Commerce",
+      "link": "https://doi.org/10.1145/1566374.1566394"
+    },
+    "BIBREF4": {
+      "title": "Named Entity Recognition using an HMM-based Chunk Tagger",
+      "authors": [
+        "GuoDong Zhou",
+        "Jian Su"
+      ],
+      "year": "2002",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://doi.org/10.3115/1073083.1073163"
+    },
+    "BIBREF12": {
+      "title": "CER: Complementary Entity Recognition via Knowledge Expansion on Large Unlabeled Product Reviews",
+      "authors": [
+        "Hu Xu",
+        "Sihong Xie",
+        "Lei Shu",
+        "Philip S. Yu"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1612.01039"
+    }
+  }
+}

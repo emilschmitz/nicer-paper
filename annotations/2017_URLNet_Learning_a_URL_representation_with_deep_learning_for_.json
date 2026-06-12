@@ -1,0 +1,231 @@
+{
+  "paper_id": "1802.03162v2",
+  "title": "URLNet: Learning a URL representation with deep learning for malicious URL detection",
+  "bib_entries": {
+    "BIBREF2": {
+      "title": "On the potential of proactive domain blacklisting",
+      "authors": [
+        "Mark Felegyhazi",
+        "Christian Kreibich",
+        "Vern Paxson"
+      ],
+      "year": "2010",
+      "venue": "USENIX conference on Large-scale exploits and emergent threats",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "authors": [
+        "Diederik P. Kingma",
+        "Jimmy Ba"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Convolutional Neural Networks for Sentence Classification",
+      "authors": [
+        "Yoon Kim"
+      ],
+      "year": "2014",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://arxiv.org/abs/1408.5882"
+    },
+    "BIBREF6": {
+      "title": "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks",
+      "authors": [
+        "Rie Johnson",
+        "Tong Zhang"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1412.1058"
+    },
+    "BIBREF12": {
+      "title": "PhishDef: URL names say it all",
+      "authors": [
+        "Anh Le",
+        "Athina Markopoulou",
+        "Michalis Faloutsos"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Communications",
+      "link": "https://arxiv.org/abs/1009.2275"
+    },
+    "BIBREF13": {
+      "title": "The state of phishing attacks",
+      "authors": [
+        "Jason Hong"
+      ],
+      "year": "2012",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/2063176.2063197"
+    },
+    "BIBREF15": {
+      "title": "Long short-term memory",
+      "authors": [
+        "Sepp Hochreiter",
+        "Jürgen Schmidhuber"
+      ],
+      "year": "1997",
+      "venue": "Neural Computation",
+      "link": "https://doi.org/10.1162/neco.1997.9.8.1735"
+    },
+    "BIBREF16": {
+      "title": "Deep learning in neural networks",
+      "authors": [
+        "Jürgen Schmidhuber"
+      ],
+      "year": "2015",
+      "venue": "Neural Networks",
+      "link": "https://arxiv.org/abs/1804.08150"
+    },
+    "BIBREF19": {
+      "title": "Beyond blacklists: learning to detect malicious web sites from suspicious URLs",
+      "authors": [
+        "Justin Ma",
+        "L. Saul",
+        "S. Savage",
+        "G. Voelker"
+      ],
+      "year": "2009",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1557019.1557153"
+    },
+    "BIBREF20": {
+      "title": "Cost-sensitive online active learning with application to malicious URL detection",
+      "authors": [
+        "P. Zhao",
+        "S. Hoi"
+      ],
+      "year": "2013",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/2487575.2487647"
+    },
+    "BIBREF21": {
+      "title": "Prophiler: a fast filter for the large-scale detection of malicious web pages",
+      "authors": [
+        "D. Canali",
+        "M. Cova",
+        "Giovanni Vigna",
+        "C. Kruegel"
+      ],
+      "year": "2011",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1963405.1963436"
+    },
+    "BIBREF23": {
+      "title": "Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts",
+      "authors": [
+        "Cicero dos Santos",
+        "Maira Gatti"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Computational Linguistics",
+      "link": "https://doi.org/10.1109/access.2017.2776930"
+    },
+    "BIBREF24": {
+      "title": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems",
+      "authors": [
+        "Martín Abadi",
+        "Ashish Agarwal",
+        "Paul Barham",
+        "Eugene Brevdo",
+        "Zhifeng Chen",
+        "Craig Citro",
+        "Gregory S. Corrado",
+        "Andy Davis",
+        "Jeffrey Dean",
+        "Matthieu Devin",
+        "Sanjay Ghemawat",
+        "Ian J. Goodfellow",
+        "Andrew Harp",
+        "Geoffrey Irving",
+        "Michael Isard",
+        "Yangqing Jia",
+        "Rafal Józefowicz",
+        "Lukasz Kaiser",
+        "Manjunath Kudlur",
+        "Josh Levenberg",
+        "Dan Mané",
+        "Rajat Monga",
+        "Sherry Moore",
+        "Derek Gordon Murray",
+        "Chris Olah",
+        "Mike Schuster",
+        "Jonathon Shlens",
+        "Benoit Steiner",
+        "Ilya Sutskever",
+        "Kunal Talwar",
+        "Paul A. Tucker",
+        "Vincent Vanhoucke",
+        "Vijay Vasudevan",
+        "Fernanda B. Viégas",
+        "Oriol Vinyals",
+        "Pete Warden",
+        "Martin Wattenberg",
+        "Martin Wicke",
+        "Yuan Yu",
+        "Xiaoqiang Zheng"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Distributed, Parallel, and Cluster Computing",
+      "link": null
+    },
+    "BIBREF26": {
+      "title": "WarningBird: Detecting Suspicious URLs in Twitter Stream.",
+      "authors": [
+        "Sangho Lee",
+        "Jong Kim"
+      ],
+      "year": "2012",
+      "venue": "Network and Distributed System Security Symposium",
+      "link": null
+    },
+    "BIBREF27": {
+      "title": "Deep Learning",
+      "authors": [
+        "Ian Goodfellow",
+        "Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "year": "2016",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF29": {
+      "title": "eXpose: A Character-Level Convolutional Neural Network with Embeddings For Detecting Malicious URLs, File Paths and Registry Keys.",
+      "authors": [
+        "Joshua Saxe",
+        "Konstantin Berlin"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Cryptography and Security",
+      "link": null
+    },
+    "BIBREF30": {
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "A. Krizhevsky",
+        "I. Sutskever",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2017",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/3065386"
+    },
+    "BIBREF31": {
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": [
+        "Kaiming He",
+        "Xiangyu Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1512.03385"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "paper_id": "1006.2958v1",
+  "title": "EXTENDED CORE AND CHOOSABILITY OF A GRAPH",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Choosability of a weighted path and free-choosability of a cycle",
+      "authors": [
+        "Yves Aubry",
+        "Jean-Christophe Godin",
+        "Olivier Togni"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Combinatorics",
+      "link": "https://arxiv.org/abs/1005.5602"
+    },
+    "BIBREF1": {
+      "title": "Some results on (a: b)-choosability",
+      "authors": [
+        "Shai Gutner",
+        "Michael Tarsi"
+      ],
+      "year": "2009",
+      "venue": "Discrete Mathematics",
+      "link": "https://doi.org/10.1016/j.disc.2008.04.061"
+    },
+    "BIBREF2": {
+      "title": "Choosability of the square of planar subcubic graphs with large girth",
+      "authors": [
+        "F. Havet"
+      ],
+      "year": "2009",
+      "venue": "Discrete Mathematics",
+      "link": "https://doi.org/10.1016/j.disc.2007.12.100"
+    },
+    "BIBREF3": {
+      "title": "Choosability of planar graphs",
+      "authors": [
+        "Margit Voigt"
+      ],
+      "year": "1996",
+      "venue": "Discrete Mathematics",
+      "link": "https://doi.org/10.1016/0012-365x(95)00216-j"
+    },
+    "BIBREF4": {
+      "title": "Every 2-choosable graph is (2 m, m )-choosable",
+      "authors": [
+        "Zs. Tuza",
+        "M. Voigt"
+      ],
+      "year": "1996",
+      "venue": "Journal of Graph Theory",
+      "link": "https://doi.org/10.1002/(sici)1097-0118(199607)22:3<245::aid-jgt5>3.3.co;2-5"
+    },
+    "BIBREF5": {
+      "title": "A Hajo´s-like theorem for list coloring",
+      "authors": [
+        "Sylvain Gravier"
+      ],
+      "year": "1996",
+      "venue": "Discrete Mathematics",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Channel assignment and multicolouring of the induced subgraphs of the triangular lattice",
+      "authors": [
+        "Frédéric Havet"
+      ],
+      "year": "2001",
+      "venue": "Discrete Mathematics",
+      "link": "https://doi.org/10.1016/s0012-365x(00)00241-7"
+    },
+    "BIBREF7": {
+      "title": "Channel assignment and weighted coloring",
+      "authors": [
+        "Colin McDiarmid",
+        "Bruce A. Reed"
+      ],
+      "year": "2000",
+      "venue": "Networks",
+      "link": "https://doi.org/10.1002/1097-0037(200009)36:2<114::aid-net6>3.0.co;2-g"
+    },
+    "BIBREF8": {
+      "title": "Every Planar Graph Is 5-Choosable",
+      "authors": [
+        "C. Thomassen"
+      ],
+      "year": "1994",
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://doi.org/10.1006/jctb.1994.1062"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "paper_id": "1810.08303v1",
+  "title": "Compositional Verification for Autonomous Systems with Deep Learning Components",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Assume-Guarantee Abstraction Refinement Meets Hybrid Systems",
+      "authors": [
+        "Sergiy Bogomolov",
+        "Goran Frehse",
+        "Marius Greitschus",
+        "R. Grosu",
+        "C. Păsăreanu",
+        "A. Podelski",
+        "Thomas Strump"
+      ],
+      "year": "2014",
+      "venue": "Haifa Verification Conference",
+      "link": "https://doi.org/10.1007/978-3-319-13338-6_10"
+    },
+    "BIBREF1": {
+      "title": "Intriguing properties of neural networks",
+      "authors": [
+        "Christian Szegedy",
+        "Wojciech Zaremba",
+        "Ilya Sutskever",
+        "Joan Bruna",
+        "Dumitru Erhan",
+        "Ian Goodfellow",
+        "Rob Fergus"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1312.6199"
+    },
+    "BIBREF2": {
+      "title": "Explaining and Harnessing Adversarial Examples",
+      "authors": [
+        "Ian J. Goodfellow",
+        "Jonathon Shlens",
+        "Christian Szegedy"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Machine Learning",
+      "link": "https://arxiv.org/abs/1703.00410"
+    },
+    "BIBREF3": {
+      "title": "Assume-guarantee abstraction refinement for probabilistic systems",
+      "authors": [
+        "Anvesh Komuravelli",
+        "Corina S. Păsăreanu",
+        "Edmund M. Clarke"
+      ],
+      "year": "2012",
+      "venue": "Computer Aided Verification",
+      "link": "https://arxiv.org/abs/1207.5086"
+    },
+    "BIBREF4": {
+      "title": "Learning to divide and conquer: applying the L* algorithm to automate assume-guarantee reasoning",
+      "authors": [
+        "Corina S. Păsăreanu",
+        "Dimitra Giannakopoulou",
+        "Mihaela Gheorghiu Bobaru",
+        "Jamieson M. Cobleigh",
+        "Howard Barringer"
+      ],
+      "year": "2008",
+      "venue": "Formal Methods",
+      "link": "https://doi.org/10.1007/s10703-008-0049-6"
+    },
+    "BIBREF5": {
+      "title": "Compositional assume–guarantee reasoning for input/output component theories",
+      "authors": [
+        "Chris Chilton",
+        "B. Jonsson",
+        "M. Kwiatkowska"
+      ],
+      "year": "2014",
+      "venue": "Science of Computer Programming",
+      "link": "https://doi.org/10.1016/j.scico.2013.12.010"
+    },
+    "BIBREF6": {
+      "title": "An algebraic theory of interface automata",
+      "authors": [
+        "Chris Chilton",
+        "B. Jonsson",
+        "M. Kwiatkowska"
+      ],
+      "year": "2014",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "An efficient k-means clustering algorithm: analysis and implementation",
+      "authors": [
+        "T. Kanungo",
+        "D. Mount",
+        "N. Netanyahu",
+        "C. Piatko",
+        "R. Silverman",
+        "A. Wu"
+      ],
+      "year": "2002",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Adversarial examples in the physical world",
+      "authors": [
+        "Alexey Kurakin",
+        "Ian Goodfellow",
+        "Samy Bengio"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1607.02533"
+    },
+    "BIBREF9": {
+      "title": "Verifying cyber-physical systems by combining software model checking with hybrid systems reachability",
+      "authors": [
+        "Stanley Bak",
+        "S. Chaki"
+      ],
+      "year": "2016",
+      "venue": "Embedded Software",
+      "link": "https://doi.org/10.1145/2968478.2968490"
+    },
+    "BIBREF10": {
+      "title": "Safety Verification of Deep Neural Networks",
+      "authors": [
+        "Xiaowei Huang",
+        "M. Kwiatkowska",
+        "Sen Wang",
+        "Min Wu"
+      ],
+      "year": "2017",
+      "venue": "Computer Aided Verification",
+      "link": "https://arxiv.org/abs/1610.06940"
+    },
+    "BIBREF11": {
+      "title": "Detecting Adversarial Samples from Artifacts.",
+      "authors": [
+        "Reuben Feinman",
+        "Ryan R. Curtin",
+        "Saurabh Shintre",
+        "Andrew B. Gardner"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks",
+      "authors": [
+        "Guy Katz",
+        "Clark W. Barrett",
+        "D. Dill",
+        "Kyle D. Julian",
+        "Mykel J. Kochenderfer"
+      ],
+      "year": "2017",
+      "venue": "Computer Aided Verification",
+      "link": "https://arxiv.org/abs/1702.01135"
+    },
+    "BIBREF13": {
+      "title": "Compositional Falsification of Cyber-Physical Systems with Machine Learning Components",
+      "authors": [
+        "Tommaso Dreossi",
+        "Alexandre Donzé",
+        "Sanjit A. Seshia"
+      ],
+      "year": "2017",
+      "venue": "NASA Formal Methods Symposium",
+      "link": "https://doi.org/10.1007/978-3-319-57288-8_26"
+    },
+    "BIBREF14": {
+      "title": "Dropout inference in Bayesian neural networks with alpha-divergences",
+      "authors": [
+        "Yingzhen Li",
+        "Yarin Gal"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Stochastic Assume-Guarantee Contracts for Cyber-Physical System Design Under Probabilistic Requirements.",
+      "authors": [
+        "Jiwei Li",
+        "Pierluigi Nuzzo",
+        "Alberto L. Sangiovanni-Vincentelli",
+        "Yugeng Xi",
+        "Dewei Li"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Systems and Control",
+      "link": "https://doi.org/10.1145/3127041.3127045"
+    },
+    "BIBREF16": {
+      "title": "DeepSafe: A Data-driven Approach for Checking Adversarial Robustness in Neural Networks.",
+      "authors": [
+        "Divya Gopinath",
+        "Guy Katz",
+        "Corina S. Pasareanu",
+        "Clark W. Barrett"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": "https://arxiv.org/abs/1412.6572"
+    },
+    "BIBREF17": {
+      "title": "Towards Evaluating the Robustness of Neural Networks",
+      "authors": [
+        "Nicholas Carlini",
+        "D. Wagner"
+      ],
+      "year": "2017",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "link": "https://arxiv.org/abs/1608.04644"
+    }
+  }
+}

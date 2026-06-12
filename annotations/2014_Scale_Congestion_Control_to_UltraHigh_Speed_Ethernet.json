@@ -1,0 +1,60 @@
+{
+  "paper_id": "1405.1127v1",
+  "title": "Scale Congestion Control to Ultra-High Speed Ethernet.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Less is more: trading a little bandwidth for ultra-low latency in the data center",
+      "authors": [
+        "Mohammad Alizadeh",
+        "Abdul Kabbani",
+        "Tom Edsall",
+        "Balaji Prabhakar",
+        "Amin Vahdat",
+        "Masato Yasuda"
+      ],
+      "year": "2012",
+      "venue": "Networked Systems Design and Implementation",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "HighSpeed TCP for Large Congestion Windows",
+      "authors": [
+        "S. Floyd"
+      ],
+      "year": "2003",
+      "venue": "RFC 3649",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Sliding Mode Congestion Control for data center Ethernet networks",
+      "authors": [
+        "Wanchun Jiang",
+        "Fengyuan Ren",
+        "Ran Shu",
+        "Chuang Lin"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Computer Communications",
+      "link": "https://doi.org/10.1109/infcom.2012.6195505"
+    },
+    "BIBREF5": {
+      "title": "Scalable TCP: improving performance in highspeed wide area networks",
+      "authors": [
+        "Tom Kelly"
+      ],
+      "year": "2003",
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": "https://doi.org/10.1145/956981.956989"
+    },
+    "BIBREF9": {
+      "title": "Analysis of the increase and decrease algorithms for congestion avoidance in computer networks",
+      "authors": [
+        "D. Chiu",
+        "R. Jain"
+      ],
+      "year": "1989",
+      "venue": "Computer Networks and Isdn Systems",
+      "link": "https://doi.org/10.1016/0169-7552(89)90019-6"
+    }
+  }
+}

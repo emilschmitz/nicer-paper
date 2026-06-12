@@ -1,0 +1,233 @@
+{
+  "paper_id": "1507.07225v1",
+  "title": "Spatial mixing and approximate counting for Potts model on graphs with bounded average degree",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Improved FPTAS for Multi-spin Systems",
+      "authors": [
+        "Pinyan Lu",
+        "Yitong Yin"
+      ],
+      "year": "2013",
+      "venue": "International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques",
+      "link": "https://doi.org/10.1007/978-3-642-40328-6_44"
+    },
+    "BIBREF1": {
+      "title": "Switching Colouring of G(n,d/n) for Sampling up to Gibbs Uniqueness Threshold",
+      "authors": [
+        "Charilaos Efthymiou"
+      ],
+      "year": "2014",
+      "venue": "European Symposium on Algorithms",
+      "link": "https://doi.org/10.1007/978-3-662-44777-2_31"
+    },
+    "BIBREF3": {
+      "title": "Inapproximability of the Partition Function for the Antiferromagnetic Ising and Hard-Core Models",
+      "authors": [
+        "Andreas Galanis",
+        "Daniel Štefankovič",
+        "Eric Vigoda"
+      ],
+      "year": "2016",
+      "venue": "Combinatorics, Probability & Computing",
+      "link": "https://arxiv.org/abs/1203.2226"
+    },
+    "BIBREF4": {
+      "title": "Spatial Mixing of Coloring Random Graphs",
+      "authors": [
+        "Yitong Yin"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": "https://arxiv.org/abs/1402.4556"
+    },
+    "BIBREF5": {
+      "title": "Improved bounds for sampling colorings",
+      "authors": [
+        "Eric Vigoda"
+      ],
+      "year": "2000",
+      "venue": "Journal of Mathematical Physics",
+      "link": "https://doi.org/10.1109/sffcs.1999.814577"
+    },
+    "BIBREF6": {
+      "title": "Randomly coloring sparse random graphs with fewer colors than the maximum degree",
+      "authors": [
+        "C. McDiarmid",
+        "B. Reed"
+      ],
+      "year": "2006",
+      "venue": "Random Structures and Algorithms",
+      "link": "https://doi.org/10.1002/rsa.v29:4"
+    },
+    "BIBREF7": {
+      "title": "The Glauber Dynamics on Colorings of a Graph with High Girth and Maximum Degree",
+      "authors": [
+        "Michael Molloy"
+      ],
+      "year": "2004",
+      "venue": "SIAM Journal on Computing",
+      "link": "https://doi.org/10.1137/s0097539702401786"
+    },
+    "BIBREF8": {
+      "title": "Counting independent sets up to the tree threshold",
+      "authors": [
+        "Dror Weitz"
+      ],
+      "year": "2006",
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://doi.org/10.1145/1132516.1132538"
+    },
+    "BIBREF9": {
+      "title": "Correlation decay and deterministic FPTAS for counting colorings of a graph",
+      "authors": [
+        "David Gamarnik",
+        "Dmitriy Katz"
+      ],
+      "year": "2012",
+      "venue": "Journal of Discrete Algorithms",
+      "link": "https://doi.org/10.1016/j.jda.2010.10.002"
+    },
+    "BIBREF10": {
+      "title": "Randomly coloring graphs of girth at least five",
+      "authors": [
+        "Thomas P. Hayes"
+      ],
+      "year": "2003",
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://doi.org/10.1145/780542.780584"
+    },
+    "BIBREF11": {
+      "title": "Chasing the k-colorability threshold",
+      "authors": [
+        "Amin Coja-Oghlan",
+        "Dan Vilenchik"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Discrete Mathematics",
+      "link": "https://arxiv.org/abs/1304.1063"
+    },
+    "BIBREF12": {
+      "title": "Random sampling of colourings of sparse random graphs with a constant number of colours",
+      "authors": [
+        "Charilaos Efthymiou",
+        "Paul G. Spirakis"
+      ],
+      "year": "2008",
+      "venue": "Theoretical Computer Science",
+      "link": "https://arxiv.org/abs/0804.2343"
+    },
+    "BIBREF13": {
+      "title": "The Computational Hardness of Counting in Two-Spin Models on d-Regular Graphs",
+      "authors": [
+        "Allan Sly",
+        "Nike Sun"
+      ],
+      "year": "2012",
+      "venue": "Foundations of Computer Science",
+      "link": "https://arxiv.org/abs/1203.2602"
+    },
+    "BIBREF14": {
+      "title": "Approximate counting, uniform generation and rapidly mixing Markov chains",
+      "authors": [
+        "Alistair Sinclair",
+        "Mark Jerrum"
+      ],
+      "year": "1989",
+      "venue": "Information & Computation",
+      "link": "https://doi.org/10.1016/0890-5401(89)90067-9"
+    },
+    "BIBREF15": {
+      "title": "Randomly coloring graphs with lower bounds on girth and maximum degree",
+      "authors": [
+        "Martin E. Dyer",
+        "Alan M. Frieze"
+      ],
+      "year": "2003",
+      "venue": "Random Structures and Algorithms",
+      "link": "https://doi.org/10.1109/sfcs.2001.959934"
+    },
+    "BIBREF16": {
+      "title": "A very simple algorithm for estimating the number of k -colorings of a low-degree graph",
+      "authors": [
+        "Mark Jerrum"
+      ],
+      "year": "1995",
+      "venue": "Random Structures and Algorithms",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "Spatial Mixing and Approximation Algorithms for Graphs with Bounded Connective Constant",
+      "authors": [
+        "Alistair Sinclair",
+        "Piyush Srivastava",
+        "Yitong Yin"
+      ],
+      "year": "2013",
+      "venue": "Foundations of Computer Science",
+      "link": "https://arxiv.org/abs/1308.1762"
+    },
+    "BIBREF18": {
+      "title": "Path coupling: A technique for proving rapid mixing in Markov chains",
+      "authors": [
+        "Russ Bubley",
+        "M. Dyer"
+      ],
+      "year": "1997",
+      "venue": "Foundations of Computer Science",
+      "link": "https://doi.org/10.1109/sfcs.1997.646111"
+    },
+    "BIBREF19": {
+      "title": "Computational Transition at the Uniqueness Threshold",
+      "authors": [
+        "Allan Sly"
+      ],
+      "year": "2010",
+      "venue": "arXiv: Computational Complexity",
+      "link": "https://arxiv.org/abs/1005.5584"
+    },
+    "BIBREF20": {
+      "title": "Coupling with the stationary distribution and improved sampling for colorings and independent sets",
+      "authors": [
+        "T. Hayes",
+        "Eric Vigoda"
+      ],
+      "year": "2006",
+      "venue": "Annals of Applied Probability",
+      "link": "https://arxiv.org/abs/math/0610188"
+    },
+    "BIBREF21": {
+      "title": "Correlation Decay up to Uniqueness in Spin Systems",
+      "authors": [
+        "Liang Li",
+        "Pinyan Lu",
+        "Yitong Yin"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": null
+    },
+    "BIBREF22": {
+      "title": "Inapproximability for Antiferromagnetic Spin Systems in the Tree Non-Uniqueness Region",
+      "authors": [
+        "Andreas Galanis",
+        "Daniel Stefankovic",
+        "Eric Vigoda"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computational Complexity",
+      "link": "https://arxiv.org/abs/1305.2902"
+    },
+    "BIBREF23": {
+      "title": "Approximation algorithms for two-state anti-ferromagnetic spin systems on bounded degree graphs",
+      "authors": [
+        "Alistair Sinclair",
+        "Piyush Srivastava",
+        "Marc Thurley"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Discrete Mathematics",
+      "link": "https://arxiv.org/abs/1107.2368"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "paper_id": "1006.5252v1",
+  "title": "Decomposition Approach for Low-rank Matrix Completion",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Matrix completion from a few entries",
+      "authors": [
+        "Raghunandan H. Keshavan",
+        "A. Montanari",
+        "Sewoong Oh"
+      ],
+      "year": "2009",
+      "venue": "International Symposium on Information Theory",
+      "link": "https://arxiv.org/abs/0901.3150"
+    },
+    "BIBREF1": {
+      "title": "Fixed point and Bregman iterative methods for matrix rank minimization",
+      "authors": [
+        "Shiqian Ma",
+        "Donald Goldfarb",
+        "Lifeng Chen"
+      ],
+      "year": "2011",
+      "venue": "Mathematical Programming",
+      "link": "https://arxiv.org/abs/0905.1643"
+    },
+    "BIBREF2": {
+      "title": "Solving a low-rank factorization model for matrix completion by a nonlinear successive over-relaxation algorithm",
+      "authors": [
+        "Zaiwen Wen",
+        "Wotao Yin",
+        "Yin Zhang"
+      ],
+      "year": "2012",
+      "venue": "Mathematical Programming Computation",
+      "link": "https://doi.org/10.1007/s12532-012-0044-1"
+    },
+    "BIBREF3": {
+      "title": "A Singular Value Thresholding Algorithm for Matrix Completion",
+      "authors": [
+        "Jian-Feng Cai",
+        "Emmanuel J. Candès",
+        "Zuowei Shen"
+      ],
+      "year": "2010",
+      "venue": "Siam Journal on Optimization",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Learning with matrix factorizations",
+      "authors": [
+        "Nathan Srebro",
+        "Tommi S. Jaakkola"
+      ],
+      "year": "2004",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "The Power of Convex Relaxation: Near-Optimal Matrix Completion",
+      "authors": [
+        "Emmanuel J Candes",
+        "Terence Tao"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/0903.1476"
+    },
+    "BIBREF6": {
+      "title": "ADMiRA: Atomic Decomposition for Minimum Rank Approximation",
+      "authors": [
+        "Kiryung Lee",
+        "Y. Bresler"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/0905.0044"
+    },
+    "BIBREF7": {
+      "title": "Matrix Completion from a Few Entries",
+      "authors": [
+        "Raghunandan H. Keshavan",
+        "Andrea Montanari",
+        "Sewoong Oh"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Learning",
+      "link": "https://arxiv.org/abs/0901.3150"
+    },
+    "BIBREF8": {
+      "title": "SET: an algorithm for consistent matrix completion",
+      "authors": [
+        "Wei Dai",
+        "Olgica Milenkovic"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/0909.2705"
+    },
+    "BIBREF9": {
+      "title": "Guaranteed Rank Minimization via Singular Value Projection",
+      "authors": [
+        "Raghu Meka",
+        "Prateek Jain",
+        "Inderjit S. Dhillon"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Learning",
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "paper_id": "1807.11007v1",
+  "title": "Convex hull formulations for mixed-integer multilinear functions",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Convex Envelope Formula for Multilinear Functions",
+      "authors": [
+        "A. Rikun"
+      ],
+      "year": "1997",
+      "venue": "Journal of Global Optimization",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Mixed-integer nonlinear programs featuring on/off constraints",
+      "authors": [
+        "H. Hijazi",
+        "Pierre Bonami",
+        "Gérard Cornuéjols",
+        "A. Ouorou"
+      ],
+      "year": "2012",
+      "venue": "Computational Optimization and Applications",
+      "link": "https://doi.org/10.1007/s10589-011-9424-0"
+    },
+    "BIBREF2": {
+      "title": "Global optimization of nonconvex problems with multilinear intermediates",
+      "authors": [
+        "Xiaowei Bao",
+        "Aida Khajavirad",
+        "N. Sahinidis",
+        "Mohit Tawarmalani"
+      ],
+      "year": "2015",
+      "venue": "Mathematical Programming Computation",
+      "link": "https://doi.org/10.1007/s12532-014-0073-z"
+    },
+    "BIBREF3": {
+      "title": "Computability of global solutions to factorable nonconvex programs: Part I — Convex underestimating problems",
+      "authors": [
+        "G. McCormick"
+      ],
+      "year": "1976",
+      "venue": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/bf01580665"
+    },
+    "BIBREF4": {
+      "title": "Reformulation and convex relaxation techniques for global optimization",
+      "authors": [
+        "Leo Sergio Liberti"
+      ],
+      "year": "2004",
+      "venue": "A Quarterly Journal of Operations Research",
+      "link": "https://doi.org/10.1007/s10288-004-0038-6"
+    },
+    "BIBREF5": {
+      "title": "A hierarchy of relaxation between the continuous and convex hull representations",
+      "authors": [
+        "Hanif D. Sherali",
+        "Warren P. Adams"
+      ],
+      "year": "1990",
+      "venue": "SIAM Journal on Discrete Mathematics",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Perspective reformulations of mixed integer nonlinear programs with indicator variables",
+      "authors": [
+        "Oktay Günlük",
+        "Jeff Linderoth"
+      ],
+      "year": "2010",
+      "venue": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/s10107-010-0360-z"
+    },
+    "BIBREF8": {
+      "title": "Optimal Resilient transmission Grid Design",
+      "authors": [
+        "H. Nagarajan",
+        "Emre Yamangil",
+        "R. Bent",
+        "Pascal Van Hentenryck",
+        "S. Backhaus"
+      ],
+      "year": "2016",
+      "venue": "Power Systems Computation Conference",
+      "link": "https://doi.org/10.1109/pscc.2016.7540988"
+    },
+    "BIBREF9": {
+      "title": "Optimal Transmission Line Switching Under Geomagnetic Disturbances",
+      "authors": [
+        "Mowen Lu",
+        "H. Nagarajan",
+        "Emre Yamangil",
+        "R. Bent",
+        "S. Backhaus",
+        "A. Barnes"
+      ],
+      "year": "2018",
+      "venue": "IEEE Transactions on Power Systems",
+      "link": "https://arxiv.org/abs/1701.01469"
+    },
+    "BIBREF10": {
+      "title": "An Adaptive, Multivariate Partitioning Algorithm for Global Optimization of Nonconvex Programs",
+      "authors": [
+        "Harsha Nagarajan",
+        "Mowen Lu",
+        "Site Wang",
+        "Russell Bent",
+        "Kaarthik Sundar"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Optimization and Control",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Tightening McCormick Relaxations for Nonlinear Programs via Dynamic Multivariate Partitioning",
+      "authors": [
+        "H. Nagarajan",
+        "Mowen Lu",
+        "Emre Yamangil",
+        "Russell Bent"
+      ],
+      "year": "2016",
+      "venue": "Principles and Practice of Constraint Programming",
+      "link": "https://arxiv.org/abs/1606.05806"
+    }
+  }
+}

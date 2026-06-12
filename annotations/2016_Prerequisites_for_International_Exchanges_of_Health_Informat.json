@@ -1,0 +1,154 @@
+{
+  "paper_id": "1612.04902v1",
+  "title": "Prerequisites for International Exchanges of Health Information: Comparison of Australian, Austrian, Finnish, Swiss, and US Privacy Policies.",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "Health-information exchange: why are we doing it, and what are we doing?",
+      "authors": [
+        "G. Kuperman"
+      ],
+      "year": "2011",
+      "venue": "Journal of the American Medical Informatics Association",
+      "link": "https://doi.org/10.1136/amiajnl-2010-000021"
+    },
+    "BIBREF2": {
+      "title": "Strategies for health data exchange for secondary, cross-institutional clinical research",
+      "authors": [
+        "B. Elger",
+        "J. Iavindrasana",
+        "L. Iacono",
+        "Henning Müller",
+        "Nicolas Roduit",
+        "P. Summers",
+        "Jessica Wright"
+      ],
+      "year": "2010",
+      "venue": "Computer Methods and Programs in Biomedicine",
+      "link": "https://doi.org/10.1016/j.cmpb.2009.12.001"
+    },
+    "BIBREF3": {
+      "title": "Methodological Review: What can natural language processing do for clinical decision support?",
+      "authors": [
+        "Dina Demner-Fushman",
+        "W. Chapman",
+        "C. McDonald"
+      ],
+      "year": "2009",
+      "venue": "Journal of Biomedical Informatics",
+      "link": "https://doi.org/10.1016/j.jbi.2009.08.007"
+    },
+    "BIBREF4": {
+      "title": "Proposal and evaluation of FASDIM, a Fast And Simple De-Identification Method for unstructured free-text clinical records.",
+      "authors": [
+        "Emmanuel Chazard",
+        "Capucine Mouret",
+        "Grégoire Ficheur",
+        "Aurélien Schaffar",
+        "Jean-Baptiste Beuscart",
+        "Régis Beuscart"
+      ],
+      "year": "2014",
+      "venue": "International Journal of Medical Informatics",
+      "link": "https://doi.org/10.1016/j.ijmedinf.2013.11.005"
+    },
+    "BIBREF5": {
+      "title": "De-identification of clinical notes in French: towards a protocol for reference corpus development.",
+      "authors": [
+        "Cyril Grouin",
+        "Aurélie Névéol"
+      ],
+      "year": "2014",
+      "venue": "Journal of Biomedical Informatics",
+      "link": "https://doi.org/10.1016/j.jbi.2013.12.014"
+    },
+    "BIBREF7": {
+      "title": "Secure Dynamic Access Control Scheme of PHR in Cloud Computing",
+      "authors": [
+        "Tzer-Shyong Chen",
+        "Chia-Hui Liu",
+        "Tzer-Long Chen",
+        "Chin-Sheng Chen",
+        "Jian-Guo Bau",
+        "Tzu-Ching Lin"
+      ],
+      "year": "2012",
+      "venue": "Journal of Medical Systems",
+      "link": "https://doi.org/10.1007/s10916-012-9873-8"
+    },
+    "BIBREF8": {
+      "title": "Text de-identification for privacy protection: A study of its impact on clinical text information content",
+      "authors": [
+        "Stéphane M. Meystre",
+        "Óscar Ferrández",
+        "F. Jeffrey Friedlin",
+        "Brett R. South",
+        "Shuying Shen",
+        "Matthew H. Samore"
+      ],
+      "year": "2014",
+      "venue": "Journal of Biomedical Informatics",
+      "link": "https://doi.org/10.1016/j.jbi.2014.01.011"
+    },
+    "BIBREF9": {
+      "title": "The pattern of name tokens in narrative clinical text and a comparison of five systems for redacting them",
+      "authors": [
+        "Mehmet Kayaalp",
+        "Allen C Browne",
+        "Fiona M Callaghan",
+        "Zeyno A Dodd",
+        "Guy Divita",
+        "Selcuk Ozturk",
+        "Clement J McDonald"
+      ],
+      "year": "2014",
+      "venue": "Journal of the American Medical Informatics Association",
+      "link": "https://doi.org/10.1136/amiajnl-2013-001689"
+    },
+    "BIBREF10": {
+      "title": "De-identifying Swedish Clinical Text - Refinement of a Gold Standard and Experiments with Conditional Random Fields",
+      "authors": [
+        "Hercules Dalianis",
+        "Sumithra Velupillai"
+      ],
+      "year": "2010",
+      "venue": "Journal of Biomedical Semantics",
+      "link": "https://doi.org/10.1186/2041-1480-1-6"
+    },
+    "BIBREF12": {
+      "title": "Security and privacy in electronic health records: a systematic literature review.",
+      "authors": [
+        "José Luis Fernández-Alemán",
+        "Inmaculada Carrión Señor",
+        "Pedro Ángel Oliver Lozoya",
+        "Ambrosio Toval"
+      ],
+      "year": "2013",
+      "venue": "Journal of Biomedical Informatics",
+      "link": "https://doi.org/10.1016/j.jbi.2012.12.003"
+    },
+    "BIBREF13": {
+      "title": "Building public trust in uses of Health Insurance Portability and Accountability Act de-identified data",
+      "authors": [
+        "Deven McGraw"
+      ],
+      "year": "2013",
+      "venue": "Journal of the American Medical Informatics Association",
+      "link": "https://doi.org/10.1136/amiajnl-2012-000936"
+    },
+    "BIBREF14": {
+      "title": "Hiding in plain sight: use of realistic surrogates to reduce exposure of protected health information in clinical text.",
+      "authors": [
+        "D. Carrell",
+        "B. Malin",
+        "J. Aberdeen",
+        "Samuel Bayer",
+        "Cheryl Clark",
+        "Ben Wellner",
+        "L. Hirschman"
+      ],
+      "year": "2013",
+      "venue": "Journal of the American Medical Informatics Association",
+      "link": "https://doi.org/10.1136/amiajnl-2012-001034"
+    }
+  }
+}

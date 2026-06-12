@@ -1,0 +1,146 @@
+{
+  "paper_id": "1108.5943v2",
+  "title": "Proof System for Plan Verification under 0-Approximation Semantics",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The frame problem and knowledge-producing actions",
+      "authors": [
+        "Richard B. Scherl",
+        "Hector J. Levesque"
+      ],
+      "year": "1993",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Representing concurrent actions in extended logic programming",
+      "authors": [
+        "Chitta Baral",
+        "Michael Gelfond"
+      ],
+      "year": "1993",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Tableaux and Related Methods",
+      "authors": [
+        "Reiner Hähnle"
+      ],
+      "year": "2001",
+      "venue": "Handbook of Automated Reasoning",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "A survey on knowledge compilation",
+      "authors": [
+        "Marco Cadoli",
+        "Francesco M. Donini"
+      ],
+      "year": "1997",
+      "venue": "Ai Communications",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "How to progress a database",
+      "authors": [
+        "Fangzhen Lin",
+        "R. Reiter"
+      ],
+      "year": "1997",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/s0004-3702(96)00044-6"
+    },
+    "BIBREF5": {
+      "title": "Reasoning and planning with sensing actions, incomplete information, and static causal laws using answer set programming",
+      "authors": [
+        "Phan Huy Tu",
+        "Tran Cao Son",
+        "Chitta Baral"
+      ],
+      "year": "2007",
+      "venue": "Theory and Practice of Logic Programming",
+      "link": "https://doi.org/10.1017/s1471068406002948"
+    },
+    "BIBREF6": {
+      "title": "Representing action and change by logic programs",
+      "authors": [
+        "M. Gelfond",
+        "V. Lifschitz"
+      ],
+      "year": "1993",
+      "venue": "Journal of Logic Programming",
+      "link": "https://doi.org/10.1016/0743-1066(93)90035-f"
+    },
+    "BIBREF7": {
+      "title": "Formalizing sensing actions—a transition function based approach",
+      "authors": [
+        "Tran Cao Son",
+        "Chitta Baral"
+      ],
+      "year": "2001",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/s0004-3702(00)00080-1"
+    },
+    "BIBREF8": {
+      "title": "Computational complexity of planning and approximate planning in the presence of incompleteness",
+      "authors": [
+        "Chitta Baral",
+        "Vladik Kreinovich",
+        "Raúl Trejo"
+      ],
+      "year": "2000",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/s0004-3702(00)00043-6"
+    },
+    "BIBREF9": {
+      "title": "Provably correct theories of action",
+      "authors": [
+        "Fangzhen Lin",
+        "Yoav Shoham"
+      ],
+      "year": "1995",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/201019.201021"
+    },
+    "BIBREF10": {
+      "title": "Knowledge, action, and the frame problem",
+      "authors": [
+        "Richard B. Scherl",
+        "Hector J. Levesque"
+      ],
+      "year": "2003",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/s0004-3702(02)00365-x"
+    },
+    "BIBREF11": {
+      "title": "Understanding planning with incomplete information and sensing",
+      "authors": [
+        "Marcelo Oglietti"
+      ],
+      "year": "2005",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/j.artint.2004.11.006"
+    },
+    "BIBREF12": {
+      "title": "What is planning in the presence of sensing",
+      "authors": [
+        "Hector J. Levesque"
+      ],
+      "year": "1996",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Conditional planning with external functions",
+      "authors": [
+        "Davy Van Nieuwenborgh",
+        "Thomas Eiter",
+        "D. Vermeir"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Logic Programming",
+      "link": "https://doi.org/10.1007/978-3-540-72200-7_19"
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "paper_id": "1807.11103v1",
+  "title": "Exact Synthesis of ESOP Forms",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Some Theorems Useful in Threshold Logic for Enumerating Boolean Functions.",
+      "authors": [
+        "Eiichi Goto",
+        "H. Takahasi"
+      ],
+      "year": "1962",
+      "venue": "IFIP Congress",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "ABC: an academic industrial-strength verification tool",
+      "authors": [
+        "R. Brayton",
+        "A. Mishchenko"
+      ],
+      "year": "2010",
+      "venue": "Computer Aided Verification",
+      "link": "https://doi.org/10.1007/978-3-642-14295-6_5"
+    },
+    "BIBREF4": {
+      "title": "Improved Garbled Circuit: Free XOR Gates and Applications",
+      "authors": [
+        "V. Kolesnikov",
+        "T. Schneider"
+      ],
+      "year": "2008",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://doi.org/10.1007/978-3-540-70583-3_40"
+    },
+    "BIBREF5": {
+      "title": "Pseudo-Kronecker expressions for symmetric functions",
+      "authors": [
+        "R. Drechsler"
+      ],
+      "year": "1999",
+      "venue": "IEEE Transactions on Computers",
+      "link": "https://doi.org/10.1109/12.795226"
+    },
+    "BIBREF6": {
+      "title": "Exact ESOP expressions for incompletely specified functions",
+      "authors": [
+        "M. Sampson",
+        "M. Kalathas",
+        "D. Voudouris",
+        "G. Papakonstantinou"
+      ],
+      "year": "2012",
+      "venue": "Integration",
+      "link": "https://doi.org/10.1016/j.vlsi.2011.10.001"
+    },
+    "BIBREF8": {
+      "title": "AN APPLICATION OF ESOP EXPRESSIONS TO SECURE COMPUTATIONS",
+      "authors": [
+        "Takaaki Mizuki",
+        "Taro Otagiri",
+        "Hideaki Sone"
+      ],
+      "year": "2007",
+      "venue": "Journal of Circuits, Systems, and Computers",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "A continuous approach to inductive inference",
+      "authors": [
+        "Anil P. Kamath",
+        "Narendra K. Karmarkar",
+        "K. G. Ramakrishnan",
+        "Mauricio G. C. Resende"
+      ],
+      "year": "1992",
+      "venue": "Mathematical Programming",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "EXACT MINIMIZATION OF ESOP EXPRESSIONS WITH LESS THAN EIGHT PRODUCT TERMS",
+      "authors": [
+        "Stergios Stergiou",
+        "George K. Papakonstantinou"
+      ],
+      "year": "2004",
+      "venue": "Journal of Circuits, Systems, and Computers",
+      "link": "https://doi.org/10.1142/s0218126604001295"
+    },
+    "BIBREF11": {
+      "title": "A PARALLEL ALGORITHM FOR MINIMIZING ESOP EXPRESSIONS",
+      "authors": [
+        "George K. Papakonstantinou"
+      ],
+      "year": "2014",
+      "venue": "Journal of Circuits, Systems, and Computers",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "A minimal universal test set for self-test of EXOR-Sum-of-Products circuits",
+      "authors": [
+        "Ugur Kalay",
+        "D. Hall",
+        "M. Perkowski"
+      ],
+      "year": "2000",
+      "venue": "IEEE Transactions on Computers",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Design automation and design space exploration for quantum computers",
+      "authors": [
+        "Mathias Soeken",
+        "M. Rötteler",
+        "N. Wiebe",
+        "G. Micheli"
+      ],
+      "year": "2017",
+      "venue": "Design, Automation, and Test in Europe",
+      "link": "https://arxiv.org/abs/1612.00631"
+    },
+    "BIBREF16": {
+      "title": "CEGAR-based EF synthesis of Boolean functions with an application to circuit rectification",
+      "authors": [
+        "Heinz Riener",
+        "Rüdiger Ehlers",
+        "G. Fey"
+      ],
+      "year": "2017",
+      "venue": "Asia and South Pacific Design Automation Conference",
+      "link": "https://doi.org/10.1109/aspdac.2017.7858328"
+    },
+    "BIBREF17": {
+      "title": "On the Glucose SAT Solver",
+      "authors": [
+        "Gilles Audemard",
+        "Laurent Simon"
+      ],
+      "year": "2018",
+      "venue": "International Journal on Artificial Intelligence Tools",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "A Nonlinear Integer Programming Approach for the Minimization of Boolean Expressions",
+      "authors": [
+        "K. G. Papakonstantinou",
+        "G. Papakonstantinou"
+      ],
+      "year": "2018",
+      "venue": "Journal of Circuits, Systems, and Computers",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "The EPFL Logic Synthesis Libraries.",
+      "authors": [
+        "Mathias Soeken",
+        "Heinz Riener",
+        "Winston Haaswijk",
+        "Giovanni De Micheli"
+      ],
+      "year": "2018",
+      "venue": "arXiv: Logic in Computer Science",
+      "link": null
+    }
+  }
+}

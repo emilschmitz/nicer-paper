@@ -1,0 +1,52 @@
+{
+  "paper_id": "1204.3611v1",
+  "title": "LEARNING TO PREDICT THE WISDOM OF CROWDS",
+  "bib_entries": {
+    "BIBREF9": {
+      "title": "Get another label? improving data quality and data mining using multiple, noisy labelers",
+      "authors": [
+        "Victor S. Sheng",
+        "Foster Provost",
+        "Panagiotis G. Ipeirotis"
+      ],
+      "year": "2008",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1401890.1401965"
+    },
+    "BIBREF12": {
+      "title": "Whose Vote Should Count More: Optimal Integration of Labels from Labelers of Unknown Expertise",
+      "authors": [
+        "Jacob Whitehill",
+        "Ting-fan Wu",
+        "Jacob Bergsma",
+        "Javier R. Movellan",
+        "Paul L. Ruvolo"
+      ],
+      "year": "2009",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "The Multidimensional Wisdom of Crowds",
+      "authors": [
+        "Peter Welinder",
+        "Steve Branson",
+        "Pietro Perona",
+        "Serge J. Belongie"
+      ],
+      "year": "2010",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF20": {
+      "title": "Non-Expert Evaluation of Summarization Systems is Risky",
+      "authors": [
+        "Dan Gillick",
+        "Yang Liu"
+      ],
+      "year": "2010",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": null
+    }
+  }
+}

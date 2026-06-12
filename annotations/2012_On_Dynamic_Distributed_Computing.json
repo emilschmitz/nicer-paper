@@ -1,0 +1,351 @@
+{
+  "paper_id": "1202.3084v2",
+  "title": "On Dynamic Distributed Computing",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Distributed and Oblivious Heap",
+      "authors": [
+        "C. Scheideler",
+        "S. Schmid"
+      ],
+      "year": "2009",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Group Spreading: A Protocol for Provably Secure Distributed Name Service",
+      "authors": [
+        "B. Awerbuch",
+        "C. Scheideler"
+      ],
+      "year": "2004",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://doi.org/10.1007/978-3-540-27836-8_18"
+    },
+    "BIBREF2": {
+      "title": "Load balanced scalable Byzantine agreement through quorum building, with full information",
+      "authors": [
+        "Valerie King",
+        "Steven Lonargan",
+        "Jared Saia",
+        "Amitabh Trehan"
+      ],
+      "year": "2011",
+      "venue": "International Conference of Distributed Computing and Networking",
+      "link": "https://doi.org/10.1007/978-3-642-17679-1_18"
+    },
+    "BIBREF3": {
+      "title": "Active and Concurrent Topology Maintenance",
+      "authors": [
+        "Xiaozhou Li",
+        "J. Misra",
+        "C. Plaxton"
+      ],
+      "year": "2004",
+      "venue": "International Symposium on Distributed Computing",
+      "link": "https://doi.org/10.1007/978-3-540-30186-8_23"
+    },
+    "BIBREF5": {
+      "title": "Scalable and Secure Polling in Dynamic Distributed Networks",
+      "authors": [
+        "S. Gambs",
+        "R. Guerraoui",
+        "Hamza Harkous",
+        "Florian Huc",
+        "Anne-Marie Kermarrec"
+      ],
+      "year": "2012",
+      "venue": "Symposium on Reliable Distributed Systems",
+      "link": "https://doi.org/10.1109/srds.2012.63"
+    },
+    "BIBREF6": {
+      "title": "Scalable byzantine computation",
+      "authors": [
+        "Valerie King",
+        "Jared Saia"
+      ],
+      "year": "2010",
+      "venue": "Sigact News",
+      "link": "https://doi.org/10.1145/1855118.1855136"
+    },
+    "BIBREF7": {
+      "title": "Partitioned encryption and achieving simultaneity by partitioning",
+      "authors": [
+        "Z. Galil",
+        "M. Yung"
+      ],
+      "year": "1987",
+      "venue": "Information Processing Letters",
+      "link": "https://doi.org/10.1016/0020-0190(87)90042-1"
+    },
+    "BIBREF9": {
+      "title": "Asynchronous secure computations with optimal resilience (extended abstract)",
+      "authors": [
+        "Michael Ben-Or",
+        "Boaz Kelmer",
+        "Tal Rabin"
+      ],
+      "year": "1994",
+      "venue": "Principles of Distributed Computing",
+      "link": "https://doi.org/10.1145/197917.198088"
+    },
+    "BIBREF10": {
+      "title": "Adaptively secure broadcast, revisited",
+      "authors": [
+        "Juan A. Garay",
+        "Jonathan Katz",
+        "Ranjit Kumaresan",
+        "Hong-Sheng Zhou"
+      ],
+      "year": "2011",
+      "venue": "Principles of Distributed Computing",
+      "link": "https://doi.org/10.1145/1993806.1993832"
+    },
+    "BIBREF12": {
+      "title": "Practical Uniform Peer Sampling under Churn",
+      "authors": [
+        "Roberto Baldoni",
+        "Marco Platania",
+        "Leonardo Querzoni",
+        "Sirio Scipioni"
+      ],
+      "year": "2010",
+      "venue": "International Symposium on Parallel and Distributed Computing",
+      "link": "https://doi.org/10.1109/ispdc.2010.25"
+    },
+    "BIBREF13": {
+      "title": "The peer sampling service: experimental evaluation of unstructured gossip-based implementations",
+      "authors": [
+        "Márk Jelasity",
+        "Rachid Guerraoui",
+        "Anne-Marie Kermarrec",
+        "Maarten van Steen"
+      ],
+      "year": "2004",
+      "venue": "ACM/IFIP/USENIX international conference on Middleware",
+      "link": "https://doi.org/10.1007/978-3-540-30229-2_5"
+    },
+    "BIBREF14": {
+      "title": "Random walks in peer-to-peer networks",
+      "authors": [
+        "C. Gkantsidis",
+        "M. Mihail",
+        "A. Saberi"
+      ],
+      "year": "2004",
+      "venue": "International Conference on Computer Communications",
+      "link": "https://doi.org/10.1109/infcom.2004.1354487"
+    },
+    "BIBREF16": {
+      "title": "Towards robust and efficient computation in dynamic peer-to-peer networks",
+      "authors": [
+        "John Augustine",
+        "Gopal Pandurangan",
+        "Peter Robinson",
+        "Eli Upfal"
+      ],
+      "year": "2012",
+      "venue": "Symposium on Discrete Algorithms",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "The expansion and mixing time of skip graphs with applications",
+      "authors": [
+        "James Aspnes",
+        "Udi Wieder"
+      ],
+      "year": "2005",
+      "venue": "ACM Symposium on Parallel Algorithms and Architectures",
+      "link": "https://doi.org/10.1007/s00446-008-0071-3"
+    },
+    "BIBREF18": {
+      "title": "Computing separable functions via gossip",
+      "authors": [
+        "Damon Mosk-Aoyama",
+        "Devavrat Shah"
+      ],
+      "year": "2006",
+      "venue": "Principles of Distributed Computing",
+      "link": "https://doi.org/10.1145/1146381.1146401"
+    },
+    "BIBREF19": {
+      "title": "The Byzantine Generals Problem",
+      "authors": [
+        "Leslie Lamport",
+        "Robert Shostak",
+        "Marshall Pease"
+      ],
+      "year": "1982",
+      "venue": "ACM Transactions on Programming Languages and Systems",
+      "link": "https://doi.org/10.1145/2402.322398"
+    },
+    "BIBREF20": {
+      "title": "Distributed computation in dynamic networks",
+      "authors": [
+        "Fabian Kuhn",
+        "Nancy Lynch",
+        "Rotem Oshman"
+      ],
+      "year": "2010",
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://doi.org/10.1109/milcom.2011.6127547"
+    },
+    "BIBREF21": {
+      "title": "Tapestry: a resilient global-scale overlay for service deployment",
+      "authors": [
+        "B.Y. Zhao",
+        "Ling Huang",
+        "J. Stribling",
+        "S.C. Rhea",
+        "A.D. Joseph",
+        "J.D. Kubiatowicz"
+      ],
+      "year": "2004",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "link": "https://doi.org/10.1109/jsac.2003.818784"
+    },
+    "BIBREF22": {
+      "title": "Reaching Agreement in the Presence of Faults",
+      "authors": [
+        "M. Pease",
+        "R. Shostak",
+        "L. Lamport"
+      ],
+      "year": "1980",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/5925.5931"
+    },
+    "BIBREF23": {
+      "title": "Coordinated consensus in dynamic networks",
+      "authors": [
+        "Fabian Kuhn",
+        "Yoram Moses",
+        "Rotem Oshman"
+      ],
+      "year": "2011",
+      "venue": "Principles of Distributed Computing",
+      "link": "https://doi.org/10.1145/1993806.1993808"
+    },
+    "BIBREF24": {
+      "title": "Peer counting and sampling in overlay networks based on random walks",
+      "authors": [
+        "A. J. Ganesh",
+        "A. M. Kermarrec",
+        "E. Le Merrer",
+        "L. Massoulié"
+      ],
+      "year": "2007",
+      "venue": "Distributed Computing",
+      "link": "https://doi.org/10.1007/s00446-007-0027-z"
+    },
+    "BIBREF25": {
+      "title": "Adaptively secure broadcast",
+      "authors": [
+        "M. Hirt",
+        "Vassilis Zikas"
+      ],
+      "year": "2010",
+      "venue": "Theory and Application of Cryptographic Techniques",
+      "link": "https://doi.org/10.1007/978-3-642-13190-5_24"
+    },
+    "BIBREF26": {
+      "title": "Peer counting and sampling in overlay networks: random walk methods",
+      "authors": [
+        "L. Massoulié",
+        "E. L. Merrer",
+        "Anne-Marie Kermarrec",
+        "A. Ganesh"
+      ],
+      "year": "2006",
+      "venue": "Principles of Distributed Computing",
+      "link": "https://doi.org/10.1145/1146381.1146402"
+    },
+    "BIBREF27": {
+      "title": "Towards worst-case churn resistant peer-to-peer systems",
+      "authors": [
+        "F. Kuhn",
+        "S. Schmid",
+        "Roger Wattenhofer"
+      ],
+      "year": "2010",
+      "venue": "Distributed Computing",
+      "link": "https://doi.org/10.1007/s00446-010-0099-z"
+    },
+    "BIBREF29": {
+      "title": "Towards a scalable and robust DHT",
+      "authors": [
+        "Baruch Awerbuch",
+        "Christian Scheideler"
+      ],
+      "year": "2006",
+      "venue": "ACM Symposium on Parallel Algorithms and Architectures",
+      "link": "https://doi.org/10.1007/s00224-008-9099-9"
+    },
+    "BIBREF30": {
+      "title": "Computing in social networks",
+      "authors": [
+        "Andreiv Giurgiu",
+        "Rachid Guerraoui",
+        "Kévin Huguenin",
+        "Anne-Marie Kermarrec"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Stabilization, Safety, and Security of Distributed Systems",
+      "link": "https://doi.org/10.1016/j.ic.2013.11.001"
+    },
+    "BIBREF31": {
+      "title": "A scalable content-addressable network",
+      "authors": [
+        "Sylvia Ratnasamy",
+        "Paul Francis",
+        "Mark Handley",
+        "Richard Karp",
+        "Scott Shenker"
+      ],
+      "year": "2001",
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": null
+    },
+    "BIBREF32": {
+      "title": "Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems",
+      "authors": [
+        "A. Rowstron",
+        "P. Druschel"
+      ],
+      "year": "2001",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/3-540-45518-3_18"
+    },
+    "BIBREF33": {
+      "title": "Xheal: localized self-healing using expanders",
+      "authors": [
+        "Gopal Pandurangan",
+        "Amitabh Trehan"
+      ],
+      "year": "2011",
+      "venue": "Principles of Distributed Computing",
+      "link": "https://arxiv.org/abs/1104.0882"
+    },
+    "BIBREF34": {
+      "title": "An algorithm for implementing BFT registers in distributed systems with bounded churn",
+      "authors": [
+        "R. Baldoni",
+        "Silvia Bonomi",
+        "A. S. Nezhad"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Stabilization, Safety, and Security of Distributed Systems",
+      "link": null
+    },
+    "BIBREF35": {
+      "title": "Towards Scalable and Robust Overlay Networks",
+      "authors": [
+        "Baruch Awerbuch",
+        "Christian Scheideler"
+      ],
+      "year": "2007",
+      "venue": "International Workshop on Peer-to-Peer Systems",
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "paper_id": "1507.03650v1",
+  "title": "S-index: Towards Better Metrics for Quantifying Research Impact.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Finding scientific gems with Google's PageRank algorithm",
+      "authors": [
+        "P. Chen",
+        "Huafeng Xie",
+        "Huafeng Xie",
+        "S. Maslov",
+        "S. Redner"
+      ],
+      "year": "2007",
+      "venue": "Journal of Informetrics",
+      "link": "https://arxiv.org/abs/physics/0604130"
+    },
+    "BIBREF1": {
+      "title": "An Overview of Microsoft Academic Service (MAS) and Applications",
+      "authors": [
+        "Arnab Sinha",
+        "Zhihong Shen",
+        "Yang Song",
+        "Hao Ma",
+        "Darrin Eide",
+        "B. Hsu",
+        "Kuansan Wang"
+      ],
+      "year": "2015",
+      "venue": "The Web Conference",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Ranking scientific publications using a model of network traffic",
+      "authors": [
+        "Dylan Walker",
+        "Huafeng Xie",
+        "Koon-Kiu Yan",
+        "S. Maslov"
+      ],
+      "year": "2007",
+      "venue": "Journal of Statistical Mechanics: Theory and Experiment",
+      "link": "https://arxiv.org/abs/physics/0612122"
+    },
+    "BIBREF3": {
+      "title": "Citation count prediction: learning to estimate future citations for literature",
+      "authors": [
+        "Rui Yan",
+        "Jie Tang",
+        "Xiaobing Liu",
+        "Dongdong Shan",
+        "Xiaoming Li"
+      ],
+      "year": "2011",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/2063576.2063757"
+    },
+    "BIBREF4": {
+      "title": "Theory and practise of the g-index",
+      "authors": [
+        "Leo Egghe"
+      ],
+      "year": "2006",
+      "venue": "Scientometrics",
+      "link": "https://doi.org/10.1007/s11192-006-0144-7"
+    },
+    "BIBREF6": {
+      "title": "Citing for high impact",
+      "authors": [
+        "Xiaolin Shi",
+        "Jure Leskovec",
+        "Daniel A. McFarland"
+      ],
+      "year": "2010",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+      "link": "https://arxiv.org/abs/1004.3351"
+    },
+    "BIBREF7": {
+      "title": "To better stand on the shoulder of giants",
+      "authors": [
+        "Rui Yan",
+        "Congrui Huang",
+        "Jie Tang",
+        "Yan Zhang",
+        "Xiaoming Li"
+      ],
+      "year": "2012",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Are there better indices for evaluation purposes than the h index? A comparison of nine different variants of the h index using data from biomedicine",
+      "authors": [
+        "Lutz Bornmann",
+        "Rüdiger Mutz",
+        "Hans-Dieter Daniel"
+      ],
+      "year": "2008",
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://doi.org/10.1002/asi.v59:5"
+    },
+    "BIBREF9": {
+      "title": "Quantifying long-term scientific impact.",
+      "authors": [
+        "Dashun Wang",
+        "Chaoming Song",
+        "Albert László Barabási"
+      ],
+      "year": "2013",
+      "venue": "Science",
+      "link": "https://arxiv.org/abs/1306.3293"
+    },
+    "BIBREF10": {
+      "title": "A macro study of self-citation",
+      "authors": [
+        "Dag W. Aksnes"
+      ],
+      "year": "2003",
+      "venue": "Scientometrics",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Detecting h-index manipulation through self-citation analysis",
+      "authors": [
+        "C. Bartneck",
+        "S. Kokkelmans"
+      ],
+      "year": "2011",
+      "venue": "Scientometrics",
+      "link": "https://doi.org/10.1007/s11192-010-0306-5"
+    },
+    "BIBREF12": {
+      "title": "Google Scholar's ranking algorithm: The impact of citation counts (An empirical study)",
+      "authors": [
+        "Jöran Beel",
+        "Bela Gipp"
+      ],
+      "year": "2009",
+      "venue": "Research Challenges in Information Science",
+      "link": "https://doi.org/10.1109/rcis.2009.5089308"
+    }
+  }
+}

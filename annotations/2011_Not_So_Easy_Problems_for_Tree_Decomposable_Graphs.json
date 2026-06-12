@@ -1,0 +1,225 @@
+{
+  "paper_id": "1107.1177v1",
+  "title": "Not So Easy Problems for Tree Decomposable Graphs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Treewidth: Computations and Approximations",
+      "authors": [
+        "Ton Kloks"
+      ],
+      "year": "1994",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "On Fixed-Parameter Tractable Parameterizations of SAT",
+      "authors": [
+        "Stefan Szeider"
+      ],
+      "year": "2003",
+      "venue": "Theory and Applications of Satisfiability Testing",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Invitation to fixed-parameter algorithms",
+      "authors": [
+        "Rolf Niedermeier"
+      ],
+      "year": "2006",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Distance constrained labelings of graphs of bounded treewidth",
+      "authors": [
+        "J. Fiala",
+        "P. Golovach",
+        "Jan Kratochvíl"
+      ],
+      "year": "2005",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://doi.org/10.1007/11523468_30"
+    },
+    "BIBREF4": {
+      "title": "Constraint satisfaction with bounded treewidth revisited",
+      "authors": [
+        "M. Samer",
+        "Stefan Szeider"
+      ],
+      "year": "2010",
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://doi.org/10.1016/j.jcss.2009.04.003"
+    },
+    "BIBREF5": {
+      "title": "On the complexity of some colorful problems parameterized by treewidth",
+      "authors": [
+        "Michael R. Fellows",
+        "Fedor V. Fomin",
+        "Daniel Lokshtanov",
+        "Frances Rosamond",
+        "Saket Saurabh",
+        "Stefan Szeider",
+        "Carsten Thomassen"
+      ],
+      "year": "2011",
+      "venue": "Information & Computation",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "List-colourings of graphs",
+      "authors": [
+        "B. Bollobás",
+        "A. J. Harris"
+      ],
+      "year": "1985",
+      "venue": "Graphs and Combinatorics",
+      "link": "https://doi.org/10.1007/bf02582936"
+    },
+    "BIBREF7": {
+      "title": "Fixed-parameter complexity in AI and nonmonotonic reasoning",
+      "authors": [
+        "Georg Gottlob",
+        "Francesco Scarcello",
+        "Martha Sideri"
+      ],
+      "year": "2002",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/s0004-3702(02)00182-0"
+    },
+    "BIBREF8": {
+      "title": "Monadic second order logic on graphs with local cardinality constraints",
+      "authors": [
+        "Stefan Szeider"
+      ],
+      "year": "2011",
+      "venue": "ACM Transactions on Computational Logic",
+      "link": "https://doi.org/10.1007/978-3-540-85238-4_49"
+    },
+    "BIBREF9": {
+      "title": "On the parameterized complexity of the fixed alphabet shortest common supersequence and longest common subsequence problems",
+      "authors": [
+        "Krzysztof Pietrzak"
+      ],
+      "year": "2003",
+      "venue": "Journal of Computer and System Sciences",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "General factors of graphs",
+      "authors": [
+        "Gérard Cornuéjols"
+      ],
+      "year": "1988",
+      "venue": "Journal of Combinatorial Theory, Series B",
+      "link": "https://doi.org/10.1016/0095-8956(88)90068-8"
+    },
+    "BIBREF11": {
+      "title": "A Linear-Time Algorithm for Finding Tree-Decompositions of Small Treewidth",
+      "authors": [
+        "Hans L. Bodlaender"
+      ],
+      "year": "1996",
+      "venue": "SIAM Journal on Computing",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Easy problems for tree-decomposable graphs",
+      "authors": [
+        "Stefan Arnborg",
+        "Jens Lagergren",
+        "Detlef Seese"
+      ],
+      "year": "1991",
+      "venue": "Journal of Algorithms",
+      "link": "https://doi.org/10.1016/0196-6774(91)90006-k"
+    },
+    "BIBREF13": {
+      "title": "On Equitable Coloring of d -Degenerate Graphs",
+      "authors": [
+        "A. V. Kostochka",
+        "K. Nakprasit",
+        "S. V. Pemmaraju"
+      ],
+      "year": "2005",
+      "venue": "SIAM Journal on Discrete Mathematics",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "A partial k -arboretum of graphs with bounded treewidth",
+      "authors": [
+        "Hans L. Bodlaender"
+      ],
+      "year": "1998",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Tractable cases of the extended global cardinality constraint",
+      "authors": [
+        "Marko Samer",
+        "Stefan Szeider"
+      ],
+      "year": "2008",
+      "venue": "Computing: The Australasian Theory Symposium",
+      "link": "https://doi.org/10.1007/s10601-009-9079-y"
+    },
+    "BIBREF16": {
+      "title": "Equitable colorings of bounded treewidth graphs",
+      "authors": [
+        "Hans L. Bodlaender",
+        "Fedor V. Fomin"
+      ],
+      "year": "2005",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1007/978-3-540-28629-5_11"
+    },
+    "BIBREF17": {
+      "title": "Graph colorings with local constraints - a survey",
+      "authors": [
+        "Z. Tuza"
+      ],
+      "year": "1997",
+      "venue": "Discussiones Mathematicae Graph Theory",
+      "link": "https://doi.org/10.7151/dmgt.1049"
+    },
+    "BIBREF18": {
+      "title": "The complexity of satisfiability problems",
+      "authors": [
+        "T. Schaefer"
+      ],
+      "year": "1978",
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://doi.org/10.1007/3-540-44693-1_36"
+    },
+    "BIBREF19": {
+      "title": "Graph Rewriting : An Algebraic and Logic Approach",
+      "authors": [
+        "Bruno Courcelle"
+      ],
+      "year": "1990",
+      "venue": "Handbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)",
+      "link": null
+    },
+    "BIBREF20": {
+      "title": "Graph classes and the complexity of the graph orientation minimizing the maximum weighted outdegree",
+      "authors": [
+        "Yuichi Asahiro",
+        "Eiji Miyano",
+        "Hirotaka Ono"
+      ],
+      "year": "2008",
+      "venue": "Conferences in Research and Practice in Information Technology Series",
+      "link": "https://doi.org/10.1016/j.dam.2010.11.003"
+    },
+    "BIBREF21": {
+      "title": "Algorithms for propositional model counting",
+      "authors": [
+        "M. Samer",
+        "Stefan Szeider"
+      ],
+      "year": "2010",
+      "venue": "Journal of Discrete Algorithms",
+      "link": "https://doi.org/10.1007/978-3-540-75560-9_35"
+    }
+  }
+}

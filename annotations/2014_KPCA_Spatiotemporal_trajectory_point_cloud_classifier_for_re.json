@@ -1,0 +1,280 @@
+{
+  "paper_id": "1403.6794v1",
+  "title": "KPCA Spatio-temporal trajectory point cloud classifier for recognizing human actions in a CBVR system.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "State-of-the-art on spatio-temporal information-based video retrieval",
+      "authors": [
+        "Wei Ren",
+        "Sameer Singh",
+        "Maneesh Kumar Singh",
+        "Y. Zhu"
+      ],
+      "year": "2009",
+      "venue": "Pattern Recognition",
+      "link": "https://doi.org/10.1016/j.patcog.2008.08.033"
+    },
+    "BIBREF1": {
+      "title": "Human Gait Recognition Based on Kernel PCA Using Projections",
+      "authors": [
+        "Murat Ekinci",
+        "Murat Aykut"
+      ],
+      "year": "2007",
+      "venue": "Journal of Computer Science and Technology",
+      "link": "https://doi.org/10.1007/s11390-007-9101-z"
+    },
+    "BIBREF2": {
+      "title": "Recognizing human actions: a local SVM approach",
+      "authors": [
+        "C. Schuldt",
+        "I. Laptev",
+        "B. Caputo"
+      ],
+      "year": "2004",
+      "venue": "International Conference on Pattern Recognition",
+      "link": "https://doi.org/10.1109/icpr.2004.747"
+    },
+    "BIBREF3": {
+      "title": "Particle Swarm Optimization and Differential Evolution for model-based object detection",
+      "authors": [
+        "Roberto Ugolotti",
+        "Youssef S. G. Nashed",
+        "Pablo Mesejo",
+        "ŠPela Ivekovič",
+        "Luca Mussi",
+        "Stefano Cagnoni"
+      ],
+      "year": "2013",
+      "venue": "Applied Soft Computing",
+      "link": "https://doi.org/10.1016/j.asoc.2012.11.027"
+    },
+    "BIBREF4": {
+      "title": "A fuzzy K-nearest neighbor algorithm",
+      "authors": [
+        "J. M. Keller",
+        "M. R. Gray",
+        "J. A. Givens"
+      ],
+      "year": "1985",
+      "venue": "Systems, Man and Cybernetics",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Multimedia data mining: state of the art and challenges",
+      "authors": [
+        "Chidansh Amitkumar Bhatt",
+        "Mohan S. Kankanhalli"
+      ],
+      "year": "2011",
+      "venue": "Multimedia Tools and Applications",
+      "link": "https://doi.org/10.1007/s11042-010-0645-5"
+    },
+    "BIBREF6": {
+      "title": "Fuzzy rule-based reasoning approach for event detection and annotation of broadcast soccer video",
+      "authors": [
+        "Monireh-Sadat Hosseini",
+        "Amir-Masoud Eftekhari-Moghadam"
+      ],
+      "year": "2013",
+      "venue": "Applied Soft Computing",
+      "link": "https://doi.org/10.1016/j.asoc.2012.10.007"
+    },
+    "BIBREF7": {
+      "title": "A novel approach for recognition of human actions with semi-global features",
+      "authors": [
+        "Catherine Achard",
+        "Xingtai Qu",
+        "Arash Mokhber",
+        "Maurice Milgram"
+      ],
+      "year": "2008",
+      "venue": "Machine Vision Applications",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Learning stick-figure models using nonparametric Bayesian priors over trees",
+      "authors": [
+        "E.W. Meeds",
+        "D.A. Ross",
+        "R.S. Zemel",
+        "S.T. Roweis"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587559"
+    },
+    "BIBREF9": {
+      "title": "A Biologically Inspired System for Action Recognition",
+      "authors": [
+        "H. Jhuang",
+        "T. Serre",
+        "L. Wolf",
+        "T. Poggio"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Computer Vision",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "A vision-based analysis system for gait recognition in patients with Parkinson's disease",
+      "authors": [
+        "Chien-Wen Cho",
+        "Wen-Hung Chao",
+        "Sheng-Huang Lin",
+        "You-Yin Chen"
+      ],
+      "year": "2009",
+      "venue": "Expert Systems With Applications",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "A Survey on Visual Content-Based Video Indexing and Retrieval",
+      "authors": [
+        "Weiming Hu",
+        "Nianhua Xie",
+        "Li Li",
+        "Xianglin Zeng",
+        "S. Maybank"
+      ],
+      "year": "2011",
+      "venue": "Systems, Man and Cybernetics",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Searching for Complex Human Activities with No Visual Examples",
+      "authors": [
+        "Nazlı İkizler",
+        "David A. Forsyth"
+      ],
+      "year": "2008",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://doi.org/10.1007/s11263-008-0142-8"
+    },
+    "BIBREF13": {
+      "title": "A survey on vision-based human action recognition",
+      "authors": [
+        "Ronald Poppe"
+      ],
+      "year": "2010",
+      "venue": "Image and Vision Computing",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Recognition of human actions using motion history information extracted from the compressed video",
+      "authors": [
+        "R. Venkatesh Babu",
+        "K.R. Ramakrishnan"
+      ],
+      "year": "2004",
+      "venue": "Image and Vision Computing",
+      "link": "https://doi.org/10.1016/j.imavis.2003.11.004"
+    },
+    "BIBREF15": {
+      "title": "Learning human actions via information maximization",
+      "authors": [
+        "Jingen Liu",
+        "Mubarak Shah"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587723"
+    },
+    "BIBREF16": {
+      "title": "An iterative image registration technique with an application to stereo vision",
+      "authors": [
+        "Bruce D. Lucas",
+        "Takeo Kanade"
+      ],
+      "year": "1981",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "A comparative study of similarity measures for content-based multimedia retrieval",
+      "authors": [
+        "Christian Beecks",
+        "Merih Seran Uysal",
+        "Thomas Seidl"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Multimedia and Expo",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Human gait recognition by the fusion of motion and static spatio-temporal templates",
+      "authors": [
+        "Toby H. W. Lam",
+        "Raymond S. T. Lee",
+        "David Zhang"
+      ],
+      "year": "2007",
+      "venue": "Pattern Recognition",
+      "link": "https://doi.org/10.1016/j.patcog.2006.11.014"
+    },
+    "BIBREF19": {
+      "title": "Action snippets: How many frames does human action recognition require?",
+      "authors": [
+        "K. Schindler",
+        "L. van Gool"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587730"
+    },
+    "BIBREF20": {
+      "title": "Learning realistic human actions from movies",
+      "authors": [
+        "I. Laptev",
+        "Marcin Marszalek",
+        "C. Schmid",
+        "Benjamin Rozenfeld"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587756"
+    },
+    "BIBREF21": {
+      "title": "Action recognition with motion-appearance vocabulary forest",
+      "authors": [
+        "K. Mikolajczyk",
+        "H. Uemura"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2008.4587628"
+    },
+    "BIBREF22": {
+      "title": "Gabor-based kernel PCA with doubly nonlinear mapping for face recognition with a single face image",
+      "authors": [
+        "Xudong Xie",
+        "K. Lam"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://doi.org/10.1109/tip.2006.877435"
+    },
+    "BIBREF23": {
+      "title": "The recognition of human movement using temporal templates",
+      "authors": [
+        "A. Bobick",
+        "James W. Davis"
+      ],
+      "year": "2001",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/cvpr.1997.609439"
+    },
+    "BIBREF24": {
+      "title": "Object Detection with Discriminatively Trained Part-Based Models",
+      "authors": [
+        "Pedro F. Felzenszwalb",
+        "Ross B. Girshick",
+        "David A. McAllester",
+        "Deva Ramanan"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/mc.2014.42"
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "paper_id": "1808.01986v2",
+  "title": "Finite Blocklength Analysis of Multiple Access Channels with/without Cooperation.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Queueing Theory for Telecommunications: Discrete Time Modelling of a Single Node System",
+      "authors": [
+        "Attahiru Sule Alfa"
+      ],
+      "year": "2010",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "The Third-Order Term in the Normal Approximation for the AWGN Channel",
+      "authors": [
+        "Vincent Yan Fu Tan",
+        "Marco Tomamichel"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/1311.2337"
+    },
+    "BIBREF2": {
+      "title": "Quasi-Static Multiple-Antenna Fading Channels at Finite Blocklength",
+      "authors": [
+        "Wei Yang",
+        "Giuseppe Durisi",
+        "Tobias Koch",
+        "Yury Polyanskiy"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/1311.2012"
+    },
+    "BIBREF3": {
+      "title": "Coding and Decoding for the Dynamic Decode and Forward Relay Protocol",
+      "authors": [
+        "K.R. Kumar",
+        "G. Caire"
+      ],
+      "year": "2009",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/0801.2588"
+    },
+    "BIBREF4": {
+      "title": "Finite Block-Length Analysis of the Incremental Redundancy HARQ",
+      "authors": [
+        "Behrooz Makki",
+        "Tommy Svensson",
+        "Michele Zorzi"
+      ],
+      "year": "2014",
+      "venue": "IEEE Wireless Communications Letters",
+      "link": "https://arxiv.org/abs/1409.3330"
+    },
+    "BIBREF5": {
+      "title": "Finite-blocklength analysis of the ARQ-protocol throughput over the Gaussian collision channel",
+      "authors": [
+        "Rahul Devassy",
+        "Giuseppe Durisi",
+        "Petar Popovski",
+        "Erik G. Strom"
+      ],
+      "year": "2014",
+      "venue": "International Symposium on Communications, Control and Signal Processing",
+      "link": "https://doi.org/10.1109/isccsp.2014.6877843"
+    },
+    "BIBREF6": {
+      "title": "Relay-Assisted Multiple Access With Full-Duplex Multi-Packet Reception",
+      "authors": [
+        "Nikolaos Pappas",
+        "Marios Kountouris",
+        "Anthony Ephremides",
+        "Apostolos Traganitis"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://arxiv.org/abs/1310.2773"
+    },
+    "BIBREF7": {
+      "title": "An Improved Approximation for the Gaussian Q-Function",
+      "authors": [
+        "G.K. Karagiannidis",
+        "A.S. Lioumpas"
+      ],
+      "year": "2007",
+      "venue": "IEEE Communications Letters",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Channel Coding Rate in the Finite Blocklength Regime",
+      "authors": [
+        "Yury Polyanskiy",
+        "H Vincent Poor",
+        "Sergio Verdu"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2010.2043769"
+    },
+    "BIBREF9": {
+      "title": "Stable Throughput of Cognitive Radios With and Without Relaying Capability",
+      "authors": [
+        "O. Simeone",
+        "Y. Bar-Ness",
+        "U. Spagnolini"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://doi.org/10.1109/tcomm.2007.910699"
+    },
+    "BIBREF10": {
+      "title": "Protocol design and throughput analysis for multi-user cognitive cooperative systems",
+      "authors": [
+        "I. Krikidis",
+        "J.N. Laneman",
+        "J.S. Thompson",
+        "S. Mclaughlin"
+      ],
+      "year": "2009",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://doi.org/10.1109/twc.2009.081310"
+    },
+    "BIBREF11": {
+      "title": "Feedback in the Non-Asymptotic Regime",
+      "authors": [
+        "Yury Polyanskiy",
+        "H. V. Poor",
+        "S. Verdú"
+      ],
+      "year": "2011",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2011.2158476"
+    },
+    "BIBREF12": {
+      "title": "Single-input two-way SIMO channel: diversity-multiplexing tradeoff with two-way training",
+      "authors": [
+        "C. Steger",
+        "A. Sabharwal"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://doi.org/10.1109/t-wc.2008.070303"
+    },
+    "BIBREF13": {
+      "title": "One-shot capacity of discrete channels",
+      "authors": [
+        "Rui A. Costa",
+        "M. Langberg",
+        "J. Barros"
+      ],
+      "year": "2010",
+      "venue": "International Symposium on Information Theory",
+      "link": "https://arxiv.org/abs/1006.0334"
+    },
+    "BIBREF14": {
+      "title": "Cognitive multiple access via cooperation: Protocol design and performance analysis",
+      "authors": [
+        "A. Sadek",
+        "K. Liu",
+        "A. Ephremides"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2007.904784"
+    },
+    "BIBREF15": {
+      "title": "Information theory and communication networks: an unconsummated union",
+      "authors": [
+        "A. Ephremides",
+        "B. Hajek"
+      ],
+      "year": "1998",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/18.720543"
+    },
+    "BIBREF16": {
+      "title": "Toward Massive, Ultrareliable, and Low-Latency Wireless Communication With Short Packets",
+      "authors": [
+        "Giuseppe Durisi",
+        "Tobias Koch",
+        "Petar Popovski"
+      ],
+      "year": "2016",
+      "venue": "Proceedings of the IEEE",
+      "link": "https://doi.org/10.1109/jproc.2016.2537298"
+    },
+    "BIBREF17": {
+      "title": "A Survey on Buffer-Aided Relay Selection",
+      "authors": [
+        "Nikolaos Nomikos",
+        "Themistoklis Charalambous",
+        "I. Krikidis",
+        "D. Skoutas",
+        "D. Vouyioukas",
+        "M. Johansson",
+        "C. Skianis"
+      ],
+      "year": "2016",
+      "venue": "IEEE Communications Surveys and Tutorials",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "On short-length error-correcting codes for 5G-NR",
+      "authors": [
+        "J. Wonterghem",
+        "Amira Alloum",
+        "J. Boutros",
+        "M. Moeneclaey"
+      ],
+      "year": "2018",
+      "venue": "Ad Hoc Networks",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "Finite Blocklength Analysis of the Multiple Access Relay Channel with Batch-and-Forward Strategy",
+      "authors": [
+        "C. Kourtellaris",
+        "C. Psomas",
+        "I. Krikidis"
+      ],
+      "year": "2019",
+      "venue": "International Conference on Communications",
+      "link": "https://doi.org/10.1109/icc.2019.8761215"
+    },
+    "BIBREF20": {
+      "title": "Stability of a TDMA Network Subject to Finite Blocklength Constraints",
+      "authors": [
+        "C. Kourtellaris",
+        "C. Psomas",
+        "I. Krikidis"
+      ],
+      "year": "2019",
+      "venue": "International Conference on Communications",
+      "link": "https://doi.org/10.1109/icc.2019.8761053"
+    },
+    "BIBREF21": {
+      "title": "Finite-blocklength bounds for wiretap channels",
+      "authors": [
+        "Wei Yang",
+        "Rafael F. Schaefer",
+        "H. Poor"
+      ],
+      "year": "2016",
+      "venue": "International Symposium on Information Theory",
+      "link": "https://arxiv.org/abs/1601.06055"
+    },
+    "BIBREF22": {
+      "title": "Ultra-Reliable Short-Packet Communications: Half-Duplex or Full-Duplex Relaying?",
+      "authors": [
+        "Yifan Gu",
+        "H. Chen",
+        "Yonghui Li",
+        "B. Vucetic"
+      ],
+      "year": "2018",
+      "venue": "IEEE Wireless Communications Letters",
+      "link": "https://arxiv.org/abs/1711.08199"
+    }
+  }
+}

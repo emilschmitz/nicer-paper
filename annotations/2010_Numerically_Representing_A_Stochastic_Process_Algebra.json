@@ -1,0 +1,121 @@
+{
+  "paper_id": "1012.3040v1",
+  "title": "Numerically Representing A Stochastic Process Algebra",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Linear Algebraic Techniques for Place/Transition Nets",
+      "authors": [
+        "Kurt Lautenbach"
+      ],
+      "year": "1986",
+      "venue": "Proceedings of an Advanced Course on Petri Nets: Central Models and Their Properties, Advances in Petri Nets 1986-Part I",
+      "link": "https://doi.org/10.1007/bfb0046839"
+    },
+    "BIBREF1": {
+      "title": "Fundamental Results on Fluid Approximations of Stochastic Process Algebra Models",
+      "authors": [
+        "Jie Ding",
+        "Jane Hillston"
+      ],
+      "year": "2010",
+      "venue": "arXiv: Logic in Computer Science",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "A Compositional Approach to Performance Modelling",
+      "authors": [
+        "Jane Hillston"
+      ],
+      "year": "1996",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Scalable Differential Analysis of Process Algebra Models",
+      "authors": [
+        "M. Tribastone",
+        "S. Gilmore",
+        "J. Hillston"
+      ],
+      "year": "2012",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": "https://doi.org/10.1109/tse.2010.82"
+    },
+    "BIBREF4": {
+      "title": "Queueing Networks and Markov Chains: Modeling and Performance Evaluation with Computer Science Applications",
+      "authors": [
+        "Gunter Bolch",
+        "Stefan Greiner",
+        "Hermann de Meer",
+        "Kishor S. Trivedi"
+      ],
+      "year": "1998",
+      "venue": "",
+      "link": "https://doi.org/10.1198/tech.2007.s457"
+    },
+    "BIBREF5": {
+      "title": "Analysing distributed Internet worm attacks using continuous state-space approximation of process algebra models",
+      "authors": [
+        "Jeremy T. Bradley",
+        "Stephen T. Gilmore",
+        "Jane Hillston"
+      ],
+      "year": "2008",
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://doi.org/10.1016/j.jcss.2007.07.005"
+    },
+    "BIBREF6": {
+      "title": "Relating continuous and discrete PEPA models of signalling pathways",
+      "authors": [
+        "Nil Geisweiller",
+        "Jane Hillston",
+        "Marco Stenico"
+      ],
+      "year": "2008",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1016/j.tcs.2008.04.012"
+    },
+    "BIBREF7": {
+      "title": "A tutorial on EMPA: a theory of concurrent processes with nondeterminism, priorities, probabilities and time",
+      "authors": [
+        "Marco Bernardo",
+        "Roberto Gorrieri"
+      ],
+      "year": "1998",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Fluid flow approximation of PEPA models",
+      "authors": [
+        "J. Hillston"
+      ],
+      "year": "2005",
+      "venue": "Quantitative Evaluation of Systems",
+      "link": "https://doi.org/10.1109/qest.2005.12"
+    },
+    "BIBREF9": {
+      "title": "Fluid Rewards for a Stochastic Process Algebra",
+      "authors": [
+        "M. Tribastone",
+        "Jie Ding",
+        "S. Gilmore",
+        "J. Hillston"
+      ],
+      "year": "2012",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": "https://doi.org/10.1109/tse.2011.81"
+    },
+    "BIBREF10": {
+      "title": "An efficient algorithm for aggregating PEPA models",
+      "authors": [
+        "S. Gilmore",
+        "J. Hillston",
+        "M. Ribaudo"
+      ],
+      "year": "2001",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": null
+    }
+  }
+}

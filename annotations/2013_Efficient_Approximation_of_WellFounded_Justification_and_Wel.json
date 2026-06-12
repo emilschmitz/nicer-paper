@@ -1,0 +1,196 @@
+{
+  "paper_id": "1308.3923v2",
+  "title": "Efficient Approximation of Well-Founded Justification and Well-Founded Domination (Corrected and Extended Version).",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Compact translations of non-disjunctive answer set programs to propositional clauses",
+      "authors": [
+        "T. Janhunen",
+        "I. Niemelä"
+      ],
+      "year": "2011",
+      "venue": "Logic programming, knowledge representation, and nonmonotonic reasoning",
+      "link": "https://doi.org/10.1007/978-3-642-20832-4_8"
+    },
+    "BIBREF1": {
+      "title": "A model-theoretic counterpart of loop formulas",
+      "authors": [
+        "Joohyung Lee"
+      ],
+      "year": "2005",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "A SAT Solver Primer.",
+      "authors": [
+        "David G. Mitchell"
+      ],
+      "year": "2005",
+      "venue": "Bulletin of The European Association for Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "CP(Graph): introducing a graph computation domain in constraint programming",
+      "authors": [
+        "Grégoire Dooms",
+        "Y. Deville",
+        "Pierre Dupont"
+      ],
+      "year": "2005",
+      "venue": "Principles and Practice of Constraint Programming",
+      "link": "https://doi.org/10.1007/11564751_18"
+    },
+    "BIBREF4": {
+      "title": "Tableau calculi for answer set programming",
+      "authors": [
+        "M. Gebser",
+        "Torsten Schaub"
+      ],
+      "year": "2006",
+      "venue": "International Conference on Logic Programming",
+      "link": "https://doi.org/10.1007/11799573_4"
+    },
+    "BIBREF5": {
+      "title": "Negation as failure",
+      "authors": [
+        "K. Clark"
+      ],
+      "year": "1987",
+      "venue": "Logic and Data Bases",
+      "link": "https://doi.org/10.1007/978-1-4684-3384-5_11"
+    },
+    "BIBREF6": {
+      "title": "The Second Answer Set Programming Competition",
+      "authors": [
+        "M. Denecker",
+        "Joost Vennekens",
+        "Stephen Bond",
+        "M. Gebser",
+        "M. Truszczynski"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Logic Programming",
+      "link": "https://doi.org/10.1609/aimag.v33i4.2448"
+    },
+    "BIBREF7": {
+      "title": "The well-founded semantics for general logic programs",
+      "authors": [
+        "A. V. Gelder",
+        "K. A. Ross",
+        "J. Schlipf"
+      ],
+      "year": "1991",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/116825.116838"
+    },
+    "BIBREF8": {
+      "title": "The DLV system for knowledge representation and reasoning",
+      "authors": [
+        "N. Leone",
+        "G. Pfeifer",
+        "Wolfgang Faber",
+        "Thomas Eiter",
+        "G. Gottlob",
+        "S. Perri",
+        "Francesco Scarcello"
+      ],
+      "year": "2006",
+      "venue": "ACM Transactions on Computational Logic",
+      "link": "https://arxiv.org/abs/cs/0211004"
+    },
+    "BIBREF9": {
+      "title": "ASSAT: computing answer sets of a logic program by SAT solvers",
+      "authors": [
+        "Fangzhen Lin",
+        "Yuting Zhao"
+      ],
+      "year": "2004",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/j.artint.2004.04.004"
+    },
+    "BIBREF10": {
+      "title": "Computing Loops with at Most One External Support Rule",
+      "authors": [
+        "Xiaoping Chen",
+        "Jianmin Ji",
+        "Fangzhen Lin"
+      ],
+      "year": "2013",
+      "venue": "ACM Transactions on Computational Logic",
+      "link": "https://doi.org/10.1145/2422085.2422088"
+    },
+    "BIBREF11": {
+      "title": "Extending and implementing the stable model semantics",
+      "authors": [
+        "Patrik Simons",
+        "Ilkka Niemelá",
+        "Timo Soininen"
+      ],
+      "year": "2002",
+      "venue": "Artificial Intelligence",
+      "link": "https://arxiv.org/abs/cs/0005010"
+    },
+    "BIBREF12": {
+      "title": "Monotone Circuits for Connectivity Require Super-Logarithmic Depth",
+      "authors": [
+        "Mauricio Karchmer",
+        "Avi Wigderson"
+      ],
+      "year": "1990",
+      "venue": "SIAM Journal on Discrete Mathematics",
+      "link": "https://doi.org/10.1145/62212.62265"
+    },
+    "BIBREF13": {
+      "title": "Why are there so many loop formulas",
+      "authors": [
+        "Vladimir Lifschitz",
+        "Alexander Razborov"
+      ],
+      "year": "2006",
+      "venue": "ACM Transactions on Computational Logic",
+      "link": "https://doi.org/10.1145/1131313.1131316"
+    },
+    "BIBREF14": {
+      "title": "Answer Set Programming Based on Propositional Satisfiability",
+      "authors": [
+        "Enrico Giunchiglia",
+        "Yuliya Lierler",
+        "Marco Maratea"
+      ],
+      "year": "2006",
+      "venue": "Journal of Automated Reasoning",
+      "link": "https://doi.org/10.1007/s10817-006-9033-2"
+    },
+    "BIBREF15": {
+      "title": "A Theorem on Boolean Matrices",
+      "authors": [
+        "Stephen Warshall"
+      ],
+      "year": "1962",
+      "venue": "Journal of the ACM",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Logic programs with stable model semantics as a constraint programming paradigm",
+      "authors": [
+        "I. Niemelä"
+      ],
+      "year": "1999",
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": "https://doi.org/10.1023/a:1018930122475"
+    },
+    "BIBREF17": {
+      "title": "Circuit Complexity and Decompositions of Global Constraints",
+      "authors": [
+        "Christian Bessiere",
+        "George Katsirelos",
+        "Nina Narodytska",
+        "Toby Walsh"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    }
+  }
+}

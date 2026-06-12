@@ -1,0 +1,243 @@
+{
+  "paper_id": "1602.02332v1",
+  "title": "Scalable Text Mining with Sparse Generative Models",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Is getting the right answer just about choosing the right words? The role of syntactically-informed features in short answer scoring.",
+      "authors": [
+        "Derrick Higgins",
+        "Chris Brew",
+        "Michael Heilman",
+        "Ramon Ziai",
+        "Lei Chen",
+        "Aoife Cahill",
+        "Michael Flor",
+        "Nitin Madnani",
+        "Joel R. Tetreault",
+        "Daniel Blanchard",
+        "Diane Napolitano",
+        "Chong Min Lee",
+        "John Blackmore"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "OpenGM: A C++ Library for Discrete Graphical Models",
+      "authors": [
+        "Bjoern Andres",
+        "Thorsten Beier",
+        "Joerg H. Kappes"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Fitting a mixture model by expectation maximization to discover motifs in biopolymers.",
+      "authors": [
+        "Timothy L. Bailey",
+        "Charles Elkan"
+      ],
+      "year": "1994",
+      "venue": "Intelligent Systems in Molecular Biology",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Multitask learning: a knowledge-based source of inductive bias",
+      "authors": [
+        "R. Caruana"
+      ],
+      "year": "1993",
+      "venue": "International Conference on Machine Learning",
+      "link": "https://doi.org/10.1016/b978-1-55860-307-3.50012-5"
+    },
+    "BIBREF4": {
+      "title": "ECUE: A Spam Filter that Uses Machine Learning to Track Concept Drift",
+      "authors": [
+        "Sarah Jane Delany",
+        "Pádraig Cunningham",
+        "Barry Smyth"
+      ],
+      "year": "2006",
+      "venue": "European Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "A comparison of statistical significance tests for information retrieval evaluation",
+      "authors": [
+        "Mark D. Smucker",
+        "James Allan",
+        "Ben Carterette"
+      ],
+      "year": "2007",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Error bounds for convolutional codes and an asymptotically optimum decoding algorithm",
+      "authors": [
+        "A. Viterbi"
+      ],
+      "year": "1967",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.1967.1054010"
+    },
+    "BIBREF9": {
+      "title": "A training algorithm for optimal margin classifiers",
+      "authors": [
+        "Bernhard E. Boser",
+        "Isabelle M. Guyon",
+        "Vladimir N. Vapnik"
+      ],
+      "year": "1992",
+      "venue": "Conference on Learning Theory",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Learning Word Vectors for Sentiment Analysis",
+      "authors": [
+        "Andrew L. Maas",
+        "Raymond E. Daly",
+        "Peter T. Pham",
+        "Dan Huang",
+        "Andrew Y. Ng",
+        "Christopher Potts"
+      ],
+      "year": "2011",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Power law discounting for n-gram language models",
+      "authors": [
+        "Songfang Huang",
+        "Steve Renals"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2010.5495007"
+    },
+    "BIBREF12": {
+      "title": "Three models for the description of language",
+      "authors": [
+        "N. Chomsky"
+      ],
+      "year": "1956",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1007/978-3-642-13089-2_2"
+    },
+    "BIBREF13": {
+      "title": "Causality with Gates",
+      "authors": [
+        "John M. Winn"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "A formal study of information retrieval heuristics",
+      "authors": [
+        "Hui Fang",
+        "Tao Tao",
+        "ChengXiang Zhai"
+      ],
+      "year": "2004",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Modeling word burstiness using the Dirichlet distribution",
+      "authors": [
+        "Rasmus E. Madsen",
+        "David Kauchak",
+        "Charles Elkan"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Machine Learning",
+      "link": "https://doi.org/10.1145/1102351.1102420"
+    },
+    "BIBREF16": {
+      "title": "Scalability and cost of a cloud-based approach to medical NLP",
+      "authors": [
+        "K. Chard",
+        "Michael Russell",
+        "Y. Lussier",
+        "Eneida A. Mendonça",
+        "J. Silverstein"
+      ],
+      "year": "2011",
+      "venue": "Computer-Based Medical Systems",
+      "link": "https://doi.org/10.1109/cbms.2011.5999166"
+    },
+    "BIBREF17": {
+      "title": "Ranking very many typed entities on wikipedia",
+      "authors": [
+        "H. Zaragoza",
+        "H. Rode",
+        "P. Mika",
+        "Jordi Atserias Batalla",
+        "Massimiliano Ciaramita",
+        "Giuseppe Attardi"
+      ],
+      "year": "2007",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/1321440.1321599"
+    },
+    "BIBREF19": {
+      "title": "Deriving the Pricing Power of Product Features by Mining Consumer Reviews",
+      "authors": [
+        "N. Archak",
+        "A. Ghose",
+        "Panagiotis G. Ipeirotis"
+      ],
+      "year": "2011",
+      "venue": "Management Science",
+      "link": "https://doi.org/10.1287/mnsc.1110.1370"
+    },
+    "BIBREF20": {
+      "title": "The estimation of the gradient of a density function, with applications in pattern recognition",
+      "authors": [
+        "K. Fukunaga",
+        "L. Hostetler"
+      ],
+      "year": "1975",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.1975.1055330"
+    },
+    "BIBREF21": {
+      "title": "A survey of current work in biomedical text mining",
+      "authors": [
+        "A. Cohen",
+        "W. Hersh"
+      ],
+      "year": "2005",
+      "venue": "Briefings in Bioinformatics",
+      "link": null
+    },
+    "BIBREF22": {
+      "title": "Learning by transduction",
+      "authors": [
+        "A. Gammerman",
+        "V. Vovk",
+        "V. Vapnik"
+      ],
+      "year": "1998",
+      "venue": "Uncertainty in Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "Named Entity Filtering Based on Concept Association Graphs",
+      "authors": [
+        "Oskar Gross",
+        "Antoine Doucet",
+        "Hannu Toivonen"
+      ],
+      "year": "2013",
+      "venue": "Conference on Intelligent Text Processing and Computational Linguistics",
+      "link": null
+    }
+  }
+}

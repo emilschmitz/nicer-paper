@@ -1,0 +1,36 @@
+{
+  "paper_id": "1810.10828v2",
+  "title": "Compressed Sensing Plus Motion (CS+M): A New Perspective for Improving Undersampled MR Image Reconstruction.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Under-sampled functional MRI using low-rank plus sparse matrix decomposition",
+      "authors": [
+        "V. Singh",
+        "A. Tewfik",
+        "D. Ress"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2015.7178099"
+    },
+    "BIBREF2": {
+      "title": "About Direct Methods",
+      "authors": [
+        "M. Irani",
+        "P. Anandan"
+      ],
+      "year": "1999",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/3-540-44480-7_18"
+    },
+    "BIBREF10": {
+      "title": "Compressed sensing",
+      "authors": [
+        "D.L. Donoho"
+      ],
+      "year": "2004",
+      "venue": "",
+      "link": "https://doi.org/10.1109/icassp.2008.4517908"
+    }
+  }
+}

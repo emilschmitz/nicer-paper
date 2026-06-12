@@ -1,0 +1,131 @@
+{
+  "paper_id": "1005.0239v1",
+  "title": "On Finding Frequent Patterns in Directed Acyclic Graphs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Sampling Large Databases for Association Rules",
+      "authors": [
+        "Hannu Toivonen"
+      ],
+      "year": "1996",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Mining Sequential Patterns: Generalizations and Performance Improvements",
+      "authors": [
+        "R. Srikant",
+        "R. Agrawal"
+      ],
+      "year": "1996",
+      "venue": "Extending Database Technology",
+      "link": "https://doi.org/10.1007/bfb0014140"
+    },
+    "BIBREF2": {
+      "title": "Finding paths of length k in O∗(2k) time",
+      "authors": [
+        "Ryan Williams"
+      ],
+      "year": "2009",
+      "venue": "Information Processing Letters",
+      "link": "https://arxiv.org/abs/0807.3026"
+    },
+    "BIBREF4": {
+      "title": "Finding frequent items in data streams",
+      "authors": [
+        "Graham Cormode",
+        "Marios Hadjieleftheriou"
+      ],
+      "year": "2008",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1016/s0304-3975(03)00400-6"
+    },
+    "BIBREF6": {
+      "title": "Constraint-based sequential pattern mining: the consideration of recency and compactness",
+      "authors": [
+        "Yen-Liang Chen",
+        "Ya-Han Hu"
+      ],
+      "year": "2006",
+      "venue": "Decision Support Systems",
+      "link": "https://doi.org/10.1016/j.dss.2005.10.006"
+    },
+    "BIBREF7": {
+      "title": "Mining sequences with temporal annotations",
+      "authors": [
+        "Fosca Giannotti",
+        "Mirco Nanni",
+        "Dino Pedreschi",
+        "Fabio Pinelli"
+      ],
+      "year": "2006",
+      "venue": "ACM Symposium on Applied Computing",
+      "link": "https://doi.org/10.1145/1141277.1141413"
+    },
+    "BIBREF8": {
+      "title": "Subgraph Support in a Single Large Graph",
+      "authors": [
+        "Mathias Fiedler",
+        "Christian Borgelt"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Data Mining",
+      "link": "https://doi.org/10.1109/icdmw.2007.105"
+    },
+    "BIBREF9": {
+      "title": "CloseGraph: mining closed frequent graph patterns",
+      "authors": [
+        "Xifeng Yan",
+        "Jiawei Han"
+      ],
+      "year": "2003",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/956750.956784"
+    },
+    "BIBREF10": {
+      "title": "A simple algorithm for finding frequent elements in streams and bags",
+      "authors": [
+        "Richard M. Karp",
+        "Scott Shenker",
+        "Christos H. Papadimitriou"
+      ],
+      "year": "2003",
+      "venue": "ACM Transactions on Database Systems",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Discovering Sequential Association Rules with Constraints and Time Lags in Multiple Sequences",
+      "authors": [
+        "Sherri K. Harms",
+        "J. Deogun",
+        "T. Tadesse"
+      ],
+      "year": "2002",
+      "venue": "International Syposium on Methodologies for Intelligent Systems",
+      "link": "https://doi.org/10.1007/3-540-48050-1_47"
+    },
+    "BIBREF13": {
+      "title": "SPIN: mining maximal frequent subgraphs from graph databases",
+      "authors": [
+        "Jun Huan",
+        "Wei Wang",
+        "J. Prins",
+        "Jiong Yang"
+      ],
+      "year": "2004",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1014052.1014123"
+    },
+    "BIBREF14": {
+      "title": "Color-coding",
+      "authors": [
+        "Noga Alon",
+        "R. Yuster",
+        "Uri Zwick"
+      ],
+      "year": "1995",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/210332.210337"
+    }
+  }
+}

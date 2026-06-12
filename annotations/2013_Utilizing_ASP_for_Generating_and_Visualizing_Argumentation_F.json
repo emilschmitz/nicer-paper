@@ -1,0 +1,266 @@
+{
+  "paper_id": "1301.1388v1",
+  "title": "Utilizing ASP for Generating and Visualizing Argumentation Frameworks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Potassco: The Potsdam Answer Set Solving Collection",
+      "authors": [
+        "M. Gebser",
+        "B. Kaufmann",
+        "Roland Kaminski",
+        "Max Ostrowski",
+        "Torsten Schaub",
+        "M. Lindauer"
+      ],
+      "year": "2011",
+      "venue": "Ai Communications",
+      "link": "https://doi.org/10.3233/aic-2011-0491"
+    },
+    "BIBREF1": {
+      "title": "ASPIDE: integrated development environment for answer set programming",
+      "authors": [
+        "Onofrio Febbraro",
+        "Kristian Reale",
+        "F. Ricca"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Logic Programming",
+      "link": "https://doi.org/10.1007/978-3-642-20895-9_37"
+    },
+    "BIBREF2": {
+      "title": "Cohere: Towards Web 2.0 Argumentation",
+      "authors": [
+        "Simon Buckingham Shum"
+      ],
+      "year": "2008",
+      "venue": "Computational Models of Argument",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Answer Set Programming: A Primer",
+      "authors": [
+        "Thomas Eiter",
+        "Giovambattista Ianni",
+        "T. Krennwallner"
+      ],
+      "year": "2009",
+      "venue": "Reasoning Web. Semantic Technologies for Information Systems",
+      "link": "https://doi.org/10.1007/978-3-642-03754-2_2"
+    },
+    "BIBREF4": {
+      "title": "Stable Models and an Alternative Logic Programming Paradigm",
+      "authors": [
+        "V. Marek",
+        "M. Truszczynski"
+      ],
+      "year": "1999",
+      "venue": "The Logic Programming Paradigm",
+      "link": "https://arxiv.org/abs/cs/9809032"
+    },
+    "BIBREF5": {
+      "title": "A logic-based theory of deductive arguments",
+      "authors": [
+        "P. Besnard",
+        "A. Hunter"
+      ],
+      "year": "2001",
+      "venue": "Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "ASPVIZ: Declarative Visualisation and Animation Using Answer Set Programming",
+      "authors": [
+        "Owen Cliffe",
+        "Marina De Vos",
+        "M. Brain",
+        "J. Padget"
+      ],
+      "year": "2008",
+      "venue": "International Conference on Logic Programming",
+      "link": "https://doi.org/10.1007/978-3-540-89982-2_65"
+    },
+    "BIBREF7": {
+      "title": "The DLV system for knowledge representation and reasoning",
+      "authors": [
+        "N. Leone",
+        "G. Pfeifer",
+        "Wolfgang Faber",
+        "Thomas Eiter",
+        "G. Gottlob",
+        "S. Perri",
+        "Francesco Scarcello"
+      ],
+      "year": "2006",
+      "venue": "ACM Transactions on Computational Logic",
+      "link": "https://arxiv.org/abs/cs/0211004"
+    },
+    "BIBREF8": {
+      "title": "Properties and Complexity of Some Formal Inter-agent Dialogues",
+      "authors": [
+        "S. Parsons",
+        "M. Wooldridge",
+        "Leila Amgoud"
+      ],
+      "year": "2003",
+      "venue": "Journal of Logic and Computation",
+      "link": "https://doi.org/10.1093/logcom/13.3.347"
+    },
+    "BIBREF9": {
+      "title": "Identifying the Core of Logic-Based Argumentation Systems",
+      "authors": [
+        "Leila Amgoud",
+        "P. Besnard",
+        "Srdjan Vesic"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Tools with Artificial Intelligence",
+      "link": "https://doi.org/10.1109/ictai.2011.100"
+    },
+    "BIBREF10": {
+      "title": "Complexity-sensitive decision procedures for abstract argumentation",
+      "authors": [
+        "Wolfgang Dvořák",
+        "Matti Järvisalo",
+        "Johannes Peter Wallner",
+        "Stefan Woltran"
+      ],
+      "year": "2014",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/j.artint.2013.10.001"
+    },
+    "BIBREF11": {
+      "title": "On the evaluation of argumentation formalisms",
+      "authors": [
+        "Martin Caminada",
+        "Leila Amgoud"
+      ],
+      "year": "2007",
+      "venue": "Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Answer-set programming encodings for argumentation frameworks",
+      "authors": [
+        "Uwe Egly",
+        "Sarah Alice Gaggl",
+        "Stefan Woltran"
+      ],
+      "year": "2010",
+      "venue": "Argument & Computation",
+      "link": "https://doi.org/10.1080/19462166.2010.486479"
+    },
+    "BIBREF13": {
+      "title": "Araucaria: software for argument analysis, diagramming and representation",
+      "authors": [
+        "Chris Reed",
+        "Glenn Rowe"
+      ],
+      "year": "2004",
+      "venue": "International Journal on Artificial Intelligence Tools",
+      "link": "https://doi.org/10.1142/s0218213004001922"
+    },
+    "BIBREF14": {
+      "title": "On the Computational Cost of Disjunctive Logic Programming: Propositional Case",
+      "authors": [
+        "Thomas Eiter",
+        "Georg Gottlob"
+      ],
+      "year": "1995",
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Answer set programming at a glance",
+      "authors": [
+        "Gerhard Brewka",
+        "Thomas Eiter",
+        "Mirosław Truszczyński"
+      ],
+      "year": "2011",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/2043174.2043195"
+    },
+    "BIBREF16": {
+      "title": "Learning by diagramming Supreme Court oral arguments",
+      "authors": [
+        "Kevin Ashley",
+        "Niels Pinkwart",
+        "Collin Lynch",
+        "Vincent Aleven"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Artificial Intelligence and Law",
+      "link": "https://doi.org/10.1145/1276318.1276370"
+    },
+    "BIBREF17": {
+      "title": "On the acceptability of arguments and its fundamental role in nonmonotonic reasoning, logic programming and n -person games",
+      "authors": [
+        "Phan Minh Dung"
+      ],
+      "year": "1995",
+      "venue": "Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Instantiating abstract argumentation with classical logic arguments: Postulates and properties",
+      "authors": [
+        "Nikos Gorogiannis",
+        "Anthony Hunter"
+      ],
+      "year": "2011",
+      "venue": "Artificial Intelligence",
+      "link": "https://doi.org/10.1016/j.artint.2010.12.003"
+    },
+    "BIBREF19": {
+      "title": "Kara: A System for Visualising and Visual Editing of Interpretations for Answer-Set Programs",
+      "authors": [
+        "Christian Kloimüllner",
+        "J. Oetsch",
+        "Jörg Pührer",
+        "H. Tompits"
+      ],
+      "year": "2011",
+      "venue": "INAP/WLP",
+      "link": "https://arxiv.org/abs/1109.4095"
+    },
+    "BIBREF20": {
+      "title": "Computer supported argumentation and collaborative decision making: the HERMES system",
+      "authors": [
+        "N. Karacapilidis",
+        "Dimitris Papadias"
+      ],
+      "year": "2001",
+      "venue": "Information Systems",
+      "link": "https://doi.org/10.1016/s0306-4379(01)00020-5"
+    },
+    "BIBREF21": {
+      "title": "Logic programs with stable model semantics as a constraint programming paradigm",
+      "authors": [
+        "I. Niemelä"
+      ],
+      "year": "1999",
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": "https://doi.org/10.1023/a:1018930122475"
+    },
+    "BIBREF22": {
+      "title": "Semantics of Abstract Argument Systems",
+      "authors": [
+        "P. Baroni",
+        "M. Giacomin"
+      ],
+      "year": "2009",
+      "venue": "Argumentation in Artificial Intelligence",
+      "link": "https://doi.org/10.1007/978-0-387-98197-0_2"
+    },
+    "BIBREF23": {
+      "title": "TOAST: Online ASPIC + implementation.",
+      "authors": [
+        "Mark Snaith",
+        "C. Reed"
+      ],
+      "year": "2012",
+      "venue": "Computational Models of Argument",
+      "link": "https://doi.org/10.3233/978-1-61499-111-3-509"
+    }
+  }
+}

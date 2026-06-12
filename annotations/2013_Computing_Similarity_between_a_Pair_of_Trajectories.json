@@ -1,0 +1,167 @@
+{
+  "paper_id": "1303.1585v1",
+  "title": "Computing Similarity between a Pair of Trajectories",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Finding REMO — Detecting Relative Motion Patterns in Geospatial Lifelines",
+      "authors": [
+        "P. Laube",
+        "M. V. Kreveld",
+        "S. Imfeld"
+      ],
+      "year": "2005",
+      "venue": "SDH",
+      "link": "https://doi.org/10.1007/3-540-26772-7_16"
+    },
+    "BIBREF1": {
+      "title": "A clustering method for spatio-temporal data and its application to soccer game records",
+      "authors": [
+        "S. Hirano",
+        "S. Tsumoto"
+      ],
+      "year": "2005",
+      "venue": "Granular Computing",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Fundamentals of speech recognition",
+      "authors": [
+        "Lawrence Rabiner",
+        "Biing-Hwang Juang"
+      ],
+      "year": "1993",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "On the marriage of Lp-norms and edit distance",
+      "authors": [
+        "Lei Chen",
+        "R. Ng"
+      ],
+      "year": "2004",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "GeoLife: A Collaborative Social Networking Service among User, location and trajectory",
+      "authors": [
+        "Yu Zheng",
+        "Xing Xie",
+        "Wei-Ying Ma"
+      ],
+      "year": "2010",
+      "venue": "IEEE Data(base) Engineering Bulletin",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Trajectory clustering: a partition-and-group framework",
+      "authors": [
+        "Jae-Gil Lee",
+        "Jiawei Han",
+        "K. Whang"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1247480.1247546"
+    },
+    "BIBREF6": {
+      "title": "Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids",
+      "authors": [
+        "Richard Durbin"
+      ],
+      "year": "1998",
+      "venue": "",
+      "link": "https://doi.org/10.1017/cbo9780511790492"
+    },
+    "BIBREF7": {
+      "title": "Finding long and similar parts of trajectories",
+      "authors": [
+        "Kevin Buchin",
+        "Maike Buchin",
+        "Marc van Kreveld",
+        "Jun Luo"
+      ],
+      "year": "2011",
+      "venue": "Computational Geometry: Theory and Applications",
+      "link": "https://doi.org/10.1016/j.comgeo.2011.05.004"
+    },
+    "BIBREF8": {
+      "title": "Querying and mining of time series data: experimental comparison of representations and distance measures",
+      "authors": [
+        "Hui Ding",
+        "Goce Trajcevski",
+        "Peter Scheuermann",
+        "Xiaoyue Wang",
+        "Eamonn Keogh"
+      ],
+      "year": "2008",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.14778/1454159.1454226"
+    },
+    "BIBREF9": {
+      "title": "Efficient Detection of Patterns in 2D Trajectories of Moving Points",
+      "authors": [
+        "Joachim Gudmundsson",
+        "Marc Kreveld",
+        "Bettina Speckmann"
+      ],
+      "year": "2007",
+      "venue": "Geoinformatica",
+      "link": "https://doi.org/10.1007/s10707-006-0002-z"
+    },
+    "BIBREF10": {
+      "title": "Trajectory-Based Anomalous Event Detection",
+      "authors": [
+        "C. Piciarelli",
+        "C. Micheloni",
+        "G.L. Foresti"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "link": "https://doi.org/10.1109/tcsvt.2008.2005599"
+    },
+    "BIBREF11": {
+      "title": "Incremental Clustering of Mobile Objects",
+      "authors": [
+        "S. Elnekave",
+        "O. Maimon"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icdew.2007.4401044"
+    },
+    "BIBREF12": {
+      "title": "Mining interesting locations and travel sequences from GPS trajectories",
+      "authors": [
+        "Yu Zheng",
+        "Lizhu Zhang",
+        "Xing Xie",
+        "Wei-Ying Ma"
+      ],
+      "year": "2009",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1526709.1526816"
+    },
+    "BIBREF13": {
+      "title": "The Earth Mover''s Distance as a Metric for Image Retrieval",
+      "authors": [
+        "Y. Rubner",
+        "Carlo Tomasi",
+        "Leonidas J. Guibas"
+      ],
+      "year": "2000",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://doi.org/10.1023/a:1026543900054"
+    },
+    "BIBREF14": {
+      "title": "A linear space algorithm for computing maximal common subsequences",
+      "authors": [
+        "D. Hirschberg"
+      ],
+      "year": "1975",
+      "venue": "Communications of The ACM",
+      "link": null
+    }
+  }
+}

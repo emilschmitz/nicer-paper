@@ -1,0 +1,107 @@
+{
+  "paper_id": "1002.1178v1",
+  "title": "Adaptation of TURN protocol to SIP protocol",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Media Gateway Control Protocol (MGCP) Version 1.0",
+      "authors": [
+        "M. Arango",
+        "A. Dugan",
+        "I. Elliott",
+        "C. Huitema",
+        "S. Pickett"
+      ],
+      "year": "1999",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "An Extension to the Session Initiation Protocol (SIP) for Symmetric Response Routing",
+      "authors": [
+        "J. Rosenberg",
+        "H. Schulzrinne"
+      ],
+      "year": "2003",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "User Datagram Protocol",
+      "authors": [
+        "J. Postel"
+      ],
+      "year": "1980",
+      "venue": "RFC768",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "The IP Network Address Translator (NAT)",
+      "authors": [
+        "K. Egevang",
+        "P. Francis"
+      ],
+      "year": "1994",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "SDP: Session Description Protocol",
+      "authors": [
+        "M. Handley",
+        "V. Jacobson"
+      ],
+      "year": "1998",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "SIP: Session Initiation Protocol",
+      "authors": [
+        "J. Rosenberg",
+        "H. Schulzrinne",
+        "G. Camarillo",
+        "A. Johnston",
+        "J. Peterson",
+        "R. Sparks",
+        "M. Handley",
+        "E. Schooler"
+      ],
+      "year": "2002",
+      "venue": "RFC3261",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "RTP: A Transport Protocol for Real-Time Applications",
+      "authors": [
+        "H. Schulzrinne",
+        "S. Casner",
+        "R. Frederick",
+        "V. Jacobson"
+      ],
+      "year": "2003",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "STUN - Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs)",
+      "authors": [
+        "J. Rosenberg",
+        "J. Weinberger",
+        "C. Huitema",
+        "R. Mahy"
+      ],
+      "year": "2003",
+      "venue": "RFC 3489",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Internet Protocol",
+      "authors": [
+        "J. Postel"
+      ],
+      "year": "1981",
+      "venue": "",
+      "link": null
+    }
+  }
+}

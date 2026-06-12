@@ -1,0 +1,134 @@
+{
+  "paper_id": "1112.5381v1",
+  "title": "Improving the Efficiency of Approximate Inference for Probabilistic Logical Models by means of Program Specialization",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Structure Learning of Probabilistic Relational Models from Incomplete Relational Data",
+      "authors": [
+        "Xiao-Lin Li",
+        "Zhi-Hua Zhou"
+      ],
+      "year": "2007",
+      "venue": "European conference on Machine Learning",
+      "link": "https://doi.org/10.1007/978-3-540-74958-5_22"
+    },
+    "BIBREF1": {
+      "title": "First-order probabilistic inference",
+      "authors": [
+        "David Poole"
+      ],
+      "year": "2003",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Sound and efficient inference with probabilistic and deterministic dependencies",
+      "authors": [
+        "Hoifung Poon",
+        "Pedro Domingos"
+      ],
+      "year": "2006",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Improving the Efficiency of Gibbs Sampling for Probabilistic Logical Models by Means of Program Specialization",
+      "authors": [
+        "Daan Fierens"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Logic Programming",
+      "link": "https://doi.org/10.4230/lipics.iclp.2010.74"
+    },
+    "BIBREF4": {
+      "title": "On the implementation of the CLP( BN ) language",
+      "authors": [
+        "V. S. Costa"
+      ],
+      "year": "2010",
+      "venue": "Practical Aspects of Declarative Languages",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Specialising Interpreters Using Offline Partial Deduction",
+      "authors": [
+        "M. Leuschel",
+        "Stephen-John Craig",
+        "M. Bruynooghe",
+        "Wim Vanhoof"
+      ],
+      "year": "2004",
+      "venue": "Lecture Notes in Computer Science",
+      "link": "https://doi.org/10.1007/978-3-540-25951-0_11"
+    },
+    "BIBREF6": {
+      "title": "Transformation of logic programs: Foundations and techniques",
+      "authors": [
+        "A. Pettorossi",
+        "M. Proietti"
+      ],
+      "year": "1994",
+      "venue": "Journal of Logic Programming",
+      "link": "https://doi.org/10.1016/0743-1066(94)90028-0"
+    },
+    "BIBREF7": {
+      "title": "Learning directed probabilistic logical models: ordering-search versus structure-search",
+      "authors": [
+        "Daan Fierens",
+        "Jan Ramon",
+        "Maurice Bruynooghe",
+        "Hendrik Blockeel"
+      ],
+      "year": "2008",
+      "venue": "Annals of Mathematics and Artificial Intelligence",
+      "link": "https://doi.org/10.1007/978-3-540-78469-2_4"
+    },
+    "BIBREF8": {
+      "title": "Query transformations for improving the efficiency of ilp systems",
+      "authors": [
+        "Vítor Santos Costa",
+        "Ashwin Srinivasan",
+        "Rui Camacho",
+        "Hendrik Blockeel",
+        "Bart Demoen",
+        "Gerda Janssens",
+        "Jan Struyf",
+        "Henk Vandecasteele",
+        "Wim Van Laer"
+      ],
+      "year": "2003",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Probabilistic inductive logic programming",
+      "authors": [
+        "Luc De Raedt",
+        "Kristian Kersting"
+      ],
+      "year": "2008",
+      "venue": "Inductive Logic Programming",
+      "link": "https://doi.org/10.1007/978-3-540-78652-8_1"
+    },
+    "BIBREF10": {
+      "title": "Logic program specialisation through partial deduction: Control issues",
+      "authors": [
+        "Michael Leuschel",
+        "Maurice Bruynooghe"
+      ],
+      "year": "2002",
+      "venue": "Theory and Practice of Logic Programming",
+      "link": "https://doi.org/10.1017/s147106840200145x"
+    },
+    "BIBREF11": {
+      "title": "Cutset sampling for Bayesian networks",
+      "authors": [
+        "Bozhena Bidyuk",
+        "R. Dechter"
+      ],
+      "year": "2007",
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://arxiv.org/abs/1110.2740"
+    }
+  }
+}

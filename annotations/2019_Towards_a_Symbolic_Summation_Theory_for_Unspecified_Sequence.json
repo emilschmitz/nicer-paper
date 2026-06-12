@@ -1,0 +1,144 @@
+{
+  "paper_id": "1809.06578v1",
+  "title": "Towards a Symbolic Summation Theory for Unspecified Sequences",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Multibasic and Mixed Hypergeometric Gosper-Type Algorithms",
+      "authors": [
+        "Andrej Bauer",
+        "M. Petkovšek"
+      ],
+      "year": "1999",
+      "venue": "Journal of Symbolic Computation",
+      "link": "https://doi.org/10.1006/jsco.1999.0321"
+    },
+    "BIBREF1": {
+      "title": "A Mathematica version of Zeilberger's algorithm for proving binomial coefficient identities",
+      "authors": [
+        "Peter Paule",
+        "Markus Schorn"
+      ],
+      "year": "1995",
+      "venue": "Journal of Symbolic Computation",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Application of unspecified sequences in symbolic summation",
+      "authors": [
+        "Manuel Kauers",
+        "Carsten Schneider"
+      ],
+      "year": "2006",
+      "venue": "International Symposium on Symbolic and Algebraic Computation",
+      "link": "https://doi.org/10.1145/1145768.1145800"
+    },
+    "BIBREF3": {
+      "title": "A Streamlined Difference Ring Theory: Indefinite Nested Sums, the Alternating Sign, and the Parameterized Telescoping Problem",
+      "authors": [
+        "Carsten Schneider"
+      ],
+      "year": "2014",
+      "venue": "Symbolic and Numeric Algorithms for Scientific Computing",
+      "link": "https://arxiv.org/abs/1412.2782"
+    },
+    "BIBREF4": {
+      "title": "Theory of Summation in Finite Terms",
+      "authors": [
+        "Michael Karr"
+      ],
+      "year": "1985",
+      "venue": "Journal of Symbolic Computation",
+      "link": "https://doi.org/10.1007/3-540-15984-3_340"
+    },
+    "BIBREF5": {
+      "title": "A refined difference field theory for symbolic summation",
+      "authors": [
+        "Carsten Schneider"
+      ],
+      "year": "2008",
+      "venue": "Journal of Symbolic Computation",
+      "link": "https://arxiv.org/abs/0808.2543"
+    },
+    "BIBREF6": {
+      "title": "Indefinite summation with unspecified summands",
+      "authors": [
+        "Manuel Kauers",
+        "Carsten Schneider"
+      ],
+      "year": "2006",
+      "venue": "Discrete Mathematics",
+      "link": "https://doi.org/10.1016/j.disc.2006.04.005"
+    },
+    "BIBREF7": {
+      "title": "A fast algorithm for proving terminating hypergeometric identities",
+      "authors": [
+        "Doron Zeilberger"
+      ],
+      "year": "1990",
+      "venue": "Discrete Mathematics",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "A difference ring theory for symbolic summation",
+      "authors": [
+        "Carsten Schneider"
+      ],
+      "year": "2016",
+      "venue": "Journal of Symbolic Computation",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Structural theorems for symbolic summation",
+      "authors": [
+        "Carsten Schneider"
+      ],
+      "year": "2010",
+      "venue": "Applicable Algebra in Engineering, Communication and Computing",
+      "link": "https://doi.org/10.1007/s00200-009-0115-3"
+    },
+    "BIBREF10": {
+      "title": "Fast Algorithms for Refined Parameterized Telescoping in Difference Fields",
+      "authors": [
+        "Carsten Schneider"
+      ],
+      "year": "2015",
+      "venue": "Computer Algebra and Polynomials",
+      "link": "https://arxiv.org/abs/1307.7887"
+    },
+    "BIBREF11": {
+      "title": "Summation Theory II: Characterizations of RΠΣ⁎-extensions and algorithmic aspects☆",
+      "authors": [
+        "Carsten Schneider"
+      ],
+      "year": "2017",
+      "venue": "Journal of Symbolic Computation",
+      "link": "https://arxiv.org/abs/1603.04285"
+    },
+    "BIBREF12": {
+      "title": "Representing ($$varvec{}$$–)Hypergeometric Products and Mixed Versions in Difference Rings",
+      "authors": [
+        "E. Ocansey",
+        "Carsten Schneider"
+      ],
+      "year": "2016",
+      "venue": "Waterloo Workshop on Computer Algebra",
+      "link": "https://arxiv.org/abs/1705.01368"
+    },
+    "BIBREF13": {
+      "title": "Iterated Elliptic and Hypergeometric Integrals for Feynman Diagrams",
+      "authors": [
+        "J. Ablinger",
+        "J. Blümlein",
+        "A. Freitas",
+        "M. V. Hoeij",
+        "E. Imamoglu",
+        "C. Raab",
+        "Cristian-Silviu Radu",
+        "Carsten Schneider"
+      ],
+      "year": "2018",
+      "venue": "Journal of Mathematical Physics",
+      "link": "https://arxiv.org/abs/1706.01299"
+    }
+  }
+}

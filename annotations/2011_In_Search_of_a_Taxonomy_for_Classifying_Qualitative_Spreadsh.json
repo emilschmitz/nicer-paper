@@ -1,0 +1,75 @@
+{
+  "paper_id": "1111.6909v1",
+  "title": "In Search of a Taxonomy for Classifying Qualitative Spreadsheet Errors",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An Experiment In Collaborative Spreadsheet Development",
+      "authors": [
+        "R. Panko",
+        "R. Halverson"
+      ],
+      "year": "2001",
+      "venue": "Journal of the Association for Information Systems",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "New Guidelines for Spreadsheets",
+      "authors": [
+        "John F. Raffensperger"
+      ],
+      "year": "2003",
+      "venue": "International journal of business and economics",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Revising the Panko-Halverson taxonomy of spreadsheet errors",
+      "authors": [
+        "R. Panko",
+        "Salvatore Aurigemma"
+      ],
+      "year": "2010",
+      "venue": "Decision Support Systems",
+      "link": "https://doi.org/10.1109/hicss.2009.373"
+    },
+    "BIBREF4": {
+      "title": "Spreadsheets on trial: a survey of research on spreadsheet risks",
+      "authors": [
+        "R.R. Panko",
+        "R.P. Halverson"
+      ],
+      "year": "1996",
+      "venue": "Hawaii International Conference on System Sciences",
+      "link": "https://doi.org/10.1109/hicss.1996.495416"
+    },
+    "BIBREF5": {
+      "title": "Hitting the wall: errors in developing and debugging a \"simple\" spreadsheet model",
+      "authors": [
+        "R.R. Panko"
+      ],
+      "year": "1996",
+      "venue": "Hawaii International Conference on System Sciences",
+      "link": "https://doi.org/10.1109/hicss.1996.495419"
+    },
+    "BIBREF6": {
+      "title": "A critical review of the literature on spreadsheet errors",
+      "authors": [
+        "S. Powell",
+        "K. R. Baker",
+        "Barry Lawson"
+      ],
+      "year": "2008",
+      "venue": "Decision Support Systems",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Does an awareness of differing types of spreadsheet errors aid end-users in identifying spreadsheets errors?",
+      "authors": [
+        "Michael Purser",
+        "David Chadwick"
+      ],
+      "year": "2008",
+      "venue": "arXiv: Human-Computer Interaction",
+      "link": null
+    }
+  }
+}

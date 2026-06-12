@@ -1,0 +1,211 @@
+{
+  "paper_id": "1010.0012v1",
+  "title": "An Embarrassingly Simple Speed-Up of Belief Propagation with Robust Potentials",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Fast memory-efficient generalized belief propagation",
+      "authors": [
+        "M. P. Kumar",
+        "Philip H. S. Torr"
+      ],
+      "year": "2006",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/11744085_35"
+    },
+    "BIBREF1": {
+      "title": "Finding Deformable Shapes Using Loopy Belief Propagation",
+      "authors": [
+        "J. Coughlan",
+        "S. J. Ferreira"
+      ],
+      "year": "2002",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/3-540-47977-5_30"
+    },
+    "BIBREF2": {
+      "title": "Super-human multi-talker speech recognition: A graphical modeling approach",
+      "authors": [
+        "John R. Hershey",
+        "Steven J. Rennie",
+        "Peder A. Olsen",
+        "Trausti T. Kristjansson"
+      ],
+      "year": "2010",
+      "venue": "Computer Speech & Language",
+      "link": "https://doi.org/10.1016/j.csl.2008.11.001"
+    },
+    "BIBREF3": {
+      "title": "Learning Conditional Random Fields for Stereo",
+      "authors": [
+        "D. Scharstein",
+        "C. Pal"
+      ],
+      "year": "2007",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2007.383191"
+    },
+    "BIBREF4": {
+      "title": "Sparse Forward-Backward Using Minimum Divergence Beams for Fast Training Of Conditional Random Fields",
+      "authors": [
+        "C. Pal",
+        "C. Sutton",
+        "A. McCallum"
+      ],
+      "year": "2006",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2006.1661342"
+    },
+    "BIBREF5": {
+      "title": "Approximate Inference and Protein-Folding",
+      "authors": [
+        "Chen Yanover",
+        "Yair Weiss"
+      ],
+      "year": "2002",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms",
+      "authors": [
+        "D. Scharstein",
+        "R. Szeliski",
+        "R. Zabih"
+      ],
+      "year": "2001",
+      "venue": "International Journal of Computer Vision",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "A Comparative Study of Energy Minimization Methods for Markov Random Fields with Smoothness-Based Priors",
+      "authors": [
+        "R. Szeliski",
+        "R. Zabih",
+        "D. Scharstein",
+        "O. Veksler",
+        "V. Kolmogorov",
+        "A. Agarwala",
+        "M. Tappen",
+        "C. Rother"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Efficient belief propagation for higher-order cliques using linear constraint nodes",
+      "authors": [
+        "Brian Potetz",
+        "Tai Sing Lee"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Image Understanding",
+      "link": "https://doi.org/10.1016/j.cviu.2008.05.007"
+    },
+    "BIBREF10": {
+      "title": "Fast Algorithms for Large-State-Space HMMs with Applications to Web Usage Analysis",
+      "authors": [
+        "Pedro F. Felzenszwalb",
+        "Daniel P. Huttenlocher",
+        "Jon M. Kleinberg"
+      ],
+      "year": "2003",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
+      "authors": [
+        "John D. Lafferty",
+        "Andrew McCallum",
+        "Fernando C. N. Pereira"
+      ],
+      "year": "2001",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Learning Low-Level Vision",
+      "authors": [
+        "William T. Freeman",
+        "E. Pasztor",
+        "Owen T. Carmichael"
+      ],
+      "year": "2000",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.1999.790414"
+    },
+    "BIBREF13": {
+      "title": "Stereo matching using belief propagation",
+      "authors": [
+        "Jian Sun",
+        "Harry Shum",
+        "N. Zheng"
+      ],
+      "year": "2003",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2003.1206509"
+    },
+    "BIBREF14": {
+      "title": "Distributed Occlusion Reasoning for Tracking with Nonparametric Belief Propagation",
+      "authors": [
+        "Erik B. Sudderth",
+        "Michael I. Mandel",
+        "William T. Freeman",
+        "Alan S. Willsky"
+      ],
+      "year": "2004",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Very loopy belief propagation for unwrapping phase images",
+      "authors": [
+        "Brendan J. Frey",
+        "Ralf Koetter",
+        "Nemanja Petrovic"
+      ],
+      "year": "2001",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Information Theory, Inference and Learning Algorithms",
+      "authors": [
+        "David J. C. MacKay"
+      ],
+      "year": "2003",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "Efficient Belief Propagation for Early Vision",
+      "authors": [
+        "Pedro F. Felzenszwalb",
+        "D. Huttenlocher"
+      ],
+      "year": "2006",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://doi.org/10.1109/cvpr.2004.1315041"
+    },
+    "BIBREF18": {
+      "title": "Dynamic quantization for belief propagation in sparse spaces",
+      "authors": [
+        "J. Coughlan",
+        "H. Shen"
+      ],
+      "year": "2007",
+      "venue": "Computer Vision and Image Understanding",
+      "link": "https://doi.org/10.1016/j.cviu.2005.09.008"
+    },
+    "BIBREF19": {
+      "title": "Representation and detection of deformable shapes",
+      "authors": [
+        "Pedro F. Felzenszwalb"
+      ],
+      "year": "2005",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/cvpr.2003.1211343"
+    }
+  }
+}

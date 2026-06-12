@@ -1,0 +1,109 @@
+{
+  "paper_id": "1108.3415v1",
+  "title": "Frequency-Hopping Sequence Sets With Low Average and Maximum Hamming Correlation",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A family of difference sets",
+      "authors": [
+        "A. Whiteman"
+      ],
+      "year": "1962",
+      "venue": "Illinois Journal of Mathematics",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Construction of Frequency Hopping Sequence Set Based upon Generalized Cyclotomy",
+      "authors": [
+        "Fang Liu",
+        "Daiyuan Peng",
+        "Zhengchun Zhou",
+        "Xiaohu Tang"
+      ],
+      "year": "2010",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/1009.3602"
+    },
+    "BIBREF2": {
+      "title": "Average hamming correlation for the cubic polynomial hopping sequences",
+      "authors": [
+        "D. Peng",
+        "Xianhua Niu",
+        "Xiaohu Tang",
+        "Q. C. Chen"
+      ],
+      "year": "2010",
+      "venue": "Iet Communications",
+      "link": "https://doi.org/10.1049/iet-com.2009.0783"
+    },
+    "BIBREF3": {
+      "title": "Sets of Optimal Frequency-Hopping Sequences",
+      "authors": [
+        "Cunsheng Ding",
+        "Jianxing Yin"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2008.926410"
+    },
+    "BIBREF4": {
+      "title": "No-Hit-Zone Frequency-Hopping Sequence Sets with Optimal Hamming Autocorrelation",
+      "authors": [
+        "Jin-Ho Chung",
+        "Yun Kyoung Han",
+        "Kyeongcheol Yang"
+      ],
+      "year": "2010",
+      "venue": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+      "link": "https://doi.org/10.1587/transfun.e93.a.2239"
+    },
+    "BIBREF6": {
+      "title": "A New Class of Sequences With Zero or Low Correlation Zone Based on Interleaving Technique",
+      "authors": [
+        "Zhengchun Zhou",
+        "Xiaohu Tang",
+        "Guang Gong"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Theory and applications of q-ary interleaved sequences",
+      "authors": [
+        "Guang Gong"
+      ],
+      "year": "1995",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/18.370141"
+    },
+    "BIBREF8": {
+      "title": "Lower bounds on the Hamming auto- and cross correlations of frequency-hopping sequences",
+      "authors": [
+        "D. Peng",
+        "P. Fan"
+      ],
+      "year": "2004",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2004.833362"
+    },
+    "BIBREF9": {
+      "title": "New designs for signal sets with low cross correlation, balance property, and large linear span: GF(p) case",
+      "authors": [
+        "G. Gong"
+      ],
+      "year": "2002",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.2002.804044"
+    },
+    "BIBREF13": {
+      "title": "Families of sequences with optimal Hamming-correlation properties",
+      "authors": [
+        "A. Lempel",
+        "H. Greenberger"
+      ],
+      "year": "1974",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.1974.1055169"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "paper_id": "1012.3889v1",
+  "title": "Minimum regulation of uncoordinated matchings",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Stable Marriage with Incomplete Lists and Ties",
+      "authors": [
+        "K. Iwama",
+        "D. Manlove",
+        "S. Miyazaki",
+        "Yasufumi Morita"
+      ],
+      "year": "1999",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://doi.org/10.1007/3-540-48523-6_41"
+    },
+    "BIBREF1": {
+      "title": "Worst-case equilibria",
+      "authors": [
+        "Elias Koutsoupias",
+        "Christos Papadimitriou"
+      ],
+      "year": "1999",
+      "venue": "Symposium on Theoretical Aspects of Computer Science",
+      "link": "https://doi.org/10.1007/3-540-49116-3_38"
+    },
+    "BIBREF2": {
+      "title": "Some APX-completeness results for cubic graphs",
+      "authors": [
+        "Paola Alimonti",
+        "Viggo Kann"
+      ],
+      "year": "2000",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1016/s0304-3975(98)00158-3"
+    },
+    "BIBREF3": {
+      "title": "Stackelberg Scheduling Strategies",
+      "authors": [
+        "Tim Roughgarden"
+      ],
+      "year": "2004",
+      "venue": "SIAM Journal on Computing",
+      "link": "https://doi.org/10.1145/380752.380783"
+    },
+    "BIBREF4": {
+      "title": "Alternating paths in edge-colored complete graphs",
+      "authors": [
+        "Y. Manoussakis"
+      ],
+      "year": "1995",
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://doi.org/10.1016/0166-218x(94)00091-q"
+    },
+    "BIBREF6": {
+      "title": "An efficient algorithm for the \"stable roommates\" problem",
+      "authors": [
+        "Robert W Irving"
+      ],
+      "year": "1985",
+      "venue": "Journal of Algorithms",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "How bad is selfish routing",
+      "authors": [
+        "Tim Roughgarden",
+        "Éva Tardos"
+      ],
+      "year": "2002",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/506147.506153"
+    },
+    "BIBREF9": {
+      "title": "The effectiveness of Stackelberg strategies and tolls for network congestion games",
+      "authors": [
+        "Chaitanya Swamy"
+      ],
+      "year": "2007",
+      "venue": "Symposium on Discrete Algorithms",
+      "link": "https://doi.org/10.1145/2344422.2344426"
+    }
+  }
+}

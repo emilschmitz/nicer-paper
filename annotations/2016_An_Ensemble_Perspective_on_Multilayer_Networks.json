@@ -1,0 +1,103 @@
+{
+  "paper_id": "1507.00169v1",
+  "title": "An Ensemble Perspective on Multi-layer Networks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Reaction-diffusion processes on interconnected scale-free networks.",
+      "authors": [
+        "A. Garas"
+      ],
+      "year": "2015",
+      "venue": "Physical Review E",
+      "link": "https://arxiv.org/abs/1407.6621"
+    },
+    "BIBREF1": {
+      "title": "Small-World Network Spectra in Mean-Field Theory",
+      "authors": [
+        "C. Grabow",
+        "S. Grosskinsky",
+        "M. Timme"
+      ],
+      "year": "2012",
+      "venue": "Physical Review Letters",
+      "link": "https://arxiv.org/abs/1112.1728"
+    },
+    "BIBREF2": {
+      "title": "Navigability of interconnected networks under random failures",
+      "authors": [
+        "Manlio De Domenico",
+        "Albert Solé-Ribalta",
+        "S. Gómez",
+        "A. Arenas"
+      ],
+      "year": "2014",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://arxiv.org/abs/1306.0519"
+    },
+    "BIBREF3": {
+      "title": "Convergence rates for Markov chains",
+      "authors": [
+        "Jeffrey S. Rosenthal"
+      ],
+      "year": "1995",
+      "venue": "Siam Review",
+      "link": "https://doi.org/10.1137/1037083"
+    },
+    "BIBREF4": {
+      "title": "Critical effect of dependency groups on the function of networks",
+      "authors": [
+        "Roni Parshani",
+        "Sergey V. Buldyrev",
+        "Shlomo Havlin"
+      ],
+      "year": "2011",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://arxiv.org/abs/1010.4498"
+    },
+    "BIBREF5": {
+      "title": "Diffusion dynamics on multiplex networks.",
+      "authors": [
+        "S. Gómez",
+        "A. Díaz-Guilera",
+        "J. Gómez-Gardeñes",
+        "C. J. Pérez-Vicente",
+        "Y. Moreno",
+        "A. Arenas"
+      ],
+      "year": "2013",
+      "venue": "Physical Review Letters",
+      "link": "https://arxiv.org/abs/1207.2788"
+    },
+    "BIBREF6": {
+      "title": "The structure and dynamics of multilayer networks",
+      "authors": [
+        "Stefano Boccaletti",
+        "Ginestra Bianconi",
+        "Regino Criado",
+        "Charo del Genio",
+        "Jesús Gómez-Gardeñes",
+        "Miguel Romance",
+        "Irene Sendiña-Nadal",
+        "Zheng Wang",
+        "Massimiliano Zanin"
+      ],
+      "year": "2014",
+      "venue": "Physics Reports",
+      "link": "https://arxiv.org/abs/1407.0742"
+    },
+    "BIBREF7": {
+      "title": "Spectral properties of the Laplacian of multiplex networks",
+      "authors": [
+        "Albert Solé-Ribalta",
+        "M. Domenico",
+        "N. Kouvaris",
+        "A. Díaz-Guilera",
+        "S. Gómez",
+        "A. Arenas"
+      ],
+      "year": "2013",
+      "venue": "Physical Review E",
+      "link": "https://arxiv.org/abs/1307.2090"
+    }
+  }
+}

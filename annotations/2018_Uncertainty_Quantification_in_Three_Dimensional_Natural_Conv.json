@@ -1,0 +1,93 @@
+{
+  "paper_id": "1810.11934v2",
+  "title": "Uncertainty Quantification in Three Dimensional Natural Convection using Polynomial Chaos Expansion and Deep Neural Networks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "authors": [
+        "Diederik P. Kingma",
+        "Jimmy Ba"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Natural Convection in a Closed Cavity under Stochastic Non-Boussinesq Conditions",
+      "authors": [
+        "O. Maître",
+        "M. Reagan",
+        "B. Debusschere",
+        "H. Najm",
+        "R. Ghanem",
+        "O. Knio"
+      ],
+      "year": "2005",
+      "venue": "Computational Science and Engineering",
+      "link": "https://doi.org/10.1137/s1064827503422853"
+    },
+    "BIBREF2": {
+      "title": "Sparse grid collocation schemes for stochastic natural convection problems",
+      "authors": [
+        "Baskar Ganapathysubramanian",
+        "Nicholas Zabaras"
+      ],
+      "year": "2007",
+      "venue": "Journal of Computational Physics",
+      "link": "https://doi.org/10.1016/j.jcp.2006.12.014"
+    },
+    "BIBREF3": {
+      "title": "Deep learning in neural networks",
+      "authors": [
+        "Jürgen Schmidhuber"
+      ],
+      "year": "2015",
+      "venue": "Neural Networks",
+      "link": "https://arxiv.org/abs/1804.08150"
+    },
+    "BIBREF4": {
+      "title": "Multilayer feedforward networks are universal approximators",
+      "authors": [
+        "K. Hornik",
+        "M. Stinchcombe",
+        "H. White"
+      ],
+      "year": "1989",
+      "venue": "Neural Networks",
+      "link": "https://doi.org/10.1016/0893-6080(89)90020-8"
+    },
+    "BIBREF5": {
+      "title": "Deep Learning",
+      "authors": [
+        "Ian Goodfellow",
+        "Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "year": "2016",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification",
+      "authors": [
+        "Rohit Tripathy",
+        "Ilias Bilionis"
+      ],
+      "year": "2018",
+      "venue": "Journal of Computational Physics",
+      "link": "https://arxiv.org/abs/1802.00850"
+    },
+    "BIBREF7": {
+      "title": "Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems",
+      "authors": [
+        "Dongkun Zhang",
+        "Lu Lu",
+        "Ling Guo",
+        "George Em Karniadakis"
+      ],
+      "year": "2018",
+      "venue": "arXiv: Analysis of PDEs",
+      "link": "https://arxiv.org/abs/1809.08327"
+    }
+  }
+}

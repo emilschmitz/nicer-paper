@@ -1,0 +1,16 @@
+{
+  "paper_id": "1611.09379v1",
+  "title": "Fast Multipole Method based filtering of non-uniformly sampled data.",
+  "bib_entries": {
+    "BIBREF4": {
+      "title": "Fast Fourier transforms for nonequispaced data",
+      "authors": [
+        "A. Dutt",
+        "V. Rokhlin"
+      ],
+      "year": "1993",
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://doi.org/10.1007/978-3-030-04306-3_7"
+    }
+  }
+}

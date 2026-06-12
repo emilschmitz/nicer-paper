@@ -1,0 +1,258 @@
+{
+  "paper_id": "1507.05605v2",
+  "title": "A semidefinite program for unbalanced multisection in the stochastic block model",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Improved Approximation Algorithms for MAX k-CUT and MAX BISECTION",
+      "authors": [
+        "Alan M. Frieze",
+        "Mark Jerrum"
+      ],
+      "year": "1995",
+      "venue": "Integer Programming and Combinatorial Optimization",
+      "link": "https://doi.org/10.1007/3-540-59408-6_37"
+    },
+    "BIBREF1": {
+      "title": "Random Laplacian matrices and convex relaxations",
+      "authors": [
+        "Afonso S. Bandeira"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Probability",
+      "link": "https://doi.org/10.1007/s10208-016-9341-9"
+    },
+    "BIBREF2": {
+      "title": "Semidefinite Programs on Sparse Random Graphs.",
+      "authors": [
+        "Andrea Montanari",
+        "Subhabrata Sen"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Discrete Mathematics",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Robust and computationally feasible community detection in the presence of arbitrary outlier nodes",
+      "authors": [
+        "T. Cai",
+        "Xiaodong Li"
+      ],
+      "year": "2015",
+      "venue": "Annals of Statistics",
+      "link": "https://arxiv.org/abs/1404.6000"
+    },
+    "BIBREF4": {
+      "title": "Community detection in general stochastic block models: fundamental limits and efficient recovery algorithms.",
+      "authors": [
+        "Emmanuel Abbe",
+        "Colin Sandon"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Probability",
+      "link": "https://doi.org/10.1109/focs.2015.47"
+    },
+    "BIBREF5": {
+      "title": "Achieving Exact Cluster Recovery Threshold via Semidefinite Programming",
+      "authors": [
+        "Bruce Hajek",
+        "Yihong Wu",
+        "Jiaming Xu"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Machine Learning",
+      "link": "https://doi.org/10.1109/acssc.2015.7421303"
+    },
+    "BIBREF6": {
+      "title": "Achieving Exact Cluster Recovery Threshold via Semidefinite Programming: Extensions",
+      "authors": [
+        "Bruce Hajek",
+        "Yihong Wu",
+        "Jiaming Xu"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Machine Learning",
+      "link": "https://arxiv.org/abs/1412.6156"
+    },
+    "BIBREF7": {
+      "title": "A Proof Of The Block Model Threshold Conjecture",
+      "authors": [
+        "Elchanan Mossel",
+        "Joe Neeman",
+        "Allan Sly"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Probability",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming",
+      "authors": [
+        "M. Goemans",
+        "David P. Williamson"
+      ],
+      "year": "1995",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/227683.227684"
+    },
+    "BIBREF9": {
+      "title": "Heuristics for Semirandom Graph Problems",
+      "authors": [
+        "U. Feige",
+        "J. Kilian"
+      ],
+      "year": "2001",
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://doi.org/10.1006/jcss.2001.1773"
+    },
+    "BIBREF10": {
+      "title": "Asymptotic analysis of the stochastic block model for modular networks and its algorithmic applications",
+      "authors": [
+        "Aurelien Decelle",
+        "Florent Krzakala",
+        "Cristopher Moore",
+        "Lenka Zdeborová"
+      ],
+      "year": "2011",
+      "venue": "Physical Review E",
+      "link": "https://arxiv.org/abs/1109.3041"
+    },
+    "BIBREF11": {
+      "title": "Community detection thresholds and the weak Ramanujan property",
+      "authors": [
+        "Laurent Massoulié"
+      ],
+      "year": "2014",
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://arxiv.org/abs/1311.3085"
+    },
+    "BIBREF12": {
+      "title": "Improved Graph Clustering",
+      "authors": [
+        "Yudong Chen",
+        "Sujay Sanghavi",
+        "Huan Xu"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/1210.3335"
+    },
+    "BIBREF13": {
+      "title": "Coloring random and semi-random k -colorable graphs",
+      "authors": [
+        "Avrim Blum",
+        "Joel Spencer"
+      ],
+      "year": "1995",
+      "venue": "Journal of Algorithms",
+      "link": "https://doi.org/10.1006/jagm.1995.1034"
+    },
+    "BIBREF14": {
+      "title": "Clustering Sparse Graphs",
+      "authors": [
+        "Yudong Chen",
+        "Sujay Sanghavi",
+        "Huan Xu"
+      ],
+      "year": "2012",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "How Robust are Reconstruction Thresholds for Community Detection",
+      "authors": [
+        "Ankur Moitra",
+        "William Perry",
+        "Alexander S. Wein"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": "https://arxiv.org/abs/1511.01473"
+    },
+    "BIBREF16": {
+      "title": "Phase Transitions in Semidefinite Relaxations",
+      "authors": [
+        "Adel Javanmard",
+        "A. Montanari",
+        "F. Ricci-Tersenghi"
+      ],
+      "year": "2016",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "link": "https://arxiv.org/abs/1511.08769"
+    },
+    "BIBREF17": {
+      "title": "Semidefinite programs on sparse random graphs and their application to community detection",
+      "authors": [
+        "A. Montanari",
+        "S. Sen"
+      ],
+      "year": "2016",
+      "venue": "Symposium on the Theory of Computing",
+      "link": "https://doi.org/10.1145/2897518.2897548"
+    },
+    "BIBREF18": {
+      "title": "Learning Communities in the Presence of Errors",
+      "authors": [
+        "Konstantin Makarychev",
+        "Yury Makarychev",
+        "Aravindan Vijayaraghavan"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "Multisection in the stochastic block model using semidefinite programming",
+      "authors": [
+        "Naman Agarwal",
+        "A. Bandeira",
+        "Konstantinos Koiliaris",
+        "A. Kolla"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": "https://arxiv.org/abs/1507.02323"
+    },
+    "BIBREF20": {
+      "title": "Performance of a community detection algorithm based on semidefinite programming",
+      "authors": [
+        "Adel Javanmard",
+        "A. Montanari",
+        "F. Ricci-Tersenghi"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Machine Learning",
+      "link": "https://arxiv.org/abs/1603.09045"
+    },
+    "BIBREF21": {
+      "title": "On semidefinite relaxations for the block model",
+      "authors": [
+        "Arash A. Amini",
+        "Elizaveta Levina"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF22": {
+      "title": "Recovering communities in the general stochastic block model without knowing the parameters",
+      "authors": [
+        "Emmanuel Abbe",
+        "Colin Sandon"
+      ],
+      "year": "2015",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "Exact Recovery in the Stochastic Block Model",
+      "authors": [
+        "E. Abbe",
+        "A. Bandeira",
+        "G. Hall"
+      ],
+      "year": "2016",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/1405.3267"
+    }
+  }
+}

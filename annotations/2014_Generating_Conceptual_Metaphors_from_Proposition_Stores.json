@@ -1,0 +1,76 @@
+{
+  "paper_id": "1409.7619v1",
+  "title": "Generating Conceptual Metaphors from Proposition Stores.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "ConceptNet 5: A Large Semantic Network for Relational Knowledge",
+      "authors": [
+        "R. Speer",
+        "Catherine Havasi"
+      ],
+      "year": "2013",
+      "venue": "The People's Web Meets NLP",
+      "link": "https://doi.org/10.1007/978-3-642-35085-6_6"
+    },
+    "BIBREF4": {
+      "title": "Automatic Metaphor Interpretation as a Paraphrasing Task",
+      "authors": [
+        "Ekaterina Shutova"
+      ],
+      "year": "2010",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "met*: a method for discriminating metonymy and metaphor by computer",
+      "authors": [
+        "Dan Fass"
+      ],
+      "year": "1991",
+      "venue": "Computational Linguistics",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Yago: a core of semantic knowledge",
+      "authors": [
+        "Fabian M. Suchanek",
+        "Gjergji Kasneci",
+        "Gerhard Weikum"
+      ],
+      "year": "2007",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1242572.1242667"
+    },
+    "BIBREF12": {
+      "title": "Models of Metaphor in NLP",
+      "authors": [
+        "Ekaterina Shutova"
+      ],
+      "year": "2010",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Local and Global Algorithms for Disambiguation to Wikipedia",
+      "authors": [
+        "Lev Ratinov",
+        "Dan Roth",
+        "Doug Downey",
+        "Mike Anderson"
+      ],
+      "year": "2011",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Word similarity using constructions as contextual features.",
+      "authors": [
+        "Nai-Lung Tsao",
+        "David Wible"
+      ],
+      "year": "2013",
+      "venue": "JSSP",
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "paper_id": "1107.4950v1",
+  "title": "Data Dissemination in Cognitive Radio Networks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Capacity of Ad Hoc wireless networks",
+      "authors": [
+        "Jinyang Li",
+        "Charles Blake",
+        "Douglas S.J. De Couto",
+        "Hu Imm Lee",
+        "Robert Morris"
+      ],
+      "year": "2001",
+      "venue": "ACM/IEEE International Conference on Mobile Computing and Networking",
+      "link": "https://doi.org/10.1145/381677.381684"
+    },
+    "BIBREF1": {
+      "title": "Cognitive MANET design for mission-critical networks",
+      "authors": [
+        "O. Younis",
+        "L. Kant",
+        "K. Chang",
+        "K. Young",
+        "C. Graff"
+      ],
+      "year": "2009",
+      "venue": "IEEE Communications Magazine",
+      "link": "https://doi.org/10.1109/mcom.2009.5273810"
+    },
+    "BIBREF2": {
+      "title": "IEEE 802.22: An Introduction to the First Wireless Standard based on Cognitive Radios",
+      "authors": [
+        "Carlos Cordeiro",
+        "Kiran Challapali",
+        "Dagnachew Birru",
+        "Sai Shankar N"
+      ],
+      "year": "2006",
+      "venue": "Journal of Communications",
+      "link": "https://doi.org/10.4304/jcm.1.1.38-47"
+    },
+    "BIBREF3": {
+      "title": "Decentralized cognitive MAC for opportunistic spectrum access in ad hoc networks: A POMDP framework",
+      "authors": [
+        "Qing Zhao",
+        "L. Tong",
+        "A. Swami",
+        "Yunxia Chen"
+      ],
+      "year": "2007",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "link": "https://doi.org/10.1109/jsac.2007.070409"
+    },
+    "BIBREF4": {
+      "title": "NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey",
+      "authors": [
+        "I. Akyildiz",
+        "Won-Yeol Lee",
+        "M. Vuran",
+        "Shantidev Mohanty"
+      ],
+      "year": "2006",
+      "venue": "Computer Networks",
+      "link": "https://doi.org/10.1016/j.comnet.2006.05.001"
+    },
+    "BIBREF5": {
+      "title": "Probabilistic Path Selection in Opportunistic Cognitive Radio Networks",
+      "authors": [
+        "H. Khalifé",
+        "S. Ahuja",
+        "N. Malouch",
+        "M. Krunz"
+      ],
+      "year": "2008",
+      "venue": "Global Communications Conference",
+      "link": "https://doi.org/10.1109/glocom.2008.ecp.931"
+    },
+    "BIBREF6": {
+      "title": "Competitive spectrum sharing in cognitive radio networks: a dynamic game approach",
+      "authors": [
+        "D. Niyato",
+        "E. Hossain"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://doi.org/10.1109/twc.2008.070073"
+    },
+    "BIBREF7": {
+      "title": "Cognitive radio: making software radios more personal",
+      "authors": [
+        "J. Mitola",
+        "Gerald Q. Maguire"
+      ],
+      "year": "1999",
+      "venue": "IEEE Personal Communications",
+      "link": "https://doi.org/10.1109/98.788210"
+    }
+  }
+}

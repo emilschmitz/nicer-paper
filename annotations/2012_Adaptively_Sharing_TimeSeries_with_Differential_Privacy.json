@@ -1,0 +1,94 @@
+{
+  "paper_id": "1202.3461v2",
+  "title": "Adaptively Sharing Time-Series with Differential Privacy",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Boosting the Accuracy of Differentially-Private Queries Through Consistency",
+      "authors": [
+        "Michael Hay",
+        "Vibhor Rastogi",
+        "Gerome Miklau",
+        "Dan Suciu"
+      ],
+      "year": "2009",
+      "venue": "",
+      "link": "https://arxiv.org/abs/0904.0942"
+    },
+    "BIBREF1": {
+      "title": "Private and Continual Release of Statistics",
+      "authors": [
+        "T.-H. Hubert Chan",
+        "Elaine Shi",
+        "Dawn Song"
+      ],
+      "year": "2011",
+      "venue": "ACM Transactions on Information and System Security",
+      "link": "https://doi.org/10.1145/2043621.2043626"
+    },
+    "BIBREF3": {
+      "title": "Privacy integrated queries: an extensible platform for privacy-preserving data analysis",
+      "authors": [
+        "Frank D. McSherry"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1810891.1810916"
+    },
+    "BIBREF4": {
+      "title": "Differentially private aggregation of distributed time-series with transformation and encryption",
+      "authors": [
+        "Vibhor Rastogi",
+        "Suman Nath"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1807167.1807247"
+    },
+    "BIBREF5": {
+      "title": "Differentially private data release through multidimensional partitioning",
+      "authors": [
+        "Yonghui Xiao",
+        "Li Xiong",
+        "Chun Yuan"
+      ],
+      "year": "2010",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1007/978-3-642-15546-8_11"
+    },
+    "BIBREF6": {
+      "title": "Time series compressibility and privacy",
+      "authors": [
+        "Spiros Papadimitriou",
+        "Feifei Li",
+        "George Kollios",
+        "Philip S. Yu"
+      ],
+      "year": "2007",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "A learning theory approach to non-interactive database privacy",
+      "authors": [
+        "Avrim Blum",
+        "Katrina Ligett",
+        "Aaron Roth"
+      ],
+      "year": "2008",
+      "venue": "Symposium on the Theory of Computing",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Releasing search queries and clicks privately",
+      "authors": [
+        "A. Korolova",
+        "K. Kenthapadi",
+        "Nina Mishra",
+        "Alexandros Ntoulas"
+      ],
+      "year": "2009",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1526709.1526733"
+    }
+  }
+}

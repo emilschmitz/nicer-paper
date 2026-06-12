@@ -1,0 +1,268 @@
+{
+  "paper_id": "1806.07629v1",
+  "title": "User’s Privacy in Recommendation Systems Applying Online Social Network Data: A Survey and Taxonomy",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Bottom-up generalization: a data mining solution to privacy protection",
+      "authors": [
+        "Ke Wang",
+        "Philip S. Yu",
+        "Sourav Chakraborty"
+      ],
+      "year": "2004",
+      "venue": "International Conference on Data Mining",
+      "link": "https://doi.org/10.1109/icdm.2004.10110"
+    },
+    "BIBREF1": {
+      "title": "Rational privacy disclosure in social networks",
+      "authors": [
+        "J. Domingo-Ferrer"
+      ],
+      "year": "2010",
+      "venue": "Modeling Decisions for Artificial Intelligence",
+      "link": "https://doi.org/10.1007/978-3-642-16292-3_25"
+    },
+    "BIBREF2": {
+      "title": "Measuring privacy leaks in Online Social Networks",
+      "authors": [
+        "A. Srivastava",
+        "G. Geethakumari"
+      ],
+      "year": "2013",
+      "venue": "Advances in Computing and Communications",
+      "link": "https://doi.org/10.1109/icacci.2013.6637504"
+    },
+    "BIBREF3": {
+      "title": "Personalized privacy preservation",
+      "authors": [
+        "Yufei Tao",
+        "Xiaokui Xiao"
+      ],
+      "year": "2006",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1142473.1142500"
+    },
+    "BIBREF4": {
+      "title": "(α, k)-anonymity: an enhanced k-anonymity model for privacy preserving data publishing",
+      "authors": [
+        "Raymond Chi-Wing Wong",
+        "Jiuyong Li",
+        "Ada Wai-Chee Fu",
+        "Ke Wang"
+      ],
+      "year": "2006",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1150402.1150499"
+    },
+    "BIBREF5": {
+      "title": "Information revelation and privacy in online social networks",
+      "authors": [
+        "Ralph Gross",
+        "Alessandro Acquisti"
+      ],
+      "year": "2005",
+      "venue": "Workshop on Privacy in the Electronic Society",
+      "link": "https://doi.org/10.1145/1102199.1102214"
+    },
+    "BIBREF6": {
+      "title": "SONET: A SOcial NETwork Model for Privacy Monitoring and Ranking",
+      "authors": [
+        "Raj Kumar Nepali",
+        "Yong Wang"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Distributed Computing Systems Workshops",
+      "link": "https://doi.org/10.1109/icdcsw.2013.49"
+    },
+    "BIBREF7": {
+      "title": "Anatomy: simple and effective privacy preservation",
+      "authors": [
+        "Xiaokui Xiao",
+        "Yufei Tao"
+      ],
+      "year": "2006",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Enhanced P-Sensitive K-Anonymity Models for Privacy Preserving Data Publishing",
+      "authors": [
+        "Xiaoxun Sun",
+        "Hua Wang",
+        "Jiuyong Li",
+        "Traian Marius Truta"
+      ],
+      "year": "2008",
+      "venue": "Transactions on Data Privacy",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Scalable and Secure Sharing of Personal Health Records in Cloud Computing Using Attribute-Based Encryption",
+      "authors": [
+        "Ming Li",
+        "Shucheng Yu",
+        "Yao Zheng",
+        "Kui Ren",
+        "Wenjing Lou"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "link": "https://doi.org/10.1109/tpds.2012.97"
+    },
+    "BIBREF10": {
+      "title": "Protecting respondents identities in microdata release",
+      "authors": [
+        "P. Samarati"
+      ],
+      "year": "2001",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/69.971193"
+    },
+    "BIBREF11": {
+      "title": "The PViz comprehension tool for social network privacy settings",
+      "authors": [
+        "Alessandra Mazzia",
+        "Kristen LeFevre",
+        "Eytan Adar"
+      ],
+      "year": "2012",
+      "venue": "Symposium On Usable Privacy and Security",
+      "link": "https://doi.org/10.1145/2335356.2335374"
+    },
+    "BIBREF12": {
+      "title": "Personalized social recommendations: accurate or private",
+      "authors": [
+        "Ashwin Machanavajjhala",
+        "Aleksandra Korolova",
+        "Atish Das Sarma"
+      ],
+      "year": "2011",
+      "venue": "Very Large Data Bases",
+      "link": "https://arxiv.org/abs/1105.4254"
+    },
+    "BIBREF13": {
+      "title": "Unpacking \"privacy\" for a networked world",
+      "authors": [
+        "Leysia Palen",
+        "Paul Dourish"
+      ],
+      "year": "2003",
+      "venue": "Human Factors in Computing Systems",
+      "link": "https://doi.org/10.1145/642611.642635"
+    },
+    "BIBREF14": {
+      "title": "M-invariance: towards privacy preserving re-publication of dynamic datasets",
+      "authors": [
+        "Xiaokui Xiao",
+        "Yufei Tao"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1247480.1247556"
+    },
+    "BIBREF15": {
+      "title": "t-Closeness: Privacy Beyond k-Anonymity and l-Diversity",
+      "authors": [
+        "Ninghui Li",
+        "Tiancheng Li",
+        "S. Venkatasubramanian"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icde.2007.367856"
+    },
+    "BIBREF16": {
+      "title": "Context is Everything - Sociality and Privacy in Online Social Network Sites",
+      "authors": [
+        "Ronald E. Leenes"
+      ],
+      "year": "2010",
+      "venue": "IFIP PrimeLife International Summer School on Privacy and Identity Management for Life",
+      "link": "https://doi.org/10.1007/978-3-642-14282-6_4"
+    },
+    "BIBREF17": {
+      "title": "NOYB: privacy in online social networks",
+      "authors": [
+        "S. Guha",
+        "Kevin D. Tang",
+        "P. Francis"
+      ],
+      "year": "2008",
+      "venue": "Workshop on Online Social Networks",
+      "link": "https://doi.org/10.1145/1397735.1397747"
+    },
+    "BIBREF18": {
+      "title": "Privometer: Privacy protection in social networks",
+      "authors": [
+        "N. Talukder",
+        "M. Ouzzani",
+        "A. Elmagarmid",
+        "Hazem Elmeleegy",
+        "Mohamed Yakout"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icdew.2010.5452715"
+    },
+    "BIBREF19": {
+      "title": "Top-down specialization for information and privacy preservation",
+      "authors": [
+        "B. Fung",
+        "Ke Wang",
+        "Philip S. Yu"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icde.2005.143"
+    },
+    "BIBREF20": {
+      "title": "Wherefore art thou r3579x?: anonymized social networks, hidden patterns, and structural steganography",
+      "authors": [
+        "L. Backstrom",
+        "C. Dwork",
+        "J. Kleinberg"
+      ],
+      "year": "2007",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/2043174.2043199"
+    },
+    "BIBREF21": {
+      "title": "Privacy-preserving matrix factorization",
+      "authors": [
+        "Valeria Nikolaenko",
+        "Stratis Ioannidis",
+        "Udi Weinsberg",
+        "M. Joye",
+        "N. Taft",
+        "D. Boneh"
+      ],
+      "year": "2013",
+      "venue": "Computer and Communications Security",
+      "link": "https://doi.org/10.1145/2508859.2516751"
+    },
+    "BIBREF22": {
+      "title": "A Practical Privacy-Preserving Recommender System",
+      "authors": [
+        "S. Badsha",
+        "X. Yi",
+        "I. Khalil"
+      ],
+      "year": "2016",
+      "venue": "Data Science and Engineering",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "Scoring Users’ Privacy Disclosure Across Multiple Online Social Networks",
+      "authors": [
+        "E. Aghasian",
+        "S. Garg",
+        "Longxiang Gao",
+        "Shui Yu",
+        "James Montgomery"
+      ],
+      "year": "2017",
+      "venue": "IEEE Access",
+      "link": "https://doi.org/10.1109/access.2017.2720187"
+    }
+  }
+}

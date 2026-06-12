@@ -1,0 +1,117 @@
+{
+  "paper_id": "1310.0395v1",
+  "title": "Protein Threading Based on Nonlinear Integer Programming.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Tight Linearization Strategy for Zero-One Quadratic Programming Problems",
+      "authors": [
+        "Wajeb Gharibi",
+        "Yong Xia"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Computability of global solutions to factorable nonconvex programs: Part I — Convex underestimating problems",
+      "authors": [
+        "G. McCormick"
+      ],
+      "year": "1976",
+      "venue": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/bf01580665"
+    },
+    "BIBREF2": {
+      "title": "A new linearization method for quadratic assignment problems",
+      "authors": [
+        "Yong Xia",
+        "Ya-Xiang Yuan"
+      ],
+      "year": "2006",
+      "venue": "Optimization Methods & Software",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Linear forms of nonlinear expressions: New insights on old ideas",
+      "authors": [
+        "Warren P. Adams",
+        "Richard J. Forrester"
+      ],
+      "year": "2007",
+      "venue": "Operations Research Letters",
+      "link": "https://doi.org/10.1016/j.orl.2006.08.008"
+    },
+    "BIBREF4": {
+      "title": "Technical Note-Converting the 0-1 Polynomial Programming Problem to a 0-1 Linear Program",
+      "authors": [
+        "Fred Glover",
+        "Eugene Woolsey"
+      ],
+      "year": "1974",
+      "venue": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.22.1.180"
+    },
+    "BIBREF6": {
+      "title": "Jointly Constrained Biconvex Programming",
+      "authors": [
+        "Faiz A. Al-Khayyal",
+        "James E. Falk"
+      ],
+      "year": "1983",
+      "venue": "Mathematics of Operations Research",
+      "link": "https://doi.org/10.1287/moor.8.2.273"
+    },
+    "BIBREF7": {
+      "title": "Further Reduction of Zero-One Polynomial Programming Problems to Zero-One linear Programming Problems",
+      "authors": [
+        "Fred Glover",
+        "Eugene Woolsey"
+      ],
+      "year": "1973",
+      "venue": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.21.1.156"
+    },
+    "BIBREF8": {
+      "title": "An improved linearization strategy for zero-one quadratic programming problems",
+      "authors": [
+        "Hanif D. Sherali",
+        "J. Cole Smith"
+      ],
+      "year": "2006",
+      "venue": "Optimization Letters",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "A new linearization technique for multi-quadratic 0-1 programming problems",
+      "authors": [
+        "Wanpracha Chaovalitwongse",
+        "Panos M Pardalos",
+        "Oleg A Prokopyev"
+      ],
+      "year": "2004",
+      "venue": "Operations Research Letters",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "A linearization procedure for quadratic and cubic mixed-integer problems",
+      "authors": [
+        "Muhittin Oral",
+        "Ossama Kettani"
+      ],
+      "year": "1992",
+      "venue": "Operations Research",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Comparisons and enhancement strategies for linearizing mixed 0-1 quadratic programs",
+      "authors": [
+        "Warren P. Adams",
+        "Richard J. Forrester",
+        "Fred W. Glover"
+      ],
+      "year": "2004",
+      "venue": "Discrete Optimization",
+      "link": "https://doi.org/10.1016/j.disopt.2004.03.006"
+    }
+  }
+}

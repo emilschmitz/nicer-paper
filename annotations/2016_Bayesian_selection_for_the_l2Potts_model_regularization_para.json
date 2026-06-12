@@ -1,0 +1,223 @@
+{
+  "paper_id": "1608.07739v2",
+  "title": "Bayesian selection for the l2-Potts model regularization parameter: 1D piecewise constant signal denoising",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Exact Algorithms for $L^1$-TV Regularization of Real-Valued or Circle-Valued Signals",
+      "authors": [
+        "M. Storath",
+        "A. Weinmann",
+        "M. Unser"
+      ],
+      "year": "2016",
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://arxiv.org/abs/1504.00499"
+    },
+    "BIBREF1": {
+      "title": "Jump-Sparse and Sparse Recovery Using Potts Functionals",
+      "authors": [
+        "M. Storath",
+        "A. Weinmann",
+        "L. Demaret"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://arxiv.org/abs/1304.4373"
+    },
+    "BIBREF2": {
+      "title": "Unbiased risk estimation for sparse analysis regularization",
+      "authors": [
+        "C-A Deledalle",
+        "S. Vaiter",
+        "G. Peyre",
+        "J. Fadili",
+        "C. Dossal"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Image Processing",
+      "link": "https://doi.org/10.1109/icip.2012.6467544"
+    },
+    "BIBREF3": {
+      "title": "Convex 1-D Total Variation Denoising with Non-convex Regularization",
+      "authors": [
+        "Ivan W. Selesnick",
+        "Ankit Parekh",
+        "Ilker Bayram"
+      ],
+      "year": "2015",
+      "venue": "IEEE Signal Processing Letters",
+      "link": "https://doi.org/10.1109/lsp.2014.2349356"
+    },
+    "BIBREF4": {
+      "title": "A Direct Algorithm for 1-D Total Variation Denoising",
+      "authors": [
+        "Laurent Condat"
+      ],
+      "year": "2013",
+      "venue": "IEEE Signal Processing Letters",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Review: Adaptive total variation image deblurring: A majorization-minimization approach",
+      "authors": [
+        "João P. Oliveira",
+        "José M. Bioucas-Dias",
+        "Mário A. T. Figueiredo"
+      ],
+      "year": "2009",
+      "venue": "Signal Processing",
+      "link": "https://doi.org/10.1016/j.sigpro.2009.03.018"
+    },
+    "BIBREF6": {
+      "title": "An application of MCMC methods for the multiple change-points problem",
+      "authors": [
+        "M. Lavielle",
+        "E. Lebarbier"
+      ],
+      "year": "2001",
+      "venue": "Signal Processing",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "A SURE Approach for Digital Signal/Image Deconvolution Problems",
+      "authors": [
+        "J.-C. Pesquet",
+        "A. Benazza-Benyahia",
+        "C. Chaux"
+      ],
+      "year": "2009",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Joint segmentation of wind speed and direction using a hierarchical model",
+      "authors": [
+        "Nicolas Dobigeon",
+        "Jean-Yves Tourneret"
+      ],
+      "year": "2007",
+      "venue": "Computational Statistics & Data Analysis",
+      "link": "https://doi.org/10.1016/j.csda.2007.04.016"
+    },
+    "BIBREF9": {
+      "title": "Bayesian curve fitting using MCMC with applications to signal segmentation",
+      "authors": [
+        "E. Punskaya",
+        "C. Andrieu",
+        "A. Doucet",
+        "W.J. Fitzgerald"
+      ],
+      "year": "2002",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/78.984776"
+    },
+    "BIBREF10": {
+      "title": "Estimating the Granularity Coefficient of a Potts-Markov Random Field Within a Markov Chain Monte Carlo Algorithm",
+      "authors": [
+        "M. Pereyra",
+        "N. Dobigeon",
+        "H. Batatia",
+        "J. Tourneret"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://arxiv.org/abs/1207.5355"
+    },
+    "BIBREF11": {
+      "title": "Blind Deconvolution of Sparse Pulse Sequences Under a Minimum Distance Constraint: A Partially Collapsed Gibbs Sampler Method",
+      "authors": [
+        "Georg Kail",
+        "J. Tourneret",
+        "F. Hlawatsch",
+        "N. Dobigeon"
+      ],
+      "year": "2012",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/tsp.2012.2190066"
+    },
+    "BIBREF12": {
+      "title": "Fast Partitioning of Vector-Valued Images ∗",
+      "authors": [
+        "M. Storath",
+        "A. Weinmann"
+      ],
+      "year": "2014",
+      "venue": "Siam Journal on Imaging Sciences",
+      "link": "https://doi.org/10.1137/130950367"
+    },
+    "BIBREF13": {
+      "title": "Joint Segmentation of Piecewise Constant Autoregressive Processes by Using a Hierarchical Model and a Bayesian Sampling Approach",
+      "authors": [
+        "N. Dobigeon",
+        "J.-Y. Tourneret",
+        "M. Davy"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2006.1660575"
+    },
+    "BIBREF14": {
+      "title": "Building robust wavelet estimators for multicomponent images using Stein's principle",
+      "authors": [
+        "A. Benazza-Benyahia",
+        "J. Pesquet"
+      ],
+      "year": "2005",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://doi.org/10.1109/tip.2005.857247"
+    },
+    "BIBREF15": {
+      "title": "Joint Segmentation of Multivariate Astronomical Time Series: Bayesian Sampling With a Hierarchical Model",
+      "authors": [
+        "N. Dobigeon",
+        "J. Tourneret",
+        "J. Scargle"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/tsp.2006.885768"
+    },
+    "BIBREF16": {
+      "title": "Iterative methods for total variation denoising",
+      "authors": [
+        "C. Vogel",
+        "M. Oman"
+      ],
+      "year": "1996",
+      "venue": "SIAM Journal on Scientific Computing",
+      "link": "https://doi.org/10.1137/0917016"
+    },
+    "BIBREF17": {
+      "title": "Optimal segmentation of random processes",
+      "authors": [
+        "M. Lavielle"
+      ],
+      "year": "1998",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/78.668798"
+    },
+    "BIBREF18": {
+      "title": "Maximum-a-posteriori estimation with unknown regularisation parameters",
+      "authors": [
+        "M. Pereyra",
+        "J. Bioucas-Dias",
+        "Mário A. T. Figueiredo"
+      ],
+      "year": "2015",
+      "venue": "European Signal Processing Conference",
+      "link": "https://doi.org/10.1109/eusipco.2015.7362379"
+    },
+    "BIBREF19": {
+      "title": "Relabelling vertices according to the network structure by minimizing the cyclic bandwidth sum",
+      "authors": [
+        "Ronan Hamon",
+        "P. Borgnat",
+        "P. Flandrin",
+        "C. Robardet"
+      ],
+      "year": "2016",
+      "venue": "Journal of Complex Networks",
+      "link": "https://doi.org/10.1093/comnet/cnw006"
+    }
+  }
+}

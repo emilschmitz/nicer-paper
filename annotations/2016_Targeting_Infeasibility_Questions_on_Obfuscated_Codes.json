@@ -1,0 +1,108 @@
+{
+  "paper_id": "1612.05675v1",
+  "title": "Targeting Infeasibility Questions on Obfuscated Codes.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "The BINCOA framework for binary code analysis",
+      "authors": [
+        "Sébastien Bardin",
+        "P. Herrmann",
+        "Jérôme Leroux",
+        "O. Ly",
+        "Renaud Tabary",
+        "Aymeric Vincent"
+      ],
+      "year": "2011",
+      "venue": "Computer Aided Verification",
+      "link": "https://doi.org/10.1007/978-3-642-22110-1_13"
+    },
+    "BIBREF1": {
+      "title": "Sound and Quasi-Complete Detection of Infeasible Test Requirements",
+      "authors": [
+        "Sébastien Bardin",
+        "Mickaël Delahaye",
+        "Robin David",
+        "N. Kosmatov",
+        "Mike Papadakis",
+        "Y. L. Traon",
+        "Jean-Yves Marion"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Software Testing, Verification, and Validation",
+      "link": "https://doi.org/10.1109/icst.2015.7102607"
+    },
+    "BIBREF5": {
+      "title": "Binary-code obfuscations in prevalent packer tools",
+      "authors": [
+        "Kevin A. Roundy",
+        "B. Miller"
+      ],
+      "year": "2013",
+      "venue": "ACM Computing Surveys",
+      "link": "https://doi.org/10.1145/2522968.2522972"
+    },
+    "BIBREF6": {
+      "title": "LOOP: Logic-Oriented Opaque Predicate Detection in Obfuscated Binary Code",
+      "authors": [
+        "Jiang Ming",
+        "Dongpeng Xu",
+        "Li Wang",
+        "Dinghao Wu"
+      ],
+      "year": "2015",
+      "venue": "Computer and Communications Security",
+      "link": "https://doi.org/10.1145/2810103.2813617"
+    },
+    "BIBREF8": {
+      "title": "Symbolic Execution of Obfuscated Code",
+      "authors": [
+        "Babak Yadegari",
+        "Saumya Debray"
+      ],
+      "year": "2015",
+      "venue": "Computer and Communications Security",
+      "link": "https://doi.org/10.1145/2810103.2813663"
+    },
+    "BIBREF9": {
+      "title": "WYSINWYX: What you see is not what you eXecute",
+      "authors": [
+        "Gogul Balakrishnan",
+        "Thomas Reps"
+      ],
+      "year": "2010",
+      "venue": "ACM Transactions on Programming Languages and Systems",
+      "link": "https://doi.org/10.1007/978-3-540-69149-5_22"
+    },
+    "BIBREF11": {
+      "title": "Software watermarking via opaque predicates: Implementation, analysis, and attacks",
+      "authors": [
+        "Ginger Myles",
+        "Christian Collberg"
+      ],
+      "year": "2006",
+      "venue": "Electronic Commerce Research",
+      "link": "https://doi.org/10.1007/s10660-006-6955-z"
+    },
+    "BIBREF17": {
+      "title": "Symbolic execution for software testing: three decades later",
+      "authors": [
+        "Cristian Cadar",
+        "Koushik Sen"
+      ],
+      "year": "2013",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/2408776.2408795"
+    },
+    "BIBREF22": {
+      "title": "Precise Static Analysis of Binaries by Extracting Relational Information",
+      "authors": [
+        "Alexander Sepp",
+        "B. Mihaila",
+        "A. Simon"
+      ],
+      "year": "2011",
+      "venue": "Working Conference on Reverse Engineering",
+      "link": "https://doi.org/10.1109/wcre.2011.50"
+    }
+  }
+}

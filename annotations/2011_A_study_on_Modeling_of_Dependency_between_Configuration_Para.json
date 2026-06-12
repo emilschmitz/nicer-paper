@@ -1,0 +1,188 @@
+{
+  "paper_id": "1112.5799v1",
+  "title": "A study on Modeling of Dependency between Configuration Parameters and Overall Energy Consumption in Wireless Sensor Network (WSN)",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Modeling Overall Energy Consumption in Wireless Sensor Networks",
+      "authors": [
+        "N. Kamyabpour",
+        "D. Hoang"
+      ],
+      "year": "2010",
+      "venue": "Parallel and Distributed Computing: Applications and Technologies",
+      "link": "https://doi.org/10.1007/978-94-007-5083-8_9"
+    },
+    "BIBREF1": {
+      "title": "Comparing energy-saving MAC protocols for wireless sensor networks",
+      "authors": [
+        "G. Halkes",
+        "Tijs van Dam",
+        "K. Langendoen"
+      ],
+      "year": "2005",
+      "venue": "Mobile Networks and Applications",
+      "link": "https://doi.org/10.1007/s11036-005-3371-x"
+    },
+    "BIBREF2": {
+      "title": "Distributed heuristics for connected dominating sets in wireless ad hoc networks",
+      "authors": [
+        "K. Alzoubi",
+        "Pengjun Wan",
+        "O. Frieder"
+      ],
+      "year": "2002",
+      "venue": "Journal of Communications and Networks",
+      "link": "https://doi.org/10.1109/jcn.2002.6596929"
+    },
+    "BIBREF3": {
+      "title": "Cross-layer design optimizations in wireless protocol stacks",
+      "authors": [
+        "Vijay T Raisinghani",
+        "Sridhar Iyer"
+      ],
+      "year": "2004",
+      "venue": "Computer Communications",
+      "link": "https://doi.org/10.1016/j.comcom.2003.10.011"
+    },
+    "BIBREF4": {
+      "title": "Some observations on optimal frequency selection in DVFS-based energy consumption minimization",
+      "authors": [
+        "Nikzad Babaii Rizvandi",
+        "Javid Taheri",
+        "Albert Y. Zomaya"
+      ],
+      "year": "2011",
+      "venue": "Journal of Parallel and Distributed Computing",
+      "link": "https://arxiv.org/abs/1201.1695"
+    },
+    "BIBREF5": {
+      "title": "AN ACCURATE FIR APPROXIMATION OF IDEAL FRACTIONAL DELAY FILTER WITH COMPLEX COEFFICIENTS IN HILBERT SPACE",
+      "authors": [
+        "N. Babaii Rizvandi",
+        "A. Nabavi",
+        "Sh. Hessabi"
+      ],
+      "year": "2005",
+      "venue": "Journal of Circuits, Systems, and Computers",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Modeling and evaluating energy-performance efficiency of parallel processing on multicore based power aware systems",
+      "authors": [
+        "Rong Ge",
+        "Xizhou Feng",
+        "Kirk W. Cameron"
+      ],
+      "year": "2009",
+      "venue": "International Parallel and Distributed Processing Symposium",
+      "link": "https://doi.org/10.1109/ipdps.2009.5160979"
+    },
+    "BIBREF7": {
+      "title": "An application-specific protocol architecture for wireless microsensor networks",
+      "authors": [
+        "W.B. Heinzelman",
+        "A.P. Chandrakasan",
+        "H. Balakrishnan"
+      ],
+      "year": "2002",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Energy-efficient communication protocol for wireless microsensor networks",
+      "authors": [
+        "W.R. Heinzelman",
+        "A. Chandrakasan",
+        "H. Balakrishnan"
+      ],
+      "year": "2000",
+      "venue": "Hawaii International Conference on System Sciences",
+      "link": "https://doi.org/10.1007/978-3-540-45235-5_18"
+    },
+    "BIBREF9": {
+      "title": "A Realistic Power Consumption Model for Wireless Sensor Network Devices",
+      "authors": [
+        "Qin Wang",
+        "M. Hempstead",
+        "W. Yang"
+      ],
+      "year": "2006",
+      "venue": "Sensor, Mesh and Ad Hoc Communications and Networks",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "An energy-efficient MAC protocol for wireless sensor networks",
+      "authors": [
+        "Wei Ye",
+        "J. Heidemann",
+        "D. Estrin"
+      ],
+      "year": "2002",
+      "venue": "International Conference on Computer Communications",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "A Hierarchy Energy Driven Architecture for Wireless Sensor Networks",
+      "authors": [
+        "Najmeh Kamyabpour",
+        "Doan B. Hoang"
+      ],
+      "year": "2010",
+      "venue": "Advanced Information Networking and Applications",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Cross-layer design for wireless networks",
+      "authors": [
+        "S. Shakkottai",
+        "T. Rappaport",
+        "P. Karlsson"
+      ],
+      "year": "2003",
+      "venue": "IEEE Communications Magazine",
+      "link": "https://doi.org/10.1007/s11277-009-9756-6"
+    },
+    "BIBREF13": {
+      "title": "XLP: A Cross-Layer Protocol for Efficient Communication in Wireless Sensor Networks",
+      "authors": [
+        "M. Vuran",
+        "I. Akyildiz"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "link": "https://doi.org/10.1109/tmc.2010.125"
+    },
+    "BIBREF14": {
+      "title": "Linear Combinations of DVFS-Enabled Processor Frequencies to Modify the Energy-Aware Scheduling Algorithms",
+      "authors": [
+        "N. B. Rizvandi",
+        "J. Taheri",
+        "Albert Y. Zomaya",
+        "Young Choon Lee"
+      ],
+      "year": "2010",
+      "venue": "Grid Computing",
+      "link": "https://doi.org/10.1109/ccgrid.2010.38"
+    },
+    "BIBREF15": {
+      "title": "Design challenges for energy-constrained ad hoc wireless networks",
+      "authors": [
+        "Andrea J. Goldsmith",
+        "Stephen B. Wicker"
+      ],
+      "year": "2002",
+      "venue": "IEEE Wireless Communications",
+      "link": "https://doi.org/10.1109/mwc.2002.1028874"
+    },
+    "BIBREF16": {
+      "title": "Secure data aggregation in wireless sensor networks: A comprehensive overview",
+      "authors": [
+        "S. Özdemir",
+        "Yang Xiao"
+      ],
+      "year": "2009",
+      "venue": "Computer Networks",
+      "link": "https://doi.org/10.1016/j.comnet.2009.02.023"
+    }
+  }
+}

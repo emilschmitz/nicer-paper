@@ -1,0 +1,144 @@
+{
+  "paper_id": "1107.3360v1",
+  "title": "Object Oriented Information Computing over WWW",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Instance-based schema matching for web databases by domain-specific query probing",
+      "authors": [
+        "Jiying Wang",
+        "Ji-Rong Wen",
+        "F. Lochovsky",
+        "Wei-Ying Ma"
+      ],
+      "year": "2004",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1016/b978-012088469-8.50038-3"
+    },
+    "BIBREF1": {
+      "title": "Wrapper induction for information extraction",
+      "authors": [
+        "Nicholas Kushmerick",
+        "Daniel S. Weld"
+      ],
+      "year": "1997",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "XRANK: ranked keyword search over XML documents",
+      "authors": [
+        "Lin Guo",
+        "F. Shao",
+        "C. Botev",
+        "J. Shanmugasundaram"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/872757.872762"
+    },
+    "BIBREF3": {
+      "title": "Mining data records in Web pages",
+      "authors": [
+        "Bing Liu",
+        "Robert Grossman",
+        "Yanhong Zhai"
+      ],
+      "year": "2003",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/956750.956826"
+    },
+    "BIBREF4": {
+      "title": "Discovering complex matchings across web query interfaces: a correlation mining approach",
+      "authors": [
+        "Bin He",
+        "Kevin Chen-Chuan Chang",
+        "Jiawei Han"
+      ],
+      "year": "2004",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1014052.1014071"
+    },
+    "BIBREF5": {
+      "title": "Object-level ranking: bringing order to Web objects",
+      "authors": [
+        "Zaiqing Nie",
+        "Yuanzhi Zhang",
+        "Ji-Rong Wen",
+        "Wei-Ying Ma"
+      ],
+      "year": "2005",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1060745.1060828"
+    },
+    "BIBREF6": {
+      "title": "Learning domain-independent string transformation weights for high accuracy object identification",
+      "authors": [
+        "Sheila Tejada",
+        "Craig A. Knoblock",
+        "Steven Minton"
+      ],
+      "year": "2002",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/775047.775099"
+    },
+    "BIBREF7": {
+      "title": "Link fusion: a unified link analysis framework for multi-type interrelated data objects",
+      "authors": [
+        "Wensi Xi",
+        "Benyu Zhang",
+        "Zheng Chen",
+        "Yizhou Lu",
+        "Shuicheng Yan",
+        "Wei-Ying Ma",
+        "Edward Allan Fox"
+      ],
+      "year": "2004",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/988672.988715"
+    },
+    "BIBREF9": {
+      "title": "Authoritative sources in a hyperlinked environment",
+      "authors": [
+        "J. Kleinberg"
+      ],
+      "year": "1999",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/324133.324140"
+    },
+    "BIBREF10": {
+      "title": "Block-level link analysis",
+      "authors": [
+        "Deng Cai",
+        "Xiaofei He",
+        "Ji-Rong Wen",
+        "Wei-Ying Ma"
+      ],
+      "year": "2004",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": "https://doi.org/10.1145/1008992.1009068"
+    },
+    "BIBREF11": {
+      "title": "Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",
+      "authors": [
+        "John D. Lafferty",
+        "Andrew McCallum",
+        "Fernando C. N. Pereira"
+      ],
+      "year": "2001",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Learning block importance models for web pages",
+      "authors": [
+        "Ruihua Song",
+        "Haifeng Liu",
+        "Ji-Rong Wen",
+        "Wei-Ying Ma"
+      ],
+      "year": "2004",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/988672.988700"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "paper_id": "1810.04831v3",
+  "title": "A new rank-order clustering algorithm for prolonging the lifetime of wireless sensor networks.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Energy efficient fault tolerant clustering and routing algorithms for wireless sensor networks",
+      "authors": [
+        "M. Azharuddin",
+        "P. Kuila",
+        "P. K. Jana"
+      ],
+      "year": "2015",
+      "venue": "Computers & Electrical Engineering",
+      "link": "https://doi.org/10.1016/j.compeleceng.2014.07.019"
+    },
+    "BIBREF1": {
+      "title": "Review: A systematic review on clustering and routing techniques based upon LEACH protocol for wireless sensor networks",
+      "authors": [
+        "Sudhanshu Tyagi",
+        "Neeraj Kumar"
+      ],
+      "year": "2013",
+      "venue": "Journal of Network and Computer Applications",
+      "link": "https://doi.org/10.1016/j.jnca.2012.12.001"
+    },
+    "BIBREF2": {
+      "title": "Energy Efficient Clustering Scheme for Prolonging the Lifetime of Wireless Sensor Network With Isolated Nodes",
+      "authors": [
+        "Jenq-Shiou Leu",
+        "Tung-Hung Chiang",
+        "Min-Chieh Yu",
+        "Kuan-Wu Su"
+      ],
+      "year": "2015",
+      "venue": "IEEE Communications Letters",
+      "link": "https://doi.org/10.1109/lcomm.2014.2379715"
+    },
+    "BIBREF3": {
+      "title": "An application-specific protocol architecture for wireless microsensor networks",
+      "authors": [
+        "W.B. Heinzelman",
+        "A.P. Chandrakasan",
+        "H. Balakrishnan"
+      ],
+      "year": "2002",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "A new spectral classification for robust clustering in wireless sensor networks",
+      "authors": [
+        "B. Elbhiri",
+        "S. E. Fkihi",
+        "R. Saadane",
+        "N. Lasaad",
+        "A. Jorio",
+        "D. Aboutajdine"
+      ],
+      "year": "2013",
+      "venue": "Joint IFIP Wireless and Mobile Networking Conference",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Energy-efficient communication protocol for wireless microsensor networks",
+      "authors": [
+        "W.R. Heinzelman",
+        "A. Chandrakasan",
+        "H. Balakrishnan"
+      ],
+      "year": "2000",
+      "venue": "Hawaii International Conference on System Sciences",
+      "link": "https://doi.org/10.1007/978-3-540-45235-5_18"
+    },
+    "BIBREF6": {
+      "title": "A rank-order distance based clustering algorithm for face tagging",
+      "authors": [
+        "Chunhui Zhu",
+        "Fang Wen",
+        "Jian Sun"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Clustering Millions of Faces by Identity",
+      "authors": [
+        "Charles Otto",
+        "Dayong Wang",
+        "Anil K. Jain"
+      ],
+      "year": "2018",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://arxiv.org/abs/1604.00989"
+    }
+  }
+}

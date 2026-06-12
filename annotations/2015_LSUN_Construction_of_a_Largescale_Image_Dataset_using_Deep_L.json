@@ -1,0 +1,270 @@
+{
+  "paper_id": "1506.03365v3",
+  "title": "LSUN: Construction of a Large-scale Image Dataset using Deep Learning with Humans in the Loop.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Deep Image: Scaling up Image Recognition",
+      "authors": [
+        "Ren Wu",
+        "Shengen Yan",
+        "Yi Shan",
+        "Qingqing Dang",
+        "Gang Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Intriguing properties of neural networks",
+      "authors": [
+        "Christian Szegedy",
+        "Wojciech Zaremba",
+        "Ilya Sutskever",
+        "Joan Bruna",
+        "Dumitru Erhan",
+        "Ian Goodfellow",
+        "Rob Fergus"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+      "authors": [
+        "Kaiming He",
+        "X. Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://arxiv.org/abs/1502.01852"
+    },
+    "BIBREF3": {
+      "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
+      "authors": [
+        "Karen Simonyan",
+        "Andrew Zisserman"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Towards Scalable Dataset Construction: An Active Learning Approach",
+      "authors": [
+        "Brendan M. Collins",
+        "Jia Deng",
+        "K. Li",
+        "Li Fei-Fei"
+      ],
+      "year": "2008",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-540-88682-2_8"
+    },
+    "BIBREF5": {
+      "title": "Best of both worlds: Human-machine collaboration for object annotation",
+      "authors": [
+        "Olga Russakovsky",
+        "Li-Jia Li",
+        "Li Fei-Fei"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2015.7298824"
+    },
+    "BIBREF6": {
+      "title": "Deep neural networks are easily fooled: High confidence predictions for unrecognizable images",
+      "authors": [
+        "Anh Totti Nguyen",
+        "J. Yosinski",
+        "J. Clune"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1412.1897"
+    },
+    "BIBREF8": {
+      "title": "SUN database: Large-scale scene recognition from abbey to zoo",
+      "authors": [
+        "Jianxiong Xiao",
+        "James Hays",
+        "Krista A. Ehinger",
+        "Aude Oliva",
+        "Antonio Torralba"
+      ],
+      "year": "2010",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2010.5539970"
+    },
+    "BIBREF9": {
+      "title": "Unbiased look at dataset bias",
+      "authors": [
+        "Antonio Torralba",
+        "Alexei A. Efros"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2011.5995347"
+    },
+    "BIBREF10": {
+      "title": "Visual recognition with humans in the loop",
+      "authors": [
+        "Steve Branson",
+        "Catherine Wah",
+        "Florian Schroff",
+        "Boris Babenko",
+        "Peter Welinder",
+        "Pietro Perona",
+        "Serge Belongie"
+      ],
+      "year": "2010",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-642-15561-1_32"
+    },
+    "BIBREF11": {
+      "title": "ImageNet: A large-scale hierarchical image database",
+      "authors": [
+        "Jia Deng",
+        "Wei Dong",
+        "Richard Socher",
+        "Li-Jia Li",
+        "Kai Li",
+        "Li Fei-Fei"
+      ],
+      "year": "2009",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2009.5206848"
+    },
+    "BIBREF12": {
+      "title": "Multi-Level Active Prediction of Useful Image Annotations for Recognition",
+      "authors": [
+        "Sudheendra Vijayanarasimhan",
+        "Kristen Grauman"
+      ],
+      "year": "2008",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "ImageNet Large Scale Visual Recognition Challenge",
+      "authors": [
+        "Olga Russakovsky",
+        "Jia Deng",
+        "Hao Su",
+        "Jonathan Krause",
+        "Sanjeev Satheesh",
+        "Sean Ma",
+        "Zhiheng Huang",
+        "Andrej Karpathy",
+        "Aditya Khosla",
+        "Michael Bernstein",
+        "Alexander C. Berg",
+        "Li Fei-Fei"
+      ],
+      "year": "2015",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://arxiv.org/abs/1409.0575"
+    },
+    "BIBREF14": {
+      "title": "Learning Deep Features for Scene Recognition using Places Database",
+      "authors": [
+        "Bolei Zhou",
+        "Agata Lapedriza",
+        "Jianxiong Xiao",
+        "Antonio Torralba",
+        "Aude Oliva"
+      ],
+      "year": "2014",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Scalable multi-label annotation",
+      "authors": [
+        "Jia Deng",
+        "Olga Russakovsky",
+        "J. Krause",
+        "Michael S. Bernstein",
+        "A. Berg",
+        "Li Fei-Fei"
+      ],
+      "year": "2014",
+      "venue": "Human Factors in Computing Systems",
+      "link": "https://doi.org/10.1145/2556288.2557011"
+    },
+    "BIBREF16": {
+      "title": "Multiclass recognition and part localization with humans in the loop",
+      "authors": [
+        "C. Wah",
+        "Steve Branson",
+        "P. Perona",
+        "Serge J. Belongie"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2011.6126539"
+    },
+    "BIBREF17": {
+      "title": "Learning generative visual models from few training examples: An incremental Bayesian approach tested on 101 object categories",
+      "authors": [
+        "Li Fei-Fei",
+        "R. Fergus",
+        "P. Perona"
+      ],
+      "year": "2007",
+      "venue": "Computer Vision and Image Understanding",
+      "link": "https://doi.org/10.1109/cvpr.2004.383"
+    },
+    "BIBREF18": {
+      "title": "Support vector machine active learning with applications to text classification",
+      "authors": [
+        "Simon Tong",
+        "Daphne Koller"
+      ],
+      "year": "2002",
+      "venue": "Journal of Machine Learning Research",
+      "link": "https://doi.org/10.1162/153244302760185243"
+    },
+    "BIBREF19": {
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "A. Krizhevsky",
+        "I. Sutskever",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2017",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/3065386"
+    },
+    "BIBREF20": {
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "authors": [
+        "Sergey Ioffe",
+        "Christian Szegedy"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Going Deeper with Convolutions",
+      "authors": [
+        "Christian Szegedy",
+        "Wei Liu",
+        "Yangqing Jia",
+        "Pierre Sermanet",
+        "Scott Reed",
+        "Dragomir Anguelov",
+        "Dumitru Erhan",
+        "Vincent Vanhoucke",
+        "Andrew Rabinovich"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1409.4842"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "paper_id": "1304.3762v1",
+  "title": "Evolutionary Turing in the Context of Evolutionary Machines",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Universality for Turing Machines, Inductive Turing Machines and Evolutionary Algorithms",
+      "authors": [
+        "M. Burgin",
+        "E. Eberbach"
+      ],
+      "year": "2009",
+      "venue": "Machines, Computations, and Universality",
+      "link": "https://doi.org/10.3233/fi-2009-0033"
+    },
+    "BIBREF1": {
+      "title": "Bounded and periodic evolutionary machines",
+      "authors": [
+        "M. Burgin",
+        "E. Eberbach"
+      ],
+      "year": "2010",
+      "venue": "Congress on Evolutionary Computation",
+      "link": "https://doi.org/10.1109/cec.2010.5586271"
+    },
+    "BIBREF2": {
+      "title": "Evolution of evolution: Self-constructing Evolutionary Turing Machine case study",
+      "authors": [
+        "E. Eberbach",
+        "M. Burgin"
+      ],
+      "year": "2007",
+      "venue": "Congress on Evolutionary Computation",
+      "link": "https://doi.org/10.1109/cec.2007.4425074"
+    },
+    "BIBREF3": {
+      "title": "Cooperative combinatorial optimization : Evolutionary computation case study",
+      "authors": [
+        "Mark Burgin",
+        "Eugene Eberbach"
+      ],
+      "year": "2008",
+      "venue": "BioSystems",
+      "link": "https://doi.org/10.1016/j.biosystems.2007.06.003"
+    },
+    "BIBREF5": {
+      "title": "A study of drift analysis for estimating computation time of evolutionary algorithms",
+      "authors": [
+        "Jun He",
+        "Xin Yao"
+      ],
+      "year": "2004",
+      "venue": "Natural Computing",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Cooperative combinatorial optimization",
+      "authors": [
+        "El-Ghazali Talbi",
+        "Clarisse Dhaenens"
+      ],
+      "year": "2009",
+      "venue": "European Journal of Operational Research",
+      "link": "https://doi.org/10.1016/j.ejor.2008.04.008"
+    },
+    "BIBREF7": {
+      "title": "Convergence analysis of canonical genetic algorithms",
+      "authors": [
+        "G. Rudolph"
+      ],
+      "year": "1994",
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://doi.org/10.1109/72.265964"
+    }
+  }
+}

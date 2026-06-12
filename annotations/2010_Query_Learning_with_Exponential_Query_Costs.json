@@ -1,0 +1,166 @@
+{
+  "paper_id": "1002.4019v1",
+  "title": "Query Learning with Exponential Query Costs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "WISER Wireless Information System for Emergency Responders",
+      "authors": [
+        "Marti Szczur",
+        "Bijan Mashayekhi"
+      ],
+      "year": "2005",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Multiple disease (fault) diagnosis with applications to the QMR-DT problem",
+      "authors": [
+        "Feili Yu",
+        "F. Tu",
+        "Haiying Tu",
+        "K. Pattipati"
+      ],
+      "year": "2003",
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://doi.org/10.1109/icsmc.2003.1244572"
+    },
+    "BIBREF2": {
+      "title": "Group-based Query Learning for rapid diagnosis in time-critical situations",
+      "authors": [
+        "Gowtham Bellala",
+        "Suresh K. Bhavnani",
+        "Clayton Scott"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Machine Learning",
+      "link": "https://doi.org/10.1109/tit.2011.2169296"
+    },
+    "BIBREF3": {
+      "title": "Diagnosis of Intermittent Faults in Combinational Networks",
+      "authors": [
+        "I. Koren",
+        "Z. Kohavi"
+      ],
+      "year": "1977",
+      "venue": "IEEE Transactions on Computers",
+      "link": "https://doi.org/10.1109/tc.1977.1674766"
+    },
+    "BIBREF4": {
+      "title": "On an Optimal Split Tree Problem",
+      "authors": [
+        "S. R. Kosaraju",
+        "T. Przytycka",
+        "R. Borgstrom"
+      ],
+      "year": "1999",
+      "venue": "Workshop on Algorithms and Data Structures",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Constructing optimal binary decision trees is NP-complete☆",
+      "authors": [
+        "L. Hyafil",
+        "R. Rivest"
+      ],
+      "year": "1976",
+      "venue": "Information Processing Letters",
+      "link": "https://doi.org/10.1016/0020-0190(76)90095-8"
+    },
+    "BIBREF6": {
+      "title": "Performance bounds for binary testing with arbitrary weights",
+      "authors": [
+        "D. Loveland"
+      ],
+      "year": "1985",
+      "venue": "Acta Informatica",
+      "link": "https://doi.org/10.1007/bf00290148"
+    },
+    "BIBREF7": {
+      "title": "Trees with exponentially growing costs",
+      "authors": [
+        "F. Schulz"
+      ],
+      "year": "2008",
+      "venue": "Information & Computation",
+      "link": "https://doi.org/10.1016/j.ic.2007.11.001"
+    },
+    "BIBREF8": {
+      "title": "Decision tree design from a communication theory standpoint",
+      "authors": [
+        "R.M. Goodman",
+        "P. Smyth"
+      ],
+      "year": "1988",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/18.21221"
+    },
+    "BIBREF9": {
+      "title": "Sequential testing of complex systems: a review",
+      "authors": [
+        "Tonguç Ünlüyurt"
+      ],
+      "year": "2004",
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://doi.org/10.1016/j.dam.2002.08.001"
+    },
+    "BIBREF11": {
+      "title": "Generalization of Huffman coding to minimize the probability of buffer overflow (Corresp.)",
+      "authors": [
+        "P. Humblet"
+      ],
+      "year": "1981",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://doi.org/10.1109/tit.1981.1056322"
+    },
+    "BIBREF12": {
+      "title": "Minimum-effort driven dynamic faceted search in structured databases",
+      "authors": [
+        "Senjuti Basu Roy",
+        "Haidong Wang",
+        "Gautam Das",
+        "Ullas Nambiar",
+        "Mukesh Mohania"
+      ],
+      "year": "2008",
+      "venue": "Conference on Information and Knowledge Management",
+      "link": "https://doi.org/10.1145/1458082.1458088"
+    },
+    "BIBREF13": {
+      "title": "C4.5: Programs for Machine Learning",
+      "authors": [
+        "J. Ross Quinlan"
+      ],
+      "year": "1993",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "An active testing model for tracking roads in satellite images",
+      "authors": [
+        "D. Geman",
+        "B. Jedynak"
+      ],
+      "year": "1996",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Analysis of a greedy active learning strategy",
+      "authors": [
+        "Sanjoy Dasgupta"
+      ],
+      "year": "2004",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Queries revisited",
+      "authors": [
+        "D. Angluin"
+      ],
+      "year": "2004",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1016/j.tcs.2003.11.004"
+    }
+  }
+}

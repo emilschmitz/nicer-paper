@@ -1,0 +1,233 @@
+{
+  "paper_id": "1807.10993v2",
+  "title": "U-Finger: Multi-Scale Dilated Convolutional Network for Fingerprint Image Denoising and Inpainting",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Fingerprint denoising using ridge orientation based clustered dictionaries",
+      "authors": [
+        "Kuldeep Singh",
+        "Rajiv Kapoor",
+        "R. Nayar"
+      ],
+      "year": "2015",
+      "venue": "Neurocomputing",
+      "link": "https://doi.org/10.1016/j.neucom.2015.04.053"
+    },
+    "BIBREF1": {
+      "title": "Learning Super-Resolution Jointly From External and Internal Examples",
+      "authors": [
+        "Zhangyang Wang",
+        "Yingzhen Yang",
+        "Zhaowen Wang",
+        "Shiyu Chang",
+        "Jianchao Yang",
+        "Thomas S. Huang"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://arxiv.org/abs/1503.01138"
+    },
+    "BIBREF2": {
+      "title": "Image Denoising by Sparse 3-D Transform-Domain Collaborative Filtering",
+      "authors": [
+        "Kostadin Dabov",
+        "Alessandro Foi",
+        "Vladimir Katkovnik",
+        "Karen Egiazarian"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://doi.org/10.1109/tip.2007.901238"
+    },
+    "BIBREF3": {
+      "title": "Detection of Blotch and Scratch in Video Based on Video Decomposition",
+      "authors": [
+        "Houqiang Li",
+        "Zhenbo Lu",
+        "Zhangyang Wang",
+        "Qing Ling",
+        "Weiping Li"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "link": "https://doi.org/10.1109/tcsvt.2013.2269016"
+    },
+    "BIBREF4": {
+      "title": "Image Denoising and Inpainting with Deep Neural Networks",
+      "authors": [
+        "Junyuan Xie",
+        "Linli Xu",
+        "Enhong Chen"
+      ],
+      "year": "2012",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Multi-Scale Context Aggregation by Dilated Convolutions",
+      "authors": [
+        "Fisher Yu",
+        "Vladlen Koltun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1511.07122"
+    },
+    "BIBREF6": {
+      "title": "D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images",
+      "authors": [
+        "Zhangyang Wang",
+        "Ding Liu",
+        "Shiyu Chang",
+        "Qing Ling",
+        "Yingzhen Yang",
+        "Thomas S. Huang"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1601.04149"
+    },
+    "BIBREF7": {
+      "title": "Non-local sparse models for image restoration",
+      "authors": [
+        "J. Mairal",
+        "F. Bach",
+        "J. Ponce",
+        "G. Sapiro",
+        "Andrew Zisserman"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2009.5459452"
+    },
+    "BIBREF8": {
+      "title": "Loss Functions for Image Restoration With Neural Networks",
+      "authors": [
+        "Hang Zhao",
+        "O. Gallo",
+        "I. Frosio",
+        "Jan Kautz"
+      ],
+      "year": "2017",
+      "venue": "IEEE Transactions on Computational Imaging",
+      "link": "https://arxiv.org/abs/1706.04284"
+    },
+    "BIBREF9": {
+      "title": "ImageNet classification with deep convolutional neural networks",
+      "authors": [
+        "A. Krizhevsky",
+        "I. Sutskever",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2017",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/3065386"
+    },
+    "BIBREF10": {
+      "title": "FingerNet: An Unified Deep Network for Fingerprint Minutiae Extraction",
+      "authors": [
+        "Yao Tang",
+        "Fei Gao",
+        "Jufu Feng",
+        "Yuhang Liu"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1709.02228"
+    },
+    "BIBREF11": {
+      "title": "Minutia-based enhancement of fingerprint samples",
+      "authors": [
+        "Patrick Schuch",
+        "Simon-Daniel Schulz",
+        "C. Busch"
+      ],
+      "year": "2017",
+      "venue": "International Carnahan Conference on Security Technology",
+      "link": "https://doi.org/10.1109/ccst.2017.8167824"
+    },
+    "BIBREF12": {
+      "title": "Enhance Visual Recognition Under Adverse Conditions via Deep Networks",
+      "authors": [
+        "Ding Liu",
+        "Bowen Cheng",
+        "Zhangyang Wang",
+        "Haichao Zhang",
+        "Thomas S. Huang"
+      ],
+      "year": "2019",
+      "venue": "IEEE Transactions on Image Processing",
+      "link": "https://arxiv.org/abs/1712.07732"
+    },
+    "BIBREF13": {
+      "title": "Robust Video Super-Resolution with Learned Temporal Dynamics",
+      "authors": [
+        "Ding Liu",
+        "Zhaowen Wang",
+        "Yuchen Fan",
+        "Xianming Liu",
+        "Zhangyang Wang",
+        "Shiyu Chang",
+        "Thomas S. Huang"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2017.274"
+    },
+    "BIBREF14": {
+      "title": "Improved Techniques for Learning to Dehaze and Beyond: A Collective Study.",
+      "authors": [
+        "Yu Liu",
+        "Guanlong Zhao",
+        "Boyuan Gong",
+        "Yang Li",
+        "Ritu Raj",
+        "Niraj Goel",
+        "Satya Kesav",
+        "Sandeep Gottimukkala",
+        "Zhangyang Wang",
+        "Wenqi Ren",
+        "Dacheng Tao"
+      ],
+      "year": "2018",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1807.00202"
+    },
+    "BIBREF15": {
+      "title": "When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach",
+      "authors": [
+        "Ding Liu",
+        "Bihan Wen",
+        "Xianming Liu",
+        "Thomas S. Huang"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1706.04284"
+    },
+    "BIBREF16": {
+      "title": "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge",
+      "authors": [
+        "Dinh-Luan Nguyen",
+        "Kai Cao",
+        "Anil K. Jain"
+      ],
+      "year": "2018",
+      "venue": "International Conference on Biometrics",
+      "link": "https://arxiv.org/abs/1712.09401"
+    },
+    "BIBREF17": {
+      "title": "Studying Very Low Resolution Recognition Using Deep Networks",
+      "authors": [
+        "Zhangyang Wang",
+        "Shiyu Chang",
+        "Yingzhen Yang",
+        "Ding Liu",
+        "Thomas S. Huang"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1601.04153"
+    }
+  }
+}

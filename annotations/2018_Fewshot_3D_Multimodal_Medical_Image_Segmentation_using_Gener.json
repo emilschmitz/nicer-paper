@@ -1,0 +1,70 @@
+{
+  "paper_id": "1810.12241v1",
+  "title": "Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning.",
+  "bib_entries": {
+    "BIBREF4": {
+      "title": "3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study",
+      "authors": [
+        "J. Dolz",
+        "Christian Desrosiers",
+        "Ismail Ben Ayed"
+      ],
+      "year": "2017",
+      "venue": "NeuroImage",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "A survey on deep learning in medical image analysis",
+      "authors": [
+        "G. Litjens",
+        "Thijs Kooi",
+        "B. Bejnordi",
+        "A. Setio",
+        "F. Ciompi",
+        "Mohsen Ghafoorian",
+        "J. Laak",
+        "B. Ginneken",
+        "C. I. Sánchez"
+      ],
+      "year": "2017",
+      "venue": "Medical Image Analysis",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Constrained-CNN losses for weakly supervised segmentation",
+      "authors": [
+        "H. Kervadec",
+        "J. Dolz",
+        "Meng Tang",
+        "Eric Granger",
+        "Yuri Boykov",
+        "Ismail Ben Ayed"
+      ],
+      "year": "2019",
+      "venue": "Medical Image Analysis",
+      "link": "https://arxiv.org/abs/1805.04628"
+    },
+    "BIBREF7": {
+      "title": "BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation",
+      "authors": [
+        "Jifeng Dai",
+        "Kaiming He",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1503.01640"
+    },
+    "BIBREF9": {
+      "title": "Constrained Convolutional Neural Networks for Weakly Supervised Segmentation",
+      "authors": [
+        "Deepak Pathak",
+        "Philipp Krähenbühl",
+        "Trevor Darrell"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1506.03648"
+    }
+  }
+}

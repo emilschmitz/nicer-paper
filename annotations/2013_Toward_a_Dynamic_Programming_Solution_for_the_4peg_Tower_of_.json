@@ -1,0 +1,106 @@
+{
+  "paper_id": "1301.7673v1",
+  "title": "Toward a Dynamic Programming Solution for the 4-peg Tower of Hanoi Problem with Configurations",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An iterative solution for the 4-peg towers of Hanoi",
+      "authors": [
+        "Xue-Miao Lu"
+      ],
+      "year": "1989",
+      "venue": "The Computer Journal",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Recent progress in heuristic search: a case study of the four-peg towers of Hanoi problem",
+      "authors": [
+        "Richard E. Korf",
+        "Ariel Felner"
+      ],
+      "year": "2007",
+      "venue": "International Joint Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "A recursive algorithm for the multi-peg tower of hanoi problem",
+      "authors": [
+        "M. Kaykobad",
+        "S. T. Rahman",
+        "Rezwan-al Bakhtiar",
+        "A. Majumdar"
+      ],
+      "year": "1995",
+      "venue": "International Journal of Computer Mathematics",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "The Language Features and Architecture of B-Prolog",
+      "authors": [
+        "Neng-Fa Zhou"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Programming Languages",
+      "link": "https://doi.org/10.1017/s1471068411000445"
+    },
+    "BIBREF4": {
+      "title": "The Reve's Puzzle",
+      "authors": [
+        "J. Rohl",
+        "Tom Gedeon"
+      ],
+      "year": "1986",
+      "venue": "The Computer Journal",
+      "link": "https://doi.org/10.1093/comjnl/29.2.187"
+    },
+    "BIBREF5": {
+      "title": "An iterative solution to the four-peg Tower of Hanoi problem",
+      "authors": [
+        "Appie van de Liefvoort"
+      ],
+      "year": "1990",
+      "venue": "Conference on Scientific Computing",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "On the design of a constructive algorithm to solve the multi-peg towers of Hanoi problem",
+      "authors": [
+        "U. K. Sarkar"
+      ],
+      "year": "2000",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "An iterative algorithm for the Reeve's puzzle",
+      "authors": [
+        "A. V. D. Liefvoort"
+      ],
+      "year": "1992",
+      "venue": "The Computer Journal",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Linear tabling strategies and optimizations",
+      "authors": [
+        "Neng-Fa Zhou",
+        "Taisuke Sato",
+        "Yi-Dong Shen"
+      ],
+      "year": "2008",
+      "venue": "Theory and Practice of Logic Programming",
+      "link": "https://arxiv.org/abs/0705.3468"
+    },
+    "BIBREF9": {
+      "title": "Frontier search",
+      "authors": [
+        "R. Korf",
+        "Weixiong Zhang",
+        "I. Thayer",
+        "Heath Hohwald"
+      ],
+      "year": "2005",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/1089023.1089024"
+    }
+  }
+}

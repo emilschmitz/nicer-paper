@@ -1,0 +1,308 @@
+{
+  "paper_id": "1810.12589v1",
+  "title": "Key Stakeholders' Value Propositions for Feature Selection in Software-intensive Products: An Industrial Case Study",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Value-Based Software Engineering: Seven Key Elements and Ethical Considerations",
+      "authors": [
+        "B. Boehm"
+      ],
+      "year": "2006",
+      "venue": "Value-Based Software Engineering",
+      "link": "https://doi.org/10.1007/3-540-29263-2_6"
+    },
+    "BIBREF1": {
+      "title": "Value-Based Software Engineering: Overview and Agenda",
+      "authors": [
+        "B. Boehm"
+      ],
+      "year": "2006",
+      "venue": "Value-Based Software Engineering",
+      "link": "https://doi.org/10.1007/3-540-29263-2_1"
+    },
+    "BIBREF4": {
+      "title": "Recommended Steps for Thematic Synthesis in Software Engineering",
+      "authors": [
+        "D. Cruzes",
+        "T. Dybå"
+      ],
+      "year": "2011",
+      "venue": "Empirical Software Engineering and Measurement",
+      "link": "https://doi.org/10.1109/esem.2011.36"
+    },
+    "BIBREF5": {
+      "title": "A product management challenge: Creating software product value through requirements selection",
+      "authors": [
+        "Sebastian Barney",
+        "A. Aurum",
+        "C. Wohlin"
+      ],
+      "year": "2008",
+      "venue": "Software Engineering and Advanced Applications",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Effort estimation in agile software development: a systematic literature review",
+      "authors": [
+        "Muhammad Usman",
+        "Emilia Mendes",
+        "Francila Weidt",
+        "Ricardo Britto"
+      ],
+      "year": "2014",
+      "venue": "Predictive Models in Software Engineering",
+      "link": "https://doi.org/10.1109/icgse.2014.11"
+    },
+    "BIBREF7": {
+      "title": "Creating Software Product Value in China",
+      "authors": [
+        "S. Barney",
+        "C. Wohlin",
+        "Ganglan Hu",
+        "A. Aurum"
+      ],
+      "year": "2009",
+      "venue": "IEEE Software",
+      "link": "https://doi.org/10.1109/ms.2009.89"
+    },
+    "BIBREF8": {
+      "title": "A systematic literature review of software requirements prioritization research",
+      "authors": [
+        "Philip Achimugu",
+        "Ali Selamat",
+        "Roliana Ibrahim",
+        "Mohd Naz'ri Mahrin"
+      ],
+      "year": "2014",
+      "venue": "Information & Software Technology",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Theory-W software project management principles and examples",
+      "authors": [
+        "B.W. Boehm",
+        "R. Ross"
+      ],
+      "year": "1989",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": "https://doi.org/10.1109/32.29489"
+    },
+    "BIBREF10": {
+      "title": "Software release planning: an evolutionary and iterative approach",
+      "authors": [
+        "Des Greer",
+        "Günther Ruhe"
+      ],
+      "year": "2004",
+      "venue": "Information & Software Technology",
+      "link": "https://doi.org/10.1016/j.infsof.2003.07.002"
+    },
+    "BIBREF11": {
+      "title": "Software product release planning through optimization and what-if analysis",
+      "authors": [
+        "Marjan van den Akker",
+        "Sjaak Brinkkemper",
+        "Guido Diepen",
+        "Johan Versendaal"
+      ],
+      "year": "2008",
+      "venue": "Information & Software Technology",
+      "link": "https://doi.org/10.1016/j.infsof.2007.10.017"
+    },
+    "BIBREF12": {
+      "title": "Building lean thinking in a telecom software development organization: strengths and challenges",
+      "authors": [
+        "Pilar Rodríguez",
+        "Kirsi Mikkonen",
+        "Pasi Kuvaja",
+        "Markku Oivo",
+        "Juan Garbajosa"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Software and System Process",
+      "link": "https://doi.org/10.1145/2486046.2486064"
+    },
+    "BIBREF13": {
+      "title": "Quest for a Silver Bullet: Creating Software Product Value through Requirements Selection",
+      "authors": [
+        "Sebastian Barney",
+        "Aybuke Aurum",
+        "Claes Wohlin"
+      ],
+      "year": "2006",
+      "venue": "Software Engineering and Advanced Applications",
+      "link": "https://doi.org/10.1109/euromicro.2006.51"
+    },
+    "BIBREF14": {
+      "title": "An empirical study on creating software product value in India - an analytic hierarchy process approach",
+      "authors": [
+        "T. Jessie Latha",
+        "L. Suganthi"
+      ],
+      "year": "2015",
+      "venue": "Business Information Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Knowledge Management in Agile Software Projects: A Systematic Review",
+      "authors": [
+        "Anderson R. Yanzer Cabral",
+        "Marcelo Blois Ribeiro",
+        "Rodrigo Perozzo Noll"
+      ],
+      "year": "2014",
+      "venue": "Journal of Information & Knowledge Management",
+      "link": "https://doi.org/10.1142/s0219649214500105"
+    },
+    "BIBREF16": {
+      "title": "The software value map — an exhaustive collection of value aspects for the development of software intensive products",
+      "authors": [
+        "Mahvish Khurum",
+        "Tony Gorschek",
+        "Magnus Wilson"
+      ],
+      "year": "2013",
+      "venue": "Journal of Software: Evolution and Process",
+      "link": "https://doi.org/10.1002/smr.1560"
+    },
+    "BIBREF17": {
+      "title": "Using knowledge elicitation to improve web effort estimation: lessons from six industrial case studies",
+      "authors": [
+        "E. Mendes"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Software Engineering",
+      "link": "https://doi.org/10.1109/icse.2012.6227108"
+    },
+    "BIBREF18": {
+      "title": "What is important when deciding to include a software requirement in a project or release",
+      "authors": [
+        "C. Wohlin",
+        "A. Aurum"
+      ],
+      "year": "2005",
+      "venue": "International Symposium on Empirical Software Engineering",
+      "link": "https://doi.org/10.1109/isese.2005.1541833"
+    },
+    "BIBREF19": {
+      "title": "A systematic review on strategic release planning models",
+      "authors": [
+        "Mikael Svahnberg",
+        "T. Gorschek",
+        "R. Feldt",
+        "R. Torkar",
+        "S. Saleem",
+        "M. Shafique"
+      ],
+      "year": "2010",
+      "venue": "Information & Software Technology",
+      "link": null
+    },
+    "BIBREF20": {
+      "title": "A Systematic Review of Software Development Cost Estimation Studies",
+      "authors": [
+        "M. Jorgensen",
+        "M. Shepperd"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference",
+      "authors": [
+        "Judea Pearl"
+      ],
+      "year": "1988",
+      "venue": "",
+      "link": "https://doi.org/10.1137/1032155"
+    },
+    "BIBREF22": {
+      "title": "Continuous deployment of software intensive products and services: A systematic mapping study",
+      "authors": [
+        "Pilar Rodríguez",
+        "Alireza Haghighatkhah",
+        "Lucy Ellen Lwakatare",
+        "Susanna Teppola",
+        "T. Suomalainen",
+        "Juho Eskeli",
+        "Teemu Karvonen",
+        "P. Kuvaja",
+        "J. Verner",
+        "M. Oivo"
+      ],
+      "year": "2017",
+      "venue": "Journal of Systems and Software",
+      "link": "https://doi.org/10.1016/j.jss.2015.12.015"
+    },
+    "BIBREF23": {
+      "title": "Factoring requirement dependencies in software requirement selection using graphs and integer programming",
+      "authors": [
+        "Davoud Mougouei"
+      ],
+      "year": "2016",
+      "venue": "Automated Software Engineering",
+      "link": "https://doi.org/10.1145/2970276.2975936"
+    },
+    "BIBREF24": {
+      "title": "Providing Tool-Support for Value-Based Decision-Making: A Usability Assessment",
+      "authors": [
+        "V. Freitas",
+        "E. Mendes",
+        "Burak Turhan"
+      ],
+      "year": "2016",
+      "venue": "Software Engineering and Advanced Applications",
+      "link": "https://doi.org/10.1109/seaa.2016.44"
+    },
+    "BIBREF25": {
+      "title": "A study of value in agile software development organizations",
+      "authors": [
+        "H. Alahyari",
+        "Richard Berntsson-Svensson",
+        "T. Gorschek"
+      ],
+      "year": "2017",
+      "venue": "Journal of Systems and Software",
+      "link": null
+    },
+    "BIBREF26": {
+      "title": "Towards improving decision making and estimating the value of decisions in value-based software engineering: the VALUE framework",
+      "authors": [
+        "E. Mendes",
+        "Pilar Rodríguez",
+        "V. Freitas",
+        "Simon Baker",
+        "M. A. Atoui"
+      ],
+      "year": "2018",
+      "venue": "Software Quality Journal",
+      "link": "https://doi.org/10.1007/s11219-017-9360-z"
+    },
+    "BIBREF27": {
+      "title": "Value-Based Decision-Making Using a Web-Based Tool: A Multiple Case Study",
+      "authors": [
+        "V. Freitas",
+        "M. Perkusich",
+        "E. Mendes",
+        "Pilar Rodríguez",
+        "M. Oivo"
+      ],
+      "year": "2017",
+      "venue": "Asia-Pacific Software Engineering Conference",
+      "link": "https://doi.org/10.1109/apsec.2017.34"
+    },
+    "BIBREF28": {
+      "title": "Using Bayesian Network to estimate the value of decisions within the context of Value-Based Software Engineering",
+      "authors": [
+        "E. Mendes",
+        "M. Perkusich",
+        "V. Freitas",
+        "João Nunes"
+      ],
+      "year": "2018",
+      "venue": "Evaluation and Assessment in Software Engineering",
+      "link": "https://doi.org/10.1145/3210459.3210468"
+    }
+  }
+}

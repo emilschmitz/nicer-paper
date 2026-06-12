@@ -1,0 +1,163 @@
+{
+  "paper_id": "1110.5450v1",
+  "title": "Hand Tracking based on Hierarchical Clustering of Range Data",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Real Time Hand Based Robot Control Using 2D/3D Images",
+      "authors": [
+        "S. E. Ghobadi",
+        "O. E. Loepprich",
+        "Farid Ahmadov",
+        "J. Bernshausen",
+        "K. Hartmann",
+        "O. Loffeld"
+      ],
+      "year": "2008",
+      "venue": "International Symposium on Visual Computing",
+      "link": "https://doi.org/10.1007/978-3-540-89646-3_30"
+    },
+    "BIBREF1": {
+      "title": "A face and gesture recognition system based on an active stereo sensor",
+      "authors": [
+        "S. Malassiotis",
+        "F. Tsalakanidou",
+        "N. Mavridis",
+        "V. Giagourta",
+        "N. Grammalidis",
+        "M. Strintzis"
+      ],
+      "year": "2001",
+      "venue": "International Conference on Image Processing",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Real time gestural interface for generic applications",
+      "authors": [
+        "C. Keskin",
+        "O. Aran",
+        "L. Akarun"
+      ],
+      "year": "2005",
+      "venue": "European Signal Processing Conference",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Hand gesture recognition with a novel IR time-of-flight range camera: a pilot study",
+      "authors": [
+        "Pia Breuer",
+        "Christian Eckes",
+        "S. Müller"
+      ],
+      "year": "2007",
+      "venue": "Computer Vision/Computer Graphics Collaboration Techniques",
+      "link": "https://doi.org/10.1007/978-3-540-71457-6_23"
+    },
+    "BIBREF4": {
+      "title": "Time‐of‐Flight Cameras in Computer Graphics",
+      "authors": [
+        "A. Kolb",
+        "E. Barth",
+        "R. Koch",
+        "R. Larsen"
+      ],
+      "year": "2010",
+      "venue": "Computer Graphics Forum",
+      "link": "https://doi.org/10.1111/j.1467-8659.2009.01583.x"
+    },
+    "BIBREF5": {
+      "title": "Gesture-Tracking in Real Time with Dynamic Regional Range Computation",
+      "authors": [
+        "L. Tsap"
+      ],
+      "year": "2002",
+      "venue": "Real-time Imaging",
+      "link": "https://doi.org/10.1006/rtim.2001.0260"
+    },
+    "BIBREF6": {
+      "title": "GPU-Based Multilevel Clustering",
+      "authors": [
+        "Iurie Chiosa",
+        "A. Kolb"
+      ],
+      "year": "2011",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "link": "https://doi.org/10.1109/tvcg.2010.55"
+    },
+    "BIBREF7": {
+      "title": "Dynamic disparity adjustment and histogram-based filtering of range data for fast 3-D hand tracking",
+      "authors": [
+        "Leonid V. Tsap",
+        "Min C. Shin"
+      ],
+      "year": "2004",
+      "venue": "Digital Signal Processing",
+      "link": "https://doi.org/10.1016/j.dsp.2004.04.002"
+    },
+    "BIBREF8": {
+      "title": "Segmentation of dense range information in complex urban scenes",
+      "authors": [
+        "Jonathan R. Schoenberg",
+        "Aaron Nathan",
+        "Mark Campbell"
+      ],
+      "year": "2010",
+      "venue": "Intelligent Robots and Systems",
+      "link": "https://doi.org/10.1109/iros.2010.5651749"
+    },
+    "BIBREF9": {
+      "title": "3-D gesture-based scene navigation in medical imaging applications using Time-of-Flight cameras",
+      "authors": [
+        "S. Soutschek",
+        "J. Penne",
+        "J. Hornegger",
+        "J. Kornhuber"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvprw.2008.4563162"
+    },
+    "BIBREF10": {
+      "title": "Fast approximate energy minimization via graph cuts",
+      "authors": [
+        "Y. Boykov",
+        "O. Veksler",
+        "R. Zabih"
+      ],
+      "year": "2001",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/34.969114"
+    },
+    "BIBREF11": {
+      "title": "Real-time American sign language recognition using desk and wearable computer based video",
+      "authors": [
+        "Thad Starner",
+        "Joshua Weaver",
+        "A. Pentland"
+      ],
+      "year": "1998",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/34.735811"
+    },
+    "BIBREF12": {
+      "title": "View invariant gesture recognition using the CSEM SwissRanger SR-2 camera",
+      "authors": [
+        "M. B. Holte",
+        "T. Moeslund",
+        "P. Fihl"
+      ],
+      "year": "2008",
+      "venue": "International Journal of Intelligent Systems Technologies and Applications",
+      "link": "https://doi.org/10.1504/ijista.2008.021292"
+    },
+    "BIBREF13": {
+      "title": "Gesture Recognition: A Survey",
+      "authors": [
+        "S. Mitra",
+        "T. Acharya"
+      ],
+      "year": "2007",
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://doi.org/10.1109/tsmcc.2007.893280"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "paper_id": "1109.2613v2",
+  "title": "Whether and Where to Code in the Wireless Relay Channel",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "How Practical is Network Coding",
+      "authors": [
+        "Mea Wang",
+        "Baochun Li"
+      ],
+      "year": "2006",
+      "venue": "International Workshop on Quality of Service",
+      "link": "https://doi.org/10.1109/iwqos.2006.250480"
+    },
+    "BIBREF2": {
+      "title": "Improving Amplify-and-Forward Relay Networks: Optimal Power Allocation versus Selection",
+      "authors": [
+        "Yi Zhao",
+        "Raviraj Adve",
+        "Teng Lim"
+      ],
+      "year": "2006",
+      "venue": "International Symposium on Information Theory",
+      "link": "https://doi.org/10.1109/isit.2006.262002"
+    },
+    "BIBREF3": {
+      "title": "Channel coding and decoding in a relay system operated with physical-layer network coding",
+      "authors": [
+        "Shengli Zhang",
+        "Soung-Chang Liew"
+      ],
+      "year": "2009",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "link": "https://arxiv.org/abs/0807.4770"
+    },
+    "BIBREF4": {
+      "title": "Trading structure for randomness in wireless opportunistic routing",
+      "authors": [
+        "Szymon Chachulski",
+        "Michael Jennings",
+        "Sachin Katti",
+        "Dina Katabi"
+      ],
+      "year": "2007",
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": "https://doi.org/10.1145/1282427.1282400"
+    },
+    "BIBREF5": {
+      "title": "On energy efficiency and optimum resource allocation of relay transmissions in the low-power regime",
+      "authors": [
+        "Yingwei Yao",
+        "Xiaodong Cai",
+        "G. Giannakis"
+      ],
+      "year": "2005",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "XORs in the air: practical wireless network coding",
+      "authors": [
+        "Sachin Katti",
+        "Hariharan Rahul",
+        "Wenjun Hu",
+        "Dina Katabi",
+        "Muriel Médard",
+        "Jon Crowcroft"
+      ],
+      "year": "2006",
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": "https://doi.org/10.1109/tnet.2008.923722"
+    },
+    "BIBREF11": {
+      "title": "When Both Transmitting and Receiving Energies Matter: An Application of Network Coding in Wireless Body Area Networks",
+      "authors": [
+        "Xiaomeng Shi",
+        "Muriel Medard",
+        "Daniel Lucani"
+      ],
+      "year": "2010",
+      "venue": "arXiv: Networking and Internet Architecture",
+      "link": "https://arxiv.org/abs/1008.0143"
+    },
+    "BIBREF12": {
+      "title": "On Coding for Reliable Communication over Packet Networks",
+      "authors": [
+        "Desmond S. Lun",
+        "M. Médard",
+        "R. Koetter",
+        "M. Effros"
+      ],
+      "year": "2005",
+      "venue": "arXiv: Information Theory",
+      "link": null
+    }
+  }
+}

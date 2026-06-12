@@ -1,0 +1,137 @@
+{
+  "paper_id": "1203.1568v2",
+  "title": "BotMosaic: Collaborative Network Watermark for Botnet Detection",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Rishi: identify bot contaminated hosts by IRC nickname evaluation",
+      "authors": [
+        "Jan Goebel",
+        "Thorsten Holz"
+      ],
+      "year": "2007",
+      "venue": "Conference on Workshop on Hot Topics in Understanding Botnets",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Detecting stepping stones",
+      "authors": [
+        "Yin Zhang",
+        "Vern Paxson"
+      ],
+      "year": "2000",
+      "venue": "USENIX Security Symposium",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "RAINBOW: A Robust And Invisible Non-Blind Watermark for Network Flows.",
+      "authors": [
+        "Amir Houmansadr",
+        "Negar Kiyavash",
+        "Nikita Borisov"
+      ],
+      "year": "2009",
+      "venue": "Network and Distributed System Security Symposium",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "An algorithm for anomaly-based botnet detection",
+      "authors": [
+        "James R. Binkley",
+        "Suresh Singh"
+      ],
+      "year": "2006",
+      "venue": "Conference on Steps to Reducing Unwanted Traffic on Internet",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Stegobot: a covert social network botnet",
+      "authors": [
+        "Shishir Nagaraja",
+        "Amir Houmansadr",
+        "Pratch Piyawongwisal",
+        "Vijit Singh",
+        "Pragya Agarwal",
+        "N. Borisov"
+      ],
+      "year": "2011",
+      "venue": "Information Hiding",
+      "link": "https://doi.org/10.1007/978-3-642-24178-9_21"
+    },
+    "BIBREF5": {
+      "title": "Inter-Packet Delay Based Correlation for Tracing Encrypted Connections through Stepping Stones",
+      "authors": [
+        "Xinyuan Wang",
+        "D. Reeves",
+        "S. F. Wu"
+      ],
+      "year": "2002",
+      "venue": "European Symposium on Research in Computer Security",
+      "link": "https://doi.org/10.1007/3-540-45853-0_15"
+    },
+    "BIBREF6": {
+      "title": "A virtual honeypot framework",
+      "authors": [
+        "Niels Provos"
+      ],
+      "year": "2004",
+      "venue": "USENIX Security Symposium",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Revealing botnet membership using DNSBL counter-intelligence",
+      "authors": [
+        "Anirudh Ramachandran",
+        "Nick Feamster",
+        "David Dagon"
+      ],
+      "year": "2006",
+      "venue": "Conference on Steps to Reducing Unwanted Traffic on Internet",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Wide-scale botnet detection and characterization",
+      "authors": [
+        "Anestis Karasaridis",
+        "Brian Rexroad",
+        "David Hoeflin"
+      ],
+      "year": "2007",
+      "venue": "Conference on Workshop on Hot Topics in Understanding Botnets",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Internet Relay Chat: Server Protocol",
+      "authors": [
+        "C. Kalt"
+      ],
+      "year": "2000",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Using uncleanliness to predict future botnet addresses",
+      "authors": [
+        "Michael Patrick Collins",
+        "T. Shimeall",
+        "Sid Faber",
+        "Jeff Janies",
+        "Rhiannon Weaver",
+        "M. D. Shon",
+        "J. Kadane"
+      ],
+      "year": "2007",
+      "venue": "Internet Measurement Conference",
+      "link": "https://doi.org/10.1145/1298306.1298319"
+    },
+    "BIBREF12": {
+      "title": "Understanding the network-level behavior of spammers",
+      "authors": [
+        "Anirudh Ramachandran",
+        "Nick Feamster"
+      ],
+      "year": "2006",
+      "venue": "ACM Special Interest Group on Data Communication",
+      "link": "https://doi.org/10.1145/1151659.1159947"
+    }
+  }
+}

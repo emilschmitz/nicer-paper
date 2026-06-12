@@ -1,0 +1,28 @@
+{
+  "paper_id": "1203.4913v2",
+  "title": "Combined Channel Aggregation and Fragmentation Strategy in Cognitive Radio Networks",
+  "bib_entries": {
+    "BIBREF8": {
+      "title": "NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey",
+      "authors": [
+        "I. Akyildiz",
+        "Won-Yeol Lee",
+        "M. Vuran",
+        "Shantidev Mohanty"
+      ],
+      "year": "2006",
+      "venue": "Computer Networks",
+      "link": "https://doi.org/10.1016/j.comnet.2006.05.001"
+    },
+    "BIBREF12": {
+      "title": "Cognitive radio: making software radios more personal",
+      "authors": [
+        "J. Mitola",
+        "Gerald Q. Maguire"
+      ],
+      "year": "1999",
+      "venue": "IEEE Personal Communications",
+      "link": "https://doi.org/10.1109/98.788210"
+    }
+  }
+}

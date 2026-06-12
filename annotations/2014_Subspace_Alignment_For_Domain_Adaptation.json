@@ -1,0 +1,29 @@
+{
+  "paper_id": "2001.02472v2",
+  "title": "Subspace Alignment For Domain Adaptation.",
+  "bib_entries": {
+    "BIBREF10": {
+      "title": "What you saw is not what you get: Domain adaptation using asymmetric kernel transforms",
+      "authors": [
+        "Brian Kulis",
+        "Kate Saenko",
+        "Trevor Darrell"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2011.5995702"
+    },
+    "BIBREF12": {
+      "title": "Unsupervised Visual Domain Adaptation Using Subspace Alignment",
+      "authors": [
+        "Basura Fernando",
+        "Amaury Habrard",
+        "Marc Sebban",
+        "Tinne Tuytelaars"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2013.368"
+    }
+  }
+}

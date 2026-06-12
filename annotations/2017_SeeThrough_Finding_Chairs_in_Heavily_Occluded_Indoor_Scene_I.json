@@ -1,0 +1,362 @@
+{
+  "paper_id": "1710.10473v2",
+  "title": "SeeThrough: Finding Chairs in Heavily Occluded Indoor Scene Images",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "PanoContext: A Whole-Room 3D Context Model for Panoramic Scene Understanding",
+      "authors": [
+        "Yinda Zhang",
+        "Shuran Song",
+        "P. Tan",
+        "Jianxiong Xiao"
+      ],
+      "year": "2014",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-319-10599-4_43"
+    },
+    "BIBREF1": {
+      "title": "OpenGM: A C++ Library for Discrete Graphical Models",
+      "authors": [
+        "Bjoern Andres",
+        "Thorsten Beier",
+        "Joerg H. Kappes"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Viewpoints and keypoints",
+      "authors": [
+        "Shubham Tulsiani",
+        "Jitendra Malik"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1411.6067"
+    },
+    "BIBREF3": {
+      "title": "Imagining the unseen: stability-based cuboid arrangements for scene understanding",
+      "authors": [
+        "Tianjia Shao",
+        "Áron Monszpart",
+        "Youyi Zheng",
+        "Bongjin Koo",
+        "Weiwei Xu",
+        "Kun Zhou",
+        "N. Mitra"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/2661229.2661288"
+    },
+    "BIBREF4": {
+      "title": "Acquiring 3D indoor environments with variability and repetition",
+      "authors": [
+        "Y. Kim",
+        "N. Mitra",
+        "Dong‐Ming Yan",
+        "L. Guibas"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/2366145.2366157"
+    },
+    "BIBREF5": {
+      "title": "Inference on networks of mixtures for robust robot mapping",
+      "authors": [
+        "Edwin Olson",
+        "P. Agarwal"
+      ],
+      "year": "2013",
+      "venue": "Robotics: Science and Systems",
+      "link": "https://doi.org/10.1177/0278364913479413"
+    },
+    "BIBREF6": {
+      "title": "Seeing 3D Chairs: Exemplar Part-Based 2D-3D Alignment Using a Large Dataset of CAD Models",
+      "authors": [
+        "Mathieu Aubry",
+        "Daniel Maturana",
+        "Alexei A. Efros",
+        "Bryan C. Russell",
+        "Josef Sivic"
+      ],
+      "year": "2014",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2014.487"
+    },
+    "BIBREF7": {
+      "title": "Indoor Scene Understanding with Geometric and Semantic Contexts",
+      "authors": [
+        "Wongun Choi",
+        "Yu-Wei Chao",
+        "Caroline Pantofaru",
+        "Silvio Savarese"
+      ],
+      "year": "2015",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://doi.org/10.1007/s11263-014-0779-4"
+    },
+    "BIBREF8": {
+      "title": "Single-view reconstruction via joint analysis of image and shape collections",
+      "authors": [
+        "Qixing Huang",
+        "Hai Wang",
+        "Vladlen Koltun"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/2766890"
+    },
+    "BIBREF9": {
+      "title": "RAPter: rebuilding man-made scenes with regular arrangements of planes",
+      "authors": [
+        "Aron Monszpart",
+        "Nicolas Mellado",
+        "Gabriel J. Brostow",
+        "Niloy J. Mitra"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/2766995"
+    },
+    "BIBREF10": {
+      "title": "Activity-centric scene synthesis for functional 3D scene modeling",
+      "authors": [
+        "Matthew Fisher",
+        "Manolis Savva",
+        "Yangyan Li",
+        "Pat Hanrahan",
+        "Matthias Nießner"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/2816795.2818057"
+    },
+    "BIBREF11": {
+      "title": "Parsing IKEA Objects: Fine Pose Estimation",
+      "authors": [
+        "Joseph J. Lim",
+        "Hamed Pirsiavash",
+        "Antonio Torralba"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2013.372"
+    },
+    "BIBREF12": {
+      "title": "Box in the Box: Joint 3D Layout and Object Reasoning from Single Images",
+      "authors": [
+        "Alexander G. Schwing",
+        "Sanja Fidler",
+        "Marc Pollefeys",
+        "Raquel Urtasun"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2013.51"
+    },
+    "BIBREF13": {
+      "title": "Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures",
+      "authors": [
+        "James Bergstra",
+        "Daniel Yamins",
+        "David Cox"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Localizing 3D cuboids in single-view images",
+      "authors": [
+        "Jianxiong Xiao",
+        "Bryan Russell",
+        "Antonio Torralba"
+      ],
+      "year": "2012",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Bayesian geometric modeling of indoor scenes",
+      "authors": [
+        "Luca Del Pero",
+        "Joshua Bowdish",
+        "Daniel Fried",
+        "Bonnie Kermgard",
+        "Emily Hartley",
+        "Kobus Barnard"
+      ],
+      "year": "2012",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2012.6247994"
+    },
+    "BIBREF16": {
+      "title": "Automatic photo pop-up",
+      "authors": [
+        "Derek Hoiem",
+        "Alexei A. Efros",
+        "Martial Hebert"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/1073204.1073232"
+    },
+    "BIBREF17": {
+      "title": "3D object manipulation in a single photograph using stock 3D models",
+      "authors": [
+        "Natasha Kholgade",
+        "T. Simon",
+        "Alexei A. Efros",
+        "Yaser Sheikh"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Histograms of oriented gradients for human detection",
+      "authors": [
+        "Navneet Dalal",
+        "B. Triggs"
+      ],
+      "year": "2005",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2005.177"
+    },
+    "BIBREF19": {
+      "title": "Example-based synthesis of 3D object arrangements",
+      "authors": [
+        "Matthew Fisher",
+        "Daniel Ritchie",
+        "M. Savva",
+        "T. Funkhouser",
+        "P. Hanrahan"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/2366145.2366154"
+    },
+    "BIBREF20": {
+      "title": "ShapeNet: An Information-Rich 3D Model Repository",
+      "authors": [
+        "Angel X. Chang",
+        "Thomas A. Funkhouser",
+        "Leonidas J. Guibas",
+        "Pat Hanrahan",
+        "Qi-Xing Huang",
+        "Zimo Li",
+        "Silvio Savarese",
+        "Manolis Savva",
+        "Shuran Song",
+        "Hao Su",
+        "Jianxiong Xiao",
+        "Li Yi",
+        "Fisher Yu"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Graphics",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Learning Informative Edge Maps for Indoor Scene Layout Prediction",
+      "authors": [
+        "Arun Mallya",
+        "Svetlana Lazebnik"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2015.113"
+    },
+    "BIBREF22": {
+      "title": "Single Image 3D Interpreter Network",
+      "authors": [
+        "Jiajun Wu",
+        "Tianfan Xue",
+        "Joseph J. Lim",
+        "Yuandong Tian",
+        "J. Tenenbaum",
+        "A. Torralba",
+        "W. Freeman"
+      ],
+      "year": "2016",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://arxiv.org/abs/1604.08685"
+    },
+    "BIBREF23": {
+      "title": "DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes",
+      "authors": [
+        "Saumitro Dasgupta",
+        "Kuan Fang",
+        "Kevin Chen",
+        "S. Savarese"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2016.73"
+    },
+    "BIBREF24": {
+      "title": "Recovering the spatial layout of cluttered rooms",
+      "authors": [
+        "Varsha Hedau",
+        "Derek Hoiem",
+        "D. Forsyth"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2009.5459411"
+    },
+    "BIBREF25": {
+      "title": "Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks",
+      "authors": [
+        "Yinda Zhang",
+        "Shuran Song",
+        "Ersin Yumer",
+        "M. Savva",
+        "Joon-Young Lee",
+        "Hailin Jin",
+        "T. Funkhouser"
+      ],
+      "year": "2017",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1612.07429"
+    },
+    "BIBREF26": {
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": [
+        "Kaiming He",
+        "Xiangyu Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1512.03385"
+    },
+    "BIBREF27": {
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+      "authors": [
+        "Shaoqing Ren",
+        "Kaiming He",
+        "Ross Girshick",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1506.01497"
+    },
+    "BIBREF28": {
+      "title": "Convolutional Pose Machines",
+      "authors": [
+        "S. Wei",
+        "V. Ramakrishna",
+        "T. Kanade",
+        "Yaser Sheikh"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1602.00134"
+    }
+  }
+}

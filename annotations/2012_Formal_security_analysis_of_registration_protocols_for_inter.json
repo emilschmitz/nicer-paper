@@ -1,0 +1,284 @@
+{
+  "paper_id": "1201.1134v2",
+  "title": "Formal security analysis of registration protocols for interactive systems: a methodology and a case of study",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An approach for adapting moodle into a secure infrastructure",
+      "authors": [
+        "Jesús Díaz",
+        "David Arroyo",
+        "F. Ortiz"
+      ],
+      "year": "2011",
+      "venue": "Computational Intelligence and Security",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "APES: Anonymity and Privacy in Electronic Services",
+      "authors": [
+        "Claudia Díaz",
+        "Joris Claessens",
+        "Bart Preneel"
+      ],
+      "year": "2003",
+      "venue": "Datenschutz Und Datensicherheit",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Email-based identification and authentication: an alternative to PKI?",
+      "authors": [
+        "S. Garfinkel"
+      ],
+      "year": "2003",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "link": "https://doi.org/10.1109/msecp.2003.1253564"
+    },
+    "BIBREF3": {
+      "title": "Anonymity 2.0 - X.509 extensions supporting privacy-friendly authentication",
+      "authors": [
+        "V. Benjumea",
+        "Seung Geol Choi",
+        "Javier López",
+        "M. Yung"
+      ],
+      "year": "2007",
+      "venue": "Cryptology and Network Security",
+      "link": "https://doi.org/10.1007/978-3-540-76969-9_17"
+    },
+    "BIBREF4": {
+      "title": "Security Engineering: A Guide to Building Dependable Distributed Systems",
+      "authors": [
+        "Ross J. Anderson"
+      ],
+      "year": "2001",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "From Secrecy to Authenticity in Security Protocols",
+      "authors": [
+        "B. Blanchet"
+      ],
+      "year": "2002",
+      "venue": "Static Analysis Symposium",
+      "link": "https://doi.org/10.1007/3-540-45789-5_25"
+    },
+    "BIBREF6": {
+      "title": "Multi-channel protocols",
+      "authors": [
+        "Ford-Long Wong"
+      ],
+      "year": "2005",
+      "venue": "International Workshop on Security",
+      "link": "https://doi.org/10.1007/978-3-540-77156-2_15"
+    },
+    "BIBREF7": {
+      "title": "The Kerberos Network Authentication Service (V5)",
+      "authors": [
+        "J. Kohl",
+        "C. Neuman"
+      ],
+      "year": "1993",
+      "venue": "RFC",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Using rhythmic nonces for puzzle-based DoS resistance",
+      "authors": [
+        "Ellick Chan",
+        "Carl A. Gunter",
+        "Sonia Jahid",
+        "Evgeni Peryshkin",
+        "Daniel Rebolledo"
+      ],
+      "year": "2008",
+      "venue": "Computer and Communications Security",
+      "link": "https://doi.org/10.1145/1456508.1456518"
+    },
+    "BIBREF9": {
+      "title": "A calculus for cryptographic protocols: the spi calculus",
+      "authors": [
+        "M. Abadi",
+        "A. Gordon"
+      ],
+      "year": "1997",
+      "venue": "Computer and Communications Security",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "On the security of public key protocols",
+      "authors": [
+        "D. Dolev",
+        "A. Yao"
+      ],
+      "year": "1983",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Privacy preservation with X.509 standard certificates",
+      "authors": [
+        "Taekyoung Kwon"
+      ],
+      "year": "2011",
+      "venue": "Information Sciences",
+      "link": "https://doi.org/10.1016/j.ins.2011.02.016"
+    },
+    "BIBREF12": {
+      "title": "Voice interactive classroom, a service-oriented software architecture for speech-enabled learning",
+      "authors": [
+        "Víctor Manuel Álvarez García",
+        "María del Puerto Paule Ruiz",
+        "Juan Ramón Pérez Pérez"
+      ],
+      "year": "2010",
+      "venue": "Journal of Network and Computer Applications",
+      "link": "https://doi.org/10.1016/j.jnca.2010.03.005"
+    },
+    "BIBREF13": {
+      "title": "Authentication using multiple communication channels",
+      "authors": [
+        "Shintaro Mizuno",
+        "Kohji Yamada",
+        "Kenji Takahashi"
+      ],
+      "year": "2005",
+      "venue": "Digital Identity Management",
+      "link": "https://doi.org/10.1145/1102486.1102496"
+    },
+    "BIBREF14": {
+      "title": "On Sentences Which are True of Direct Unions of Algebras",
+      "authors": [
+        "Alfred Horn"
+      ],
+      "year": "1951",
+      "venue": "Journal of Symbolic Logic",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "A semantic model for authentication protocols",
+      "authors": [
+        "T.Y.C. Woo",
+        "S.S. Lam"
+      ],
+      "year": "1993",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Programming cryptographic protocols",
+      "authors": [
+        "Joshua D. Guttman",
+        "Jonathan C. Herzog",
+        "John D. Ramsdell",
+        "Brian T. Sniffen"
+      ],
+      "year": "2005",
+      "venue": "Trustworthy Global Computing",
+      "link": "https://doi.org/10.1007/11580850_8"
+    },
+    "BIBREF17": {
+      "title": "SOME BASIC CRYPTOGRAPHIC REQUIREMENTS FOR CHAOS-BASED CRYPTOSYSTEMS",
+      "authors": [
+        "Gonzalo Alvarez",
+        "Shujun Li"
+      ],
+      "year": "2006",
+      "venue": "International Journal of Bifurcation and Chaos",
+      "link": "https://arxiv.org/abs/nlin/0311039"
+    },
+    "BIBREF18": {
+      "title": "An efficient cryptographic protocol verifier based on prolog rules",
+      "authors": [
+        "B. Blanchet"
+      ],
+      "year": "2001",
+      "venue": "IEEE Computer Security Foundations Symposium",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "Trident, a new pseudo random number generator based on coupled chaotic maps",
+      "authors": [
+        "A. Guerra",
+        "G. Pastor",
+        "M. Romera",
+        "F. Montoya"
+      ],
+      "year": "2010",
+      "venue": "arXiv: Cryptography and Security",
+      "link": "https://arxiv.org/abs/1008.2345"
+    },
+    "BIBREF20": {
+      "title": "Reconciling Two Views of Cryptography (The Computational Soundness of Formal Encryption)",
+      "authors": [
+        "Martin Abadi",
+        "Phillip Rogaway"
+      ],
+      "year": "2007",
+      "venue": "Journal of Cryptology",
+      "link": "https://doi.org/10.1007/s00145-007-0203-0"
+    },
+    "BIBREF21": {
+      "title": "A calculus of mobile processes, II",
+      "authors": [
+        "Robin Milner",
+        "Joachim Parrow",
+        "David Walker"
+      ],
+      "year": "1992",
+      "venue": "Information & Computation",
+      "link": null
+    },
+    "BIBREF22": {
+      "title": "Formal analysis of an electronic voting system: An experience report",
+      "authors": [
+        "Komminist Weldemariam",
+        "Richard A. Kemmerer",
+        "Adolfo Villafiorita"
+      ],
+      "year": "2011",
+      "venue": "Journal of Systems and Software",
+      "link": "https://doi.org/10.1016/j.jss.2011.03.032"
+    },
+    "BIBREF23": {
+      "title": "A pure labeled transition semantics for the applied pi calculus",
+      "authors": [
+        "Xiaojuan Cai"
+      ],
+      "year": "2010",
+      "venue": "Information Sciences",
+      "link": null
+    },
+    "BIBREF24": {
+      "title": "Obtaining the threat model for e-mail phishing",
+      "authors": [
+        "Cleber K. Olivo",
+        "A. Santin",
+        "Luiz Oliveira"
+      ],
+      "year": "2013",
+      "venue": "Applied Soft Computing",
+      "link": "https://doi.org/10.1016/j.asoc.2011.06.016"
+    },
+    "BIBREF25": {
+      "title": "Security usability",
+      "authors": [
+        "P. Gutmann",
+        "I. Grigg"
+      ],
+      "year": "2005",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "link": "https://doi.org/10.1109/msp.2005.104"
+    },
+    "BIBREF26": {
+      "title": "Multi-channel, Multi-level Authentication for More Secure eBanking.",
+      "authors": [
+        "Mohamed Al Fairuz",
+        "Karen Renaud"
+      ],
+      "year": "2010",
+      "venue": "Information Security for South Africa",
+      "link": null
+    }
+  }
+}

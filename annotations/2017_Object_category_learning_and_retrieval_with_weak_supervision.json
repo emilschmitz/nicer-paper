@@ -1,0 +1,245 @@
+{
+  "paper_id": "1801.08985v2",
+  "title": "Object category learning and retrieval with weak supervision",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives",
+      "authors": [
+        "Yoshua Bengio",
+        "Aaron C. Courville",
+        "Pascal Vincent"
+      ],
+      "year": "2012",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Unsupervised discovery of mid-level discriminative patches",
+      "authors": [
+        "Saurabh Singh",
+        "A. Gupta",
+        "Alexei A. Efros"
+      ],
+      "year": "2012",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://arxiv.org/abs/1205.3137"
+    },
+    "BIBREF2": {
+      "title": "Unsupervised Object Discovery and Tracking in Video Collections",
+      "authors": [
+        "Suha Kwak",
+        "Minsu Cho",
+        "I. Laptev",
+        "J. Ponce",
+        "C. Schmid"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://arxiv.org/abs/1505.03825"
+    },
+    "BIBREF3": {
+      "title": "Network In Network",
+      "authors": [
+        "Min Lin",
+        "Qiang Chen",
+        "Shuicheng Yan"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Learning Deep Architectures for AI",
+      "authors": [
+        "Yoshua Bengio"
+      ],
+      "year": "2009",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Going deeper with convolutions",
+      "authors": [
+        "Christian Szegedy",
+        "Wei Liu",
+        "Yangqing Jia",
+        "Pierre Sermanet",
+        "Scott Reed",
+        "Dragomir Anguelov",
+        "Dumitru Erhan",
+        "Vincent Vanhoucke",
+        "Andrew Rabinovich"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1409.4842"
+    },
+    "BIBREF6": {
+      "title": "Discovering objects and their location in images",
+      "authors": [
+        "J. Sivic",
+        "B.C. Russell",
+        "A.A. Efros",
+        "A. Zisserman",
+        "W.T. Freeman"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2005.77"
+    },
+    "BIBREF7": {
+      "title": "Using Multiple Segmentations to Discover Objects and their Extent in Image Collections",
+      "authors": [
+        "B.C. Russell",
+        "W.T. Freeman",
+        "A.A. Efros",
+        "J. Sivic",
+        "A. Zisserman"
+      ],
+      "year": "2006",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2006.326"
+    },
+    "BIBREF8": {
+      "title": "Convergence Properties of the K-Means Algorithms",
+      "authors": [
+        "Léon Bottou",
+        "Yoshua Bengio"
+      ],
+      "year": "1994",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Why Does Unsupervised Pre-training Help Deep Learning?",
+      "authors": [
+        "Dumitru Erhan",
+        "Yoshua Bengio",
+        "Aaron Courville",
+        "Pierre-Antoine Manzagol",
+        "Pascal Vincent",
+        "Samy Bengio"
+      ],
+      "year": "2010",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": [
+        "Kaiming He",
+        "X. Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1512.03385"
+    },
+    "BIBREF11": {
+      "title": "Video Segmentation by Non-Local Consensus voting.",
+      "authors": [
+        "Alon Faktor",
+        "Michal Irani"
+      ],
+      "year": "2014",
+      "venue": "British Machine Vision Conference",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Learning Features by Watching Objects Move",
+      "authors": [
+        "Deepak Pathak",
+        "Ross B. Girshick",
+        "Piotr Dollár",
+        "Trevor Darrell",
+        "Bharath Hariharan"
+      ],
+      "year": "2017",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1612.06370"
+    },
+    "BIBREF13": {
+      "title": "Learning To Generate Reviews and Discovering Sentiment",
+      "authors": [
+        "Alec Radford",
+        "Rafal Jozefowicz",
+        "Ilya Sutskever"
+      ],
+      "year": "2018",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "SfM-Net: Learning of Structure and Motion from Video.",
+      "authors": [
+        "Sudheendra Vijayanarasimhan",
+        "Susanna Ricco",
+        "Cordelia Schmid",
+        "Rahul Sukthankar",
+        "Katerina Fragkiadaki"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Deep learning of representations for unsupervised and transfer learning",
+      "authors": [
+        "Yoshua Bengio"
+      ],
+      "year": "2011",
+      "venue": "UTLW'11 Proceedings of the 2011 International Conference on Unsupervised and Transfer Learning workshop - Volume 27",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Multi-task Self-Supervised Visual Learning",
+      "authors": [
+        "Carl Doersch",
+        "Andrew Zisserman"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1708.07860"
+    },
+    "BIBREF17": {
+      "title": "Learning to See by Moving",
+      "authors": [
+        "Pulkit Agrawal",
+        "Joao Carreira",
+        "Jitendra Malik"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1505.01596"
+    },
+    "BIBREF18": {
+      "title": "Unsupervised Pretraining for Sequence to Sequence Learning.",
+      "authors": [
+        "Prajit Ramachandran",
+        "Peter J. Liu",
+        "Quoc V. Le"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1611.02683"
+    },
+    "BIBREF19": {
+      "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding",
+      "authors": [
+        "Marius Cordts",
+        "Mohamed Omran",
+        "Sebastian Ramos",
+        "Timo Rehfeld",
+        "Markus Enzweiler",
+        "Rodrigo Benenson",
+        "Uwe Franke",
+        "Stefan Roth",
+        "Bernt Schiele"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1604.01685"
+    }
+  }
+}

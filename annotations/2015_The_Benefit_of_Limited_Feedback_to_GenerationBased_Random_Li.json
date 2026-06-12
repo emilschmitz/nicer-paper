@@ -1,0 +1,117 @@
+{
+  "paper_id": "1506.01150v1",
+  "title": "The Benefit of Limited Feedback to Generation-Based Random Linear Network Coding in Wireless Broadcast.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "From Instantly Decodable to Random Linear Network Coded Broadcast",
+      "authors": [
+        "Mingchao Yu",
+        "N. Aboutorab",
+        "P. Sadeghi"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://arxiv.org/abs/1309.1323"
+    },
+    "BIBREF1": {
+      "title": "The chromatic numbers of random hypergraphs",
+      "authors": [
+        "Michael Krivelevich",
+        "Benny Sudakov"
+      ],
+      "year": "1998",
+      "venue": "Random Structures and Algorithms",
+      "link": "https://doi.org/10.1002/(sici)1098-2418(199807)12:4<381::aid-rsa5>3.0.co;2-p"
+    },
+    "BIBREF2": {
+      "title": "Round-robin overlapping generations coding for fast content download",
+      "authors": [
+        "Gauri Joshi",
+        "Emina Soljanin"
+      ],
+      "year": "2013",
+      "venue": "International Symposium on Information Theory",
+      "link": "https://doi.org/10.1109/isit.2013.6620725"
+    },
+    "BIBREF3": {
+      "title": "A Random Linear Network Coding Approach to Multicast",
+      "authors": [
+        "T. Ho",
+        "M. Medard",
+        "R. Koetter",
+        "D.R. Karger",
+        "M. Effros",
+        "Jun Shi",
+        "B. Leong"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Sparse network coding with overlapping classes",
+      "authors": [
+        "Danilo Silva",
+        "Weifei Zeng",
+        "Frank R. Kschischang"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/0905.2796"
+    },
+    "BIBREF5": {
+      "title": "Approximate Coloring of Uniform Hypergraphs",
+      "authors": [
+        "Michael Krivelevich",
+        "B. Sudakov"
+      ],
+      "year": "1998",
+      "venue": "Journal of Algorithms",
+      "link": "https://doi.org/10.1016/s0196-6774(03)00077-4"
+    },
+    "BIBREF6": {
+      "title": "On Code Parameters and Coding Vector Representation for Practical RLNC",
+      "authors": [
+        "J. Heide",
+        "M. Pedersen",
+        "Frank H.P. Fitzek",
+        "M. Médard"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Communications",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Raptor Codes",
+      "authors": [
+        "Amin Shokrollahi"
+      ],
+      "year": "2011",
+      "venue": "",
+      "link": "https://doi.org/10.1561/0100000060"
+    },
+    "BIBREF8": {
+      "title": "Speeding Multicast by Acknowledgment Reduction Technique (SMART)",
+      "authors": [
+        "Arman Rezaee",
+        "Linda Zeger",
+        "Muriel Médard"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Networking and Internet Architecture",
+      "link": "https://arxiv.org/abs/1104.2941"
+    },
+    "BIBREF9": {
+      "title": "Round-Robin Streaming with Generations",
+      "authors": [
+        "Yao Li",
+        "Péter Vingelmann",
+        "Morten Videbæk Pedersen",
+        "Emina Soljanin"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/1206.3014"
+    }
+  }
+}

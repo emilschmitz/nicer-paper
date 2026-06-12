@@ -1,0 +1,154 @@
+{
+  "paper_id": "1507.03009v1",
+  "title": "A 1.75 LP approximation for the Tree Augmentation Problem.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Approximating minimum cost connectivity problems",
+      "authors": [
+        "Guy Kortsarz",
+        "Zeev Nutov"
+      ],
+      "year": "2010",
+      "venue": "Dagstuhl Seminar Proceedings",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Covering a laminar family by leaf to leaf links",
+      "authors": [
+        "Yael Maduel",
+        "Zeev Nutov"
+      ],
+      "year": "2010",
+      "venue": "Discrete Applied Mathematics",
+      "link": "https://doi.org/10.1016/j.dam.2010.04.002"
+    },
+    "BIBREF2": {
+      "title": "Improved approximation algorithms for network design problems",
+      "authors": [
+        "M. X. Goemans",
+        "A. V. Goldberg",
+        "S. Plotkin",
+        "D. B. Shmoys",
+        "É. Tardos",
+        "D. P. Williamson"
+      ],
+      "year": "1994",
+      "venue": "Symposium on Discrete Algorithms",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Shorter tours by nicer ears: 7/5-Approximation for the graph-TSP, 3/2 for the path version, and 4/3 for two-edge-connected subgraphs",
+      "authors": [
+        "András Sebö",
+        "J. Vygen"
+      ],
+      "year": "2014",
+      "venue": "Combinatorica",
+      "link": "https://doi.org/10.1007/s00493-014-2960-3"
+    },
+    "BIBREF4": {
+      "title": "A General Approximation Technique for Constrained Forest Problems",
+      "authors": [
+        "M. Goemans",
+        "David P. Williamson"
+      ],
+      "year": "1995",
+      "venue": "SIAM Journal on Computing",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Approximation algorithms for graph augmentation",
+      "authors": [
+        "S. Khuller",
+        "R. Thurimella"
+      ],
+      "year": "1993",
+      "venue": "Journal of Algorithms",
+      "link": "https://doi.org/10.1007/3-540-55719-9_85"
+    },
+    "BIBREF6": {
+      "title": "On the integrality ratio for tree augmentation",
+      "authors": [
+        "J. Cheriyan",
+        "H. Karloff",
+        "R. Khandekar",
+        "J. Könemann"
+      ],
+      "year": "2008",
+      "venue": "Operations Research Letters",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "On the relationship between the biconnectivity augmentation and travelling salesman problems",
+      "authors": [
+        "Greg N. Frederickson",
+        "Joseph Ja'ja'"
+      ],
+      "year": "1982",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Approximation Algorithms for Several Graph Augmentation Problems",
+      "authors": [
+        "Greg N. Frederickson",
+        "Joseph Ja’Ja’"
+      ],
+      "year": "1981",
+      "venue": "SIAM Journal on Computing",
+      "link": "https://doi.org/10.1006/jagm.1993.1010"
+    },
+    "BIBREF9": {
+      "title": "A 1.8 approximation algorithm for augmenting edge-connectivity of a graph from 1 to 2",
+      "authors": [
+        "Guy Even",
+        "Jon Feldman",
+        "Guy Kortsarz",
+        "Zeev Nutov"
+      ],
+      "year": "2009",
+      "venue": "ACM Transactions on Algorithms",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "A Factor 2 Approximation Algorithm for the Generalized Steiner Network Problem",
+      "authors": [
+        "Kamal Jain"
+      ],
+      "year": "2001",
+      "venue": "Combinatorica",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "A Simplified 1.5-Approximation Algorithm for Augmenting Edge-Connectivity of a Graph from 1 to 2",
+      "authors": [
+        "G. Kortsarz",
+        "Zeev Nutov"
+      ],
+      "year": "2016",
+      "venue": "ACM Transactions on Algorithms",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "A (1+ln2)-approximation algorithm for minimum-cost 2-edge-connectivity augmentation of trees with constant radius",
+      "authors": [
+        "Nachshon Cohen",
+        "Zeev Nutov"
+      ],
+      "year": "2013",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Iterative Methods in Combinatorial Optimization",
+      "authors": [
+        "Lap-Chi Lau",
+        "R. Ravi",
+        "Mohit Singh"
+      ],
+      "year": "2011",
+      "venue": "",
+      "link": "https://doi.org/10.4230/lipics.stacs.2012.24"
+    }
+  }
+}

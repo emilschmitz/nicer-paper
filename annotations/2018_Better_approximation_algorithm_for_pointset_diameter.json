@@ -1,0 +1,107 @@
+{
+  "paper_id": "1810.11628v1",
+  "title": "Better approximation algorithm for point-set diameter.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An Optimal Deterministic Algorithm for Computing the Diameter of a Three-Dimensional Point Set",
+      "authors": [
+        "E. Ramos"
+      ],
+      "year": "2001",
+      "venue": "Discrete and Computational Geometry",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "On computing the diameter of a point set in high dimensional Euclidean space",
+      "authors": [
+        "D. Finocchiaro",
+        "M. Pellegrini"
+      ],
+      "year": "2002",
+      "venue": "Theoretical Computer Science",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Computational Geometry: An Introduction",
+      "authors": [
+        "Franco P. Preparata",
+        "Michael I. Shamos"
+      ],
+      "year": "1978",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Approximating the diameter of a set of points in the Euclidean space",
+      "authors": [
+        "Ömer E gtilde",
+        "ecio gtilde",
+        "lu",
+        "Bahman Kalantari"
+      ],
+      "year": "1989",
+      "venue": "Information Processing Letters",
+      "link": "https://doi.org/10.1016/0020-0190(89)90045-8"
+    },
+    "BIBREF4": {
+      "title": "A practical approach for computing the diameter of a point set",
+      "authors": [
+        "Sariel Har-Peled"
+      ],
+      "year": "2001",
+      "venue": "Symposium on Computational Geometry",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Efficiently approximating the minimum-volume bounding box of a point set in three dimensions",
+      "authors": [
+        "Gill Barequet",
+        "Sariel Har-Peled"
+      ],
+      "year": "1999",
+      "venue": "Symposium on Discrete Algorithms",
+      "link": "https://arxiv.org/abs/2512.12391"
+    },
+    "BIBREF7": {
+      "title": "Farthest Neighbors, Maximum Spanning Trees and Related Problems in Higher Dimensions",
+      "authors": [
+        "K P Agarwal",
+        "Jiri Matousek",
+        "Subhash Suri"
+      ],
+      "year": "1991",
+      "venue": "Computational Geometry: Theory and Applications",
+      "link": "https://doi.org/10.1016/0925-7721(92)90001-9"
+    },
+    "BIBREF8": {
+      "title": "COMPUTING THE DIAMETER OF A POINT SET",
+      "authors": [
+        "G. Malandain",
+        "J. Boissonnat"
+      ],
+      "year": "2002",
+      "venue": "International Journal of Computational Geometry and Applications",
+      "link": "https://doi.org/10.1007/3-540-45986-3_18"
+    },
+    "BIBREF9": {
+      "title": "Near-Optimal epsilon-Kernel Construction and Related Problems.",
+      "authors": [
+        "S. Arya",
+        "G. D. D. Fonseca",
+        "D. Mount"
+      ],
+      "year": "2017",
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://arxiv.org/abs/1703.10868"
+    },
+    "BIBREF10": {
+      "title": "Applications of Chebyshev Polynomials to Low-Dimensional Computational Geometry.",
+      "authors": [
+        "Timothy M. Chan"
+      ],
+      "year": "2017",
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://doi.org/10.4230/lipics.socg.2017.26"
+    }
+  }
+}

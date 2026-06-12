@@ -1,0 +1,125 @@
+{
+  "paper_id": "1612.06305v1",
+  "title": "Handwritten Signature Verification Using Hand-Worn Devices.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Offline Handwritten Signature Verification - Literature Review",
+      "authors": [
+        "Luiz Gustavo Hafemann",
+        "R. Sabourin",
+        "Luiz Oliveira"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1507.07909"
+    },
+    "BIBREF1": {
+      "title": "An energy harvesting wearable ring platform for gestureinput on surfaces",
+      "authors": [
+        "Jeremy Gummeson",
+        "B. Priyantha",
+        "Jie Liu"
+      ],
+      "year": "2014",
+      "venue": "International Conference on Mobile Systems, Applications, and Services",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Finger-writing with Smartwatch: A Case for Finger and Hand Gesture Recognition using Smartwatch",
+      "authors": [
+        "Chao Xu",
+        "Parth H. Pathak",
+        "P. Mohapatra"
+      ],
+      "year": "2015",
+      "venue": "International Workshop on Mobile Computing Systems and Applications",
+      "link": "https://doi.org/10.1145/2699343.2699350"
+    },
+    "BIBREF4": {
+      "title": "Automatic Signature Verification and Writer Identification - The state of the art",
+      "authors": [
+        "Réjean Plamondon",
+        "Guy Lorette"
+      ],
+      "year": "1989",
+      "venue": "Pattern Recognition",
+      "link": "https://doi.org/10.1016/0031-3203(89)90059-9"
+    },
+    "BIBREF5": {
+      "title": "Using mobile phones to write in air",
+      "authors": [
+        "Sandip Agrawal",
+        "Ionut Constandache",
+        "Shravan Gaonkar",
+        "Romit Roy Choudhury",
+        "Kevin Caves",
+        "Frank DeRuyter"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Mobile Systems, Applications, and Services",
+      "link": "https://doi.org/10.1145/1999995.1999998"
+    },
+    "BIBREF7": {
+      "title": "The WEKA data mining software: an update",
+      "authors": [
+        "Mark Hall",
+        "Eibe Frank",
+        "Geoffrey Holmes",
+        "Bernhard Pfahringer",
+        "Peter Reutemann",
+        "Ian H. Witten"
+      ],
+      "year": "2009",
+      "venue": "Sigkdd Explorations",
+      "link": "https://doi.org/10.1145/1656274.1656278"
+    },
+    "BIBREF9": {
+      "title": "HMM-based on-line signature verification: Feature extraction and signature modeling",
+      "authors": [
+        "Julian Fierrez",
+        "J. Ortega-Garcia",
+        "D. Ramos",
+        "J. González-Rodríguez"
+      ],
+      "year": "2007",
+      "venue": "Pattern Recognition Letters",
+      "link": "https://doi.org/10.1016/j.patrec.2007.07.012"
+    },
+    "BIBREF10": {
+      "title": "sMFCC: exploiting sparseness in speech for fast acoustic feature extraction on mobile devices -- a feasibility study",
+      "authors": [
+        "S. Nirjon",
+        "Robert F. Dickerson",
+        "J. Stankovic",
+        "G. Shen",
+        "Xiaofan Jiang"
+      ],
+      "year": "2013",
+      "venue": "Workshop on Mobile Computing Systems and Applications",
+      "link": "https://doi.org/10.1145/2444776.2444787"
+    },
+    "BIBREF12": {
+      "title": "Authenticating users through their arm movement patterns.",
+      "authors": [
+        "Rajesh Kumar",
+        "Vir V. Phoha",
+        "Rahul Raina"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Recognizing text using motion data from a smartwatch",
+      "authors": [
+        "Luca Arduser",
+        "P. Bissig",
+        "P. Brandes",
+        "Roger Wattenhofer"
+      ],
+      "year": "2016",
+      "venue": "International Conference on Pervasive Computing",
+      "link": "https://doi.org/10.1109/percomw.2016.7457172"
+    }
+  }
+}

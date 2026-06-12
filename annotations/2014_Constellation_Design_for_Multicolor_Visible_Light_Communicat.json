@@ -1,0 +1,98 @@
+{
+  "paper_id": "1410.5932v1",
+  "title": "Constellation Design for Multi-color Visible Light Communications",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Simple MMSE equalizers for CDMA downlink to restore chip sequence: comparison to zero-forcing and RAKE",
+      "authors": [
+        "T. Krauss",
+        "M. Zoltowski",
+        "G. Leus"
+      ],
+      "year": "2000",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2000.861120"
+    },
+    "BIBREF1": {
+      "title": "Constellation design for color-shift keying using interior point methods",
+      "authors": [
+        "Eric Monteiro",
+        "S. Hranilovic"
+      ],
+      "year": "2012",
+      "venue": "Global Communications Conference",
+      "link": "https://doi.org/10.1109/glocomw.2012.6477755"
+    },
+    "BIBREF2": {
+      "title": "Peak-to-average power ratio and illumination-to-communication efficiency considerations in visible light OFDM systems",
+      "authors": [
+        "Zhenhua Yu",
+        "R. Baxley",
+        "G. Zhou"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Acoustics, Speech, and Signal Processing",
+      "link": "https://doi.org/10.1109/icassp.2013.6638694"
+    },
+    "BIBREF3": {
+      "title": "Optimizing Constellations for Single-Subcarrier Intensity-Modulated Optical Systems",
+      "authors": [
+        "Johnny Karout",
+        "Erik Agrell",
+        "Krzysztof Szczerba",
+        "Magnus Karlsson"
+      ],
+      "year": "2012",
+      "venue": "IEEE Transactions on Information Theory",
+      "link": "https://arxiv.org/abs/1106.2819"
+    },
+    "BIBREF4": {
+      "title": "Designing Good Multi-Dimensional Constellations",
+      "authors": [
+        "M. Beko",
+        "R. Dinis"
+      ],
+      "year": "2012",
+      "venue": "IEEE Wireless Communications Letters",
+      "link": "https://doi.org/10.1109/wcl.2012.032312.120203"
+    },
+    "BIBREF5": {
+      "title": "Optimization of symbol mappings for bit-interleaved coded Modulation with iterative decoding",
+      "authors": [
+        "F. Schreckenbach",
+        "N. Gortz",
+        "J. Hagenauer",
+        "G. Bauch"
+      ],
+      "year": "2003",
+      "venue": "IEEE Communications Letters",
+      "link": "https://doi.org/10.1109/lcomm.2003.821325"
+    },
+    "BIBREF6": {
+      "title": "Pseudo-Gray coding",
+      "authors": [
+        "K. Zeger",
+        "A. Gersho"
+      ],
+      "year": "1990",
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://doi.org/10.1109/26.64657"
+    },
+    "BIBREF7": {
+      "title": "High data rate multiple input multiple output (MIMO) optical wireless communications using white led lighting",
+      "authors": [
+        "Lubin Zeng",
+        "D. O’brien",
+        "H. L. Minh",
+        "G. Faulkner",
+        "Kyungwoo Lee",
+        "D. Jung",
+        "Y. Oh",
+        "E. Won"
+      ],
+      "year": "2009",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "link": "https://doi.org/10.1109/jsac.2009.091215"
+    }
+  }
+}

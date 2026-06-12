@@ -1,0 +1,98 @@
+{
+  "paper_id": "1810.11875v2",
+  "title": "Automatically Evolving CNN Architectures Based on Blocks.",
+  "bib_entries": {
+    "BIBREF2": {
+      "title": "Network In Network",
+      "authors": [
+        "Min Lin",
+        "Qiang Chen",
+        "Shuicheng Yan"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Going deeper with convolutions",
+      "authors": [
+        "Christian Szegedy",
+        "Wei Liu",
+        "Yangqing Jia",
+        "Pierre Sermanet",
+        "Scott Reed",
+        "Dragomir Anguelov",
+        "Dumitru Erhan",
+        "Vincent Vanhoucke",
+        "Andrew Rabinovich"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1409.4842"
+    },
+    "BIBREF7": {
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": [
+        "Kaiming He",
+        "X. Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2016",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1605.07648"
+    },
+    "BIBREF10": {
+      "title": "Neural Architecture Search with Reinforcement Learning",
+      "authors": [
+        "Barret Zoph",
+        "Quoc V. Le"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Practical Network Blocks Design with Q-Learning.",
+      "authors": [
+        "Zhao Zhong",
+        "Junjie Yan",
+        "Cheng-Lin Liu"
+      ],
+      "year": "2017",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Genetic CNN",
+      "authors": [
+        "Lingxi Xie",
+        "Alan Yuille"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Computer Vision",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "authors": [
+        "Ilya Sutskever",
+        "Oriol Vinyals",
+        "Quoc V. Le"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "Skip Connections Eliminate Singularities.",
+      "authors": [
+        "A. Emin Orhan",
+        "Xaq Pitkow"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    }
+  }
+}

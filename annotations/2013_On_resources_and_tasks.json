@@ -1,0 +1,89 @@
+{
+  "paper_id": "1312.3372v1",
+  "title": "On resources and tasks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Disjunction in resource-oriented deductive planning",
+      "authors": [
+        "S. Brüning",
+        "S. Hölldobler",
+        "U. C. Sigmund",
+        "M. Thielscher",
+        "J. Schneeberger"
+      ],
+      "year": "1993",
+      "venue": "International Conference on Logic Programming",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Equational Logic Programming, Actions, and Change",
+      "authors": [
+        "Gerd Große",
+        "Steffen Hölldobler",
+        "Josef Schneeberger",
+        "Ute Cornelia Sigmund",
+        "Michael Thielscher"
+      ],
+      "year": "1992",
+      "venue": "JICSLP",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "A game semantics for linear logic",
+      "authors": [
+        "A. Blass"
+      ],
+      "year": "1992",
+      "venue": "Annals of Pure and Applied Logic",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "A constructive game semantics for the language of linear logic",
+      "authors": [
+        "Giorgi Japaridze"
+      ],
+      "year": "1997",
+      "venue": "Annals of Pure and Applied Logic",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "A new deductive approach to planning",
+      "authors": [
+        "Steffen Hölldobler",
+        "Josef Schneeberger"
+      ],
+      "year": "1990",
+      "venue": "New Generation Computing",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Linear Deductive Planning",
+      "authors": [
+        "Gerd Grosse",
+        "Steffen Hölldobler",
+        "Josef Schneeberger"
+      ],
+      "year": "1996",
+      "venue": "Journal of Logic and Computation",
+      "link": "https://doi.org/10.1093/logcom/6.2.233"
+    },
+    "BIBREF6": {
+      "title": "A deductive solution for plan generation",
+      "authors": [
+        "W. Bibel"
+      ],
+      "year": "1986",
+      "venue": "New Generation Computing",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Linear logic",
+      "authors": [
+        "J. Girard"
+      ],
+      "year": "1987",
+      "venue": "Theoretical Computer Science archive",
+      "link": "https://doi.org/10.1145/1831407.1831413"
+    }
+  }
+}

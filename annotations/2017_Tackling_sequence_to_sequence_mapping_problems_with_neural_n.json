@@ -1,0 +1,767 @@
+{
+  "paper_id": "1810.10802v1",
+  "title": "Tackling sequence to sequence mapping problems with neural networks",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Hierarchical Probabilistic Neural Network Language Model.",
+      "authors": [
+        "Frederic Morin",
+        "Yoshua Bengio"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Modelling input texts: from Tree Kernels to Deep Learning",
+      "authors": [
+        "Aliaksei Severyn"
+      ],
+      "year": "2015",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Probabilistic Graphical Models: Principles and Techniques",
+      "authors": [
+        "Daphne Koller",
+        "Nir Friedman"
+      ],
+      "year": "2009",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions",
+      "authors": [
+        "Michael Heilman",
+        "Noah A. Smith"
+      ],
+      "year": "2010",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "authors": [
+        "Diederik P. Kingma",
+        "Jimmy Ba"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "End-to-end continuous speech recognition using attention-based recurrent nn: First results",
+      "authors": [
+        "Jan Chorowski",
+        "Dzmitry Bahdanau",
+        "Kyunghyun Cho",
+        "Yoshua Bengio"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A Neural Conversational Model",
+      "authors": [
+        "Oriol Vinyals",
+        "Quoc V. Le"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Recurrent Neural Network Regularization",
+      "authors": [
+        "Wojciech Zaremba",
+        "Ilya Sutskever",
+        "Oriol Vinyals"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Deep learning for answer sentence selection",
+      "authors": [
+        "Lei Yu",
+        "Karl Moritz Hermann",
+        "Phil Blunsom",
+        "Stephen Pulman"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Learning to transduce with unbounded memory",
+      "authors": [
+        "Edward Grefenstette",
+        "Karl Moritz Hermann",
+        "Mustafa Suleyman",
+        "Phil Blunsom"
+      ],
+      "year": "2015",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Efficient Estimation of Word Representations in Vector Space",
+      "authors": [
+        "Tomas Mikolov",
+        "Kai Chen",
+        "Greg S. Corrado",
+        "Jeffrey Dean"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Learning Representations",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Supervised Learning of Complete Morphological Paradigms",
+      "authors": [
+        "Greg Durrett",
+        "John DeNero"
+      ],
+      "year": "2013",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Recurrent Continuous Translation Models",
+      "authors": [
+        "Nal Kalchbrenner",
+        "Phil Blunsom"
+      ],
+      "year": "2013",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "Generating Sequences With Recurrent Neural Networks.",
+      "authors": [
+        "Alex Graves"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Sequence Transduction with Recurrent Neural Networks",
+      "authors": [
+        "Alex Graves"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "A Neural Attention Model for Abstractive Sentence Summarization",
+      "authors": [
+        "Alexander M. Rush",
+        "Sumit Chopra",
+        "Jason Weston"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Semantic Compositionality through Recursive Matrix-Vector Spaces",
+      "authors": [
+        "Richard Socher",
+        "Brody Huval",
+        "Christopher D. Manning",
+        "Andrew Y. Ng"
+      ],
+      "year": "2012",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "Computation of optical flow using a neural network",
+      "authors": [
+        "Yitong Zhou",
+        "R. Chellappa"
+      ],
+      "year": "1988",
+      "venue": "IEEE 1988 International Conference on Neural Networks",
+      "link": "https://doi.org/10.1109/icnn.1988.23914"
+    },
+    "BIBREF18": {
+      "title": "Deep Speech: Scaling up end-to-end speech recognition",
+      "authors": [
+        "Awni Y. Hannun",
+        "Carl Case",
+        "Jared Casper",
+        "Bryan Catanzaro",
+        "Greg Diamos",
+        "Erich Elsen",
+        "Ryan Prenger",
+        "Sanjeev Satheesh",
+        "Shubho Sengupta",
+        "Adam Coates",
+        "Andrew Y. Ng"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "A Semantic Approach To Textual Entailment: System Evaluation and Task Analysis",
+      "authors": [
+        "A. Burchardt",
+        "Nils Reiter",
+        "Stefan Thater",
+        "A. Frank"
+      ],
+      "year": "2007",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF20": {
+      "title": "The mathematics of statistical machine translation: parameter estimation",
+      "authors": [
+        "Peter F. Brown",
+        "Vincent J. Della Pietra",
+        "Stephen A. Della Pietra",
+        "Robert L. Mercer"
+      ],
+      "year": "1993",
+      "venue": "Computational Linguistics",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies",
+      "authors": [
+        "David Smith",
+        "Jason Eisner"
+      ],
+      "year": "2006",
+      "venue": "Workshop on Statistical Machine Translation",
+      "link": "https://doi.org/10.3115/1654650.1654655"
+    },
+    "BIBREF23": {
+      "title": "An efficient gradient-based algorithm for on-line training of recurrent network trajectories",
+      "authors": [
+        "Ronald J. Williams",
+        "Jing Peng"
+      ],
+      "year": "1990",
+      "venue": "Neural Computation",
+      "link": null
+    },
+    "BIBREF24": {
+      "title": "An improved error model for noisy channel spelling correction",
+      "authors": [
+        "Eric Brill",
+        "Robert C. Moore"
+      ],
+      "year": "2000",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF25": {
+      "title": "A statistical approach to machine translation",
+      "authors": [
+        "Peter F. Brown",
+        "John Cocke",
+        "Stephen A. Della Pietra",
+        "Vincent J. Della Pietra",
+        "Fredrick Jelinek",
+        "John D. Lafferty",
+        "Robert L. Mercer",
+        "Paul S. Roossin"
+      ],
+      "year": "1990",
+      "venue": "Computational Linguistics",
+      "link": null
+    },
+    "BIBREF26": {
+      "title": "Polarity Inducing Latent Semantic Analysis",
+      "authors": [
+        "Wen-tau Yih",
+        "Geoffrey Zweig",
+        "John Platt"
+      ],
+      "year": "2012",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": null
+    },
+    "BIBREF27": {
+      "title": "Learning long-term dependencies in NARX recurrent neural networks",
+      "authors": [
+        "Tsungnan Lin",
+        "B.G. Horne",
+        "P. Tino",
+        "C.L. Giles"
+      ],
+      "year": "1996",
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://doi.org/10.1007/978-3-540-28647-9_61"
+    },
+    "BIBREF28": {
+      "title": "Conditional structure versus conditional estimation in NLP models",
+      "authors": [
+        "Dan Klein",
+        "Christopher D. Manning"
+      ],
+      "year": "2002",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.3115/1118693.1118695"
+    },
+    "BIBREF29": {
+      "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks",
+      "authors": [
+        "Kai Sheng Tai",
+        "Richard Socher",
+        "Christopher D. Manning"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1503.00075"
+    },
+    "BIBREF30": {
+      "title": "Finding Structure in Time",
+      "authors": [
+        "Jeffrey L. Elman"
+      ],
+      "year": "1990",
+      "venue": "Cognitive Science",
+      "link": "https://doi.org/10.1207/s15516709cog1402_1"
+    },
+    "BIBREF31": {
+      "title": "Probabilistic Tree-Edit Models with Structured Latent Variables for Textual Entailment and Question Answering",
+      "authors": [
+        "Mengqiu Wang",
+        "Christopher Manning"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Computational Linguistics",
+      "link": null
+    },
+    "BIBREF32": {
+      "title": "A unified architecture for natural language processing: deep neural networks with multitask learning",
+      "authors": [
+        "Ronan Collobert",
+        "Jason Weston"
+      ],
+      "year": "2008",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF33": {
+      "title": "A Noisy-Channel Approach to Question Answering",
+      "authors": [
+        "Abdessamad Echihabi",
+        "Daniel Marcu"
+      ],
+      "year": "2003",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF34": {
+      "title": "A Convolutional Neural Network for Modelling Sentences",
+      "authors": [
+        "Nal Kalchbrenner",
+        "Edward Grefenstette",
+        "Phil Blunsom"
+      ],
+      "year": "2014",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF35": {
+      "title": "Finding Predominant Word Senses in Untagged Text",
+      "authors": [
+        "Diana McCarthy",
+        "Rob Koeling",
+        "Julie Weeds",
+        "John Carroll"
+      ],
+      "year": "2004",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://doi.org/10.3115/1218955.1218991"
+    },
+    "BIBREF36": {
+      "title": "Answer Extraction as Sequence Tagging with Tree Edit Distance",
+      "authors": [
+        "Xuchen Yao",
+        "Benjamin Van Durme",
+        "Chris Callison-Burch",
+        "Peter Clark"
+      ],
+      "year": "2013",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF37": {
+      "title": "The Role of Syntax in Vector Space Models of Compositional Semantics",
+      "authors": [
+        "Karl Moritz Hermann",
+        "Phil Blunsom"
+      ],
+      "year": "2013",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF38": {
+      "title": "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks",
+      "authors": [
+        "Alex Graves",
+        "Santiago Fernández",
+        "Faustino Gomez",
+        "Jürgen Schmidhuber"
+      ],
+      "year": "2006",
+      "venue": "International Conference on Machine Learning",
+      "link": "https://doi.org/10.1145/1143844.1143891"
+    },
+    "BIBREF39": {
+      "title": "Bidirectional recurrent neural networks",
+      "authors": [
+        "M. Schuster",
+        "K.K. Paliwal"
+      ],
+      "year": "1997",
+      "venue": "IEEE Transactions on Signal Processing",
+      "link": "https://doi.org/10.1109/78.650093"
+    },
+    "BIBREF40": {
+      "title": "A neural probabilistic language model",
+      "authors": [
+        "Yoshua Bengio",
+        "Réjean Ducharme",
+        "Pascal Vincent",
+        "Christian Janvin"
+      ],
+      "year": "2003",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF41": {
+      "title": "Adaptive Subgradient Methods for Online Learning and Stochastic Optimization",
+      "authors": [
+        "John Duchi",
+        "Elad Hazan",
+        "Yoram Singer"
+      ],
+      "year": "2011",
+      "venue": "Journal of Machine Learning Research",
+      "link": null
+    },
+    "BIBREF42": {
+      "title": "Backpropagation applied to handwritten zip code recognition",
+      "authors": [
+        "Yann LeCun",
+        "B. Boser",
+        "J. Denker",
+        "D. Henderson",
+        "R. Howard",
+        "W. Hubbard",
+        "L. Jackel"
+      ],
+      "year": "1989",
+      "venue": "Neural Computation",
+      "link": "https://doi.org/10.1162/neco.1989.1.4.541"
+    },
+    "BIBREF43": {
+      "title": "A DP-based Search Using Monotone Alignments in Statistical Translation",
+      "authors": [
+        "Christoph Tillmann",
+        "S. Vogel",
+        "H. Ney",
+        "A. Zubiaga"
+      ],
+      "year": "1997",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF44": {
+      "title": "Neural Responding Machine for Short-Text Conversation",
+      "authors": [
+        "Lifeng Shang",
+        "Zhengdong Lu",
+        "Hang Li"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1503.02364"
+    },
+    "BIBREF45": {
+      "title": "On the Properties of Neural Machine Translation: Encoder-Decoder Approaches",
+      "authors": [
+        "Kyunghyun Cho",
+        "Bart van Merrienboer",
+        "Dzmitry Bahdanau",
+        "Yoshua Bengio"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF46": {
+      "title": "ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs",
+      "authors": [
+        "Wenpeng Yin",
+        "Hinrich Schütze",
+        "Bing Xiang",
+        "Bowen Zhou"
+      ],
+      "year": "2016",
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "link": "https://arxiv.org/abs/1512.05193"
+    },
+    "BIBREF47": {
+      "title": "MultiGranCNN: An Architecture for General Matching of Text Chunks on Multiple Levels of Granularity",
+      "authors": [
+        "Wenpeng Yin",
+        "Hinrich Schütze"
+      ],
+      "year": "2015",
+      "venue": "International Joint Conference on Natural Language Processing",
+      "link": "https://doi.org/10.3115/v1/p15-1007"
+    },
+    "BIBREF48": {
+      "title": "Automatic Feature Engineering for Answer Selection and Extraction",
+      "authors": [
+        "Aliaksei Severyn",
+        "Alessandro Moschitti"
+      ],
+      "year": "2013",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": null
+    },
+    "BIBREF49": {
+      "title": "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks",
+      "authors": [
+        "S. Chopra",
+        "Michael Auli",
+        "Alexander M. Rush"
+      ],
+      "year": "2016",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": "https://doi.org/10.18653/v1/n16-1012"
+    },
+    "BIBREF50": {
+      "title": "Weighting Finite-State Transductions With Neural Context",
+      "authors": [
+        "Pushpendre Rastogi",
+        "Ryan Cotterell",
+        "Jason Eisner"
+      ],
+      "year": "2016",
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "link": "https://doi.org/10.18653/v1/n16-1076"
+    },
+    "BIBREF51": {
+      "title": "Alignment-Based Neural Machine Translation",
+      "authors": [
+        "Tamer Alkhouli",
+        "Gabriel Bretschner",
+        "Jan-Thorsten Peter",
+        "Mohammed Hethnawi",
+        "Andreas Guta",
+        "H. Ney"
+      ],
+      "year": "2016",
+      "venue": "Proceedings of the First Conference on Machine Translation: Volume 1,#N#      Research Papers",
+      "link": "https://doi.org/10.18653/v1/w16-2206"
+    },
+    "BIBREF52": {
+      "title": "Online Segment to Segment Neural Transduction",
+      "authors": [
+        "Lei Yu",
+        "Jan Buys",
+        "Phil Blunsom"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1609.08194"
+    },
+    "BIBREF53": {
+      "title": "Learning to Compose Words into Sentences with Reinforcement Learning",
+      "authors": [
+        "Dani Yogatama",
+        "Phil Blunsom",
+        "Chris Dyer",
+        "Edward Grefenstette",
+        "Wang Ling"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF54": {
+      "title": "Memory Networks",
+      "authors": [
+        "Jason Weston",
+        "Sumit Chopra",
+        "Antoine Bordes"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Learning Representations",
+      "link": null
+    },
+    "BIBREF55": {
+      "title": "Moses: Open Source Toolkit for Statistical Machine Translation",
+      "authors": [
+        "Philipp Koehn",
+        "Hieu Hoang",
+        "Alexandra Birch",
+        "Chris Callison-Burch",
+        "Marcello Federico",
+        "Nicola Bertoldi",
+        "Brooke Cowan",
+        "Wade Shen",
+        "Christine Moran",
+        "Richard Zens",
+        "Chris Dyer",
+        "Ondrej Bojar",
+        "Alexandra Constantin",
+        "Evan Herbst"
+      ],
+      "year": "2007",
+      "venue": "The Association for Computational Linguistics",
+      "link": "https://doi.org/10.3115/1557769.1557821"
+    },
+    "BIBREF56": {
+      "title": "Effective Approaches to Attention-based Neural Machine Translation",
+      "authors": [
+        "Minh-Thang Luong",
+        "Hieu Pham",
+        "Christopher D. Manning"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1508.04025"
+    },
+    "BIBREF58": {
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "authors": [
+        "Ilya Sutskever",
+        "Oriol Vinyals",
+        "Quoc V. Le"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF60": {
+      "title": "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",
+      "authors": [
+        "Kelvin Xu",
+        "Jimmy Ba",
+        "Ryan Kiros",
+        "Kyunghyun Cho",
+        "Aaron Courville",
+        "Ruslan Salakhutdinov",
+        "Richard Zemel",
+        "Yoshua Bengio"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF61": {
+      "title": "Speech Recognition with Deep Recurrent Neural Networks",
+      "authors": [
+        "Alex Graves",
+        "Abdel-rahman Mohamed",
+        "Geoffrey Hinton"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": "https://arxiv.org/abs/1303.5778"
+    },
+    "BIBREF62": {
+      "title": "Computational Complexity of Probabilistic Disambiguation by means of Tree-Grammars",
+      "authors": [
+        "Khalil Sima'an"
+      ],
+      "year": "1996",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://doi.org/10.3115/993268.993392"
+    },
+    "BIBREF63": {
+      "title": "A Noisy-Channel Model for Document Compression",
+      "authors": [
+        "Hal Daumé Iii",
+        "Daniel Marcu"
+      ],
+      "year": "2009",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF64": {
+      "title": "Online and Linear-Time Attention by Enforcing Monotonic Alignments",
+      "authors": [
+        "Colin Raffel",
+        "Minh-Thang Luong",
+        "Peter J. Liu",
+        "Ron J. Weiss",
+        "Douglas Eck"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF65": {
+      "title": "Language as a Latent Variable: Discrete Generative Models for Sentence Compression",
+      "authors": [
+        "Yishu Miao",
+        "Phil Blunsom"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1609.07317"
+    },
+    "BIBREF66": {
+      "title": "Visualizing and Understanding Convolutional Networks",
+      "authors": [
+        "Matthew D Zeiler",
+        "Rob Fergus"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1311.2901"
+    },
+    "BIBREF67": {
+      "title": "Open Question Answering with Weakly Supervised Embedding Models",
+      "authors": [
+        "Antoine Bordes",
+        "Jason Weston",
+        "Nicolas Usunier"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1404.4326"
+    },
+    "BIBREF68": {
+      "title": "A large annotated corpus for learning natural language inference",
+      "authors": [
+        "Samuel R. Bowman",
+        "Gabor Angeli",
+        "Christopher Potts",
+        "Christopher D. Manning"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF69": {
+      "title": "Improving Neural Machine Translation Models with Monolingual Data",
+      "authors": [
+        "Rico Sennrich",
+        "B. Haddow",
+        "Alexandra Birch"
+      ],
+      "year": "2016",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": "https://arxiv.org/abs/1511.06709"
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "paper_id": "1804.10233v1",
+  "title": "Studying Fake News via Network Analysis: Detection and Mitigation",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Computational Fact Checking from Knowledge Networks.",
+      "authors": [
+        "Giovanni Luca Ciampaglia",
+        "Prashant Shiralkar",
+        "Luis Mateus Rocha",
+        "J. Bollen",
+        "F. Menczer",
+        "A. Flammini"
+      ],
+      "year": "2015",
+      "venue": "PLOS ONE",
+      "link": "https://doi.org/10.1371/journal.pone.0128193"
+    },
+    "BIBREF1": {
+      "title": "Social Media Mining: An Introduction",
+      "authors": [
+        "R. Zafarani",
+        "M. Abbasi",
+        "Huan Liu"
+      ],
+      "year": "2014",
+      "venue": "",
+      "link": "https://doi.org/10.1017/cbo9781139088510"
+    },
+    "BIBREF2": {
+      "title": "Prediction of Information Diffusion Probabilities for Independent Cascade Model",
+      "authors": [
+        "Kazumi Saito",
+        "R. Nakano",
+        "M. Kimura"
+      ],
+      "year": "2008",
+      "venue": "International Conference on Knowledge-Based and Intelligent Information and Engineering Systems",
+      "link": "https://doi.org/10.1007/978-3-540-85567-5_9"
+    },
+    "BIBREF3": {
+      "title": "Measuring user credibility in social media",
+      "authors": [
+        "M. Abbasi",
+        "Huan Liu"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Social Computing",
+      "link": "https://doi.org/10.1007/978-3-642-37210-0_48"
+    },
+    "BIBREF4": {
+      "title": "LINE: Large-scale Information Network Embedding",
+      "authors": [
+        "Jian Tang",
+        "Meng Qu",
+        "Mingzhe Wang",
+        "Ming Zhang",
+        "Jun Yan",
+        "Qiaozhu Mei"
+      ],
+      "year": "2015",
+      "venue": "The Web Conference",
+      "link": "https://arxiv.org/abs/1503.03578"
+    },
+    "BIBREF5": {
+      "title": "Characterizing the life cycle of online news stories using social media reactions",
+      "authors": [
+        "Carlos Castillo",
+        "Mohammed El-Haddad",
+        "J. Pfeffer",
+        "Matt Stempeck"
+      ],
+      "year": "2014",
+      "venue": "Conference on Computer Supported Cooperative Work",
+      "link": "https://arxiv.org/abs/1304.3010"
+    },
+    "BIBREF6": {
+      "title": "Provenance Data in Social Media",
+      "authors": [
+        "Geoffrey Barbier",
+        "Zhuo Feng",
+        "Pritam Gundecha",
+        "Huan Liu"
+      ],
+      "year": "2013",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "DeepWalk: online learning of social representations",
+      "authors": [
+        "Bryan Perozzi",
+        "Rami Al-Rfou",
+        "S. Skiena"
+      ],
+      "year": "2014",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://arxiv.org/abs/1403.6652"
+    },
+    "BIBREF8": {
+      "title": "Glove: Global Vectors for Word Representation",
+      "authors": [
+        "Jeffrey Pennington",
+        "R. Socher",
+        "Christopher D. Manning"
+      ],
+      "year": "2014",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.3115/v1/d14-1162"
+    },
+    "BIBREF9": {
+      "title": "Fact Checking in Heterogeneous Information Networks",
+      "authors": [
+        "Baoxu Shi",
+        "Tim Weninger"
+      ],
+      "year": "2016",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/2872518.2889354"
+    },
+    "BIBREF10": {
+      "title": "News verification by exploiting conflicting social viewpoints in microblogs",
+      "authors": [
+        "Zhiwei Jin",
+        "Juan Cao",
+        "Yongdong Zhang",
+        "Jiebo Luo"
+      ],
+      "year": "2016",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "User Identity Linkage across Online Social Networks: A Review",
+      "authors": [
+        "Kai Shu",
+        "Suhang Wang",
+        "Jiliang Tang",
+        "R. Zafarani",
+        "Huan Liu"
+      ],
+      "year": "2017",
+      "venue": "Sigkdd Explorations",
+      "link": "https://doi.org/10.1145/3068777.3068781"
+    },
+    "BIBREF12": {
+      "title": "CSI: A Hybrid Deep Model for Fake News.",
+      "authors": [
+        "Natali Ruchansky",
+        "Sungyong Seo",
+        "Yan Liu"
+      ],
+      "year": "2017",
+      "venue": "",
+      "link": "https://arxiv.org/abs/1703.06959"
+    },
+    "BIBREF13": {
+      "title": "Community preserving network embedding",
+      "authors": [
+        "Xiao Wang",
+        "Peng Cui",
+        "Jing Wang",
+        "Jian Pei",
+        "Wenwu Zhu",
+        "Shiqiang Yang"
+      ],
+      "year": "2017",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Some Like it Hoax: Automated Fake News Detection in Social Networks",
+      "authors": [
+        "Eugenio Tacchini",
+        "Gabriele Ballarin",
+        "Marco L. Della Vedova",
+        "Stefano Moret",
+        "Luca de Alfaro"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Fake News Detection on Social Media: A Data Mining Perspective",
+      "authors": [
+        "Kai Shu",
+        "A. Sliva",
+        "Suhang Wang",
+        "Jiliang Tang",
+        "Huan Liu"
+      ],
+      "year": "2017",
+      "venue": "Sigkdd Explorations",
+      "link": "https://arxiv.org/abs/1708.01967"
+    },
+    "BIBREF16": {
+      "title": "Finding Streams in Knowledge Graphs to Support Fact Checking",
+      "authors": [
+        "Prashant Shiralkar",
+        "Alessandro Flammini",
+        "Filippo Menczer",
+        "Giovanni Luca Ciampaglia"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1708.07239"
+    },
+    "BIBREF17": {
+      "title": "Exploiting Tri-Relationship for Fake News Detection.",
+      "authors": [
+        "Kai Shu",
+        "Suhang Wang",
+        "Huan Liu"
+      ],
+      "year": "2017",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate",
+      "authors": [
+        "Liang Wu",
+        "Huan Liu"
+      ],
+      "year": "2018",
+      "venue": "Web Search and Data Mining",
+      "link": "https://doi.org/10.1145/3159652.3159677"
+    },
+    "BIBREF19": {
+      "title": "Understanding User Profiles on Social Media for Fake News Detection",
+      "authors": [
+        "Kai Shu",
+        "Suhang Wang",
+        "Huan Liu"
+      ],
+      "year": "2018",
+      "venue": "2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)",
+      "link": "https://doi.org/10.1109/mipr.2018.00092"
+    },
+    "BIBREF20": {
+      "title": "Distributed Representations of Sentences and Documents",
+      "authors": [
+        "Quoc V. Le",
+        "Tomas Mikolov"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    }
+  }
+}

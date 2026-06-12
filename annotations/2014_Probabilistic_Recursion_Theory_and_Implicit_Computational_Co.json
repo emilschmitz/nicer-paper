@@ -1,0 +1,82 @@
+{
+  "paper_id": "1406.3378v2",
+  "title": "Probabilistic Recursion Theory and Implicit Computational Complexity (Long Version).",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Foundations of Cryptography: Basic Tools",
+      "authors": [
+        "Oded Goldreich"
+      ],
+      "year": "2000",
+      "venue": "",
+      "link": "https://doi.org/10.1093/logcom/12.3.543-a"
+    },
+    "BIBREF1": {
+      "title": "Lambda calculus characterizations of poly-time",
+      "authors": [
+        "Daniel Leivant",
+        "Jean-Yves Marion"
+      ],
+      "year": "1993",
+      "venue": "International Conference on Typed Lambda Calculi and Applications",
+      "link": "https://doi.org/10.1007/bfb0037112"
+    },
+    "BIBREF2": {
+      "title": "Light linear logic",
+      "authors": [
+        "J. Girard"
+      ],
+      "year": "1998",
+      "venue": "Information & Computation",
+      "link": "https://doi.org/10.1006/inco.1998.2700"
+    },
+    "BIBREF3": {
+      "title": "Finite automata and their decision problems",
+      "authors": [
+        "M. O. Rabin",
+        "D. Scott"
+      ],
+      "year": "1959",
+      "venue": "Ibm Journal of Research and Development",
+      "link": "https://doi.org/10.1147/rd.32.0114"
+    },
+    "BIBREF4": {
+      "title": "Computational Complexity of Probabilistic Turing Machines",
+      "authors": [
+        "John Gill"
+      ],
+      "year": "1977",
+      "venue": "SIAM Journal on Computing",
+      "link": "https://doi.org/10.1137/0206049"
+    },
+    "BIBREF5": {
+      "title": "A new recursion-theoretic characterization of the polytime functions",
+      "authors": [
+        "Stephen Bellantoni",
+        "Stephen Cook"
+      ],
+      "year": "1992",
+      "venue": "Computational Complexity",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A Higher-Order Characterization of Probabilistic Polynomial Time",
+      "authors": [
+        "Ugo Dal Lago",
+        "P. P. Toldin"
+      ],
+      "year": "2015",
+      "venue": "Information & Computation",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Probabilistic automata",
+      "authors": [
+        "Azaria Paz"
+      ],
+      "year": "2003",
+      "venue": "Encyclopedia of Computer Science",
+      "link": "https://doi.org/10.1145/800161.805165"
+    }
+  }
+}

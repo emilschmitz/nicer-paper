@@ -1,0 +1,123 @@
+{
+  "paper_id": "1507.02373v1",
+  "title": "A New Vision for Smart Objects and the Internet of Things: Mobile Robots and Long-Range UHF RFID Sensor Tags.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Super-distributed RFID Tag Infrastructures",
+      "authors": [
+        "Jürgen Bohn",
+        "F. Mattern"
+      ],
+      "year": "2004",
+      "venue": "Ambient Intelligence",
+      "link": "https://doi.org/10.1007/978-3-540-30473-9_1"
+    },
+    "BIBREF1": {
+      "title": "Finding and Navigating to Household Objects with UHF RFID Tags by Optimizing RF Signal Strength",
+      "authors": [
+        "Travis Deyle",
+        "Matthew S. Reynolds",
+        "Charles C. Kemp"
+      ],
+      "year": "2014",
+      "venue": "Intelligent Robots and Systems",
+      "link": "https://doi.org/10.1109/iros.2014.6942914"
+    },
+    "BIBREF2": {
+      "title": "In-hand radio frequency identification (RFID) for robotic manipulation",
+      "authors": [
+        "Travis Deyle",
+        "Christopher J. Tralie",
+        "Matthew S. Reynolds",
+        "Charles C. Kemp"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://doi.org/10.1109/icra.2013.6630729"
+    },
+    "BIBREF3": {
+      "title": "Older adults' medication management in the home: how can robots help?",
+      "authors": [
+        "Akanksha Prakash",
+        "Jenay M. Beer",
+        "Travis Deyle",
+        "Cory-Ann Smarr",
+        "Tiffany L. Chen",
+        "Tracy L. Mitzner",
+        "Charles C. Kemp",
+        "Wendy A. Rogers"
+      ],
+      "year": "2013",
+      "venue": "Human-Robot Interaction",
+      "link": "https://doi.org/10.1109/hri.2013.6483600"
+    },
+    "BIBREF4": {
+      "title": "Report from the field: results from an agricultural wireless sensor network",
+      "authors": [
+        "R. Beckwith",
+        "D. Teibel",
+        "P. Bowen"
+      ],
+      "year": "2004",
+      "venue": "Local Computer Networks",
+      "link": "https://doi.org/10.1109/lcn.2004.105"
+    },
+    "BIBREF5": {
+      "title": "Mobile robot localization in indoor environment using RFID and sonar fusion system",
+      "authors": [
+        "Byoung-Suk Choi",
+        "Ju-Jang Lee"
+      ],
+      "year": "2009",
+      "venue": "Intelligent Robots and Systems",
+      "link": "https://doi.org/10.1109/iros.2009.5354104"
+    },
+    "BIBREF6": {
+      "title": "A Review of Wireless Sensor Technologies and Applications in Agriculture and Food Industry: State of the Art and Current Trends",
+      "authors": [
+        "Luis Ruiz-Garcia",
+        "Loredana Lunadei",
+        "Pilar Barreiro",
+        "Jose Ignacio Robla"
+      ],
+      "year": "2009",
+      "venue": "Sensors",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "RFID Technology-based Exploration and SLAM for Search And Rescue",
+      "authors": [
+        "Alexander Kleiner",
+        "Johann Prediger",
+        "Bernhard Nebel"
+      ],
+      "year": "2006",
+      "venue": "Intelligent Robots and Systems",
+      "link": "https://doi.org/10.1109/iros.2006.281867"
+    },
+    "BIBREF8": {
+      "title": "Modeling RFID signal strength and tag detection for localization and mapping",
+      "authors": [
+        "D. Joho",
+        "Christian Plagemann",
+        "Wolfram Burgard"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://doi.org/10.1109/robot.2009.5152372"
+    },
+    "BIBREF10": {
+      "title": "Revisiting Smart Dust with RFID Sensor Networks.",
+      "authors": [
+        "Michael Buettner",
+        "Ben Greenstein",
+        "Alanson P. Sample",
+        "Joshua R. Smith",
+        "David Wetherall"
+      ],
+      "year": "2008",
+      "venue": "HotNets",
+      "link": null
+    }
+  }
+}

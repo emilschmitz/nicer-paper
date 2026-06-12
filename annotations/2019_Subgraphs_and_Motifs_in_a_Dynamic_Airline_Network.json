@@ -1,0 +1,199 @@
+{
+  "paper_id": "1807.02585v2",
+  "title": "Subgraphs and Motifs in a Dynamic Airline Network",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Frequency concepts and pattern detection for the analysis of motifs in networks",
+      "authors": [
+        "F. Schreiber",
+        "Henning Schwöbbermeyer"
+      ],
+      "year": "2005",
+      "venue": "Transactions on Computational Systems Biology III",
+      "link": "https://doi.org/10.1007/11599128_7"
+    },
+    "BIBREF1": {
+      "title": "Social and Economic Networks",
+      "authors": [
+        "Matthew O. Jackson"
+      ],
+      "year": "2008",
+      "venue": "",
+      "link": "https://doi.org/10.1093/acprof:oso/9780199591756.003.0019"
+    },
+    "BIBREF2": {
+      "title": "Biological network motif detection: principles and practice",
+      "authors": [
+        "Elisabeth Wong",
+        "Brittany Baur",
+        "S. Quader",
+        "Chun-Hsi Huang"
+      ],
+      "year": "2012",
+      "venue": "Briefings in Bioinformatics",
+      "link": "https://doi.org/10.1093/bib/bbr033"
+    },
+    "BIBREF4": {
+      "title": "Power-Law Distributions in Empirical Data",
+      "authors": [
+        "A. Clauset",
+        "C. Shalizi",
+        "M. Newman"
+      ],
+      "year": "2009",
+      "venue": "Siam Review",
+      "link": "https://arxiv.org/abs/0706.1062"
+    },
+    "BIBREF5": {
+      "title": "Current innovations and future challenges of network motif detection",
+      "authors": [
+        "N. T. L. Tran",
+        "S.Chandra Mohan",
+        "Zhuoqing Xu",
+        "Chun-Hsi Huang"
+      ],
+      "year": "2015",
+      "venue": "Briefings in Bioinformatics",
+      "link": "https://doi.org/10.1093/bib/bbu021"
+    },
+    "BIBREF6": {
+      "title": "Finding and counting given length cycles",
+      "authors": [
+        "Noga Alon",
+        "Raphael Yuster",
+        "Uri Zwick"
+      ],
+      "year": "1994",
+      "venue": "European Symposium on Algorithms",
+      "link": "https://doi.org/10.1007/bf02523189"
+    },
+    "BIBREF7": {
+      "title": "Triangle listing in massive networks",
+      "authors": [
+        "Shumo Chu",
+        "James Cheng"
+      ],
+      "year": "2012",
+      "venue": "ACM Transactions on Knowledge Discovery From Data",
+      "link": "https://doi.org/10.1145/2382577.2382581"
+    },
+    "BIBREF8": {
+      "title": "Revealing the structure of the world airline network",
+      "authors": [
+        "Trivik Verma",
+        "Nuno A. M. Araújo",
+        "Hans J. Herrmann"
+      ],
+      "year": "2015",
+      "venue": "Scientific Reports",
+      "link": "https://arxiv.org/abs/1404.1368"
+    },
+    "BIBREF9": {
+      "title": "Bounds on the number of complete subgraphs",
+      "authors": [
+        "David C. Fisher",
+        "Jennifer Ryan"
+      ],
+      "year": "1992",
+      "venue": "Discrete Mathematics",
+      "link": "https://doi.org/10.1016/0012-365x(92)90323-8"
+    },
+    "BIBREF10": {
+      "title": "Algorithm 457: finding all cliques of an undirected graph",
+      "authors": [
+        "Coen Bron",
+        "Joep Kerbosch"
+      ],
+      "year": "1973",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/362342.362367"
+    },
+    "BIBREF11": {
+      "title": "Efficient sampling algorithm for estimating subgraph concentrations and detecting network motifs",
+      "authors": [
+        "N. Kashtan",
+        "S. Itzkovitz",
+        "R. Milo",
+        "U. Alon"
+      ],
+      "year": "2004",
+      "venue": "Bioinformatics",
+      "link": "https://doi.org/10.1093/bioinformatics/bth163"
+    },
+    "BIBREF12": {
+      "title": "The Structure and Function of Complex Networks",
+      "authors": [
+        "M. Newman"
+      ],
+      "year": "2003",
+      "venue": "Siam Review",
+      "link": "https://arxiv.org/abs/cond-mat/0303516"
+    },
+    "BIBREF13": {
+      "title": "Aggregation of topological motifs in the Escherichia coli transcriptional regulatory network",
+      "authors": [
+        "R. Dobrin",
+        "Q. K. Beg",
+        "A. Barabási",
+        "Zoltán N. Oltvai"
+      ],
+      "year": "2004",
+      "venue": "BMC Bioinformatics",
+      "link": "https://doi.org/10.1186/1471-2105-5-10"
+    },
+    "BIBREF14": {
+      "title": "Finding four-node subgraphs in triangle time",
+      "authors": [
+        "Virginia Vassilevska Williams",
+        "Joshua R. Wang",
+        "Ryan Williams",
+        "Huacheng Yu"
+      ],
+      "year": "2015",
+      "venue": "Symposium on Discrete Algorithms",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Centrality Measures in Networks",
+      "authors": [
+        "Francis Bloch",
+        "Matthew O. Jackson",
+        "Pietro Tebaldi"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Physics and Society",
+      "link": "https://doi.org/10.2139/ssrn.2749124"
+    },
+    "BIBREF16": {
+      "title": "Analysis and visualization of large networks with program package Pajek",
+      "authors": [
+        "Andrej Mrvar",
+        "V. Batagelj"
+      ],
+      "year": "2016",
+      "venue": "Complex Adaptive Systems Modeling",
+      "link": "https://doi.org/10.1186/s40294-016-0017-8"
+    },
+    "BIBREF17": {
+      "title": "Network Science",
+      "authors": [
+        "Albert-Lszl Barabsi"
+      ],
+      "year": "2016",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Methods for estimating the size of Google Scholar",
+      "authors": [
+        "E. Orduña-Malea",
+        "J. M. Ayllón",
+        "Alberto Martín-Martín",
+        "Emilio Delgado López-Cózar"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Digital Libraries",
+      "link": "https://arxiv.org/abs/1407.6239"
+    }
+  }
+}

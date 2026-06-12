@@ -1,0 +1,120 @@
+{
+  "paper_id": "1810.10612v1",
+  "title": "Continual Classification Learning Using Generative Models",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Distilling the Knowledge in a Neural Network",
+      "authors": [
+        "Geoffrey E. Hinton",
+        "Oriol Vinyals",
+        "Jeffrey Dean"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks",
+      "authors": [
+        "Ian J. Goodfellow",
+        "Mehdi Mirza",
+        "Da Xiao",
+        "Aaron Courville",
+        "Yoshua Bengio"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Active Long Term Memory Networks.",
+      "authors": [
+        "Tommaso Furlanello",
+        "Jiaping Zhao",
+        "Andrew M. Saxe",
+        "Laurent Itti",
+        "Bosco S. Tjan"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "PROGRESSIVE NEURAL NETWORKS",
+      "authors": [
+        "Rabinowitz Neil Charles",
+        "Desjardins Guillaume",
+        "Rusu Andrei-Alexandru",
+        "Kavukcuoglu Koray",
+        "Hadsell Raia Thais",
+        "Pascanu Razvan",
+        "Kirkpatrick James",
+        "Soyer Hubert Josef"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "PathNet: Evolution Channels Gradient Descent in Super Neural Networks",
+      "authors": [
+        "Chrisantha Fernando",
+        "Dylan Banarse",
+        "Charles Blundell",
+        "Yori Zwols",
+        "David Ha",
+        "Andrei A. Rusu",
+        "Alexander Pritzel",
+        "Daan Wierstra"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Lifelong Generative Modeling",
+      "authors": [
+        "Jason Ramapuram",
+        "Magda Gregorova",
+        "Alexandros Kalousis"
+      ],
+      "year": "2018",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms.",
+      "authors": [
+        "Han Xiao",
+        "Kashif Rasul",
+        "Roland Vollgraf"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Variational Continual Learning",
+      "authors": [
+        "Cuong V. Nguyen",
+        "Yingzhen Li",
+        "Thang D. Bui",
+        "Richard E. Turner"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Machine Learning",
+      "link": "https://arxiv.org/abs/1710.10628"
+    },
+    "BIBREF8": {
+      "title": "Continual Learning Through Synaptic Intelligence",
+      "authors": [
+        "Friedemann Zenke",
+        "Ben Poole",
+        "Surya Ganguli"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Learning",
+      "link": null
+    }
+  }
+}

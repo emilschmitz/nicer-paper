@@ -1,0 +1,139 @@
+{
+  "paper_id": "1810.02474v3",
+  "title": "Meeting Real-Time Constraint of Spectrum Management in TV Black-Space Access",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Watching television over an IP network",
+      "authors": [
+        "Meeyoung Cha",
+        "Pablo Rodriguez",
+        "Jon Crowcroft",
+        "Sue Moon",
+        "Xavier Amatriain"
+      ],
+      "year": "2008",
+      "venue": "Internet Measurement Conference",
+      "link": "https://doi.org/10.1145/1452520.1452529"
+    },
+    "BIBREF1": {
+      "title": "In-Memory Big Data Management and Processing: A Survey",
+      "authors": [
+        "Hao Zhang",
+        "Gang Chen",
+        "Beng Chin Ooi",
+        "Kian-Lee Tan",
+        "Meihui Zhang"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/tkde.2015.2427795"
+    },
+    "BIBREF2": {
+      "title": "Ratings for spectrum: Impacts of TV viewership on TV whitespace",
+      "authors": [
+        "Zhongyuan Zhao",
+        "Mehmet C. Vuran",
+        "Demet Batur",
+        "Eylem Ekici"
+      ],
+      "year": "2014",
+      "venue": "Global Communications Conference",
+      "link": "https://doi.org/10.1109/glocom.2014.7036930"
+    },
+    "BIBREF3": {
+      "title": "Modeling Latency in a Network Distribution",
+      "authors": [
+        "Rohitha Goonatilake",
+        "Rafic A. Bachnak"
+      ],
+      "year": "2012",
+      "venue": "Network and Communication Technologies",
+      "link": "https://doi.org/10.5539/nct.v1n2p1"
+    },
+    "BIBREF4": {
+      "title": "MetaData persistence using storage class memory: experiences with flash-backed DRAM",
+      "authors": [
+        "Jithin Jose",
+        "Mohammad Banikazemi",
+        "Wendy Belluomini",
+        "Chet Murthy",
+        "Dhabaleswar K. Panda"
+      ],
+      "year": "2013",
+      "venue": "Symposium on Operating Systems Principles",
+      "link": "https://doi.org/10.1145/2527792.2527800"
+    },
+    "BIBREF5": {
+      "title": "NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey",
+      "authors": [
+        "I. Akyildiz",
+        "Won-Yeol Lee",
+        "M. Vuran",
+        "Shantidev Mohanty"
+      ],
+      "year": "2006",
+      "venue": "Computer Networks",
+      "link": "https://doi.org/10.1016/j.comnet.2006.05.001"
+    },
+    "BIBREF6": {
+      "title": "Reducing Channel Zapping Time in IPTV Based on User's Channel Selection Behaviors",
+      "authors": [
+        "Chae-Young Lee",
+        "Chang Ki Hong",
+        "K. Lee"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Broadcasting",
+      "link": "https://doi.org/10.1109/tbc.2010.2051494"
+    },
+    "BIBREF7": {
+      "title": "IBM solidDB: In-Memory Database Optimized for Extreme Speed and Availability.",
+      "authors": [
+        "Jan Lindström",
+        "Vilho Raatikka",
+        "Jarmo Ruuth",
+        "Petri Soini",
+        "Katriina Vakkila"
+      ],
+      "year": "2013",
+      "venue": "IEEE Data(base) Engineering Bulletin",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "The effect of horizontal database table partitioning on query performance.",
+      "authors": [
+        "Salam Matalqa",
+        "Suleiman Mustafa"
+      ],
+      "year": "2016",
+      "venue": "The International Arab Journal of Information Technology",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "A cognitive radio TV prototype for effective TV spectrum sharing",
+      "authors": [
+        "Davis Rempe",
+        "M. Snyder",
+        "Andrew Pracht",
+        "A. Schwarz",
+        "Tri Nguyen",
+        "Mitchel Vostrez",
+        "Zhongyuan Zhao",
+        "M. Vuran"
+      ],
+      "year": "2017",
+      "venue": "IEEE International Symposium on Dynamic Spectrum Access Networks",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Capacity Considerations for Secondary Networks in TV White Space",
+      "authors": [
+        "Farzad Hessar",
+        "S. Roy"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "link": "https://arxiv.org/abs/1304.1785"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "paper_id": "1604.02469v1",
+  "title": "Image Segmentation of Cross-Country Scenes Captured in IR Spectrum",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A New Scheme for Practical, Flexible and Intelligent Vision Systems",
+      "authors": [
+        "Nobuyuki Otsu",
+        "Takio Kurita"
+      ],
+      "year": "1988",
+      "venue": "Journal of Machine Vision and Applications",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Texture Segmentation of Road Environment Scene Using SfM Module and HLAC Features",
+      "authors": [
+        "Yousun Kang",
+        "Koichiro Yamaguchi",
+        "Takashi Naito",
+        "Yoshiki Ninomiya"
+      ],
+      "year": "2009",
+      "venue": "Ipsj Transactions on Computer Vision and Applications",
+      "link": "https://doi.org/10.2197/ipsjtcva.1.220"
+    },
+    "BIBREF3": {
+      "title": "Pose and Motion Estimation Using Dual Quaternion-Based Extended Kalman Filtering",
+      "authors": [
+        "James S. Goddard",
+        "Mongi A. Abidi"
+      ],
+      "year": "1998",
+      "venue": "Proceedings of SPIE",
+      "link": "https://doi.org/10.1117/12.302453"
+    },
+    "BIBREF4": {
+      "title": "Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography",
+      "authors": [
+        "Martin A. Fischler",
+        "Robert C. Bolles"
+      ],
+      "year": "1981",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/358669.358692"
+    },
+    "BIBREF5": {
+      "title": "Mapping, navigation, and learning for off-road traversal",
+      "authors": [
+        "Kurt Konolige",
+        "Motilal Agrawal",
+        "Morten Rufus Blas",
+        "Robert C. Bolles",
+        "Brian Gerkey",
+        "Joan Solà",
+        "Aravind Sundaresan"
+      ],
+      "year": "2009",
+      "venue": "Journal of Field Robotics",
+      "link": "https://doi.org/10.1002/rob.v26:1"
+    },
+    "BIBREF6": {
+      "title": "Obstacle Detection and Terrain Classification for Autonomous Off-Road Navigation",
+      "authors": [
+        "R. Manduchi",
+        "A. Castano",
+        "A. Talukder",
+        "L. Matthies"
+      ],
+      "year": "2005",
+      "venue": "Autonomous Robots",
+      "link": "https://doi.org/10.1023/b:auro.0000047286.62481.1d"
+    },
+    "BIBREF7": {
+      "title": "Approximation by superpositions of a sigmoidal function",
+      "authors": [
+        "George Cybenko"
+      ],
+      "year": "1989",
+      "venue": "Mathematics of Control, Signals, and Systems",
+      "link": "https://doi.org/10.4171/zaa/1156"
+    },
+    "BIBREF8": {
+      "title": "Speeded-Up Robust Features (SURF)",
+      "authors": [
+        "Herbert Bay",
+        "Andreas Ess",
+        "Tinne Tuytelaars",
+        "Luc Van Gool"
+      ],
+      "year": "2008",
+      "venue": "Computer Vision and Image Understanding",
+      "link": "https://doi.org/10.1016/j.cviu.2007.09.014"
+    },
+    "BIBREF9": {
+      "title": "Fast color/texture segmentation for outdoor robots",
+      "authors": [
+        "M.R. Blas",
+        "M. Agrawal",
+        "A. Sundaresan",
+        "K. Konolige"
+      ],
+      "year": "2008",
+      "venue": "Intelligent Robots and Systems",
+      "link": "https://doi.org/10.1109/iros.2008.4651086"
+    },
+    "BIBREF10": {
+      "title": "Object recognition from local scale-invariant features",
+      "authors": [
+        "D.G. Lowe"
+      ],
+      "year": "1999",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.1999.790410"
+    },
+    "BIBREF11": {
+      "title": "Neural Network Based Terrain Classification Using Wavelet Features",
+      "authors": [
+        "Gi-Yeul Sung",
+        "Dong-Min Kwak",
+        "Joon Lyou"
+      ],
+      "year": "2010",
+      "venue": "Journal of Intelligent and Robotic Systems",
+      "link": "https://doi.org/10.1007/s10846-010-9402-2"
+    },
+    "BIBREF12": {
+      "title": "Image representation using 2D Gabor wavelets",
+      "authors": [
+        "T. Lee"
+      ],
+      "year": "1996",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/34.541406"
+    },
+    "BIBREF13": {
+      "title": "Learning Outdoor Color Classification",
+      "authors": [
+        "R. Manduchi"
+      ],
+      "year": "2006",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2006.231"
+    },
+    "BIBREF14": {
+      "title": "Natural terrain classification using three‐dimensional ladar data for ground robot mobility",
+      "authors": [
+        "Jean-François Lalonde",
+        "N. Vandapel",
+        "Daniel F. Huber",
+        "M. Hebert"
+      ],
+      "year": "2006",
+      "venue": "Journal of Field Robotics",
+      "link": "https://doi.org/10.1002/rob.20134"
+    },
+    "BIBREF15": {
+      "title": "Combining laser range, color, and texture cues for autonomous road following",
+      "authors": [
+        "C. Rasmussen"
+      ],
+      "year": "2002",
+      "venue": "International Conference on Robotics and Automation",
+      "link": "https://doi.org/10.1109/robot.2002.1014439"
+    }
+  }
+}

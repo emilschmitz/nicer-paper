@@ -1,0 +1,174 @@
+{
+  "paper_id": "1411.3737v1",
+  "title": "Holistic Collaborative Privacy Framework for Users' Privacy in Social Recommender Service",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Privacy Aware Obfuscation Middleware for Mobile Jukebox Recommender Services",
+      "authors": [
+        "Ahmed M. Elmisery",
+        "D. Botvich"
+      ],
+      "year": "2011",
+      "venue": "Conference on e-Business, e-Services and e-Society",
+      "link": "https://doi.org/10.1007/978-3-642-27260-8_6"
+    },
+    "BIBREF1": {
+      "title": "Applying Consistency-Based Trust Definition to Collaborative Filtering",
+      "authors": [
+        "Hyoung Do Kim"
+      ],
+      "year": "2009",
+      "venue": "Ksii Transactions on Internet and Information Systems",
+      "link": "https://doi.org/10.3837/tiis.2009.04.002"
+    },
+    "BIBREF2": {
+      "title": "PocketLens: Toward a personal recommender system",
+      "authors": [
+        "Bradley N. Miller",
+        "Joseph A. Konstan",
+        "John Riedl"
+      ],
+      "year": "2004",
+      "venue": "ACM Transactions on Information Systems",
+      "link": "https://doi.org/10.1145/1010614.1010618"
+    },
+    "BIBREF3": {
+      "title": "Deriving private information from randomized data",
+      "authors": [
+        "Zhengli Huang",
+        "Wenliang Du",
+        "Biao Chen"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1066157.1066163"
+    },
+    "BIBREF4": {
+      "title": "Privacy preserving data obfuscation for inherently clustered data",
+      "authors": [
+        "Rupa Parameswaran",
+        "Douglas M. Blough"
+      ],
+      "year": "2008",
+      "venue": "International Journal of Information and Computer Security",
+      "link": "https://doi.org/10.1504/ijics.2008.016819"
+    },
+    "BIBREF5": {
+      "title": "SVD-based collaborative filtering with privacy",
+      "authors": [
+        "Huseyin Polat",
+        "Wenliang Du"
+      ],
+      "year": "2005",
+      "venue": "ACM Symposium on Applied Computing",
+      "link": "https://doi.org/10.1145/1066677.1066860"
+    },
+    "BIBREF6": {
+      "title": "Privacy Preserving Distributed Learning Clustering of HealthCare Data Using Cryptography Protocols",
+      "authors": [
+        "Ahmed M. Elmisery",
+        "Huaiguo Fu"
+      ],
+      "year": "2010",
+      "venue": "Computer Software and Applications Conference",
+      "link": "https://doi.org/10.1109/compsacw.2010.33"
+    },
+    "BIBREF7": {
+      "title": "A study of preferences for sharing and privacy",
+      "authors": [
+        "Judith S. Olson",
+        "Jonathan Grudin",
+        "Eric Horvitz"
+      ],
+      "year": "2005",
+      "venue": "Human Factors in Computing Systems",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Challenges in supporting end-user privacy and security management with social navigation",
+      "authors": [
+        "Jeremy Goecks",
+        "W. Keith Edwards",
+        "Elizabeth D. Mynatt"
+      ],
+      "year": "2009",
+      "venue": "Symposium On Usable Privacy and Security",
+      "link": "https://doi.org/10.1145/1572532.1572539"
+    },
+    "BIBREF9": {
+      "title": "Privacy-preserving collaborative filtering using randomized perturbation techniques",
+      "authors": [
+        "H. Polat",
+        "Wenliang Du"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Data Mining",
+      "link": "https://doi.org/10.1109/icdm.2003.1250993"
+    },
+    "BIBREF10": {
+      "title": "Agent based middleware for private data mashup in IPTV recommender services",
+      "authors": [
+        "Ahmed M. Elmisery",
+        "Dmitri Botvich"
+      ],
+      "year": "2011",
+      "venue": "Computer Aided Modeling and Design of Communication Links and Networks",
+      "link": "https://doi.org/10.1007/978-3-642-30244-2_6"
+    },
+    "BIBREF11": {
+      "title": "Experimental Demonstration of a Hybrid Privacy-Preserving Recommender System",
+      "authors": [
+        "E. Aimeur",
+        "G. Brassard",
+        "J.M. Fernandez",
+        "F.S.M. Onana",
+        "Z. Rakowski"
+      ],
+      "year": "2008",
+      "venue": "Availability, Reliability and Security",
+      "link": "https://doi.org/10.1109/ares.2008.193"
+    },
+    "BIBREF12": {
+      "title": "PRIVE: anonymous location-based queries in distributed mobile systems",
+      "authors": [
+        "Gabriel Ghinita",
+        "Panos Kalnis",
+        "Spiros Skiadopoulos"
+      ],
+      "year": "2007",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1242572.1242623"
+    },
+    "BIBREF13": {
+      "title": "Privacy Aware Recommender Service for IPTV Networks",
+      "authors": [
+        "Ahmed M. Elmisery",
+        "D. Botvich"
+      ],
+      "year": "2011",
+      "venue": "Multimedia and Ubiquitous Engineering",
+      "link": "https://doi.org/10.1109/mue.2011.70"
+    },
+    "BIBREF14": {
+      "title": "On the privacy preserving properties of random data perturbation techniques",
+      "authors": [
+        "H. Kargupta",
+        "Souptik Datta",
+        "Qi Wang",
+        "K. Sivakumar"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Data Mining",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Collaborative filtering with privacy",
+      "authors": [
+        "J. Canny"
+      ],
+      "year": "2002",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "link": "https://doi.org/10.1109/secpri.2002.1004361"
+    }
+  }
+}

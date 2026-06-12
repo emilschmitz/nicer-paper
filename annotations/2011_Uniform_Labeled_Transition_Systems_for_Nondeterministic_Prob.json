@@ -1,0 +1,152 @@
+{
+  "paper_id": "1108.1865v1",
+  "title": "Uniform Labeled Transition Systems for Nondeterministic, Probabilistic, and Stochastic Process Calculi",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "A Process Algebraic Approach to Software Architecture Design",
+      "authors": [
+        "Alessandro Aldini",
+        "Marco Bernardo",
+        "Flavio Corradini"
+      ],
+      "year": "2009",
+      "venue": "",
+      "link": "https://doi.org/10.1007/978-1-84800-223-4"
+    },
+    "BIBREF1": {
+      "title": "Equivalences, Congruences, and Complete Axiomatizations for Probabilistic Processes",
+      "authors": [
+        "C. Jou",
+        "S. Smolka"
+      ],
+      "year": "1990",
+      "venue": "International Conference on Concurrency Theory",
+      "link": "https://doi.org/10.1007/bfb0039071"
+    },
+    "BIBREF2": {
+      "title": "Uniform labeled transition systems for nondeterministic, probabilistic, and stochastic processes",
+      "authors": [
+        "M. Bernardo",
+        "R. Nicola",
+        "M. Loreti"
+      ],
+      "year": "2010",
+      "venue": "Trustworthy Global Computing",
+      "link": "https://doi.org/10.1007/978-3-642-15640-3"
+    },
+    "BIBREF4": {
+      "title": "Algebraic laws for nondeterminism and concurrency",
+      "authors": [
+        "M. Hennessy",
+        "R. Milner"
+      ],
+      "year": "1985",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/2455.2460"
+    },
+    "BIBREF5": {
+      "title": "Formal verification of parallel programs",
+      "authors": [
+        "R. Keller"
+      ],
+      "year": "1976",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/360248.360251"
+    },
+    "BIBREF6": {
+      "title": "A Compositional Approach to Performance Modelling",
+      "authors": [
+        "Jane Hillston"
+      ],
+      "year": "1996",
+      "venue": "",
+      "link": "https://doi.org/10.1017/cbo9780511569951"
+    },
+    "BIBREF7": {
+      "title": "Probabilistic communicating processes",
+      "authors": [
+        "Karen Seidel"
+      ],
+      "year": "1995",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1016/0304-3975(94)00286-0"
+    },
+    "BIBREF8": {
+      "title": "The Linear Time - Branching Time Spectrum II",
+      "authors": [
+        "Rob J. van Glabbeek"
+      ],
+      "year": "1993",
+      "venue": "International Conference on Concurrency Theory",
+      "link": "https://doi.org/10.1007/bfb0039066"
+    },
+    "BIBREF9": {
+      "title": "Rate-Based Transition Systems for Stochastic Process Calculi",
+      "authors": [
+        "Rocco Nicola",
+        "Diego Latella",
+        "Michele Loreti",
+        "Mieke Massink"
+      ],
+      "year": "2009",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": "https://doi.org/10.1007/978-3-642-02930-1_36"
+    },
+    "BIBREF10": {
+      "title": "A Theory of Communicating Sequential Processes",
+      "authors": [
+        "S. D. Brookes",
+        "C. A. R. Hoare",
+        "A. W. Roscoe"
+      ],
+      "year": "1984",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/828.833"
+    },
+    "BIBREF11": {
+      "title": "Axiomatizing probabilistic processes: ACP with generative probabilities",
+      "authors": [
+        "J. C. M. Baeten",
+        "J. A. Bergstra",
+        "S. A. Smolka"
+      ],
+      "year": "1995",
+      "venue": "Information & Computation",
+      "link": "https://doi.org/10.1006/inco.1995.1135"
+    },
+    "BIBREF12": {
+      "title": "Comparative branching-time semantics for Markov chains",
+      "authors": [
+        "Christel Baier",
+        "Joost-Pieter Katoen",
+        "Holger Hermanns",
+        "Verena Wolf"
+      ],
+      "year": "2005",
+      "venue": "Information & Computation",
+      "link": "https://doi.org/10.1016/j.ic.2005.03.001"
+    },
+    "BIBREF13": {
+      "title": "On a Uniform Framework for the Definition of Stochastic Process Languages",
+      "authors": [
+        "R. Nicola",
+        "D. Latella",
+        "M. Loreti",
+        "M. Massink"
+      ],
+      "year": "2009",
+      "venue": "Formal Methods for Industrial Critical Systems",
+      "link": "https://doi.org/10.1007/978-3-642-04570-7_2"
+    },
+    "BIBREF14": {
+      "title": "Testing equivalences for processes",
+      "authors": [
+        "R. Nicola",
+        "M. Hennessy"
+      ],
+      "year": "1984",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1007/bfb0036936"
+    }
+  }
+}

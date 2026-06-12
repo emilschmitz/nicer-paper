@@ -1,0 +1,129 @@
+{
+  "paper_id": "1711.07220v1",
+  "title": "Integrating Privacy-Enhancing Technologies into the Internet Infrastructure",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Introducing the gMix Open Source Framework for Mix Implementations",
+      "authors": [
+        "Karl-Peter Fuchs",
+        "Dominik Herrmann",
+        "H. Federrath"
+      ],
+      "year": "2012",
+      "venue": "European Symposium on Research in Computer Security",
+      "link": "https://doi.org/10.1007/978-3-642-33167-1_28"
+    },
+    "BIBREF1": {
+      "title": "EncDNS: A Lightweight Privacy-Preserving Name Resolution Service",
+      "authors": [
+        "Dominik Herrmann",
+        "Karl-Peter Fuchs",
+        "Jens Lindemann",
+        "H. Federrath"
+      ],
+      "year": "2014",
+      "venue": "European Symposium on Research in Computer Security",
+      "link": "https://doi.org/10.1007/978-3-319-11203-9_3"
+    },
+    "BIBREF2": {
+      "title": "Improving tor using a TCP-over-DTLS tunnel",
+      "authors": [
+        "Joel Reardon",
+        "Ian Goldberg"
+      ],
+      "year": "2009",
+      "venue": "USENIX Security Symposium",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "On the Optimal Placement of Mix Zones",
+      "authors": [
+        "Julien Freudiger",
+        "R. Shokri",
+        "J. Hubaux"
+      ],
+      "year": "2009",
+      "venue": "Privacy Enhancing Technologies",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Distributed Performance Measurement and Usability Assessment of the Tor Anonymization Network",
+      "authors": [
+        "Sebastian Müller",
+        "F. Brecht",
+        "Benjamin Fabian",
+        "Steffen Kunz",
+        "D. Kunze"
+      ],
+      "year": "2012",
+      "venue": "Future Internet",
+      "link": "https://doi.org/10.3390/fi4020488"
+    },
+    "BIBREF5": {
+      "title": "PCTCP: per-circuit TCP-over-IPsec transport for anonymous communication overlay networks",
+      "authors": [
+        "Mashael Alsabah",
+        "I. Goldberg"
+      ],
+      "year": "2013",
+      "venue": "Computer and Communications Security",
+      "link": "https://doi.org/10.1145/2508859.2516715"
+    },
+    "BIBREF6": {
+      "title": "Vehicular ad hoc networks (VANETS): status, results, and challenges",
+      "authors": [
+        "Sherali Zeadally",
+        "Ray Hunt",
+        "Yuh-Shyan Chen",
+        "Angela Irwin",
+        "Aamir Hassan"
+      ],
+      "year": "2012",
+      "venue": "Telecommunication Systems",
+      "link": "https://doi.org/10.1007/s11235-010-9400-5"
+    },
+    "BIBREF7": {
+      "title": "Privacy and rationality in individual decision making",
+      "authors": [
+        "A. Acquisti",
+        "J. Grossklags"
+      ],
+      "year": "2005",
+      "venue": "IEEE Symposium on Security and Privacy",
+      "link": "https://doi.org/10.1109/msp.2005.22"
+    },
+    "BIBREF8": {
+      "title": "Location privacy in pervasive computing",
+      "authors": [
+        "A.R. Beresford",
+        "F. Stajano"
+      ],
+      "year": "2003",
+      "venue": "IEEE Pervasive Computing",
+      "link": "https://doi.org/10.1109/mprv.2003.1186725"
+    },
+    "BIBREF9": {
+      "title": "A Toolkit for Managing Enterprise Privacy Policies",
+      "authors": [
+        "Michael Backes",
+        "Birgit Pfitzmann",
+        "Matthias Schunter"
+      ],
+      "year": "2003",
+      "venue": "European Symposium on Research in Computer Security",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Privacy by Sustainable Identity Management Enablers",
+      "authors": [
+        "Sascha Koschinat",
+        "Gökhan Bal",
+        "Christian Weber",
+        "Kai Rannenberg"
+      ],
+      "year": "2011",
+      "venue": "Privacy and Identity Management for Life",
+      "link": "https://doi.org/10.1007/978-3-642-20317-6_23"
+    }
+  }
+}

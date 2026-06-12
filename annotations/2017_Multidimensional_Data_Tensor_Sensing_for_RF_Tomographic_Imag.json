@@ -1,0 +1,35 @@
+{
+  "paper_id": "1712.04919v2",
+  "title": "Multidimensional Data Tensor Sensing for RF Tomographic Imaging.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Compressed RF Tomography for Wireless Sensor Networks: Centralized and Decentralized Approaches",
+      "authors": [
+        "Mohammad A. Kanso",
+        "M. Rabbat"
+      ],
+      "year": "2009",
+      "venue": "Distributed Computing in Sensor Systems",
+      "link": "https://doi.org/10.1007/978-3-642-02085-8_13"
+    },
+    "BIBREF3": {
+      "title": "Compressive Cooperative Sensing and Mapping in Mobile Networks",
+      "authors": [
+        "Y. Mostofi"
+      ],
+      "year": "2011",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "link": "https://doi.org/10.1109/acc.2009.5160306"
+    },
+    "BIBREF4": {
+      "title": "Radio Tomographic Imaging with Wireless Networks",
+      "authors": [
+        "Joey Wilson",
+        "Neal Patwari"
+      ],
+      "year": "2010",
+      "venue": "IEEE Transactions on Mobile Computing",
+      "link": "https://doi.org/10.1109/tmc.2009.174"
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "paper_id": "1209.3668v1",
+  "title": "Improved in-place associative integer sorting",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Monotone minimal perfect hashing: searching a sorted table with O (1) accesses",
+      "authors": [
+        "Djamal Belazzougui",
+        "Paolo Boldi",
+        "Rasmus Pagh",
+        "Sebastiano Vigna"
+      ],
+      "year": "2009",
+      "venue": "Symposium on Discrete Algorithms",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Algorithms in C",
+      "authors": [
+        "Robert Sedgewick"
+      ],
+      "year": "1990",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Radix sorting with no extra space",
+      "authors": [
+        "Gianni Franceschini",
+        "S. Muthukrishnan",
+        "M. Patrascu"
+      ],
+      "year": "2007",
+      "venue": "European Symposium on Algorithms",
+      "link": "https://arxiv.org/abs/0706.4107"
+    },
+    "BIBREF4": {
+      "title": "Sorting in Linear Time",
+      "authors": [
+        "Arne Andersson",
+        "Torben Hagerup",
+        "Stefan Nilsson",
+        "Rajeev Raman"
+      ],
+      "year": "1998",
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://doi.org/10.1006/jcss.1998.1580"
+    },
+    "BIBREF5": {
+      "title": "Sorting multisets stably in minimum space",
+      "authors": [
+        "J. Katajainen",
+        "Tomi Pasanen"
+      ],
+      "year": "1994",
+      "venue": "Acta Informatica",
+      "link": "https://doi.org/10.1007/3-540-55706-7_37"
+    },
+    "BIBREF6": {
+      "title": "Sorting by Address Calculation",
+      "authors": [
+        "E. Isaac",
+        "R. Singleton"
+      ],
+      "year": "1956",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/320831.320834"
+    },
+    "BIBREF7": {
+      "title": "A high-speed sorting procedure",
+      "authors": [
+        "D. L. Shell"
+      ],
+      "year": "1959",
+      "venue": "Communications of The ACM",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Sorting by hashing and inserting",
+      "authors": [
+        "Govind Gupta"
+      ],
+      "year": "1989",
+      "venue": "Proceedings of the 17th conference on ACM Annual Computer Science Conference",
+      "link": "https://doi.org/10.1145/75427.1030231"
+    },
+    "BIBREF9": {
+      "title": "Content-Addressable and Associative Memory Systems a Survey",
+      "authors": [
+        "A. G. Hanlon"
+      ],
+      "year": "1966",
+      "venue": "IEEE Transactions on Electronic Computers",
+      "link": "https://doi.org/10.1016/s0065-2458(08)60326-5"
+    },
+    "BIBREF10": {
+      "title": "Stable minimum space partitioning in linear time",
+      "authors": [
+        "Jyrki Katajainen",
+        "Tomi Pasanen"
+      ],
+      "year": "1992",
+      "venue": "Bit Numerical Mathematics",
+      "link": "https://doi.org/10.1007/bf01994842"
+    },
+    "BIBREF11": {
+      "title": "Computer Time for Address Calculation Sorting",
+      "authors": [
+        "Ivan Flores"
+      ],
+      "year": "1960",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/321043.321051"
+    },
+    "BIBREF12": {
+      "title": "A variation on sorting by address calculation",
+      "authors": [
+        "Bush Jones"
+      ],
+      "year": "1970",
+      "venue": "Communications of The ACM",
+      "link": null
+    },
+    "BIBREF13": {
+      "title": "An analysis and implementation of an efficient in-place bucket sort",
+      "authors": [
+        "Apostolos Burnetas",
+        "Daniel Solow",
+        "Rishi Agarwal"
+      ],
+      "year": "1997",
+      "venue": "Acta Informatica",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Analysis of a modified address calculation sorting algorithm",
+      "authors": [
+        "F. Suraweera",
+        "J. M. Al-Anzy"
+      ],
+      "year": "1988",
+      "venue": "The Computer Journal",
+      "link": "https://doi.org/10.1093/comjnl/31.6.561"
+    },
+    "BIBREF15": {
+      "title": "In-place associative integer sorting",
+      "authors": [
+        "A. Emre Cetin"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": "https://arxiv.org/abs/1209.0572"
+    },
+    "BIBREF16": {
+      "title": "Radix Sorting With No Extra Space",
+      "authors": [
+        "Gianni Franceschini",
+        "S. Muthukrishnan",
+        "Mihai Patrascu"
+      ],
+      "year": "2007",
+      "venue": "arXiv: Data Structures and Algorithms",
+      "link": "https://arxiv.org/abs/0706.4107"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "paper_id": "1209.0036v1",
+  "title": "Supporting Structured Browsing for Full-Text Scientific Research Reports",
+  "bib_entries": {
+    "BIBREF1": {
+      "title": "Co‐citation in the scientific literature: A new measure of the relationship between two documents",
+      "authors": [
+        "Henry Small"
+      ],
+      "year": "1973",
+      "venue": "Journal of the Association for Information Science and Technology",
+      "link": "https://doi.org/10.1002/asi.4630240406"
+    },
+    "BIBREF3": {
+      "title": "Highly structured scientific publications",
+      "authors": [
+        "Robert B. Allen"
+      ],
+      "year": "2007",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+      "link": "https://doi.org/10.1145/1255175.1255271"
+    },
+    "BIBREF4": {
+      "title": "Model-Oriented Scientific Research Reports",
+      "authors": [
+        "Robert B. Allen"
+      ],
+      "year": "2011",
+      "venue": "D-lib Magazine",
+      "link": "https://doi.org/10.1045/may2011-allen"
+    },
+    "BIBREF7": {
+      "title": "ScholOnto: an ontology-based digital library server for research documents and discourse",
+      "authors": [
+        "Simon Buckingham Shum",
+        "Enrico Motta",
+        "John Domingue"
+      ],
+      "year": "2000",
+      "venue": "International Journal on Digital Libraries",
+      "link": "https://doi.org/10.1007/s007990000034"
+    },
+    "BIBREF9": {
+      "title": "The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 1 Core",
+      "authors": [
+        "Michael Hucka",
+        "Frank T. Bergmann",
+        "Stefan Hoops",
+        "Sarah M. Keating",
+        "Sven Sahle",
+        "James C. Schaff",
+        "Lucian P. Smith",
+        "Darren J. Wilkinson"
+      ],
+      "year": "2010",
+      "venue": "Nature Precedings",
+      "link": "https://doi.org/10.1038/npre.2010.4959.1"
+    },
+    "BIBREF10": {
+      "title": "Qualitative Reasoning",
+      "authors": [
+        "Anthony G. Cohn"
+      ],
+      "year": "1987",
+      "venue": "ACAI '87 Advanced Topics in Artificial Intelligence, 2nd Advanced Course, ACAI '87, Oslo, Norway, July 28 - August 7, 1987",
+      "link": "https://doi.org/10.1007/3-540-60286-0_122"
+    }
+  }
+}

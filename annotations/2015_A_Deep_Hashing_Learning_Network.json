@@ -1,0 +1,264 @@
+{
+  "paper_id": "1507.04437v1",
+  "title": "A Deep Hashing Learning Network",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Regularization of Neural Networks using DropConnect",
+      "authors": [
+        "Li Wan",
+        "Matthew Zeiler",
+        "Sixin Zhang",
+        "Yann Le Cun",
+        "Rob Fergus"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Multidimensional spectral hashing",
+      "authors": [
+        "Yair Weiss",
+        "R. Fergus",
+        "A. Torralba"
+      ],
+      "year": "2012",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://doi.org/10.1007/978-3-642-33715-4_25"
+    },
+    "BIBREF2": {
+      "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+      "authors": [
+        "Pierre Sermanet",
+        "David Eigen",
+        "Xiang Zhang",
+        "Michael Mathieu",
+        "Rob Fergus",
+        "Yann LeCun"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Multi-scale Orderless Pooling of Deep Convolutional Activation Features",
+      "authors": [
+        "Yunchao Gong",
+        "Liwei Wang",
+        "Ruiqi Guo",
+        "Svetlana Lazebnik"
+      ],
+      "year": "2014",
+      "venue": "European Conference on Computer Vision",
+      "link": "https://arxiv.org/abs/1403.1840"
+    },
+    "BIBREF4": {
+      "title": "Iterative Quantization: A Procrustean Approach to Learning Binary Codes for Large-Scale Image Retrieval",
+      "authors": [
+        "Yunchao Gong",
+        "Svetlana Lazebnik",
+        "Albert Gordo",
+        "Florent Perronnin"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2012.193"
+    },
+    "BIBREF5": {
+      "title": "Strategies for retrieving plagiarized documents",
+      "authors": [
+        "Benno Stein",
+        "Sven Meyer zu Eissen",
+        "Martin Potthast"
+      ],
+      "year": "2007",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "link": "https://doi.org/10.1145/1277741.1277928"
+    },
+    "BIBREF6": {
+      "title": "Iterative quantization: A procrustean approach to learning binary codes",
+      "authors": [
+        "Yunchao Gong",
+        "Svetlana Lazebnik"
+      ],
+      "year": "2011",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2011.5995432"
+    },
+    "BIBREF7": {
+      "title": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+      "authors": [
+        "Ross Girshick",
+        "Jeff Donahue",
+        "Trevor Darrell",
+        "Jitendra Malik"
+      ],
+      "year": "2014",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1311.2524"
+    },
+    "BIBREF8": {
+      "title": "Video Google: a text retrieval approach to object matching in videos",
+      "authors": [
+        "Sivic",
+        "Zisserman"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://doi.org/10.1109/iccv.2003.1238663"
+    },
+    "BIBREF9": {
+      "title": "Fast Similarity Search for Learned Metrics",
+      "authors": [
+        "Brian Kulis",
+        "Prateek Jain",
+        "K. Grauman"
+      ],
+      "year": "2009",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2009.151"
+    },
+    "BIBREF10": {
+      "title": "DeepFace: Closing the Gap to Human-Level Performance in Face Verification",
+      "authors": [
+        "Yaniv Taigman",
+        "Ming Yang",
+        "Marc'Aurelio Ranzato",
+        "Lior Wolf"
+      ],
+      "year": "2014",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2014.220"
+    },
+    "BIBREF11": {
+      "title": "PANDA: Pose Aligned Networks for Deep Attribute Modeling",
+      "authors": [
+        "Ning Zhang",
+        "Manohar Paluri",
+        "Marc'Aurelio Ranzato",
+        "Trevor Darrell",
+        "Lubomir D. Bourdev"
+      ],
+      "year": "2014",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1311.5591"
+    },
+    "BIBREF12": {
+      "title": "Backpropagation applied to handwritten zip code recognition",
+      "authors": [
+        "Yann LeCun",
+        "B. Boser",
+        "J. Denker",
+        "D. Henderson",
+        "R. Howard",
+        "W. Hubbard",
+        "L. Jackel"
+      ],
+      "year": "1989",
+      "venue": "Neural Computation",
+      "link": "https://doi.org/10.1162/neco.1989.1.4.541"
+    },
+    "BIBREF13": {
+      "title": "Locality-sensitive hashing scheme based on p-stable distributions",
+      "authors": [
+        "Mayur Datar",
+        "Nicole Immorlica",
+        "P. Indyk",
+        "V. Mirrokni"
+      ],
+      "year": "2004",
+      "venue": "Symposium on Computational Geometry",
+      "link": "https://doi.org/10.1145/997817.997857"
+    },
+    "BIBREF14": {
+      "title": "Learning to Hash with Binary Reconstructive Embeddings",
+      "authors": [
+        "Brian Kulis",
+        "Trevor Darrell"
+      ],
+      "year": "2009",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Minimal Loss Hashing for Compact Binary Codes",
+      "authors": [
+        "Mohammad Norouzi",
+        "David M. Blei"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Hashing with Graphs",
+      "authors": [
+        "Wei Liu",
+        "Jun Wang",
+        "Sanjiv Kumar",
+        "Shih-fu Chang"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "Spectral Hashing",
+      "authors": [
+        "Yair Weiss",
+        "Antonio Torralba",
+        "Rob Fergus"
+      ],
+      "year": "2008",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "Supervised hashing for image retrieval via image representation learning",
+      "authors": [
+        "Rongkai Xia",
+        "Yan Pan",
+        "Hanjiang Lai",
+        "Cong Liu",
+        "Shuicheng Yan"
+      ],
+      "year": "2014",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "Semantic hashing",
+      "authors": [
+        "R. Salakhutdinov",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2009",
+      "venue": "International Journal of Approximate Reasoning",
+      "link": "https://doi.org/10.1016/j.ijar.2008.11.006"
+    },
+    "BIBREF20": {
+      "title": "Generic Object Detection With Dense Neural Patterns and Regionlets",
+      "authors": [
+        "Will Y. Zou",
+        "Xiaoyu Wang",
+        "Miao Sun",
+        "Yuanqing Lin"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1404.4316"
+    },
+    "BIBREF21": {
+      "title": "Return of the Devil in the Details: Delving Deep into Convolutional Nets.",
+      "authors": [
+        "Ken Chatfield",
+        "K. Simonyan",
+        "A. Vedaldi",
+        "Andrew Zisserman"
+      ],
+      "year": "2014",
+      "venue": "British Machine Vision Conference",
+      "link": "https://arxiv.org/abs/1405.3531"
+    }
+  }
+}

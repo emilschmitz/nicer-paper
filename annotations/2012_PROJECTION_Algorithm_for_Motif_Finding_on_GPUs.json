@@ -1,0 +1,99 @@
+{
+  "paper_id": "1605.06904v1",
+  "title": "PROJECTION Algorithm for Motif Finding on GPUs",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Discovery of DNA Regulatory Motifs",
+      "authors": [
+        "Abigail Manson McGuire",
+        "George M. Church"
+      ],
+      "year": "2002",
+      "venue": "Gene Regulations and Metabolism - Postgenomic Computational Approaches",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "GPU-MEME: Using Graphics Hardware to Accelerate Motif Finding in DNA Sequences",
+      "authors": [
+        "Chen Chen",
+        "B. Schmidt",
+        "Weiguo Liu",
+        "W. Müller-Wittig"
+      ],
+      "year": "2008",
+      "venue": "Pattern Recognition in Bioinformatics",
+      "link": "https://doi.org/10.1007/978-3-540-88436-1_38"
+    },
+    "BIBREF2": {
+      "title": "Programming Massively Parallel Processors: A Hands-on Approach",
+      "authors": [
+        "David B. Kirk",
+        "Wen-mei W. Hwu"
+      ],
+      "year": "2012",
+      "venue": "",
+      "link": "https://doi.org/10.12694/scpe.v11i3.654"
+    },
+    "BIBREF3": {
+      "title": "Identifying DNA and protein patterns with statistically significant alignments of multiple sequences.",
+      "authors": [
+        "G. Z. Hertz",
+        "Gary D. Stormo"
+      ],
+      "year": "1999",
+      "venue": "International Conference on Bioinformatics",
+      "link": "https://doi.org/10.1093/bioinformatics/15.7.563"
+    },
+    "BIBREF4": {
+      "title": "Random number generators: good ones are hard to find",
+      "authors": [
+        "S. K. Park",
+        "K. W. Miller"
+      ],
+      "year": "1988",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/63039.63042"
+    },
+    "BIBREF5": {
+      "title": "CUDA-MEME: Accelerating motif discovery in biological sequences using CUDA-enabled graphics processing units",
+      "authors": [
+        "Yongchao Liu",
+        "Bertil Schmidt",
+        "Weiguo Liu",
+        "Douglas L. Maskell"
+      ],
+      "year": "2010",
+      "venue": "Pattern Recognition Letters",
+      "link": "https://doi.org/10.1016/j.patrec.2009.10.009"
+    },
+    "BIBREF6": {
+      "title": "Mapping computational concepts to GPUs",
+      "authors": [
+        "Mark Harris"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Computer Graphics and Interactive Techniques",
+      "link": "https://doi.org/10.1145/1198555.1198768"
+    },
+    "BIBREF7": {
+      "title": "A Parallel Gibbs Sampling Algorithm for Motif Finding on GPU",
+      "authors": [
+        "Linbin Yu",
+        "Yun Xu"
+      ],
+      "year": "2009",
+      "venue": "International Symposium on Parallel and Distributed Processing and Applications",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Finding motifs using random projections",
+      "authors": [
+        "Jeremy Buhler",
+        "Martin Tompa"
+      ],
+      "year": "2001",
+      "venue": "Research in Computational Molecular Biology",
+      "link": "https://doi.org/10.1089/10665270252935430"
+    }
+  }
+}

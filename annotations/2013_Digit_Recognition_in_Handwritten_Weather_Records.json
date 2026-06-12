@@ -1,0 +1,147 @@
+{
+  "paper_id": "1304.6933v2",
+  "title": "Digit Recognition in Handwritten Weather Records",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Recognition of Handwritten Numerical Fields in a Large Single-Writer Historical Collection",
+      "authors": [
+        "Marius Bulacu",
+        "Axel Brink",
+        "Tijn van der Zant",
+        "Lambert Schomaker"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Document Analysis and Recognition",
+      "link": "https://doi.org/10.1109/icdar.2009.8"
+    },
+    "BIBREF1": {
+      "title": "Robust vision-based features and classification schemes for off-line handwritten digit recognition",
+      "authors": [
+        "Loo-Nin Teow",
+        "Kia-Fock Loe"
+      ],
+      "year": "2002",
+      "venue": "Pattern Recognition",
+      "link": "https://doi.org/10.1016/s0031-3203(01)00228-x"
+    },
+    "BIBREF2": {
+      "title": "Combination of Document Image Binarization Techniques",
+      "authors": [
+        "Bolan Su",
+        "Shijian Lu",
+        "Chew Lim Tan"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Document Analysis and Recognition",
+      "link": "https://doi.org/10.1109/icdar.2011.14"
+    },
+    "BIBREF3": {
+      "title": "Interpretation of handwritten addresses in US mailstream",
+      "authors": [
+        "S.N. Srihari",
+        "V. Govindaraju",
+        "A. Shekhawat"
+      ],
+      "year": "1993",
+      "venue": "International Conference on Document Analysis and Recognition",
+      "link": "https://doi.org/10.1109/icdar.1993.395729"
+    },
+    "BIBREF4": {
+      "title": "Deformation Models for Image Recognition",
+      "authors": [
+        "D. Keysers",
+        "T. Deselaers",
+        "C. Gollan",
+        "H. Ney"
+      ],
+      "year": "2007",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://doi.org/10.1109/tpami.2007.1153"
+    },
+    "BIBREF5": {
+      "title": "Towards Semi-supervised Transcription of Handwritten Historical Weather Reports",
+      "authors": [
+        "J. Richarz",
+        "Szilárd Vajda",
+        "G. Fink"
+      ],
+      "year": "2012",
+      "venue": "Document Analysis Systems",
+      "link": "https://doi.org/10.1109/das.2012.91"
+    },
+    "BIBREF6": {
+      "title": "Multi-column deep neural networks for image classification",
+      "authors": [
+        "D. Ciresan",
+        "U. Meier",
+        "J. Schmidhuber"
+      ],
+      "year": "2012",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1202.2745"
+    },
+    "BIBREF7": {
+      "title": "Handwritten character recognition using gradient feature and quadratic classifier with multiple discrimination schemes",
+      "authors": [
+        "Hailong Liu",
+        "Xiaoqing Ding"
+      ],
+      "year": "2005",
+      "venue": "International Conference on Document Analysis and Recognition",
+      "link": "https://doi.org/10.1109/icdar.2005.123"
+    },
+    "BIBREF8": {
+      "title": "Simple Method for High-Performance Digit Recognition Based on Sparse Coding",
+      "authors": [
+        "Kai Labusch",
+        "E. Barth",
+        "T. Martinetz"
+      ],
+      "year": "2008",
+      "venue": "IEEE Transactions on Neural Networks",
+      "link": "https://doi.org/10.1109/tnn.2008.2005830"
+    },
+    "BIBREF9": {
+      "title": "Adaptive document image thresholding using foreground and background clustering",
+      "authors": [
+        "Andreas Savakis"
+      ],
+      "year": "1998",
+      "venue": "International Conference on Image Processing",
+      "link": "https://doi.org/10.1109/icip.1998.999064"
+    },
+    "BIBREF10": {
+      "title": "Document image binarization using background estimation and stroke edges",
+      "authors": [
+        "Shijian Lu",
+        "Bolan Su",
+        "C. Tan"
+      ],
+      "year": "2010",
+      "venue": "International Journal on Document Analysis and Recognition",
+      "link": "https://doi.org/10.1007/s10032-010-0130-8"
+    },
+    "BIBREF11": {
+      "title": "Skew Estimation of Sparsely Inscribed Document Fragments",
+      "authors": [
+        "Markus Diem",
+        "Florian Kleber",
+        "Robert Sablatnig"
+      ],
+      "year": "2012",
+      "venue": "Document Analysis Systems",
+      "link": "https://doi.org/10.1109/das.2012.81"
+    },
+    "BIBREF12": {
+      "title": "Multi-column Deep Neural Networks for Image Classification",
+      "authors": [
+        "Dan Cireşan",
+        "Ueli Meier",
+        "Juergen Schmidhuber"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1202.2745"
+    }
+  }
+}

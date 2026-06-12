@@ -1,0 +1,257 @@
+{
+  "paper_id": "1809.05193v1",
+  "title": "Context2Name: A Deep Learning-Based Approach to Infer Natural Variable Names from Usage Contexts",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Software Protection with Obfuscation and Encryption",
+      "authors": [
+        "Vivek Balachandran",
+        "S. Emmanuel"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Information Security",
+      "link": "https://doi.org/10.1007/978-3-642-38033-4_22"
+    },
+    "BIBREF2": {
+      "title": "On the (im)possibility of obfuscating programs",
+      "authors": [
+        "Boaz Barak",
+        "Oded Goldreich",
+        "Russell Impagliazzo",
+        "Steven Rudich",
+        "Amit Sahai",
+        "Salil Vadhan",
+        "Ke Yang"
+      ],
+      "year": "2012",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/2160158.2160159"
+    },
+    "BIBREF4": {
+      "title": "Learning natural coding conventions",
+      "authors": [
+        "Miltiadis Allamanis",
+        "Earl T. Barr",
+        "Charles Sutton"
+      ],
+      "year": "2014",
+      "venue": "Foundations of Software Engineering",
+      "link": "https://arxiv.org/abs/1402.4182"
+    },
+    "BIBREF5": {
+      "title": "On the naturalness of software",
+      "authors": [
+        "Premkumar T. Devanbu"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Software Engineering",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Code completion with statistical language models",
+      "authors": [
+        "Veselin Raychev",
+        "Martin T. Vechev",
+        "Eran Yahav"
+      ],
+      "year": "2014",
+      "venue": "Programming Language Design and Implementation",
+      "link": "https://doi.org/10.1145/2676726.2677009"
+    },
+    "BIBREF7": {
+      "title": "Watermarking, tamper-proofing, and obfuscation - tools for software protection",
+      "authors": [
+        "C. Collberg",
+        "C. Thomborson"
+      ],
+      "year": "2002",
+      "venue": "IEEE Transactions on Software Engineering",
+      "link": "https://doi.org/10.1109/tse.2002.1027797"
+    },
+    "BIBREF8": {
+      "title": "Predicting Program Properties from \"Big Code\"",
+      "authors": [
+        "Veselin Raychev",
+        "Martin Vechev",
+        "Andreas Krause"
+      ],
+      "year": "2015",
+      "venue": "Symposium on Principles of Programming Languages",
+      "link": "https://doi.org/10.1145/2676726.2677009"
+    },
+    "BIBREF9": {
+      "title": "Semi-supervised Sequence Learning",
+      "authors": [
+        "Andrew M. Dai",
+        "Quoc V. Le"
+      ],
+      "year": "2015",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "An examination of software engineering work practices",
+      "authors": [
+        "J. Singer",
+        "T. Lethbridge",
+        "Norman G. Vinson",
+        "N. Anquetil"
+      ],
+      "year": "2010",
+      "venue": "Conference of the Centre for Advanced Studies on Collaborative Research",
+      "link": "https://arxiv.org/abs/1703.04990"
+    },
+    "BIBREF11": {
+      "title": "Learning programs from noisy data",
+      "authors": [
+        "Veselin Raychev",
+        "Pavol Bielik",
+        "Martin T. Vechev",
+        "Andreas Krause"
+      ],
+      "year": "2016",
+      "venue": "Symposium on Principles of Programming Languages",
+      "link": "https://doi.org/10.1145/2837614.2837671"
+    },
+    "BIBREF14": {
+      "title": "PHOG: probabilistic model for code",
+      "authors": [
+        "Pavol Bielik",
+        "Veselin Raychev",
+        "Martin Vechev"
+      ],
+      "year": "2016",
+      "venue": "International Conference on Machine Learning",
+      "link": "https://doi.org/10.1145/2160158.2160159"
+    },
+    "BIBREF15": {
+      "title": "Deep learning code fragments for code clone detection",
+      "authors": [
+        "Martin White",
+        "Michele Tufano",
+        "Christopher Vendome",
+        "D. Poshyvanyk"
+      ],
+      "year": "2016",
+      "venue": "Automated Software Engineering",
+      "link": "https://doi.org/10.1145/2970276.2970326"
+    },
+    "BIBREF16": {
+      "title": "Deobfuscation: reverse engineering obfuscated code",
+      "authors": [
+        "Sharath K. Udupa",
+        "S. Debray",
+        "Matias Madou"
+      ],
+      "year": "2005",
+      "venue": "Working Conference on Reverse Engineering",
+      "link": "https://doi.org/10.1109/wcre.2005.13"
+    },
+    "BIBREF17": {
+      "title": "Probabilistic model for code with decision trees",
+      "authors": [
+        "Veselin Raychev",
+        "Pavol Bielik",
+        "Martin T. Vechev"
+      ],
+      "year": "2016",
+      "venue": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+      "link": "https://doi.org/10.1145/2983990.2984041"
+    },
+    "BIBREF18": {
+      "title": "Neural Programming by Example",
+      "authors": [
+        "Chengxun Shu",
+        "Hongyu Zhang"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1703.04990"
+    },
+    "BIBREF19": {
+      "title": "DeepFix: Fixing Common C Language Errors by Deep Learning.",
+      "authors": [
+        "Rahul Gupta",
+        "Soham Pal",
+        "Aditya Kanade",
+        "Shirish K. Shevade"
+      ],
+      "year": "2017",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Stochastic optimization of program obfuscation",
+      "authors": [
+        "Han Liu",
+        "Chengnian Sun",
+        "Z. Su",
+        "Yu Jiang",
+        "M. Gu",
+        "Jiaguang Sun"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Software Engineering",
+      "link": "https://doi.org/10.1109/icse.2017.28"
+    },
+    "BIBREF22": {
+      "title": "Automatic text input generation for mobile testing",
+      "authors": [
+        "Peng Liu",
+        "X. Zhang",
+        "Marco Pistoia",
+        "Yunhui Zheng",
+        "M. Marques",
+        "Lingfei Zeng"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Software Engineering",
+      "link": "https://doi.org/10.1109/icse.2017.28"
+    },
+    "BIBREF23": {
+      "title": "Exploring API embedding for API usages and applications",
+      "authors": [
+        "Trong Duc Nguyen",
+        "A. Nguyen",
+        "H. Phan",
+        "T. Nguyen"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Software Engineering",
+      "link": "https://doi.org/10.1109/icse.2017.47"
+    },
+    "BIBREF24": {
+      "title": "Recovering clear, natural identifiers from obfuscated JS names",
+      "authors": [
+        "Bogdan Vasilescu",
+        "Casey Casalnuovo",
+        "Premkumar T. Devanbu"
+      ],
+      "year": "2017",
+      "venue": "Foundations of Software Engineering",
+      "link": "https://doi.org/10.1145/3106237.3106289"
+    },
+    "BIBREF25": {
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "authors": [
+        "Ilya Sutskever",
+        "Oriol Vinyals",
+        "Quoc V. Le"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF26": {
+      "title": "Learn&Fuzz: Machine Learning for Input Fuzzing",
+      "authors": [
+        "Patrice Godefroid",
+        "Hila Peleg",
+        "Rishabh Singh"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1701.07232"
+    }
+  }
+}

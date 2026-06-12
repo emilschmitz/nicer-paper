@@ -1,0 +1,194 @@
+{
+  "paper_id": "1412.4054v1",
+  "title": "An Experimental Evaluation of Machine-to-Machine Coordination Middleware: Extended Version.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "ZooKeeper: wait-free coordination for internet-scale systems",
+      "authors": [
+        "Patrick Hunt",
+        "Mahadev Konar",
+        "Flavio P. Junqueira",
+        "Benjamin Reed"
+      ],
+      "year": "2010",
+      "venue": "USENIX Annual Technical Conference",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Fault tolerant Web service",
+      "authors": [
+        "Deron Liang",
+        "Chen-Liang Fang",
+        "Chyouhwa Chen",
+        "Fengyi Lin"
+      ],
+      "year": "2003",
+      "venue": "Asia-Pacific Software Engineering Conference",
+      "link": "https://doi.org/10.1109/apsec.2003.1254385"
+    },
+    "BIBREF2": {
+      "title": "Time, clocks, and the ordering of events in a distributed system",
+      "authors": [
+        "L. Lamport"
+      ],
+      "year": "1978",
+      "venue": "Communications of The ACM",
+      "link": "https://doi.org/10.1145/359545.359563"
+    },
+    "BIBREF3": {
+      "title": "The Chubby lock service for loosely-coupled distributed systems",
+      "authors": [
+        "Mike Burrows"
+      ],
+      "year": "2006",
+      "venue": "Operating Systems Design and Implementation",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "The part-time parliament",
+      "authors": [
+        "Leslie Lamport"
+      ],
+      "year": "1998",
+      "venue": "ACM Transactions on Computer Systems",
+      "link": "https://doi.org/10.1145/279227.279229"
+    },
+    "BIBREF5": {
+      "title": "Increasing Web Service Dependability Through Consensus Voting",
+      "authors": [
+        "N. Looker",
+        "M. Munro",
+        "Jie Xu"
+      ],
+      "year": "2005",
+      "venue": "Computer Software and Applications Conference",
+      "link": "https://doi.org/10.1109/compsac.2005.88"
+    },
+    "BIBREF6": {
+      "title": "Zab: High-performance broadcast for primary-backup systems",
+      "authors": [
+        "Flavio P. Junqueira",
+        "Benjamin C. Reed",
+        "Marco Serafini"
+      ],
+      "year": "2011",
+      "venue": "Dependable Systems and Networks",
+      "link": "https://doi.org/10.1109/dsn.2011.5958223"
+    },
+    "BIBREF7": {
+      "title": "WS-replication: a framework for highly available web services",
+      "authors": [
+        "Jorge Salas",
+        "Francisco Perez-Sorrosal",
+        "Marta Patiño-Martínez",
+        "Ricardo Jiménez-Peris"
+      ],
+      "year": "2006",
+      "venue": "The Web Conference",
+      "link": "https://doi.org/10.1145/1135777.1135831"
+    },
+    "BIBREF8": {
+      "title": "The Byzantine Generals Problem",
+      "authors": [
+        "Leslie Lamport",
+        "Robert Shostak",
+        "Marshall Pease"
+      ],
+      "year": "1982",
+      "venue": "ACM Transactions on Programming Languages and Systems",
+      "link": "https://doi.org/10.1145/2402.322398"
+    },
+    "BIBREF9": {
+      "title": "Axis2-based Replication Middleware forWeb Services",
+      "authors": [
+        "J. Osrael",
+        "L. Froihofer",
+        "M. Weghofer",
+        "K.M. Goeschka"
+      ],
+      "year": "2007",
+      "venue": "International Conference on Web Services",
+      "link": "https://doi.org/10.1109/icws.2007.57"
+    },
+    "BIBREF10": {
+      "title": "A framework to support survivable Web services",
+      "authors": [
+        "W. Li",
+        "J. He",
+        "Q. Ma",
+        "I.-L. Yen",
+        "F. Bastani",
+        "R. Paul"
+      ],
+      "year": "2005",
+      "venue": "International Parallel and Distributed Processing Symposium",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Practical Byzantine fault tolerance",
+      "authors": [
+        "Miguel Castro",
+        "Barbara Liskov"
+      ],
+      "year": "1999",
+      "venue": "Operating Systems Design and Implementation",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Implementing fault-tolerant services using the state machine approach: a tutorial",
+      "authors": [
+        "F. Schneider"
+      ],
+      "year": "1990",
+      "venue": "ACM Computing Surveys",
+      "link": "https://doi.org/10.1145/98163.98167"
+    },
+    "BIBREF13": {
+      "title": "Toward Trustworthy Coordination of Web Services Business Activities",
+      "authors": [
+        "Hua Chai",
+        "Honglei Zhang",
+        "Wenbing Zhao",
+        "P. Melliar-Smith",
+        "L. Moser"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Services Computing",
+      "link": "https://doi.org/10.1109/tsc.2011.57"
+    },
+    "BIBREF14": {
+      "title": "Byzantine Fault-Tolerant Web Services for n-Tier and Service Oriented Architectures",
+      "authors": [
+        "Sajeeva L. Pallemulle",
+        "Haraldur D. Thorvaldsson",
+        "K. Goldman"
+      ],
+      "year": "2008",
+      "venue": "International Conference on Distributed Computing Systems",
+      "link": "https://doi.org/10.1109/icdcs.2008.94"
+    },
+    "BIBREF15": {
+      "title": "Thema: Byzantine-fault-tolerant middleware for Web-service applications",
+      "authors": [
+        "Michael G. Merideth",
+        "A. Iyengar",
+        "Thomas A. Mikalsen",
+        "S. Tai",
+        "I. Rouvellou",
+        "P. Narasimhan"
+      ],
+      "year": "2005",
+      "venue": "Symposium on Reliable Distributed Systems",
+      "link": "https://doi.org/10.1109/reldis.2005.28"
+    },
+    "BIBREF16": {
+      "title": "BFT-WS: A Byzantine Fault Tolerance Framework for Web Services",
+      "authors": [
+        "Wenbing Zhao"
+      ],
+      "year": "2007",
+      "venue": "Enterprise Distributed Object Computing",
+      "link": "https://doi.org/10.1109/edocw.2007.6"
+    }
+  }
+}

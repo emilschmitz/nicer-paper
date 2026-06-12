@@ -1,0 +1,995 @@
+{
+  "paper_id": "1801.00036v1",
+  "title": "An introduction to Graph Data Management",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "PowerGraph: distributed graph-parallel computation on natural graphs",
+      "authors": [
+        "Joseph E. Gonzalez",
+        "Yucheng Low",
+        "Haijie Gu",
+        "Danny Bickson",
+        "Carlos Guestrin"
+      ],
+      "year": "2012",
+      "venue": "Operating Systems Design and Implementation",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "G+: Recursive Queries Without Recursion.",
+      "authors": [
+        "Isabel F. Cruz",
+        "Alberto O. Mendelzon",
+        "Peter T. Wood"
+      ],
+      "year": "1988",
+      "venue": "Expert Database Conf.",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "GraphDB: Modeling and Querying Graphs in Databases",
+      "authors": [
+        "Ralf Hartmut Güting"
+      ],
+      "year": "1994",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Factoring Augmented Regular Chain Programs",
+      "authors": [
+        "Peter T. Wood"
+      ],
+      "year": "1990",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "DBMS with graph data model for knowledge handling",
+      "authors": [
+        "H. S. Kunii"
+      ],
+      "year": "1987",
+      "venue": "Fall joint computer conference",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Typing Graph-Manipulation Operations",
+      "authors": [
+        "J. Hidders"
+      ],
+      "year": "2003",
+      "venue": "International Conference on Database Theory",
+      "link": "https://doi.org/10.1007/3-540-36285-1_26"
+    },
+    "BIBREF6": {
+      "title": "Querying complex graphs",
+      "authors": [
+        "Yanhong A. Liu",
+        "S. Stoller"
+      ],
+      "year": "2006",
+      "venue": "Practical Aspects of Declarative Languages",
+      "link": "https://doi.org/10.1007/11603023_14"
+    },
+    "BIBREF7": {
+      "title": "Querying Semi-Structured Data",
+      "authors": [
+        "Serge Abiteboul"
+      ],
+      "year": "1997",
+      "venue": "International Conference on Database Theory",
+      "link": "https://doi.org/10.1007/3-540-62222-5_33"
+    },
+    "BIBREF8": {
+      "title": "An Object-Oriented Pattern Matching Language",
+      "authors": [
+        "M. Gemis",
+        "J. Paredaens"
+      ],
+      "year": "1993",
+      "venue": "Proceedings of the First JSSST International Symposium on Object Technologies for Advanced Software",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Semantic Integration and Querying of Heterogeneous Data Sources Using a Hypergraph Data Model",
+      "authors": [
+        "D. Theodoratos"
+      ],
+      "year": "2002",
+      "venue": "British National Conference on Databases",
+      "link": "https://doi.org/10.1007/3-540-45495-0_19"
+    },
+    "BIBREF10": {
+      "title": "Database Graph Views: A Practical Model to Manage Persistent Graphs",
+      "authors": [
+        "Alejandro Gutiérrez",
+        "Philippe Pucheral",
+        "Hermann Steffen",
+        "Jean-Marc Thévenin"
+      ],
+      "year": "1994",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "A discussion on the design of graph database benchmarks",
+      "authors": [
+        "David Dominguez-Sal",
+        "Norbert Martínez-Bazan",
+        "V. Muntés-Mulero",
+        "Pere Baleta",
+        "J. Larriba-Pey"
+      ],
+      "year": "2010",
+      "venue": "TPC Technology Conference",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Bipartite graphs as intermediate model for RDF",
+      "authors": [
+        "Jonathan Hayes",
+        "Claudio Gutiérrez"
+      ],
+      "year": "2004",
+      "venue": "International Semantic Web Conference",
+      "link": "https://doi.org/10.1007/978-3-540-30475-3_5"
+    },
+    "BIBREF13": {
+      "title": "The TSIMMIS Approach to Mediation: Data Models and Languages",
+      "authors": [
+        "H. Garcia-Molina",
+        "Y. Papakonstantinou",
+        "D. Quass",
+        "A. Rajaraman",
+        "Y. Sagiv",
+        "J. Ullman",
+        "V. Vassalos",
+        "J. Widom"
+      ],
+      "year": "1997",
+      "venue": "Next Generation Information Technologies and Systems",
+      "link": "https://doi.org/10.1023/a:1008683107812"
+    },
+    "BIBREF14": {
+      "title": "HyperGraphDB: a generalized graph database",
+      "authors": [
+        "Borislav Iordanov"
+      ],
+      "year": "2010",
+      "venue": "Web-Age Information Management",
+      "link": "https://doi.org/10.1007/978-3-642-16720-1_3"
+    },
+    "BIBREF15": {
+      "title": "GraphChi: large-scale graph computation on just a PC",
+      "authors": [
+        "Aapo Kyrola",
+        "Guy Blelloch",
+        "Carlos Guestrin"
+      ],
+      "year": "2012",
+      "venue": "Operating Systems Design and Implementation",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Concepts for Graph-Oriented Object Manipulation",
+      "authors": [
+        "Marc Andries",
+        "M. Gemis",
+        "J. Paredaens",
+        "Inge Thyssens",
+        "Jan Van den Bussche"
+      ],
+      "year": "1992",
+      "venue": "Extending Database Technology",
+      "link": "https://doi.org/10.1007/bfb0032421"
+    },
+    "BIBREF17": {
+      "title": "NoSQL Databases for RDF: An Empirical Evaluation",
+      "authors": [
+        "P. Cudré-Mauroux",
+        "Iliya Enchev",
+        "Sever Fundatureanu",
+        "Paul Groth",
+        "A. Haque",
+        "A. Harth",
+        "Felix Leif Keppmann",
+        "Daniel P. Miranker",
+        "Juan Sequeda",
+        "Marcin Wylot"
+      ],
+      "year": "2013",
+      "venue": "International Semantic Web Conference",
+      "link": "https://doi.org/10.1007/978-3-642-41338-4_20"
+    },
+    "BIBREF18": {
+      "title": "A Brief Study of Open Source Graph Databases",
+      "authors": [
+        "R. McColl",
+        "David Ediger",
+        "Jason A. Poovey",
+        "D. Campbell",
+        "David A. Bader"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Databases",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "GPS: a graph processing system",
+      "authors": [
+        "S. Salihoglu",
+        "J. Widom"
+      ],
+      "year": "2013",
+      "venue": "Statistical and Scientific Database Management",
+      "link": "https://doi.org/10.1145/2484838.2484843"
+    },
+    "BIBREF20": {
+      "title": "Expressing structural hypertext queries in graphlog",
+      "authors": [
+        "M. Consens",
+        "A. Mendelzon"
+      ],
+      "year": "1989",
+      "venue": "ACM Conference on Hypertext",
+      "link": "https://doi.org/10.1145/74224.74247"
+    },
+    "BIBREF21": {
+      "title": "UnQL: a query language and algebra for semistructured data based on structural recursion",
+      "authors": [
+        "P. Buneman",
+        "M. Fernández",
+        "Dan Suciu"
+      ],
+      "year": "2000",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1007/s007780050084"
+    },
+    "BIBREF22": {
+      "title": "A graphical query language supporting recursion",
+      "authors": [
+        "I. Cruz",
+        "A. Mendelzon",
+        "P. Wood"
+      ],
+      "year": "1987",
+      "venue": "International Conference on Management of Data",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "GraphX: a resilient distributed graph system on Spark",
+      "authors": [
+        "Reynold Xin",
+        "Joseph E. Gonzalez",
+        "M. Franklin",
+        "Ion Stoica"
+      ],
+      "year": "2013",
+      "venue": "First International Workshop on Graph Data Management Experiences and Systems",
+      "link": "https://doi.org/10.1145/2484425.2484427"
+    },
+    "BIBREF24": {
+      "title": "TurboGraph: a fast parallel graph engine handling billion-scale graphs in a single PC",
+      "authors": [
+        "Wook-Shin Han",
+        "Sangyeon Lee",
+        "Kyungyeol Park",
+        "Jeong-Hoon Lee",
+        "Min-Soo Kim",
+        "Jinha Kim",
+        "Hwanjo Yu"
+      ],
+      "year": "2013",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/2487575.2487581"
+    },
+    "BIBREF25": {
+      "title": "Partially ordered regular languages for graph queries",
+      "authors": [
+        "Sergio Flesca",
+        "S. Greco"
+      ],
+      "year": "2005",
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://doi.org/10.1007/3-540-48523-6_29"
+    },
+    "BIBREF26": {
+      "title": "Gram: a graph data model and query languages",
+      "authors": [
+        "B. Amann",
+        "M. Scholl"
+      ],
+      "year": "1992",
+      "venue": "ACM Conference on Hypertext",
+      "link": "https://doi.org/10.1145/168466.168527"
+    },
+    "BIBREF27": {
+      "title": "GraphLog: a visual formalism for real life recursion",
+      "authors": [
+        "M. Consens",
+        "A. Mendelzon"
+      ],
+      "year": "1990",
+      "venue": "Symposium on Principles of Database Systems",
+      "link": "https://doi.org/10.1145/298514.298591"
+    },
+    "BIBREF28": {
+      "title": "Catch the Wind: Graph workload balancing on cloud",
+      "authors": [
+        "Zechao Shang",
+        "J. Yu"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icde.2013.6544855"
+    },
+    "BIBREF29": {
+      "title": "The RDF-3X engine for scalable management of RDF data",
+      "authors": [
+        "Thomas Neumann",
+        "G. Weikum"
+      ],
+      "year": "2010",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1007/s00778-009-0165-y"
+    },
+    "BIBREF30": {
+      "title": "A new approach to database logic",
+      "authors": [
+        "Gabriel M. Kuper",
+        "Moshe Y. Vardi"
+      ],
+      "year": "1984",
+      "venue": "Symposium on Principles of Database Systems",
+      "link": null
+    },
+    "BIBREF31": {
+      "title": "Benchmarking Traversal Operations over Graph Databases",
+      "authors": [
+        "Marek Ciglan",
+        "Alex Averbuch",
+        "Ladialav Hluchy"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icdew.2012.47"
+    },
+    "BIBREF32": {
+      "title": "A data model for flexible hypertext database systems",
+      "authors": [
+        "Frank Wm. Tompa"
+      ],
+      "year": "1989",
+      "venue": "ACM Transactions on Information Systems",
+      "link": null
+    },
+    "BIBREF33": {
+      "title": "An object-oriented data model formalised through hypergraphs",
+      "authors": [
+        "M. Levene",
+        "A. Poulovanssilis"
+      ],
+      "year": "1991",
+      "venue": "Data and Knowledge Engineering",
+      "link": null
+    },
+    "BIBREF34": {
+      "title": "Regular languages with variables on graphs",
+      "authors": [
+        "Simone Santini"
+      ],
+      "year": "2012",
+      "venue": "Information & Computation",
+      "link": "https://doi.org/10.1016/j.ic.2011.10.010"
+    },
+    "BIBREF35": {
+      "title": "Graph-theoretic methods in database theory",
+      "authors": [
+        "Mihalis Yannakakis"
+      ],
+      "year": "1990",
+      "venue": "Symposium on Principles of Database Systems",
+      "link": "https://doi.org/10.1145/298514.298576"
+    },
+    "BIBREF36": {
+      "title": "A nested-graph model for the representation and manipulation of complex objects",
+      "authors": [
+        "Alexandra Poulovassilis",
+        "Mark Levene"
+      ],
+      "year": "1994",
+      "venue": "ACM Transactions on Information Systems",
+      "link": null
+    },
+    "BIBREF37": {
+      "title": "Optimizing schema-last tuple-store queries in graphd",
+      "authors": [
+        "Scott M. Meyer",
+        "Jutta Degener",
+        "John Giannandrea",
+        "Barak Michener"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1807167.1807283"
+    },
+    "BIBREF38": {
+      "title": "TripleBit: a fast and compact system for large scale RDF data",
+      "authors": [
+        "Pingpeng Yuan",
+        "Pu Liu",
+        "Buwen Wu",
+        "Hai Jin",
+        "Wenya Zhang",
+        "Ling Liu"
+      ],
+      "year": "2013",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.14778/2536349.2536352"
+    },
+    "BIBREF39": {
+      "title": "imGraph: A Distributed In-Memory Graph Database",
+      "authors": [
+        "Salim Jouili",
+        "Aldemar Reynaga"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Social Computing",
+      "link": "https://doi.org/10.1109/socialcom.2013.109"
+    },
+    "BIBREF40": {
+      "title": "Adjacency queries in dynamic sparse graphs",
+      "authors": [
+        "Łukasz Kowalik"
+      ],
+      "year": "2007",
+      "venue": "Information Processing Letters",
+      "link": "https://doi.org/10.1016/j.ipl.2006.12.006"
+    },
+    "BIBREF41": {
+      "title": "Regular Path Queries with Constraints",
+      "authors": [
+        "Serge Abiteboul",
+        "Victor Vianu"
+      ],
+      "year": "1999",
+      "venue": "Journal of Computer and System Sciences",
+      "link": "https://doi.org/10.1145/263661.263676"
+    },
+    "BIBREF42": {
+      "title": "Scaling Semantic Graph Databases in Size and Performance",
+      "authors": [
+        "Alessandro Morari",
+        "Vito Giovanni Castellana",
+        "Oreste Villa",
+        "Antonino Tumeo",
+        "Jesse Weaver",
+        "David Haglin",
+        "Sutanay Choudhury",
+        "John Feo"
+      ],
+      "year": "2014",
+      "venue": "IEEE Micro",
+      "link": "https://doi.org/10.1109/mm.2014.39"
+    },
+    "BIBREF43": {
+      "title": "The functional data model and the data language DAPLEX",
+      "authors": [
+        "David W. Shipman"
+      ],
+      "year": "1979",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/582095.582105"
+    },
+    "BIBREF44": {
+      "title": "A transient hypergraph-based model for data access",
+      "authors": [
+        "Carolyn Watters",
+        "Michael A. Shepherd"
+      ],
+      "year": "1990",
+      "venue": "ACM Transactions on Information Systems",
+      "link": null
+    },
+    "BIBREF45": {
+      "title": "How Well Do Graph-Processing Platforms Perform? An Empirical Performance Evaluation and Analysis",
+      "authors": [
+        "Yong Guo",
+        "Marcin Biczak",
+        "Ana Lucia Varbanescu",
+        "Alexandru Iosup",
+        "Claudio Martella",
+        "Theodore L. Willke"
+      ],
+      "year": "2014",
+      "venue": "International Parallel and Distributed Processing Symposium",
+      "link": "https://doi.org/10.1109/ipdps.2014.49"
+    },
+    "BIBREF46": {
+      "title": "Using semantic networks for data base management",
+      "authors": [
+        "Nicholas Roussopoulos",
+        "John Mylopoulos"
+      ],
+      "year": "1975",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1145/1282480.1282490"
+    },
+    "BIBREF47": {
+      "title": "An evaluation study of BigData frameworks for graph processing",
+      "authors": [
+        "Benedikt Elser",
+        "Alberto Montresor"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Big Data",
+      "link": null
+    },
+    "BIBREF48": {
+      "title": "Shortest path and distance queries on road networks: towards bridging theory and practice",
+      "authors": [
+        "Andy Diwen Zhu",
+        "Hui Ma",
+        "Xiaokui Xiao",
+        "Siqiang Luo",
+        "Youze Tang",
+        "Shuigeng Zhou"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Management of Data",
+      "link": "https://arxiv.org/abs/1304.2576"
+    },
+    "BIBREF49": {
+      "title": "The Lorel Query Language for Semistructured Data",
+      "authors": [
+        "Serge Abiteboul",
+        "Dallan Quass",
+        "Jason McHugh",
+        "Jennifer Widom",
+        "Janet L. Wiener"
+      ],
+      "year": "1997",
+      "venue": "International Journal on Digital Libraries",
+      "link": "https://doi.org/10.1007/s007990050005"
+    },
+    "BIBREF50": {
+      "title": "Graphs-at-a-time: query language and access methods for graph databases",
+      "authors": [
+        "Huahai He",
+        "Ambuj K. Singh"
+      ],
+      "year": "2008",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1376616.1376660"
+    },
+    "BIBREF51": {
+      "title": "THIRTY YEARS OF GRAPH MATCHING IN PATTERN RECOGNITION",
+      "authors": [
+        "Donatello Conte",
+        "Pasquale Foggia",
+        "Carlo Sansone",
+        "Mario Vento"
+      ],
+      "year": "2004",
+      "venue": "International Journal of Pattern Recognition and Artificial Intelligence",
+      "link": "https://doi.org/10.1142/s0218001404003228"
+    },
+    "BIBREF52": {
+      "title": "SAGA: a subgraph matching tool for biological graphs",
+      "authors": [
+        "Yuanyuan Tian",
+        "Richard C. Mceachin",
+        "Carlos Santos",
+        "David J. States",
+        "Jignesh M. Patel"
+      ],
+      "year": "2007",
+      "venue": "Bioinformatics",
+      "link": "https://doi.org/10.1093/bioinformatics/btl571"
+    },
+    "BIBREF53": {
+      "title": "Survey of graph database models",
+      "authors": [
+        "Renzo Angles",
+        "Claudio Gutierrez"
+      ],
+      "year": "2008",
+      "venue": "ACM Computing Surveys",
+      "link": "https://doi.org/10.1145/1322432.1322433"
+    },
+    "BIBREF54": {
+      "title": "A graph-based data model and its ramifications",
+      "authors": [
+        "M. Levene",
+        "G. Loizou"
+      ],
+      "year": "1995",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": null
+    },
+    "BIBREF55": {
+      "title": "Expressive Languages for Path Queries over Graph-Structured Data",
+      "authors": [
+        "Pablo Barceló",
+        "Leonid Libkin",
+        "Anthony W. Lin",
+        "Peter T. Wood"
+      ],
+      "year": "2012",
+      "venue": "ACM Transactions on Database Systems",
+      "link": "https://doi.org/10.1145/2389241.2389250"
+    },
+    "BIBREF56": {
+      "title": "The hypernode model and its associated query language",
+      "authors": [
+        "M. Levene",
+        "A. Poulovassilis"
+      ],
+      "year": "1990",
+      "venue": "Proceedings of the 5th Jerusalem Conference on Information Technology, 1990. 'Next Decade in Information Technology'",
+      "link": "https://doi.org/10.1109/jcit.1990.128324"
+    },
+    "BIBREF57": {
+      "title": "Object exchange across heterogeneous information sources",
+      "authors": [
+        "Y. Papakonstantinou",
+        "H. Garcia-Molina",
+        "J. Widom"
+      ],
+      "year": "1995",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icde.1995.380386"
+    },
+    "BIBREF58": {
+      "title": "Constructions from dots and lines",
+      "authors": [
+        "Marko A. Rodriguez",
+        "Peter Neubauer"
+      ],
+      "year": "2010",
+      "venue": "Bulletin of The American Society for Information Science and Technology",
+      "link": "https://arxiv.org/abs/1006.2361"
+    },
+    "BIBREF59": {
+      "title": "gStore: a graph-based SPARQL query engine",
+      "authors": [
+        "Lei Zou",
+        "M. Tamer Özsu",
+        "Lei Chen",
+        "Xuchuan Shen",
+        "Ruizhe Huang",
+        "Dongyan Zhao"
+      ],
+      "year": "2014",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.1007/s00778-013-0337-7"
+    },
+    "BIBREF60": {
+      "title": "Survey of graph database performance on the HPC scalable graph analysis benchmark",
+      "authors": [
+        "D. Dominguez-Sal",
+        "P. Urbón-Bayes",
+        "A. Giménez-Vañó",
+        "S. Gómez-Villamor",
+        "N. Martínez-Bazán",
+        "J. L. Larriba-Pey"
+      ],
+      "year": "2010",
+      "venue": "Web-Age Information Management",
+      "link": "https://doi.org/10.1007/978-3-642-16720-1_4"
+    },
+    "BIBREF61": {
+      "title": "Goal, a Graph-Based Object and Association Language",
+      "authors": [
+        "J. Hidders",
+        "J. Paredaens"
+      ],
+      "year": "1994",
+      "venue": "Advances in database systems: implementations and applications",
+      "link": "https://doi.org/10.1007/978-3-7091-2704-9_13"
+    },
+    "BIBREF62": {
+      "title": "G-Log: a graph-based query language",
+      "authors": [
+        "J. Paredaens",
+        "P. Peelman",
+        "L. Tanca"
+      ],
+      "year": "1995",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": "https://doi.org/10.1109/69.390249"
+    },
+    "BIBREF63": {
+      "title": "Hy+: a Hygraph-based query and visualization system",
+      "authors": [
+        "Mariano Consens",
+        "Alberto Mendelzon"
+      ],
+      "year": "1993",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/170035.171537"
+    },
+    "BIBREF64": {
+      "title": "Querying graph databases with XPath",
+      "authors": [
+        "Leonid Libkin",
+        "Wim Martens",
+        "Domagoj Vrgoč"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Database Theory",
+      "link": "https://doi.org/10.1145/2448496.2448513"
+    },
+    "BIBREF65": {
+      "title": "A graph-theoretic data model for genome mapping databases",
+      "authors": [
+        "M. Graves",
+        "E.R. Bergeman",
+        "C.B. Lawrence"
+      ],
+      "year": "1995",
+      "venue": "Hawaii International Conference on System Sciences",
+      "link": null
+    },
+    "BIBREF66": {
+      "title": "Graph pattern matching revised for social network analysis",
+      "authors": [
+        "Wenfei Fan"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Database Theory",
+      "link": "https://doi.org/10.1145/2274576.2274578"
+    },
+    "BIBREF67": {
+      "title": "A Spatial Logic for Querying Graphs",
+      "authors": [
+        "Luca Cardelli",
+        "Philippa Gardner",
+        "Giorgio Ghelli"
+      ],
+      "year": "2002",
+      "venue": "International Colloquium on Automata, Languages and Programming",
+      "link": null
+    },
+    "BIBREF68": {
+      "title": "Finding Regular Simple Paths in Graph Databases",
+      "authors": [
+        "Alberto O. Mendelzon",
+        "Peter T. Wood"
+      ],
+      "year": "1995",
+      "venue": "SIAM Journal on Computing",
+      "link": "https://doi.org/10.1137/s009753979122370x"
+    },
+    "BIBREF69": {
+      "title": "A graph-oriented object database model",
+      "authors": [
+        "M. Gyssens",
+        "J. Paredaens",
+        "J. van den Bussche",
+        "D. van Gucht"
+      ],
+      "year": "1994",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering",
+      "link": null
+    },
+    "BIBREF70": {
+      "title": "Scalable semantic web data management using vertical partitioning",
+      "authors": [
+        "Daniel J. Abadi",
+        "Adam Marcus",
+        "Samuel R. Madden",
+        "Kate Hollenbach"
+      ],
+      "year": "2007",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF71": {
+      "title": "GRAS, a graph oriented (software) engineering database system",
+      "authors": [
+        "Norbert Kiesel",
+        "Andy Schürr",
+        "B. Westfechtel"
+      ],
+      "year": "1995",
+      "venue": "Information Systems",
+      "link": "https://doi.org/10.1016/0306-4379(95)00002-l"
+    },
+    "BIBREF72": {
+      "title": "SoQL: A Language for Querying and Creating Data in Social Networks",
+      "authors": [
+        "Royi Ronen",
+        "O. Shmueli"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Data Engineering",
+      "link": "https://doi.org/10.1109/icde.2009.172"
+    },
+    "BIBREF73": {
+      "title": "O2, an object-oriented data model",
+      "authors": [
+        "C. Lécluse",
+        "P. Richard",
+        "F. Vélez"
+      ],
+      "year": "1988",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/50202.50253"
+    },
+    "BIBREF74": {
+      "title": "Query languages for graph databases",
+      "authors": [
+        "Peter T. Wood"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/2206869.2206879"
+    },
+    "BIBREF75": {
+      "title": "Horton+: a distributed system for processing declarative reachability queries over partitioned graphs",
+      "authors": [
+        "Mohamed Sarwat",
+        "S. Elnikety",
+        "Yuxiong He",
+        "M. Mokbel"
+      ],
+      "year": "2013",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.14778/2556549.2556573"
+    },
+    "BIBREF76": {
+      "title": "Regular Queries on Graph Databases",
+      "authors": [
+        "Juan L. Reutter",
+        "Miguel Romero",
+        "Moshe Y. Vardi"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Database Theory",
+      "link": "https://doi.org/10.4230/lipics.icdt.2015.177"
+    },
+    "BIBREF77": {
+      "title": "Trinity: a distributed graph engine on a memory cloud",
+      "authors": [
+        "Bin Shao",
+        "Haixun Wang",
+        "Yatao Li"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/2463676.2467799"
+    },
+    "BIBREF78": {
+      "title": "A Comparison of Current Graph Database Models",
+      "authors": [
+        "Renzo Angles"
+      ],
+      "year": "2012",
+      "venue": "International Conference on Data Engineering",
+      "link": null
+    },
+    "BIBREF79": {
+      "title": "Systems for big-graphs",
+      "authors": [
+        "Arijit Khan",
+        "S. Elnikety"
+      ],
+      "year": "2014",
+      "venue": "Very Large Data Bases",
+      "link": "https://doi.org/10.14778/2733004.2733067"
+    },
+    "BIBREF80": {
+      "title": "A relational model of data for large shared data banks",
+      "authors": [
+        "E. F. Codd"
+      ],
+      "year": "1970",
+      "venue": "Communications of The ACM",
+      "link": null
+    },
+    "BIBREF81": {
+      "title": "PEGASUS: A Peta-Scale Graph Mining System Implementation and Observations",
+      "authors": [
+        "U. Kang",
+        "Charalampos E. Tsourakakis",
+        "C. Faloutsos"
+      ],
+      "year": "2009",
+      "venue": "International Conference on Data Mining",
+      "link": "https://doi.org/10.1109/icdm.2009.14"
+    },
+    "BIBREF82": {
+      "title": "An Empirical Comparison of Graph Databases",
+      "authors": [
+        "Salim Jouili",
+        "Valentin Vansteenberghe"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Social Computing",
+      "link": null
+    },
+    "BIBREF83": {
+      "title": "Pregel: a system for large-scale graph processing",
+      "authors": [
+        "G. Malewicz",
+        "Matthew H. Austern",
+        "Aart J. C. Bik",
+        "James C. Dehnert",
+        "I. Horn",
+        "Naty Leiser",
+        "G. Czajkowski"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Management of Data",
+      "link": "https://doi.org/10.1145/1807167.1807184"
+    },
+    "BIBREF84": {
+      "title": "A distributed graph engine for web scale RDF data",
+      "authors": [
+        "Kai Zeng",
+        "Jiacheng Yang",
+        "Haixun Wang",
+        "Bin Shao",
+        "Zhongyuan Wang"
+      ],
+      "year": "2013",
+      "venue": "Very Large Data Bases",
+      "link": null
+    },
+    "BIBREF85": {
+      "title": "Semistructured data",
+      "authors": [
+        "P. Buneman"
+      ],
+      "year": "1997",
+      "venue": "Symposium on Principles of Database Systems",
+      "link": "https://doi.org/10.1007/978-3-642-54798-0_4"
+    },
+    "BIBREF86": {
+      "title": "Supporting conceptual and neighborhood queries on the World Wide Web",
+      "authors": [
+        "C. Chang",
+        "A.L.P. Chen"
+      ],
+      "year": "1998",
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://doi.org/10.1109/5326.669578"
+    },
+    "BIBREF87": {
+      "title": "A Practical Query Language for Graph DBs",
+      "authors": [
+        "R. Angles Rojas",
+        "P. Barcelo",
+        "G. Rios"
+      ],
+      "year": "2013",
+      "venue": "AMW",
+      "link": null
+    },
+    "BIBREF88": {
+      "title": "Foundations of Modern Query Languages for Graph Databases",
+      "authors": [
+        "Renzo Angles",
+        "M. Arenas",
+        "P. Barceló",
+        "Aidan Hogan",
+        "Juan L. Reutter",
+        "D. Vrgoč"
+      ],
+      "year": "2017",
+      "venue": "ACM Computing Surveys",
+      "link": "https://arxiv.org/abs/1610.06264"
+    },
+    "BIBREF89": {
+      "title": "Matching Structure and Semantics: A Survey on Graph-Based Pattern Matching.",
+      "authors": [
+        "Brian Gallagher"
+      ],
+      "year": "2006",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    }
+  }
+}

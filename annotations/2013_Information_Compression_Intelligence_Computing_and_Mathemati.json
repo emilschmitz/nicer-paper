@@ -1,0 +1,152 @@
+{
+  "paper_id": "1310.8599v4",
+  "title": "Information Compression, Intelligence, Computing, and Mathematics.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "An Introduction to Kolmogorov Complexity and Its Applications",
+      "authors": [
+        "Ming Li",
+        "Paul Vitányi"
+      ],
+      "year": "1993",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Computing, Cognition and Information Compression",
+      "authors": [
+        "J. Wolff"
+      ],
+      "year": "1993",
+      "venue": "Ai Communications",
+      "link": "https://doi.org/10.3233/aic-1993-6203"
+    },
+    "BIBREF2": {
+      "title": "The SP Theory of Intelligence: An Overview",
+      "authors": [
+        "CognitionResearch",
+        "Menai Bridge"
+      ],
+      "year": "2013",
+      "venue": "Information-an International Interdisciplinary Journal",
+      "link": "https://arxiv.org/abs/1306.3888"
+    },
+    "BIBREF3": {
+      "title": "Pi in the sky",
+      "authors": [
+        "John D. Barrow"
+      ],
+      "year": "1992",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "The Philosophical Roots of Ernst Mach's Economy of Thought",
+      "authors": [
+        "E. C. Banks"
+      ],
+      "year": "2004",
+      "venue": "Synthese",
+      "link": "https://doi.org/10.1023/b:synt.0000021306.66850.a3"
+    },
+    "BIBREF5": {
+      "title": "Towards an intelligent database system founded on the SP theory of computing and cognition",
+      "authors": [
+        "J. Gerard Wolff"
+      ],
+      "year": "2007",
+      "venue": "Data and Knowledge Engineering",
+      "link": "https://arxiv.org/abs/cs/0311031"
+    },
+    "BIBREF6": {
+      "title": "The Mathematical Theory of Communication",
+      "authors": [
+        "C. E. Shannon"
+      ],
+      "year": "1949",
+      "venue": "",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "The Discovery of Algorithmic Probability",
+      "authors": [
+        "Ray J Solomonoff"
+      ],
+      "year": "1997",
+      "venue": "Conference on Learning Theory",
+      "link": "https://doi.org/10.1006/jcss.1997.1500"
+    },
+    "BIBREF8": {
+      "title": "Deep learning in neural networks",
+      "authors": [
+        "Jürgen Schmidhuber"
+      ],
+      "year": "2015",
+      "venue": "Neural Networks",
+      "link": "https://arxiv.org/abs/1804.08150"
+    },
+    "BIBREF9": {
+      "title": "Medical diagnosis as pattern recognition in a framework of information compression by multiple alignment, unification and search",
+      "authors": [
+        "J. Gerard Wolff"
+      ],
+      "year": "2006",
+      "venue": "Decision Support Systems",
+      "link": "https://arxiv.org/abs/1409.8053"
+    },
+    "BIBREF10": {
+      "title": "A Formal Theory of Inductive Inference. Part II",
+      "authors": [
+        "Ray J. Solomonoff"
+      ],
+      "year": "1964",
+      "venue": "Information & Computation",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Application of the SP theory of intelligence to the understanding of natural vision and the development of computer vision",
+      "authors": [
+        "J. Wolff"
+      ],
+      "year": "2014",
+      "venue": "SpringerPlus",
+      "link": "https://arxiv.org/abs/1303.2071"
+    },
+    "BIBREF12": {
+      "title": "Autonomous Robots and the SP Theory of Intelligence",
+      "authors": [
+        "J. G. Wolff"
+      ],
+      "year": "2014",
+      "venue": "IEEE Access",
+      "link": "https://arxiv.org/abs/1409.8027"
+    },
+    "BIBREF13": {
+      "title": "Big Data and the SP Theory of Intelligence",
+      "authors": [
+        "Gerry Wolff"
+      ],
+      "year": "2014",
+      "venue": "IEEE Access",
+      "link": "https://arxiv.org/abs/1306.3890"
+    },
+    "BIBREF14": {
+      "title": "Grammar Compression: Grammatical Inference by Compression and Its Application to Real Data",
+      "authors": [
+        "Hiroshi Sakamoto"
+      ],
+      "year": "2014",
+      "venue": "International Colloquium on Grammatical Inference",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Unifying Computing and Cognition: The SP Theory and its Applications",
+      "authors": [
+        "J. Gerard Wolff"
+      ],
+      "year": "2004",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    }
+  }
+}

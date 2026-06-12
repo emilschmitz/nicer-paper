@@ -1,0 +1,167 @@
+{
+  "paper_id": "1305.3849v1",
+  "title": "On the periodic behavior of real-time schedulers on identical multiprocessor platforms",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Feasibility intervals for the deadline driven scheduler with arbitrary deadlines",
+      "authors": [
+        "J. Goossens",
+        "Raymond R. Devillers"
+      ],
+      "year": "1999",
+      "venue": "Embedded and Real-Time Computing Systems and Applications",
+      "link": "https://doi.org/10.1109/rtcsa.1999.811193"
+    },
+    "BIBREF1": {
+      "title": "A survey of hard real-time scheduling for multiprocessor systems",
+      "authors": [
+        "Robert I. Davis",
+        "A. Burns"
+      ],
+      "year": "2011",
+      "venue": "ACM Computing Surveys",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Exact schedulability tests for real-time scheduling of periodic tasks on unrelated multiprocessor platforms",
+      "authors": [
+        "Liliana Cucu-Grosjean",
+        "Joël Goossens"
+      ],
+      "year": "2011",
+      "venue": "Journal of Systems Architecture",
+      "link": "https://doi.org/10.1016/j.sysarc.2011.02.007"
+    },
+    "BIBREF4": {
+      "title": "Exact and approximate supply bound function for multiprocessor periodic resource model: unsynchronized servers",
+      "authors": [
+        "Nima Moghaddami Khalilzad",
+        "Moris Behnam",
+        "Thomas Nolte"
+      ],
+      "year": "2013",
+      "venue": "ACM Sigbed Review",
+      "link": "https://doi.org/10.1145/2544350.2544351"
+    },
+    "BIBREF5": {
+      "title": "A note on preemptive scheduling of periodic, real-time tasks☆",
+      "authors": [
+        "Joseph Y.-T. Leung",
+        "M.L. Merrill"
+      ],
+      "year": "1980",
+      "venue": "Information Processing Letters",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "A semi-partitioned approach for parallel real-time scheduling",
+      "authors": [
+        "Benjamin Bado",
+        "Laurent George",
+        "Pierre Courbin",
+        "Joël Goossens"
+      ],
+      "year": "2012",
+      "venue": "Proceedings of the 20th International Conference on Real-Time and Network Systems",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "On the complexity of fixed-priority scheduling of periodic, real-time tasks",
+      "authors": [
+        "Joseph Y.-T. Leung",
+        "Jennifer Whitehead"
+      ],
+      "year": "1982",
+      "venue": "Performance Evaluation",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "Algorithms and complexity concerning the preemptive scheduling of periodic, real-time tasks on one processor",
+      "authors": [
+        "Sanjoy K. Baruah",
+        "Louis E. Rosier",
+        "R. R. Howell"
+      ],
+      "year": "1990",
+      "venue": "Real-time Systems",
+      "link": "https://doi.org/10.1007/bf01995675"
+    },
+    "BIBREF9": {
+      "title": "Minimal schedulability interval for real-time systems of periodic tasks with offsets",
+      "authors": [
+        "Annie Choquet-Geniet",
+        "Emmanuel Grolleau"
+      ],
+      "year": "2004",
+      "venue": "Theoretical Computer Science",
+      "link": "https://doi.org/10.1016/s0304-3975(03)00362-1"
+    },
+    "BIBREF10": {
+      "title": "Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment",
+      "authors": [
+        "C. L. Liu",
+        "James W. Layland"
+      ],
+      "year": "1973",
+      "venue": "Journal of the ACM",
+      "link": "https://doi.org/10.1145/321738.321743"
+    },
+    "BIBREF11": {
+      "title": "Scheduling Dependent Periodic Tasks without Synchronization Mechanisms",
+      "authors": [
+        "Julien Forget",
+        "Frédéric Boniol",
+        "Emmanuel Grolleau",
+        "David Lesens",
+        "Claire Pagetti"
+      ],
+      "year": "2010",
+      "venue": "Real Time Technology and Applications Symposium",
+      "link": "https://doi.org/10.1109/rtas.2010.26"
+    },
+    "BIBREF12": {
+      "title": "Static-priority scheduling on multiprocessors",
+      "authors": [
+        "B. Andersson",
+        "S. Baruah",
+        "J. Jonsson"
+      ],
+      "year": "2001",
+      "venue": "Real-Time Systems Symposium",
+      "link": "https://doi.org/10.1109/real.2001.990610"
+    },
+    "BIBREF13": {
+      "title": "Fixed priority scheduling of periodic task sets with arbitrary deadlines",
+      "authors": [
+        "J. Lehoczky"
+      ],
+      "year": "1990",
+      "venue": "Real-Time Systems Symposium",
+      "link": "https://doi.org/10.1109/real.1990.128748"
+    },
+    "BIBREF15": {
+      "title": "Accounting for interrupt handling costs in dynamic priority task systems",
+      "authors": [
+        "K. Jeffay",
+        "Donald L. Stone"
+      ],
+      "year": "1993",
+      "venue": "Real-Time Systems Symposium",
+      "link": "https://doi.org/10.1109/real.1993.393497"
+    },
+    "BIBREF16": {
+      "title": "A Categorization of Real-Time Multiprocessor Scheduling Problems and Algorithms.",
+      "authors": [
+        "John Carpenter",
+        "Shelby Funk",
+        "Philip Holman",
+        "Anand Srinivasan",
+        "James H. Anderson",
+        "Sanjoy K. Baruah"
+      ],
+      "year": "2004",
+      "venue": "Handbook of Scheduling",
+      "link": null
+    }
+  }
+}

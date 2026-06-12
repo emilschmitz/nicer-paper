@@ -1,0 +1,206 @@
+{
+  "paper_id": "1810.10952v1",
+  "title": "Differential Variable Speed Limits Control for Freeway Recurrent Bottlenecks via Deep Reinforcement learning.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Optimizing dialogue management with reinforcement learning: experiments with the NJFun system",
+      "authors": [
+        "Michael Kearns",
+        "D. Litman",
+        "Satinder Singh",
+        "M. Walker"
+      ],
+      "year": "2002",
+      "venue": "Journal of Artificial Intelligence Research",
+      "link": "https://arxiv.org/abs/1106.0676"
+    },
+    "BIBREF1": {
+      "title": "Assessment of Dynamic Speed Limit Management on Metropolitan Freeways",
+      "authors": [
+        "Francesc Soriguera",
+        "Josep Maria Torné",
+        "Dulce Rosas"
+      ],
+      "year": "2013",
+      "venue": "Journal of Intelligent Transportation Systems",
+      "link": "https://doi.org/10.1080/15472450.2012.719455"
+    },
+    "BIBREF2": {
+      "title": "Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching",
+      "authors": [
+        "Longxin Lin"
+      ],
+      "year": "1992",
+      "venue": "Machine Learning",
+      "link": "https://doi.org/10.1007/bf00992699"
+    },
+    "BIBREF3": {
+      "title": "Human-level control through deep reinforcement learning",
+      "authors": [
+        "Volodymyr Mnih",
+        "K. Kavukcuoglu",
+        "David Silver",
+        "Andrei A. Rusu",
+        "J. Veness",
+        "Marc G. Bellemare",
+        "Alex Graves",
+        "Martin A. Riedmiller",
+        "A. Fidjeland",
+        "Georg Ostrovski",
+        "Stig Petersen",
+        "Charlie Beattie",
+        "Amir Sadik",
+        "Ioannis Antonoglou",
+        "Helen King",
+        "D. Kumaran",
+        "Daan Wierstra",
+        "S. Legg",
+        "D. Hassabis"
+      ],
+      "year": "2015",
+      "venue": "Nature",
+      "link": "https://doi.org/10.1038/nature14236"
+    },
+    "BIBREF4": {
+      "title": "Continuous control with deep reinforcement learning",
+      "authors": [
+        "Timothy P. Lillicrap",
+        "Jonathan J. Hunt",
+        "Alexander Pritzel",
+        "Nicolas Heess",
+        "Tom Erez",
+        "Yuval Tassa",
+        "David Silver",
+        "Daan Wierstra"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": "https://doi.org/10.1145/3297156.3297217"
+    },
+    "BIBREF5": {
+      "title": "Prioritized Experience Replay",
+      "authors": [
+        "Tom Schaul",
+        "John Quan",
+        "Ioannis Antonoglou",
+        "David Silver"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Reinforcement Learning in Large Discrete Action Spaces.",
+      "authors": [
+        "Gabriel Dulac-Arnold",
+        "Richard Evans",
+        "Peter Sunehag",
+        "Ben Coppin"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF7": {
+      "title": "Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning",
+      "authors": [
+        "Yuke Zhu",
+        "Roozbeh Mottaghi",
+        "Eric Kolve",
+        "Joseph J. Lim",
+        "Abhinav Gupta",
+        "Li Fei-Fei",
+        "Ali Farhadi"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1609.05143"
+    },
+    "BIBREF8": {
+      "title": "Expert Level Control of Ramp Metering Based on Multi-Task Deep Reinforcement Learning",
+      "authors": [
+        "Francois Belletti",
+        "Daniel Haziza",
+        "G. Gomes",
+        "A. Bayen"
+      ],
+      "year": "2018",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "link": "https://arxiv.org/abs/1701.08832"
+    },
+    "BIBREF9": {
+      "title": "Evolution Strategies as a Scalable Alternative to Reinforcement Learning.",
+      "authors": [
+        "Tim Salimans",
+        "Jonathan Ho",
+        "Xi Chen",
+        "Ilya Sutskever"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Proximal Policy Optimization Algorithms.",
+      "authors": [
+        "John Schulman",
+        "Filip Wolski",
+        "Prafulla Dhariwal",
+        "Alec Radford",
+        "Oleg Klimov"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Efficient Large-Scale Fleet Management via Multi-Agent Deep Reinforcement Learning",
+      "authors": [
+        "Kaixiang Lin",
+        "Renyu Zhao",
+        "Zhe Xu",
+        "Jiayu Zhou"
+      ],
+      "year": "2018",
+      "venue": "arXiv: Multiagent Systems",
+      "link": "https://doi.org/10.1145/3219819.3219993"
+    },
+    "BIBREF13": {
+      "title": "IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control",
+      "authors": [
+        "Hua Wei",
+        "Guanjie Zheng",
+        "Huaxiu Yao",
+        "Z. Li"
+      ],
+      "year": "2018",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/3219819.3220096"
+    },
+    "BIBREF14": {
+      "title": "Trust Region Policy Optimization",
+      "authors": [
+        "John Schulman",
+        "Sergey Levine",
+        "Philipp Moritz",
+        "Michael I. Jordan",
+        "Pieter Abbeel"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection:",
+      "authors": [
+        "S. Levine",
+        "P. Pastor",
+        "A. Krizhevsky",
+        "Deirdre Quillen"
+      ],
+      "year": "2018",
+      "venue": "The International Journal of Robotics Research",
+      "link": "https://doi.org/10.1007/978-3-319-50115-4_16"
+    }
+  }
+}

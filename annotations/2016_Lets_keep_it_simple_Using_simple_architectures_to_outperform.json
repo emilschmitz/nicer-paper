@@ -1,0 +1,553 @@
+{
+  "paper_id": "1608.06037v8",
+  "title": "Lets keep it simple, Using simple architectures to outperform deeper and more complex architectures.",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Regularization of Neural Networks using DropConnect",
+      "authors": [
+        "Li Wan",
+        "Matthew Zeiler",
+        "Sixin Zhang",
+        "Yann Le Cun",
+        "Rob Fergus"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Spatially-sparse convolutional neural networks.",
+      "authors": [
+        "Benjamin Graham"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "APAC: Augmented PAttern Classification with Neural Networks.",
+      "authors": [
+        "Ikuro Sato",
+        "Hiroki Nishimura",
+        "Kensuke Yokoi"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Understanding the difficulty of training deep feedforward neural networks",
+      "authors": [
+        "Xavier Glorot",
+        "Yoshua Bengio"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Deep Image: Scaling up Image Recognition",
+      "authors": [
+        "Ren Wu",
+        "Shengen Yan",
+        "Yi Shan",
+        "Qingqing Dang",
+        "Gang Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF5": {
+      "title": "Rectified Linear Units Improve Restricted Boltzmann Machines",
+      "authors": [
+        "Vinod Nair",
+        "Geoffrey E. Hinton"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF6": {
+      "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+      "authors": [
+        "Kaiming He",
+        "X. Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Vision",
+      "link": "https://arxiv.org/abs/1502.01852"
+    },
+    "BIBREF7": {
+      "title": "VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION",
+      "authors": [
+        "Karen Simonyan",
+        "Andrew Zisserman"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF8": {
+      "title": "FitNets: Hints for Thin Deep Nets",
+      "authors": [
+        "Adriana Romero",
+        "Nicolas Ballas",
+        "Samira Ebrahimi Kahou",
+        "Antoine Chassang",
+        "Carlo Gatta",
+        "Yoshua Bengio"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Network In Network",
+      "authors": [
+        "Min Lin",
+        "Qiang Chen",
+        "Shuicheng Yan"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Distilling the Knowledge in a Neural Network",
+      "authors": [
+        "Geoffrey E. Hinton",
+        "Oriol Vinyals",
+        "Jeffrey Dean"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF11": {
+      "title": "Understanding Neural Networks Through Deep Visualization.",
+      "authors": [
+        "Jason Yosinski",
+        "Jeff Clune",
+        "Anh Mai Nguyen",
+        "Thomas J. Fuchs",
+        "Hod Lipson"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+      "authors": [
+        "Geoffrey E. Hinton",
+        "Nitish Srivastava",
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Ruslan Salakhutdinov"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Empirical Evaluation of Rectified Activations in Convolutional Network.",
+      "authors": [
+        "Bing Xu",
+        "Naiyan Wang",
+        "Tianqi Chen",
+        "Mu Li"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF15": {
+      "title": "Recurrent convolutional neural network for object recognition",
+      "authors": [
+        "Ming Liang",
+        "Xiaolin Hu"
+      ],
+      "year": "2015",
+      "venue": "Computer Vision and Pattern Recognition",
+      "link": "https://doi.org/10.1109/cvpr.2015.7298958"
+    },
+    "BIBREF19": {
+      "title": "ImageNet Large Scale Visual Recognition Challenge",
+      "authors": [
+        "Olga Russakovsky",
+        "Jia Deng",
+        "Hao Su",
+        "Jonathan Krause",
+        "Sanjeev Satheesh",
+        "Sean Ma",
+        "Zhiheng Huang",
+        "Andrej Karpathy",
+        "Aditya Khosla",
+        "Michael Bernstein",
+        "Alexander C. Berg",
+        "Li Fei-Fei"
+      ],
+      "year": "2015",
+      "venue": "International Journal of Computer Vision",
+      "link": "https://arxiv.org/abs/1409.0575"
+    },
+    "BIBREF21": {
+      "title": "Striving for Simplicity: The All Convolutional Net",
+      "authors": [
+        "Jost Tobias Springenberg",
+        "Alexey Dosovitskiy",
+        "Thomas Brox",
+        "Martin Riedmiller"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF22": {
+      "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+      "authors": [
+        "Andrew M. Saxe",
+        "James L. McClelland",
+        "Surya Ganguli"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Neural and Evolutionary Computing",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "Polynomial Theory of Complex Systems",
+      "authors": [
+        "A. Ivakhnenko"
+      ],
+      "year": "1971",
+      "venue": "Systems, Man and Cybernetics",
+      "link": "https://doi.org/10.1109/tsmc.1971.4308320"
+    },
+    "BIBREF24": {
+      "title": "A committee of neural networks for traffic sign classification",
+      "authors": [
+        "D. Ciresan",
+        "U. Meier",
+        "Jonathan Masci",
+        "J. Schmidhuber"
+      ],
+      "year": "2011",
+      "venue": "International Joint Conference on Neural Network",
+      "link": null
+    },
+    "BIBREF25": {
+      "title": "Deep learning with COTS HPC systems",
+      "authors": [
+        "Adam Coates",
+        "Brody Huval",
+        "Tao Wang",
+        "David Wu",
+        "Bryan Catanzaro",
+        "Ng Andrew"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF26": {
+      "title": "Representation Learning: A Review and New Perspectives",
+      "authors": [
+        "Yoshua Bengio",
+        "Aaron C. Courville",
+        "P. Vincent"
+      ],
+      "year": "2013",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "link": "https://arxiv.org/abs/1206.5538"
+    },
+    "BIBREF27": {
+      "title": "Deep Networks with Internal Selective Attention through Feedback Connections",
+      "authors": [
+        "Marijn Stollenga",
+        "Jonathan Masci",
+        "Faustino Gomez",
+        "Juergen Schmidhuber"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF28": {
+      "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)",
+      "authors": [
+        "Djork-Arné Clevert",
+        "Thomas Unterthiner",
+        "Sepp Hochreiter"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF29": {
+      "title": "Deep learning for visual understanding",
+      "authors": [
+        "Yanming Guo",
+        "Yu Liu",
+        "Ard A. J. Oerlemans",
+        "Songyang Lao",
+        "Song Wu",
+        "M. Lew"
+      ],
+      "year": "2016",
+      "venue": "Neurocomputing",
+      "link": "https://doi.org/10.1016/j.neucom.2015.09.116"
+    },
+    "BIBREF30": {
+      "title": "All you need is a good init",
+      "authors": [
+        "Dmytro Mishkin",
+        "Jiri Matas"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF31": {
+      "title": "Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree",
+      "authors": [
+        "Chen-Yu Lee",
+        "Patrick W. Gallagher",
+        "Zhuowen Tu"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF32": {
+      "title": "Batch-normalized Maxout Network in Network",
+      "authors": [
+        "Jia-Ren Chang",
+        "Yong-Sheng Chen"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF33": {
+      "title": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",
+      "authors": [
+        "Christian Szegedy",
+        "Sergey Ioffe",
+        "Vincent Vanhoucke",
+        "Alex Alemi"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF34": {
+      "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size",
+      "authors": [
+        "Forrest N. Iandola",
+        "Song Han",
+        "Matthew W. Moskewicz",
+        "Khalid Ashraf",
+        "William J. Dally",
+        "Kurt Keutzer"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": null
+    },
+    "BIBREF35": {
+      "title": "Maxout Networks",
+      "authors": [
+        "Ian Goodfellow",
+        "David Warde-Farley",
+        "Mehdi Mirza",
+        "Aaron Courville",
+        "Yoshua Bengio"
+      ],
+      "year": "2013",
+      "venue": "International Conference on Machine Learning",
+      "link": null
+    },
+    "BIBREF36": {
+      "title": "Model compression",
+      "authors": [
+        "Cristian Bucila",
+        "R. Caruana",
+        "Alexandru Niculescu-Mizil"
+      ],
+      "year": "2006",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://doi.org/10.1145/1150402.1150464"
+    },
+    "BIBREF37": {
+      "title": "Wide Residual Networks",
+      "authors": [
+        "Sergey Zagoruyko",
+        "Nikos Komodakis"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1605.07146"
+    },
+    "BIBREF39": {
+      "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+      "authors": [
+        "Sergey Ioffe",
+        "Christian Szegedy"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF40": {
+      "title": "Deep Residual Learning for Image Recognition",
+      "authors": [
+        "Kaiming He",
+        "Xiangyu Zhang",
+        "Shaoqing Ren",
+        "Jian Sun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1512.03385"
+    },
+    "BIBREF41": {
+      "title": "Deep Networks with Stochastic Depth",
+      "authors": [
+        "Gao Huang",
+        "Yu Sun",
+        "Zhuang Liu",
+        "Daniel Sedra",
+        "Kilian Weinberger"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Learning",
+      "link": "https://arxiv.org/abs/1603.09382"
+    },
+    "BIBREF42": {
+      "title": "Very Deep Multilingual Convolutional Neural Networks for LVCSR",
+      "authors": [
+        "Tom Sercu",
+        "Christian Puhrsch",
+        "Brian Kingsbury",
+        "Yann LeCun"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Computation and Language",
+      "link": "https://arxiv.org/abs/1509.08967"
+    },
+    "BIBREF43": {
+      "title": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+      "authors": [
+        "Yangqing Jia",
+        "Evan Shelhamer",
+        "Jeff Donahue",
+        "Sergey Karayev",
+        "Jonathan Long",
+        "Ross Girshick",
+        "Sergio Guadarrama",
+        "Trevor Darrell"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1408.5093"
+    },
+    "BIBREF44": {
+      "title": "Going Deeper with Convolutions",
+      "authors": [
+        "Christian Szegedy",
+        "Wei Liu",
+        "Yangqing Jia",
+        "Pierre Sermanet",
+        "Scott Reed",
+        "Dragomir Anguelov",
+        "Dumitru Erhan",
+        "Vincent Vanhoucke",
+        "Andrew Rabinovich"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1409.4842"
+    },
+    "BIBREF45": {
+      "title": "Scalable Bayesian Optimization Using Deep Neural Networks",
+      "authors": [
+        "Jasper Snoek",
+        "Oren Rippel",
+        "Kevin Swersky",
+        "Ryan Kiros",
+        "Nadathur Satish",
+        "Narayanan Sundaram",
+        "Md. Mostofa Ali Patwary",
+        "Prabhat",
+        "Ryan P. Adams"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF46": {
+      "title": "Building High-level Features Using Large Scale Unsupervised Learning",
+      "authors": [
+        "Quoc V. Le",
+        "Marc'Aurelio Ranzato",
+        "Rajat Monga",
+        "Matthieu Devin",
+        "Kai Chen",
+        "Greg S. Corrado",
+        "Jeff Dean",
+        "Andrew Y. Ng"
+      ],
+      "year": "2011",
+      "venue": "arXiv: Learning",
+      "link": "https://arxiv.org/abs/1112.6209"
+    },
+    "BIBREF47": {
+      "title": "Multi-column Deep Neural Networks for Image Classification",
+      "authors": [
+        "Dan Cireşan",
+        "Ueli Meier",
+        "Juergen Schmidhuber"
+      ],
+      "year": "2012",
+      "venue": "arXiv: Computer Vision and Pattern Recognition",
+      "link": "https://arxiv.org/abs/1202.2745"
+    },
+    "BIBREF48": {
+      "title": "Dropout Training as Adaptive Regularization",
+      "authors": [
+        "Stefan Wager",
+        "Sida Wang",
+        "Percy Liang"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Machine Learning",
+      "link": null
+    },
+    "BIBREF49": {
+      "title": "Do Deep Nets Really Need to be Deep",
+      "authors": [
+        "Lei Jimmy Ba",
+        "Rich Caruana"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Learning",
+      "link": null
+    },
+    "BIBREF50": {
+      "title": "Deeply-Supervised Nets",
+      "authors": [
+        "Chen-Yu Lee",
+        "Saining Xie",
+        "Patrick W. Gallagher",
+        "Zhengyou Zhang",
+        "Zhuowen Tu"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Artificial Intelligence and Statistics",
+      "link": null
+    }
+  }
+}

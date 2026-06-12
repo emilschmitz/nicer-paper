@@ -1,0 +1,273 @@
+{
+  "paper_id": "1808.02290v1",
+  "title": "How Did the Discussion Go: Discourse Act Classification in Social Media Conversations",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Learning to Classify Email into \"Speech Acts\".",
+      "authors": [
+        "William W. Cohen",
+        "Vitor R. Carvalho",
+        "Tom M. Mitchell"
+      ],
+      "year": "2004",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": null
+    },
+    "BIBREF1": {
+      "title": "Mapping Information Flows on Twitter.",
+      "authors": [
+        "Gilad Lotan"
+      ],
+      "year": "2011",
+      "venue": "International Conference on Weblogs and Social Media",
+      "link": null
+    },
+    "BIBREF2": {
+      "title": "Multi-level Dialogue Act Tags",
+      "authors": [
+        "Alexander Clark",
+        "Andrei Popescu-Belis"
+      ],
+      "year": "2004",
+      "venue": "Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+      "link": null
+    },
+    "BIBREF3": {
+      "title": "Recurrent Convolutional Neural Networks for Discourse Compositionality",
+      "authors": [
+        "Nal Kalchbrenner",
+        "Phil Blunsom"
+      ],
+      "year": "2013",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF4": {
+      "title": "Supervised and Unsupervised Methods in Employing Discourse Relations for Improving Opinion Polarity Classification",
+      "authors": [
+        "Swapna Somasundaran",
+        "Galileo Namata",
+        "Janyce Wiebe",
+        "L. Getoor"
+      ],
+      "year": "2009",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.3115/1699510.1699533"
+    },
+    "BIBREF5": {
+      "title": "Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network",
+      "authors": [
+        "Bongwon Suh",
+        "Lichan Hong",
+        "Peter Pirolli",
+        "Ed H. Chi"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Social Computing",
+      "link": "https://doi.org/10.1109/socialcom.2010.33"
+    },
+    "BIBREF6": {
+      "title": "Long short-term memory",
+      "authors": [
+        "Sepp Hochreiter",
+        "Jürgen Schmidhuber"
+      ],
+      "year": "1997",
+      "venue": "Neural Computation",
+      "link": "https://doi.org/10.1162/neco.1997.9.8.1735"
+    },
+    "BIBREF8": {
+      "title": "From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series",
+      "authors": [
+        "Brendan O'Connor",
+        "Ramnath Balasubramanyan",
+        "Bryan R. Routledge",
+        "Noah A. Smith"
+      ],
+      "year": "2010",
+      "venue": "International Conference on Weblogs and Social Media",
+      "link": null
+    },
+    "BIBREF9": {
+      "title": "Sequence to Sequence Learning with Neural Networks",
+      "authors": [
+        "Ilya Sutskever",
+        "Oriol Vinyals",
+        "Quoc V. Le"
+      ],
+      "year": "2014",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "User-level sentiment analysis incorporating social networks",
+      "authors": [
+        "Chenhao Tan",
+        "Lillian Lee",
+        "Jie Tang",
+        "Long Jiang",
+        "M. Zhou",
+        "Ping Li"
+      ],
+      "year": "2011",
+      "venue": "Knowledge Discovery and Data Mining",
+      "link": "https://arxiv.org/abs/1109.6018"
+    },
+    "BIBREF11": {
+      "title": "Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums",
+      "authors": [
+        "Shilin Ding",
+        "Gao Cong",
+        "Chin-Yew Lin",
+        "Xiaoyan Zhu"
+      ],
+      "year": "2008",
+      "venue": "Meeting of the Association for Computational Linguistics",
+      "link": null
+    },
+    "BIBREF12": {
+      "title": "Why are You Taking this Stance? Identifying and Classifying Reasons in Ideological Debates",
+      "authors": [
+        "K. Hasan",
+        "Vincent Ng"
+      ],
+      "year": "2014",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.3115/v1/d14-1083"
+    },
+    "BIBREF13": {
+      "title": "Distributed Representations of Words and Phrases and their Compositionality",
+      "authors": [
+        "Tomas Mikolov",
+        "Ilya Sutskever",
+        "Kai Chen",
+        "Greg S Corrado",
+        "Jeff Dean"
+      ],
+      "year": "2013",
+      "venue": "Neural Information Processing Systems",
+      "link": null
+    },
+    "BIBREF14": {
+      "title": "Identifying the role of individual user messages in an online discussion and its use in thread retrieval",
+      "authors": [
+        "S. Bhatia",
+        "P. Biyani",
+        "P. Mitra"
+      ],
+      "year": "2016",
+      "venue": "Association for Information Science and Technology",
+      "link": "https://doi.org/10.1002/asi.23373"
+    },
+    "BIBREF15": {
+      "title": "Twitter mood predicts the stock market",
+      "authors": [
+        "J. Bollen",
+        "Huina Mao",
+        "Xiao-Jun Zeng"
+      ],
+      "year": "2011",
+      "venue": "Journal of Computational Science",
+      "link": "https://arxiv.org/abs/1010.3003"
+    },
+    "BIBREF16": {
+      "title": "Predicting speech acts in MOOC forum posts",
+      "authors": [
+        "Jaime Arguello",
+        "Kyle Shaffer"
+      ],
+      "year": "2015",
+      "venue": "National Conference on Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF17": {
+      "title": "Topic Independent Identification of Agreement and Disagreement in Social Media Dialogue",
+      "authors": [
+        "Amita Misra",
+        "Marilyn Walker"
+      ],
+      "year": "2017",
+      "venue": "arXiv: Artificial Intelligence",
+      "link": null
+    },
+    "BIBREF18": {
+      "title": "LSTM Neural Networks for Language Modeling.",
+      "authors": [
+        "Martin Sundermeyer",
+        "Ralf Schlüter",
+        "Hermann Ney"
+      ],
+      "year": "2012",
+      "venue": "Conference of the International Speech Communication Association",
+      "link": null
+    },
+    "BIBREF19": {
+      "title": "Attention-based LSTM for Aspect-level Sentiment Classification",
+      "authors": [
+        "Yequan Wang",
+        "Minlie Huang",
+        "Xiaoyan Zhu",
+        "Li Zhao"
+      ],
+      "year": "2016",
+      "venue": "Empirical Methods in Natural Language Processing",
+      "link": "https://doi.org/10.18653/v1/d16-1058"
+    },
+    "BIBREF20": {
+      "title": "Friends and Enemies of Clinton and Trump: Using Context for Detecting Stance in Political Tweets",
+      "authors": [
+        "Mirko Lai",
+        "D. I. H. Farías",
+        "V. Patti",
+        "Paolo Rosso"
+      ],
+      "year": "2016",
+      "venue": "Mexican International Conference on Artificial Intelligence",
+      "link": "https://arxiv.org/abs/1702.08021"
+    },
+    "BIBREF21": {
+      "title": "Dialogue Modelling in Multi-party Social Media Conversation",
+      "authors": [
+        "Subhabrata Dutta",
+        "Dipankar Das"
+      ],
+      "year": "2017",
+      "venue": "Text, Speech and Dialogue",
+      "link": "https://doi.org/10.1007/978-3-319-64206-2_25"
+    },
+    "BIBREF22": {
+      "title": "Long Short Term Memory Networks for Anomaly Detection in Time Series.",
+      "authors": [
+        "Pankaj Malhotra",
+        "Lovekesh Vig",
+        "Gautam Shroff",
+        "Puneet Agarwal"
+      ],
+      "year": "2015",
+      "venue": "The European Symposium on Artificial Neural Networks",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "Distributed Representations of Sentences and Documents",
+      "authors": [
+        "Quoc V. Le",
+        "Tomas Mikolov"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Computation and Language",
+      "link": null
+    },
+    "BIBREF24": {
+      "title": "Metrics for Community Analysis: A Survey",
+      "authors": [
+        "Tanmoy Chakraborty",
+        "Ayushi Dalmia",
+        "Animesh Mukherjee",
+        "Niloy Ganguly"
+      ],
+      "year": "2017",
+      "venue": "ACM Computing Surveys",
+      "link": "https://arxiv.org/abs/1604.03512"
+    }
+  }
+}

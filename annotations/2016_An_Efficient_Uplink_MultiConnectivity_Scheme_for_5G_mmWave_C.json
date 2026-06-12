@@ -1,0 +1,313 @@
+{
+  "paper_id": "1610.04836v2",
+  "title": "An Efficient Uplink Multi-Connectivity Scheme for 5G mmWave Control Plane Applications",
+  "bib_entries": {
+    "BIBREF0": {
+      "title": "Directional Cell Discovery in Millimeter Wave Cellular Networks",
+      "authors": [
+        "C. Barati",
+        "S. A. Hosseini",
+        "S. Rangan",
+        "Pei Liu",
+        "T. Korakis",
+        "S. Panwar",
+        "T. Rappaport"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://arxiv.org/abs/1404.5068"
+    },
+    "BIBREF1": {
+      "title": "Steering with eyes closed: Mm-Wave beam steering without in-band measurement",
+      "authors": [
+        "Thomas Nitsche",
+        "Adriana B. Flores",
+        "E. Knightly",
+        "J. Widmer"
+      ],
+      "year": "2015",
+      "venue": "International Conference on Computer Communications",
+      "link": "https://doi.org/10.1109/infocom.2015.7218630"
+    },
+    "BIBREF2": {
+      "title": "Wideband Millimeter-Wave Propagation Measurements and Channel Models for Future Wireless Communication System Design",
+      "authors": [
+        "T. Rappaport",
+        "George R. MacCartney",
+        "Mathew Samimi",
+        "Shu Sun"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://doi.org/10.1109/tcomm.2015.2434384"
+    },
+    "BIBREF3": {
+      "title": "Millimeter Wave Cellular Networks: A MAC Layer Perspective",
+      "authors": [
+        "H. S. Ghadikolaei",
+        "C. Fischione",
+        "Gábor Fodor",
+        "P. Popovski",
+        "M. Zorzi"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Communications",
+      "link": "https://arxiv.org/abs/1503.00697"
+    },
+    "BIBREF4": {
+      "title": "Handover Scheme for 5G C/U Plane Split Heterogeneous Network in High-Speed Railway",
+      "authors": [
+        "Hao Song",
+        "X. Fang",
+        "Li Yan"
+      ],
+      "year": "2014",
+      "venue": "IEEE Transactions on Vehicular Technology",
+      "link": "https://doi.org/10.1109/tvt.2014.2315231"
+    },
+    "BIBREF5": {
+      "title": "Handoff Rate and Coverage Analysis in Multi-Tier Heterogeneous Networks",
+      "authors": [
+        "Sanam Sadr",
+        "R. Adve"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://arxiv.org/abs/1501.01668"
+    },
+    "BIBREF6": {
+      "title": "Handoff Rates for Millimeterwave 5G Systems",
+      "authors": [
+        "A. Talukdar",
+        "M. Cudak",
+        "Amitava Ghosh"
+      ],
+      "year": "2014",
+      "venue": "Vehicular Technology Conference",
+      "link": "https://doi.org/10.1109/vtcspring.2014.7022933"
+    },
+    "BIBREF7": {
+      "title": "Initial beamforming for mmWave communications",
+      "authors": [
+        "V. Desai",
+        "L. Krzymien",
+        "P. Sartori",
+        "W. Xiao",
+        "A. Soong",
+        "A. Alkhateeb"
+      ],
+      "year": "2014",
+      "venue": "Asilomar Conference on Signals, Systems and Computers",
+      "link": "https://doi.org/10.1109/acssc.2014.7094805"
+    },
+    "BIBREF8": {
+      "title": "Millimeter Wave Channel Modeling and Cellular Capacity Evaluation",
+      "authors": [
+        "M. Akdeniz",
+        "Yuanpeng Liu",
+        "Shu Sun",
+        "S. Rangan",
+        "T. Rappaport",
+        "E. Erkip"
+      ],
+      "year": "2014",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "link": "https://arxiv.org/abs/1312.4921"
+    },
+    "BIBREF9": {
+      "title": "mm Wave Initial Cell Search Analysis under UE Rotational Motion",
+      "authors": [
+        "Steven Ferrante",
+        "Tao Deng",
+        "Ravikumar V. Pragada",
+        "Daniel Cohen"
+      ],
+      "year": "2015",
+      "venue": "IEEE International Conference on Ubiquitous Wireless Broadband",
+      "link": null
+    },
+    "BIBREF10": {
+      "title": "Coverage and Rate Analysis for Millimeter-Wave Cellular Networks",
+      "authors": [
+        "Tianyang Bai",
+        "Robert W. Heath"
+      ],
+      "year": "2015",
+      "venue": "IEEE Transactions on Wireless Communications",
+      "link": "https://arxiv.org/abs/1402.6430"
+    },
+    "BIBREF11": {
+      "title": "Dual connectivity in LTE HetNets with split control- and user-plane",
+      "authors": [
+        "Anna Zakrzewska",
+        "David Lopez-Perez",
+        "Stepan Kucera",
+        "Holger Claussen"
+      ],
+      "year": "2013",
+      "venue": "Global Communications Conference",
+      "link": "https://doi.org/10.1109/glocomw.2013.6825019"
+    },
+    "BIBREF12": {
+      "title": "Mimo for millimeter-wave wireless communications: beamforming, spatial multiplexing, or both?",
+      "authors": [
+        "Shu Sun",
+        "Theodore S. Rappaport",
+        "Robert W. Heath",
+        "Andrew R. Nix",
+        "Sundeep Rangan"
+      ],
+      "year": "2014",
+      "venue": "IEEE Communications Magazine",
+      "link": "https://doi.org/10.1109/mcom.2014.6979962"
+    },
+    "BIBREF13": {
+      "title": "Mobile association problem in heterogenous wireless networks with mobility",
+      "authors": [
+        "Pierre Coucheney",
+        "Emmanuel Hyon",
+        "Jean-Marc Kelif"
+      ],
+      "year": "2013",
+      "venue": "Personal, Indoor and Mobile Radio Communications",
+      "link": "https://doi.org/10.1109/pimrc.2013.6666684"
+    },
+    "BIBREF14": {
+      "title": "Millimeter-Wave Cellular Wireless Networks: Potentials and Challenges",
+      "authors": [
+        "S. Rangan",
+        "T. Rappaport",
+        "E. Erkip"
+      ],
+      "year": "2014",
+      "venue": "arXiv: Networking and Internet Architecture",
+      "link": "https://arxiv.org/abs/1401.2560"
+    },
+    "BIBREF15": {
+      "title": "A survey of vertical handover decision algorithms in Fourth Generation heterogeneous wireless networks",
+      "authors": [
+        "Xiaohuan Yan",
+        "Y. Sekercioglu",
+        "S. Narayanan"
+      ],
+      "year": "2010",
+      "venue": "Computer Networks",
+      "link": null
+    },
+    "BIBREF16": {
+      "title": "Performance Evaluation of an Advanced Energy-Aware Client-Based Handover Solution in Heterogeneous LTE and WiFi Networks",
+      "authors": [
+        "Maike Kuhnert",
+        "C. Wietfeld"
+      ],
+      "year": "2014",
+      "venue": "Vehicular Technology Conference",
+      "link": "https://doi.org/10.1109/vtcspring.2014.7023048"
+    },
+    "BIBREF17": {
+      "title": "Initial Access in 5G mmWave Cellular Networks",
+      "authors": [
+        "M. Giordani",
+        "M. Mezzavilla",
+        "M. Zorzi"
+      ],
+      "year": "2016",
+      "venue": "IEEE Communications Magazine",
+      "link": "https://arxiv.org/abs/1602.07731"
+    },
+    "BIBREF18": {
+      "title": "Directional Initial Access for Millimeter Wave Cellular Systems",
+      "authors": [
+        "C. Nicolas Barati",
+        "S. Amir Hosseini",
+        "Marco Mezzavilla",
+        "Sundeep Rangan",
+        "Thanasis Korakis",
+        "Shivendra S. Panwar",
+        "Michele Zorzi"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/1511.06483"
+    },
+    "BIBREF19": {
+      "title": "Mobility Modeling and Performance Evaluation of Multi-Connectivity in 5G Intra-Frequency Networks",
+      "authors": [
+        "F. Tesema",
+        "A. Awada",
+        "I. Viering",
+        "M. Simsek",
+        "G. Fettweis"
+      ],
+      "year": "2015",
+      "venue": "Global Communications Conference",
+      "link": "https://doi.org/10.1109/glocomw.2015.7414142"
+    },
+    "BIBREF20": {
+      "title": "Towards an Appropriate Receiver Beamforming Scheme for Millimeter Wave Communication: A Power Consumption Based Comparison",
+      "authors": [
+        "Waqas Bin Abbas",
+        "Michele Zorzi"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Information Theory",
+      "link": null
+    },
+    "BIBREF21": {
+      "title": "Comparative analysis of initial access techniques in 5G mmWave cellular networks",
+      "authors": [
+        "M. Giordani",
+        "M. Mezzavilla",
+        "Nicolas Barati",
+        "S. Rangan",
+        "M. Zorzi"
+      ],
+      "year": "2016",
+      "venue": "Conference on Information Sciences and Systems",
+      "link": "https://arxiv.org/abs/1605.00101"
+    },
+    "BIBREF22": {
+      "title": "Towards an Appropriate Beamforming Scheme for Initial Cell Discovery in mmW 5G Cellular Networks.",
+      "authors": [
+        "Waqas bin Abbas",
+        "Michele Zorzi"
+      ],
+      "year": "2016",
+      "venue": "arXiv: Information Theory",
+      "link": null
+    },
+    "BIBREF23": {
+      "title": "Multi-connectivity in 5G mmWave cellular networks",
+      "authors": [
+        "M. Giordani",
+        "M. Mezzavilla",
+        "S. Rangan",
+        "M. Zorzi"
+      ],
+      "year": "2016",
+      "venue": "Annual Mediterranean Ad Hoc Networking Workshop",
+      "link": "https://arxiv.org/abs/1605.00105"
+    },
+    "BIBREF24": {
+      "title": "Millimeter wave communication in vehicular networks: Challenges and opportunities",
+      "authors": [
+        "M. Giordani",
+        "A. Zanella",
+        "M. Zorzi"
+      ],
+      "year": "2017",
+      "venue": "International Conference on Modern Circuits and Systems Technologies",
+      "link": "https://doi.org/10.1109/mocast.2017.7937682"
+    },
+    "BIBREF25": {
+      "title": "3-D Statistical Channel Model for Millimeter-Wave Outdoor Mobile Broadband Communications",
+      "authors": [
+        "Mathew K. Samimi",
+        "Theodore S. Rappaport"
+      ],
+      "year": "2015",
+      "venue": "arXiv: Information Theory",
+      "link": "https://arxiv.org/abs/1503.05619"
+    }
+  }
+}
