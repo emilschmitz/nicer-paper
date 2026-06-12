@@ -54,7 +54,7 @@ function areUrlsEquivalent(url1: string | null, url2: string | null): boolean {
 }
 
 async function runEvaluation() {
-  console.log('Starting Citation Link Extraction Evaluation (Modular Extractor)...');
+  console.log('Starting Citation Link Extraction Evaluation (Modular Extractor - Parallel Mode)...');
   console.log(`PDF Directory: ${PDF_DIR}`);
   console.log(`Annotations Directory: ${ANNOTATIONS_DIR}`);
   console.log(`Similarity Threshold: ${SIMILARITY_THRESHOLD}`);
@@ -70,133 +70,156 @@ async function runEvaluation() {
   let grandTotalNewUrlsFound = 0;
   let totalTimeMs = 0;
 
-  for (const jsonFile of jsonFiles) {
-    const jsonPath = path.join(ANNOTATIONS_DIR, jsonFile);
-    const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-    
-    const pdfFilename = jsonFile.replace('.json', '.pdf');
-    const pdfPath = path.join(PDF_DIR, pdfFilename);
+  const CONCURRENCY_LIMIT = 8;
+  let index = 0;
+  const startTimeTotal = Date.now();
 
-    if (!fs.existsSync(pdfPath)) {
-      console.warn(`PDF file not found: ${pdfPath}. Skipping ${jsonFile}...`);
-      continue;
-    }
+  async function worker() {
+    while (index < jsonFiles.length) {
+      const currentIdx = index++;
+      const jsonFile = jsonFiles[currentIdx];
+      const jsonPath = path.join(ANNOTATIONS_DIR, jsonFile);
+      const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+      
+      const pdfFilename = jsonFile.replace('.json', '.pdf');
+      const pdfPath = path.join(PDF_DIR, pdfFilename);
 
-    const bibEntries = data.bib_entries || {};
-    const annotations = Object.values(bibEntries).map((ann: any) => {
-      const authorsStr = Array.isArray(ann.authors) ? ann.authors.join(' and ') : (ann.author || '');
-      const raw = `${authorsStr}. ${ann.title}. ${ann.year || ''}.`;
-      return {
-        raw,
-        url: ann.link || null,
-        author: authorsStr,
-        title: ann.title || '',
-        year: ann.year ? String(ann.year) : '',
-      };
-    });
-
-    if (annotations.length === 0) continue;
-
-    console.log(`\nProcessing ${pdfFilename}...`);
-    const startTime = Date.now();
-    
-    let extractResult;
-    try {
-      const fileBuffer = fs.readFileSync(pdfPath);
-      const data = new Uint8Array(fileBuffer);
-      extractResult = await extractCitationsFromPdf(data, {
-        workerSrc: path.resolve('node_modules/pdfjs-dist/legacy/build/pdf.worker.mjs'),
-      });
-    } catch (err: any) {
-      console.error(`Error processing PDF ${pdfFilename}:`, err);
-      continue;
-    }
-    
-    const latencyMs = Date.now() - startTime;
-    totalTimeMs += latencyMs;
-
-    const { citations, inlineLinks, linkCount } = extractResult;
-    console.log(`  Extracted ${citations.length} references in ${latencyMs}ms (Internal links: ${linkCount.internal}, External: ${linkCount.external})`);
-
-    const paperMatches: any[] = [];
-    let matchedCount = 0;
-    let correctUrls = 0;
-    let missedUrls = 0;
-    let mismatchedUrls = 0;
-    let newUrlsFound = 0;
-
-    for (const ann of annotations) {
-      // Find the best match amongst extracted citations
-      let bestBlock: Citation | null = null;
-      let bestScore = 0;
-
-      for (const block of citations) {
-        const score = getDiceSimilarity(ann.raw, block.text);
-        if (score > bestScore) {
-          bestScore = score;
-          bestBlock = block;
-        }
+      if (!fs.existsSync(pdfPath)) {
+        console.warn(`PDF file not found: ${pdfPath}. Skipping ${jsonFile}...`);
+        continue;
       }
 
-      const hasMatch = bestScore >= SIMILARITY_THRESHOLD && bestBlock !== null;
-      let status = 'fail';
-      let extractedUrl: string | null = null;
+      const bibEntries = data.bib_entries || {};
+      const annotations = Object.values(bibEntries).map((ann: any) => {
+        const authorsStr = Array.isArray(ann.authors) ? ann.authors.join(' and ') : (ann.author || '');
+        const raw = `${authorsStr}. ${ann.title}. ${ann.year || ''}.`;
+        return {
+          raw,
+          url: ann.link || null,
+          author: authorsStr,
+          title: ann.title || '',
+          year: ann.year ? String(ann.year) : '',
+        };
+      });
 
-      if (hasMatch && bestBlock) {
-        matchedCount++;
-        extractedUrl = bestBlock.url;
-        
-        const gtUrl = ann.url || null;
+      if (annotations.length === 0) continue;
 
-        if (areUrlsEquivalent(gtUrl, extractedUrl)) {
-          correctUrls++;
-          status = 'correct';
-        } else if (gtUrl !== null && extractedUrl === null) {
-          missedUrls++;
-          status = 'miss';
-        } else if (gtUrl === null && extractedUrl !== null) {
-          newUrlsFound++;
-          status = 'new_found'; // We found a URL not marked in ground truth
+      console.log(`Processing ${pdfFilename}...`);
+      const startTime = Date.now();
+      
+      let extractResult;
+      try {
+        const fileBuffer = fs.readFileSync(pdfPath);
+        const data = new Uint8Array(fileBuffer);
+        extractResult = await extractCitationsFromPdf(data, {
+          workerSrc: path.resolve('node_modules/pdfjs-dist/legacy/build/pdf.worker.mjs'),
+        });
+      } catch (err: any) {
+        console.error(`Error processing PDF ${pdfFilename}:`, err);
+        continue;
+      }
+      
+      const latencyMs = Date.now() - startTime;
+      const { citations, inlineLinks, linkCount } = extractResult;
+      console.log(`  Finished ${pdfFilename}: Extracted ${citations.length} refs in ${latencyMs}ms`);
+
+      const paperMatches: any[] = [];
+      let matchedCount = 0;
+      let correctUrls = 0;
+      let missedUrls = 0;
+      let mismatchedUrls = 0;
+      let newUrlsFound = 0;
+
+      for (const ann of annotations) {
+        let bestBlock: Citation | null = null;
+        let bestScore = 0;
+
+        for (const block of citations) {
+          const score = getDiceSimilarity(ann.raw, block.text);
+          if (score > bestScore) {
+            bestScore = score;
+            bestBlock = block;
+          }
+        }
+
+        const hasMatch = bestScore >= SIMILARITY_THRESHOLD && bestBlock !== null;
+        let status = 'fail';
+        let extractedUrl: string | null = null;
+
+        if (hasMatch && bestBlock) {
+          matchedCount++;
+          extractedUrl = bestBlock.url;
+          
+          const gtUrl = ann.url || null;
+
+          if (areUrlsEquivalent(gtUrl, extractedUrl)) {
+            correctUrls++;
+            status = 'correct';
+          } else if (gtUrl !== null && extractedUrl === null) {
+            missedUrls++;
+            status = 'miss';
+          } else if (gtUrl === null && extractedUrl !== null) {
+            newUrlsFound++;
+            status = 'new_found';
+          } else {
+            mismatchedUrls++;
+            status = 'mismatch';
+          }
         } else {
-          mismatchedUrls++;
-          status = 'mismatch';
+          status = 'unmatched';
+          missedUrls++;
         }
-      } else {
-        status = 'unmatched';
-        missedUrls++;
+
+        paperMatches.push({
+          raw_ground_truth: ann.raw,
+          matched_text: bestBlock ? bestBlock.text : null,
+          ground_truth_url: ann.url || null,
+          extracted_url: extractedUrl,
+          similarity_score: bestScore,
+          status,
+        });
       }
 
-      paperMatches.push({
-        raw_ground_truth: ann.raw,
-        matched_text: bestBlock ? bestBlock.text : null,
-        ground_truth_url: ann.url || null,
-        extracted_url: extractedUrl,
-        similarity_score: bestScore,
-        status,
+      results.push({
+        paper: pdfFilename,
+        annotations_count: annotations.length,
+        extracted_blocks_count: citations.length,
+        matched_count: matchedCount,
+        correct_urls: correctUrls,
+        missed_urls: missedUrls,
+        mismatched_urls: mismatchedUrls,
+        new_urls_found: newUrlsFound,
+        latency_ms: latencyMs,
+        link_stats: { total: linkCount.total, internal: linkCount.internal, external: linkCount.external },
+        details: paperMatches,
+        stats: {
+          annotationsCount: annotations.length,
+          matchedCount,
+          correctUrls,
+          missedUrls,
+          mismatchedUrls,
+          newUrlsFound,
+          latencyMs
+        }
       });
     }
-
-    grandTotalCitations += annotations.length;
-    grandTotalMatched += matchedCount;
-    grandTotalCorrectUrls += correctUrls;
-    grandTotalMissedUrls += missedUrls;
-    grandTotalMismatchedUrls += mismatchedUrls;
-    grandTotalNewUrlsFound += newUrlsFound;
-
-    results.push({
-      paper: pdfFilename,
-      annotations_count: annotations.length,
-      extracted_blocks_count: citations.length,
-      matched_count: matchedCount,
-      correct_urls: correctUrls,
-      missed_urls: missedUrls,
-      mismatched_urls: mismatchedUrls,
-      new_urls_found: newUrlsFound,
-      latency_ms: latencyMs,
-      link_stats: { total: linkCount.total, internal: linkCount.internal, external: linkCount.external },
-      details: paperMatches,
-    });
   }
+
+  const workers = Array.from({ length: Math.min(CONCURRENCY_LIMIT, jsonFiles.length) }, worker);
+  await Promise.all(workers);
+
+  // Aggregate stats
+  for (const r of results) {
+    grandTotalCitations += r.stats.annotationsCount;
+    grandTotalMatched += r.stats.matchedCount;
+    grandTotalCorrectUrls += r.stats.correctUrls;
+    grandTotalMissedUrls += r.stats.missedUrls;
+    grandTotalMismatchedUrls += r.stats.mismatchedUrls;
+    grandTotalNewUrlsFound += r.stats.newUrlsFound;
+    totalTimeMs += r.stats.latencyMs;
+  }
+  
+  const totalExecutionTimeMs = Date.now() - startTimeTotal;
 
   // Write evaluation results JSON
   fs.writeFileSync(OUTPUT_JSON, JSON.stringify(results, null, 2));
@@ -212,7 +235,8 @@ async function runEvaluation() {
   console.log(`Missed URLs:                ${grandTotalMissedUrls} (${((grandTotalMissedUrls / grandTotalCitations) * 100).toFixed(1)}%)`);
   console.log(`Mismatched URLs:            ${grandTotalMismatchedUrls} (${((grandTotalMismatchedUrls / grandTotalCitations) * 100).toFixed(1)}%)`);
   console.log(`New URLs Found (GT was null): ${grandTotalNewUrlsFound}`);
-  console.log(`Total Execution Time:       ${totalTimeMs} ms`);
+  console.log(`Total Latency Sum:          ${totalTimeMs} ms`);
+  console.log(`Total Real Execution Time:  ${totalExecutionTimeMs} ms`);
   console.log(`Average Latency per Paper:  ${(totalTimeMs / results.length).toFixed(1)} ms`);
   console.log(`Results saved to:           ${OUTPUT_JSON}`);
   console.log('======================================');
