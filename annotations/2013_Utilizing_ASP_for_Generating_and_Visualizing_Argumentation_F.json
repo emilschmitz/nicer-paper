@@ -64,7 +64,7 @@
       "year": "1999",
       "venue": "The Logic Programming Paradigm",
       "arxiv_link": "https://arxiv.org/abs/cs/9809032",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-60085-2_17",
       "other_link": null
     },
     "BIBREF5": {
@@ -107,7 +107,7 @@
       "year": "2006",
       "venue": "ACM Transactions on Computational Logic",
       "arxiv_link": "https://arxiv.org/abs/cs/0211004",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/1149114.1149117",
       "other_link": null
     },
     "BIBREF8": {
@@ -260,7 +260,7 @@
       "year": "2011",
       "venue": "INAP/WLP",
       "arxiv_link": "https://arxiv.org/abs/1109.4095",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-41524-1_20",
       "other_link": null
     },
     "BIBREF20": {

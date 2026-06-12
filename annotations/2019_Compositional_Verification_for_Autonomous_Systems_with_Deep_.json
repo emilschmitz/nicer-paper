@@ -59,7 +59,7 @@
       "year": "2012",
       "venue": "Computer Aided Verification",
       "arxiv_link": "https://arxiv.org/abs/1207.5086",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-31424-7_25",
       "other_link": null
     },
     "BIBREF4": {
@@ -129,7 +129,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1607.02533",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1201/9781351251389-8",
       "other_link": null
     },
     "BIBREF9": {
@@ -155,7 +155,7 @@
       "year": "2017",
       "venue": "Computer Aided Verification",
       "arxiv_link": "https://arxiv.org/abs/1610.06940",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-63387-9_1",
       "other_link": null
     },
     "BIBREF11": {
@@ -184,7 +184,7 @@
       "year": "2017",
       "venue": "Computer Aided Verification",
       "arxiv_link": "https://arxiv.org/abs/1702.01135",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-63387-9_5",
       "other_link": null
     },
     "BIBREF13": {
@@ -250,7 +250,7 @@
       "year": "2017",
       "venue": "IEEE Symposium on Security and Privacy",
       "arxiv_link": "https://arxiv.org/abs/1608.04644",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/sp.2017.49",
       "other_link": null
     }
   }

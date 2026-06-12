@@ -16,7 +16,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1404.5068",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/twc.2015.2457921",
       "other_link": null
     },
     "BIBREF1": {
@@ -59,7 +59,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": "https://arxiv.org/abs/1503.00697",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tcomm.2015.2456093",
       "other_link": null
     },
     "BIBREF4": {
@@ -84,7 +84,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1501.01668",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/twc.2015.2390224",
       "other_link": null
     },
     "BIBREF6": {
@@ -129,7 +129,7 @@
       "year": "2014",
       "venue": "IEEE Journal on Selected Areas in Communications",
       "arxiv_link": "https://arxiv.org/abs/1312.4921",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/jsac.2014.2328154",
       "other_link": null
     },
     "BIBREF9": {
@@ -155,7 +155,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1402.6430",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/twc.2014.2364267",
       "other_link": null
     },
     "BIBREF11": {
@@ -210,7 +210,7 @@
       "year": "2014",
       "venue": "arXiv: Networking and Internet Architecture",
       "arxiv_link": "https://arxiv.org/abs/1401.2560",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/jproc.2014.2299397",
       "other_link": null
     },
     "BIBREF15": {
@@ -248,7 +248,7 @@
       "year": "2016",
       "venue": "IEEE Communications Magazine",
       "arxiv_link": "https://arxiv.org/abs/1602.07731",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/mcom.2016.1600193cm",
       "other_link": null
     },
     "BIBREF18": {
@@ -265,7 +265,7 @@
       "year": "2015",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1511.06483",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/twc.2016.2609384",
       "other_link": null
     },
     "BIBREF19": {
@@ -307,7 +307,7 @@
       "year": "2016",
       "venue": "Conference on Information Sciences and Systems",
       "arxiv_link": "https://arxiv.org/abs/1605.00101",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/ciss.2016.7460513",
       "other_link": null
     },
     "BIBREF22": {
@@ -333,7 +333,7 @@
       "year": "2016",
       "venue": "Annual Mediterranean Ad Hoc Networking Workshop",
       "arxiv_link": "https://arxiv.org/abs/1605.00105",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/medhocnet.2016.7528494",
       "other_link": null
     },
     "BIBREF24": {
@@ -358,7 +358,7 @@
       "year": "2015",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1503.05619",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/icc.2015.7248689",
       "other_link": null
     }
   }

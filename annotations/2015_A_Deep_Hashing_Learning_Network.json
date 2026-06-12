@@ -57,7 +57,7 @@
       "year": "2014",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1403.1840",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-10584-0_26",
       "other_link": null
     },
     "BIBREF4": {
@@ -110,7 +110,7 @@
       "year": "2014",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1311.2524",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2014.81",
       "other_link": null
     },
     "BIBREF8": {
@@ -164,7 +164,7 @@
       "year": "2014",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1311.5591",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2014.212",
       "other_link": null
     },
     "BIBREF12": {
@@ -287,7 +287,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1404.4316",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.5244/c.28.72",
       "other_link": null
     },
     "BIBREF21": {
@@ -301,7 +301,7 @@
       "year": "2014",
       "venue": "British Machine Vision Conference",
       "arxiv_link": "https://arxiv.org/abs/1405.3531",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.5244/c.28.6",
       "other_link": null
     }
   }

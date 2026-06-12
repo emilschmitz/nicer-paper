@@ -69,7 +69,7 @@
       "year": "2015",
       "venue": "The Web Conference",
       "arxiv_link": "https://arxiv.org/abs/1503.03578",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2736277.2741093",
       "other_link": null
     },
     "BIBREF5": {
@@ -83,7 +83,7 @@
       "year": "2014",
       "venue": "Conference on Computer Supported Cooperative Work",
       "arxiv_link": "https://arxiv.org/abs/1304.3010",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2531602.2531623",
       "other_link": null
     },
     "BIBREF6": {
@@ -110,7 +110,7 @@
       "year": "2014",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": "https://arxiv.org/abs/1403.6652",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2623330.2623732",
       "other_link": null
     },
     "BIBREF8": {
@@ -177,7 +177,7 @@
       "year": "2017",
       "venue": "",
       "arxiv_link": "https://arxiv.org/abs/1703.06959",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/3132847.3132877",
       "other_link": null
     },
     "BIBREF13": {
@@ -223,7 +223,7 @@
       "year": "2017",
       "venue": "Sigkdd Explorations",
       "arxiv_link": "https://arxiv.org/abs/1708.01967",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/3137597.3137600",
       "other_link": null
     },
     "BIBREF16": {
@@ -237,7 +237,7 @@
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1708.07239",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/icdm.2017.105",
       "other_link": null
     },
     "BIBREF17": {

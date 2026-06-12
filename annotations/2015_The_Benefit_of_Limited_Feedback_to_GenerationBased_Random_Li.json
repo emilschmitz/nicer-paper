@@ -12,7 +12,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Communications",
       "arxiv_link": "https://arxiv.org/abs/1309.1323",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tcomm.2014.2364198",
       "other_link": null
     },
     "BIBREF1": {
@@ -66,7 +66,7 @@
       "year": "2009",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/0905.2796",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/netcod.2009.5191397",
       "other_link": null
     },
     "BIBREF5": {
@@ -116,7 +116,7 @@
       "year": "2011",
       "venue": "arXiv: Networking and Internet Architecture",
       "arxiv_link": "https://arxiv.org/abs/1104.2941",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/glocom.2011.6134279",
       "other_link": null
     },
     "BIBREF9": {
@@ -130,7 +130,7 @@
       "year": "2012",
       "venue": "arXiv: Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1206.3014",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/netcod.2012.6261899",
       "other_link": null
     }
   }

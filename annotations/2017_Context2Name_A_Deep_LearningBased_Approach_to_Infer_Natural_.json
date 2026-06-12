@@ -41,7 +41,7 @@
       "year": "2014",
       "venue": "Foundations of Software Engineering",
       "arxiv_link": "https://arxiv.org/abs/1402.4182",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2635868.2635883",
       "other_link": null
     },
     "BIBREF5": {
@@ -116,7 +116,7 @@
       "year": "2010",
       "venue": "Conference of the Centre for Advanced Studies on Collaborative Research",
       "arxiv_link": "https://arxiv.org/abs/1703.04990",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1609/aaai.v31i1.10734",
       "other_link": null
     },
     "BIBREF11": {
@@ -195,7 +195,7 @@
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1703.04990",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1609/aaai.v31i1.10734",
       "other_link": null
     },
     "BIBREF19": {
@@ -294,7 +294,7 @@
       "year": "2017",
       "venue": "arXiv: Artificial Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1701.07232",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/ase.2017.8115618",
       "other_link": null
     }
   }

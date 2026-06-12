@@ -130,7 +130,7 @@
       "year": "2011",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": "https://arxiv.org/abs/1109.6018",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2020408.2020614",
       "other_link": null
     },
     "BIBREF11": {
@@ -197,7 +197,7 @@
       "year": "2011",
       "venue": "Journal of Computational Science",
       "arxiv_link": "https://arxiv.org/abs/1010.3003",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jocs.2010.12.007",
       "other_link": null
     },
     "BIBREF16": {
@@ -262,7 +262,7 @@
       "year": "2016",
       "venue": "Mexican International Conference on Artificial Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1702.08021",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-62434-1_13",
       "other_link": null
     },
     "BIBREF21": {
@@ -314,7 +314,7 @@
       "year": "2017",
       "venue": "ACM Computing Surveys",
       "arxiv_link": "https://arxiv.org/abs/1604.03512",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/3091106",
       "other_link": null
     }
   }

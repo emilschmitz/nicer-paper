@@ -35,7 +35,7 @@
       "year": "2014",
       "venue": "Empirical Methods in Natural Language Processing",
       "arxiv_link": "https://arxiv.org/abs/1408.5882",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.3115/v1/d14-1181",
       "other_link": null
     },
     "BIBREF6": {
@@ -47,7 +47,7 @@
       "year": "2014",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1412.1058",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.3115/v1/n15-1011",
       "other_link": null
     },
     "BIBREF12": {
@@ -60,7 +60,7 @@
       "year": "2011",
       "venue": "International Conference on Computer Communications",
       "arxiv_link": "https://arxiv.org/abs/1009.2275",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/infcom.2011.5934995",
       "other_link": null
     },
     "BIBREF13": {
@@ -94,7 +94,7 @@
       "year": "2015",
       "venue": "Neural Networks",
       "arxiv_link": "https://arxiv.org/abs/1804.08150",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.neunet.2018.12.002",
       "other_link": null
     },
     "BIBREF19": {
@@ -260,7 +260,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.03385",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.90",
       "other_link": null
     }
   }

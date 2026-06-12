@@ -127,7 +127,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Knowledge and Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/1401.6981",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tkde.2015.2419666",
       "other_link": null
     },
     "BIBREF11": {
@@ -140,7 +140,7 @@
       "year": "2015",
       "venue": "Knowledge Discovery and Data Mining",
       "arxiv_link": "https://arxiv.org/abs/1507.06452",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2783258.2783346",
       "other_link": null
     },
     "BIBREF13": {
@@ -195,7 +195,7 @@
       "year": "2015",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/1504.00788",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/icde.2015.7113279",
       "other_link": null
     },
     "BIBREF17": {
@@ -260,7 +260,7 @@
       "year": "2017",
       "venue": "Web Science",
       "arxiv_link": "https://arxiv.org/abs/1702.06877",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/3091478.3091487",
       "other_link": null
     },
     "BIBREF22": {
@@ -287,7 +287,7 @@
       "year": "2016",
       "venue": "International Conference on Big Data",
       "arxiv_link": "https://arxiv.org/abs/1607.08325",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/bigdata.2016.7840687",
       "other_link": null
     },
     "BIBREF24": {
@@ -301,7 +301,7 @@
       "year": "2016",
       "venue": "International Conference on Data Engineering",
       "arxiv_link": "https://arxiv.org/abs/1510.05714",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/icde.2016.7498273",
       "other_link": null
     }
   }

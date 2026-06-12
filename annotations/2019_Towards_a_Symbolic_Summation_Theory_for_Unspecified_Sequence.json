@@ -46,7 +46,7 @@
       "year": "2014",
       "venue": "Symbolic and Numeric Algorithms for Scientific Computing",
       "arxiv_link": "https://arxiv.org/abs/1412.2782",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/synasc.2014.12",
       "other_link": null
     },
     "BIBREF4": {
@@ -68,7 +68,7 @@
       "year": "2008",
       "venue": "Journal of Symbolic Computation",
       "arxiv_link": "https://arxiv.org/abs/0808.2543",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jsc.2008.01.001",
       "other_link": null
     },
     "BIBREF6": {
@@ -124,7 +124,7 @@
       "year": "2015",
       "venue": "Computer Algebra and Polynomials",
       "arxiv_link": "https://arxiv.org/abs/1307.7887",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-15081-9_10",
       "other_link": null
     },
     "BIBREF11": {
@@ -165,7 +165,7 @@
       "year": "2018",
       "venue": "Journal of Mathematical Physics",
       "arxiv_link": "https://arxiv.org/abs/1706.01299",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1063/1.4986417",
       "other_link": null
     }
   }

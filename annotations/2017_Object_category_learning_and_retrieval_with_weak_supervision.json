@@ -25,7 +25,7 @@
       "year": "2012",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1205.3137",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-33709-3_6",
       "other_link": null
     },
     "BIBREF2": {
@@ -40,7 +40,7 @@
       "year": "2015",
       "venue": "International Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1505.03825",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2015.363",
       "other_link": null
     },
     "BIBREF3": {
@@ -83,7 +83,7 @@
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1409.4842",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298594",
       "other_link": null
     },
     "BIBREF6": {
@@ -155,7 +155,7 @@
       "year": "2016",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.03385",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.90",
       "other_link": null
     },
     "BIBREF11": {
@@ -182,7 +182,7 @@
       "year": "2017",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1612.06370",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.638",
       "other_link": null
     },
     "BIBREF13": {
@@ -233,7 +233,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1708.07860",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2017.226",
       "other_link": null
     },
     "BIBREF17": {
@@ -246,7 +246,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1505.01596",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/iccv.2015.13",
       "other_link": null
     },
     "BIBREF18": {
@@ -259,7 +259,7 @@
       "year": "2016",
       "venue": "arXiv: Computation and Language",
       "arxiv_link": "https://arxiv.org/abs/1611.02683",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.18653/v1/d17-1039",
       "other_link": null
     },
     "BIBREF19": {
@@ -278,7 +278,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1604.01685",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.350",
       "other_link": null
     }
   }

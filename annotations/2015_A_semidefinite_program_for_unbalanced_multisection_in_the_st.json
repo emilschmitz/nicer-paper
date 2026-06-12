@@ -46,7 +46,7 @@
       "year": "2015",
       "venue": "Annals of Statistics",
       "arxiv_link": "https://arxiv.org/abs/1404.6000",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1214/14-aos1290",
       "other_link": null
     },
     "BIBREF4": {
@@ -84,7 +84,7 @@
       "year": "2015",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": "https://arxiv.org/abs/1412.6156",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2016.2546280",
       "other_link": null
     },
     "BIBREF7": {
@@ -135,7 +135,7 @@
       "year": "2011",
       "venue": "Physical Review E",
       "arxiv_link": "https://arxiv.org/abs/1109.3041",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1103/physreve.84.066106",
       "other_link": null
     },
     "BIBREF11": {
@@ -146,7 +146,7 @@
       "year": "2014",
       "venue": "Symposium on the Theory of Computing",
       "arxiv_link": "https://arxiv.org/abs/1311.3085",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2591796.2591857",
       "other_link": null
     },
     "BIBREF12": {
@@ -159,7 +159,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1210.3335",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2014.2346205",
       "other_link": null
     },
     "BIBREF13": {
@@ -197,7 +197,7 @@
       "year": "2015",
       "venue": "arXiv: Data Structures and Algorithms",
       "arxiv_link": "https://arxiv.org/abs/1511.01473",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1145/2897518.2897573",
       "other_link": null
     },
     "BIBREF16": {
@@ -210,7 +210,7 @@
       "year": "2016",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
       "arxiv_link": "https://arxiv.org/abs/1511.08769",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1073/pnas.1523097113",
       "other_link": null
     },
     "BIBREF17": {
@@ -249,7 +249,7 @@
       "year": "2017",
       "venue": "arXiv: Data Structures and Algorithms",
       "arxiv_link": "https://arxiv.org/abs/1507.02323",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-69802-1_4",
       "other_link": null
     },
     "BIBREF20": {
@@ -262,7 +262,7 @@
       "year": "2016",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": "https://arxiv.org/abs/1603.09045",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1088/1742-6596/699/1/012015",
       "other_link": null
     },
     "BIBREF21": {
@@ -299,7 +299,7 @@
       "year": "2016",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1405.3267",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2015.2490670",
       "other_link": null
     }
   }

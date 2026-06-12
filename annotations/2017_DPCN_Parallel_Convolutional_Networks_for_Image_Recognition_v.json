@@ -78,7 +78,7 @@
       "year": "2015",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1411.4038",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298965",
       "other_link": null
     },
     "BIBREF6": {
@@ -161,7 +161,7 @@
       "year": "2016",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1512.02325",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-46448-0_2",
       "other_link": null
     },
     "BIBREF11": {
@@ -173,7 +173,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1605.07146",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.5244/c.30.87",
       "other_link": null
     },
     "BIBREF12": {
@@ -188,7 +188,7 @@
       "year": "2018",
       "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
       "arxiv_link": "https://arxiv.org/abs/1606.00915",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2017.2699184",
       "other_link": null
     },
     "BIBREF13": {
@@ -203,7 +203,7 @@
       "year": "2017",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1704.05796",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.354",
       "other_link": null
     },
     "BIBREF14": {
@@ -219,7 +219,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1610.02391",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/s11263-019-01228-7",
       "other_link": null
     },
     "BIBREF15": {
@@ -301,7 +301,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.03385",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.90",
       "other_link": null
     },
     "BIBREF21": {
@@ -320,7 +320,7 @@
       "year": "2014",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1409.4842",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2015.7298594",
       "other_link": null
     },
     "BIBREF22": {
@@ -335,7 +335,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1512.04150",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2016.319",
       "other_link": null
     },
     "BIBREF23": {
@@ -347,7 +347,7 @@
       "year": "2013",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1311.2901",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-10590-1_53",
       "other_link": null
     },
     "BIBREF24": {
@@ -361,7 +361,7 @@
       "year": "2015",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1506.01497",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2016.2577031",
       "other_link": null
     },
     "BIBREF25": {
@@ -376,7 +376,7 @@
       "year": "2016",
       "venue": "arXiv: Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1611.05431",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.634",
       "other_link": null
     },
     "BIBREF26": {
@@ -389,7 +389,7 @@
       "year": "2017",
       "venue": "Computer Vision and Pattern Recognition",
       "arxiv_link": "https://arxiv.org/abs/1608.06993",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/cvpr.2017.243",
       "other_link": null
     }
   }

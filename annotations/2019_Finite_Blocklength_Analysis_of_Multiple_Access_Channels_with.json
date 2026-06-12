@@ -22,7 +22,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1311.2337",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2015.2411256",
       "other_link": null
     },
     "BIBREF2": {
@@ -36,7 +36,7 @@
       "year": "2014",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1311.2012",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2014.2318726",
       "other_link": null
     },
     "BIBREF3": {
@@ -48,7 +48,7 @@
       "year": "2009",
       "venue": "IEEE Transactions on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/0801.2588",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tit.2009.2021320",
       "other_link": null
     },
     "BIBREF4": {
@@ -61,7 +61,7 @@
       "year": "2014",
       "venue": "IEEE Wireless Communications Letters",
       "arxiv_link": "https://arxiv.org/abs/1409.3330",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/lwc.2014.2353059",
       "other_link": null
     },
     "BIBREF5": {
@@ -89,7 +89,7 @@
       "year": "2015",
       "venue": "IEEE Transactions on Wireless Communications",
       "arxiv_link": "https://arxiv.org/abs/1310.2773",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/twc.2015.2408319",
       "other_link": null
     },
     "BIBREF7": {
@@ -179,7 +179,7 @@
       "year": "2010",
       "venue": "International Symposium on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1006.0334",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/isit.2010.5513244",
       "other_link": null
     },
     "BIBREF14": {
@@ -287,7 +287,7 @@
       "year": "2016",
       "venue": "International Symposium on Information Theory",
       "arxiv_link": "https://arxiv.org/abs/1601.06055",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/isit.2016.7541867",
       "other_link": null
     },
     "BIBREF22": {
@@ -301,7 +301,7 @@
       "year": "2018",
       "venue": "IEEE Wireless Communications Letters",
       "arxiv_link": "https://arxiv.org/abs/1711.08199",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/lwc.2017.2777857",
       "other_link": null
     }
   }

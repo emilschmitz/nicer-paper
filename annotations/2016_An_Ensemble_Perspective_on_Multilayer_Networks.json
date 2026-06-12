@@ -10,7 +10,7 @@
       "year": "2015",
       "venue": "Physical Review E",
       "arxiv_link": "https://arxiv.org/abs/1407.6621",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1103/physreve.92.020801",
       "other_link": null
     },
     "BIBREF1": {
@@ -23,7 +23,7 @@
       "year": "2012",
       "venue": "Physical Review Letters",
       "arxiv_link": "https://arxiv.org/abs/1112.1728",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1103/physrevlett.108.218701",
       "other_link": null
     },
     "BIBREF2": {
@@ -37,7 +37,7 @@
       "year": "2014",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
       "arxiv_link": "https://arxiv.org/abs/1306.0519",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1073/pnas.1318469111",
       "other_link": null
     },
     "BIBREF3": {
@@ -61,7 +61,7 @@
       "year": "2011",
       "venue": "Proceedings of the National Academy of Sciences of the United States of America",
       "arxiv_link": "https://arxiv.org/abs/1010.4498",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1073/pnas.1008404108",
       "other_link": null
     },
     "BIBREF5": {
@@ -77,7 +77,7 @@
       "year": "2013",
       "venue": "Physical Review Letters",
       "arxiv_link": "https://arxiv.org/abs/1207.2788",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1103/physrevlett.110.028701",
       "other_link": null
     },
     "BIBREF6": {
@@ -96,7 +96,7 @@
       "year": "2014",
       "venue": "Physics Reports",
       "arxiv_link": "https://arxiv.org/abs/1407.0742",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.physrep.2014.07.001",
       "other_link": null
     },
     "BIBREF7": {
@@ -112,7 +112,7 @@
       "year": "2013",
       "venue": "Physical Review E",
       "arxiv_link": "https://arxiv.org/abs/1307.2090",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1103/physreve.88.032807",
       "other_link": null
     }
   }

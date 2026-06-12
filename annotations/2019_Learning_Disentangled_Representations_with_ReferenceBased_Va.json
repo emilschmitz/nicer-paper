@@ -155,7 +155,7 @@
       "year": "2017",
       "venue": "arXiv: Machine Learning",
       "arxiv_link": "https://arxiv.org/abs/1706.00400",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.17863/cam.42159",
       "other_link": null
     },
     "BIBREF15": {
@@ -182,7 +182,7 @@
       "year": "2019",
       "venue": "IEEE Transactions on Affective Computing",
       "arxiv_link": "https://arxiv.org/abs/1708.03985",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/taffc.2017.2740923",
       "other_link": null
     },
     "BIBREF17": {
@@ -271,7 +271,7 @@
       "year": "2012",
       "venue": "arXiv: Learning",
       "arxiv_link": "https://arxiv.org/abs/1206.5538",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1109/tpami.2013.50",
       "other_link": null
     },
     "BIBREF26": {
@@ -336,7 +336,7 @@
       "year": "2016",
       "venue": "European Conference on Computer Vision",
       "arxiv_link": "https://arxiv.org/abs/1512.00570",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-46493-0_47",
       "other_link": null
     },
     "BIBREF32": {

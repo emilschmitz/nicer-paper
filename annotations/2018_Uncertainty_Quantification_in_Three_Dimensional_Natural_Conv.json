@@ -50,7 +50,7 @@
       "year": "2015",
       "venue": "Neural Networks",
       "arxiv_link": "https://arxiv.org/abs/1804.08150",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.neunet.2018.12.002",
       "other_link": null
     },
     "BIBREF4": {
@@ -88,7 +88,7 @@
       "year": "2018",
       "venue": "Journal of Computational Physics",
       "arxiv_link": "https://arxiv.org/abs/1802.00850",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jcp.2018.08.036",
       "other_link": null
     },
     "BIBREF7": {
@@ -102,7 +102,7 @@
       "year": "2018",
       "venue": "arXiv: Analysis of PDEs",
       "arxiv_link": "https://arxiv.org/abs/1809.08327",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1016/j.jcp.2019.07.048",
       "other_link": null
     }
   }

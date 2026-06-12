@@ -24,7 +24,7 @@
       "year": "2011",
       "venue": "International Conference on the Theory and Application of Cryptology and Information Security",
       "arxiv_link": "https://arxiv.org/abs/1106.0661",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-25385-0_27",
       "other_link": null
     },
     "BIBREF2": {
@@ -36,7 +36,7 @@
       "year": "2006",
       "venue": "Algorithmic Number Theory Symposium",
       "arxiv_link": "https://arxiv.org/abs/math/0603505",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/11792086_35",
       "other_link": null
     },
     "BIBREF3": {
@@ -48,7 +48,7 @@
       "year": "2008",
       "venue": "Algorithmic Number Theory Symposium",
       "arxiv_link": "https://arxiv.org/abs/0801.2778",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-540-79456-1_21",
       "other_link": null
     },
     "BIBREF4": {
@@ -122,7 +122,7 @@
       "year": "2017",
       "venue": "Algebraic geometry for coding theory and cryptography",
       "arxiv_link": "https://arxiv.org/abs/1701.01927",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-319-63931-4_3",
       "other_link": null
     },
     "BIBREF10": {
@@ -135,7 +135,7 @@
       "year": "2017",
       "venue": "arXiv: Number Theory",
       "arxiv_link": "https://arxiv.org/abs/1710.03448",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/s10208-018-9392-1",
       "other_link": null
     },
     "BIBREF11": {
@@ -148,7 +148,7 @@
       "year": "2011",
       "venue": "arXiv: Number Theory",
       "arxiv_link": "https://arxiv.org/abs/1106.0661",
-      "doi_link": null,
+      "doi_link": "https://doi.org/10.1007/978-3-642-25385-0_27",
       "other_link": null
     }
   }
